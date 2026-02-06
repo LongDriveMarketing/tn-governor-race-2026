@@ -1,0 +1,39 @@
+{
+  "lastUpdated": "2026-02-06",
+  "candidates": {
+    "blackburn": { "name": "Marsha Blackburn", "count": "14+", "party": "rep", "label": "Republican Frontrunner" },
+    "rose": { "name": "John Rose", "count": "2", "party": "rep", "label": "Republican Challenger" },
+    "green": { "name": "Jerri Green", "count": "1", "party": "dem", "label": "Democratic Frontrunner" }
+  },
+  "endorsements": [
+    { "candidate": "blackburn", "name": "Glenn Jacobs", "role": "Knox County Mayor · Former WWE wrestler 'Kane'", "type": "elected", "note": "Serving as Blackburn's campaign treasurer. Major signal of East TN establishment support." },
+    { "candidate": "blackburn", "name": "Damon Hininger", "role": "CEO, CoreCivic (formerly CCA)", "type": "notable", "note": "Was rumored as potential candidate himself. Brings private prison industry connections and Nashville business establishment." },
+    { "candidate": "blackburn", "name": "Tim Burchett", "role": "U.S. Representative, TN-2", "type": "elected", "note": "" },
+    { "candidate": "blackburn", "name": "Diana Harshbarger", "role": "U.S. Representative, TN-1", "type": "elected", "note": "" },
+    { "candidate": "blackburn", "name": "Andy Ogles", "role": "U.S. Representative, TN-5", "type": "elected", "note": "" },
+    { "candidate": "blackburn", "name": "Mark Green", "role": "Former U.S. Representative, TN-7", "type": "elected", "note": "Rose currently holds Green's former seat. Endorsing Blackburn over his own successor is a notable signal." },
+    { "candidate": "blackburn", "name": "David Kustoff", "role": "U.S. Representative, TN-8", "type": "elected", "note": "" },
+    { "candidate": "blackburn", "name": "Scott DesJarlais", "role": "U.S. Representative, TN-4", "type": "elected", "note": "" },
+    { "candidate": "blackburn", "name": "Cameron Sexton", "role": "Tennessee House Speaker", "type": "elected", "note": "The most powerful person in the Tennessee General Assembly. Signals strong legislative establishment support." },
+    { "candidate": "blackburn", "name": "Jack Johnson", "role": "Tennessee Senate Majority Leader", "type": "elected", "note": "" },
+    { "candidate": "blackburn", "name": "Randy McNally", "role": "Tennessee Lt. Governor / Senate Speaker", "type": "elected", "note": "The state's highest-ranking Republican official after the governor." },
+    { "candidate": "blackburn", "name": "30+ State Legislators", "role": "Tennessee House & Senate Members", "type": "elected", "note": "Significant block of TN General Assembly members have publicly backed Blackburn." },
+    { "candidate": "blackburn", "name": "Tennessee Right to Life", "role": "Anti-abortion advocacy organization", "type": "org", "note": "" },
+    { "candidate": "blackburn", "name": "Susan B. Anthony Pro-Life America", "role": "National anti-abortion PAC", "type": "org", "note": "" },
+    { "candidate": "rose", "name": "Chuck Fleischmann", "role": "U.S. Representative, TN-3 (Chattanooga)", "type": "elected", "note": "The only member of TN's congressional delegation to back Rose over Blackburn." },
+    { "candidate": "rose", "name": "92% Tennessee Donors", "role": "Campaign messaging emphasis", "type": "political", "note": "Rose has made his Tennessee donor base a core campaign message, contrasting with Blackburn's 22% in-state rate." },
+    { "candidate": "green", "name": "Tennessee Moms Demand Action", "role": "Gun violence prevention organization (Everytown affiliate)", "type": "org", "note": "Green served as statewide election lead for the organization before running." }
+  ],
+  "holdouts": [
+    { "name": "Donald Trump", "role": "President of the United States", "note": "The biggest endorsement in the race. Has not weighed in on the Republican primary. Blackburn is considered the favorite for his backing given their Senate alliance." },
+    { "name": "Bill Hagerty", "role": "U.S. Senator", "note": "Running for Senate re-election. Has not endorsed in the governor's race despite being Tennessee's other Republican senator alongside Blackburn." },
+    { "name": "Chuck Fleischmann", "role": "U.S. Representative, TN-3", "note": "Endorsed Rose — making him the lone congressional delegation holdout from Blackburn." },
+    { "name": "Bill Lee", "role": "Governor of Tennessee", "note": "Term-limited and has not endorsed. His position on vouchers and education could make his endorsement complicated for any candidate." },
+    { "name": "Tre Hargett", "role": "Secretary of State", "note": "Rumored as potential candidate himself. Has not endorsed." }
+  ],
+  "analysis": {
+    "blackburn": "Blackburn's endorsement haul is historically dominant for a Republican primary this early. She has locked up the entire TN congressional delegation (except Rose himself and Fleischmann), both legislative chamber leaders, and 30+ state legislators. This institutional support makes it extremely difficult for Rose or Fritts to build a viable coalition within the party.",
+    "rose": "Rose's thin endorsement portfolio is his biggest structural weakness. Despite a $6.46M war chest and early TV ads, his inability to win over party leaders forces him into an outsider-vs-establishment dynamic. His strategy appears to be bypassing the endorsement game entirely and going directly to voters through advertising.",
+    "green": "The Democratic endorsement picture is sparse across the board, reflecting the party's diminished statewide infrastructure in Tennessee. Green's Moms Demand Action support is meaningful but narrow. The real question is whether national Democratic organizations or prominent Tennessee Democrats like Jim Cooper or Phil Bredesen weigh in before the primary."
+  }
+}

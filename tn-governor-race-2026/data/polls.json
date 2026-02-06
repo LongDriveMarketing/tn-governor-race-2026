@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-02-06",
+  "raceRatings": [
+    { "source": "Cook Political Report", "rating": "Solid Republican" },
+    { "source": "Sabato's Crystal Ball", "rating": "Safe Republican" },
+    { "source": "Inside Elections", "rating": "Solid Republican" },
+    { "source": "Race to the WH", "rating": "Safe Republican" }
+  ],
+  "pollingSources": [
+    {
+      "name": "Beacon Center / TennSight",
+      "url": "https://tennsight.com/elections/",
+      "frequency": "Quarterly (January, April, August, November)",
+      "methodology": "Online poll of 1,200 registered voters, stratified by demographics and geography, weighted by party/geography/behavioral measures",
+      "margin": "±2.77%",
+      "note": "The only consistent public polling source for the TN governor's race. Published via TennSight.com, the Beacon Center's polling platform."
+    }
+  ],
+  "polls": [
+    {
+      "id": "beacon-jan26",
+      "pollster": "Beacon Center / TennSight",
+      "date": "2026-01-11",
+      "endDate": "2026-01-18",
+      "type": "republican_primary",
+      "sampleSize": "1,200 RV",
+      "margin": "±2.77%",
+      "methodology": "Online poll of registered voters, weighted by demographics, party, geography, and behavioral measures",
+      "url": "https://tennsight.com/polls/january-2026/",
+      "pdfUrl": "https://tennsight.com/wp-content/uploads/2026/01/Crosstabs-Party-Ideology-Region-1.26.26.pdf",
+      "results": [
+        { "candidate": "Blackburn", "party": "rep", "pct": 56 },
+        { "candidate": "Rose", "party": "rep", "pct": 9 },
+        { "candidate": "Fritts", "party": "rep", "pct": 7 },
+        { "candidate": "Undecided", "party": "", "pct": 28 }
+      ]
+    },
+    {
+      "id": "beacon-nov25",
+      "pollster": "Beacon Center / TennSight",
+      "date": "2025-10-26",
+      "endDate": "2025-10-29",
+      "type": "republican_primary",
+      "sampleSize": "1,200 RV",
+      "margin": "±2.77%",
+      "methodology": "Online poll of registered voters, weighted by demographics, party, geography, and behavioral measures",
+      "url": "https://tennsight.com/polls/november-2025/",
+      "pdfUrl": "https://tennsight.com/wp-content/uploads/2026/01/Ballot-Crosstabs-Party-Ideology-Region-1.pdf",
+      "results": [
+        { "candidate": "Blackburn", "party": "rep", "pct": 58 },
+        { "candidate": "Rose", "party": "rep", "pct": 9 },
+        { "candidate": "Fritts", "party": "rep", "pct": 5 },
+        { "candidate": "Undecided", "party": "", "pct": 28 }
+      ]
+    },
+    {
+      "id": "beacon-aug25",
+      "pollster": "Beacon Center / TennSight",
+      "date": "2025-08-01",
+      "endDate": "2025-08-01",
+      "type": "republican_primary",
+      "sampleSize": "600 LV",
+      "margin": "±4.0%",
+      "methodology": "Online panel of likely Republican primary voters",
+      "url": "https://tennsight.com/polls/august-2025/",
+      "results": [
+        { "candidate": "Blackburn", "party": "rep", "pct": 68 },
+        { "candidate": "Rose", "party": "rep", "pct": 14 },
+        { "candidate": "Fritts", "party": "rep", "pct": 3 },
+        { "candidate": "Pellegra", "party": "rep", "pct": 1 },
+        { "candidate": "Undecided", "party": "", "pct": 14 }
+      ]
+    },
+    {
+      "id": "beacon-general-aug25",
+      "pollster": "Beacon Center / TennSight",
+      "date": "2025-08-01",
+      "endDate": "2025-08-01",
+      "type": "general_hypothetical",
+      "sampleSize": "600 LV",
+      "margin": "±4.0%",
+      "methodology": "Online panel of likely general election voters",
+      "url": "https://tennsight.com/polls/august-2025/",
+      "results": [
+        { "candidate": "Blackburn", "party": "rep", "pct": 49 },
+        { "candidate": "Green", "party": "dem", "pct": 28 },
+        { "candidate": "Undecided", "party": "", "pct": 23 }
+      ]
+    }
+  ],
+  "trendline": {
+    "description": "Blackburn's lead in the Republican primary has narrowed from 54 points (Aug) to 47 points (Jan), driven mainly by Fritts gaining and undecideds growing from 14% to 28%. Rose has remained flat at 9% since November despite significant ad spending.",
+    "data": [
+      { "poll": "Aug 2025", "blackburn": 68, "rose": 14, "fritts": 3, "undecided": 14 },
+      { "poll": "Nov 2025", "blackburn": 58, "rose": 9, "fritts": 5, "undecided": 28 },
+      { "poll": "Jan 2026", "blackburn": 56, "rose": 9, "fritts": 7, "undecided": 28 }
+    ]
+  },
+  "additionalData": {
+    "trumpApproval": { "approve": 53, "disapprove": 43, "source": "Beacon Jan 2026" },
+    "leeApproval": { "approve": 54, "disapprove": 38, "source": "Beacon Nov 2025" },
+    "legislatureApproval": { "approve": 53, "disapprove": 38, "source": "Beacon Jan 2026" },
+    "schoolChoiceTaxCredit": { "support": 72, "oppose": 18, "source": "Beacon Jan 2026" },
+    "educationFreedomScholarships": { "supportExpanding": 56, "source": "Beacon Aug 2025" }
+  },
+  "analysis": "Three Beacon Center/TennSight polls now paint a clearer picture of the Republican primary. Blackburn's lead has narrowed from 68% (August 2025) to 56% (January 2026) — still commanding, but a 12-point drop over five months. The most striking detail: Rose hasn't gained despite spending millions on TV ads. He's actually dropped from 14% to 9%. The movement has gone to Fritts (3% → 7%) and the undecided column (14% → 28%). That growing undecided pool — over a quarter of Republican voters — is the real battleground. It suggests voter uncertainty rather than a locked-in race. The next Beacon poll (likely April 2026) will be critical: if Rose's ad blitz hasn't moved his numbers by then, the primary may effectively be over. Education policy is a potential differentiator — 72% of Tennesseans support the federal school choice tax credit, and 67% backed Lee's voucher expansion, creating pressure on all candidates to stake out strong positions."
+}

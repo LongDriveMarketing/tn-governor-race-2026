@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Campaign Finance — 2026 TN Governor's Race | Tennessee Firefly</title>
+<meta name="description" content="Follow the money in Tennessee's 2026 governor's race. Campaign finance data for every candidate — who's raising, who's spending, and where the money comes from.">
+<meta name="author" content="Tennessee Firefly">
+<meta name="designer" content="Long Drive Marketing - longdrivemarketing.com">
+<meta name="developer" content="Long Drive Marketing - longdrivemarketing.com">
+<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/finance">
+<meta property="og:title" content="Campaign Finance — 2026 TN Governor's Race | Tennessee Firefly">
+<meta property="og:description" content="Follow the money. Campaign finance data for every 2026 Tennessee governor candidate.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Work+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --navy:#0a1628;--navy-deep:#060e1a;--navy-mid:#111f36;--navy-light:#1a2d4a;
+  --gold:#d4a843;--gold-bright:#f0c654;--gold-dim:#a07e2e;
+  --red-r:#c0392b;--blue-d:#2980b9;--green-ind:#27ae60;
+  --white:#f8f6f1;--cream:#f0ece3;
+  --text:#e8e4db;--text-dim:#8a8677;--text-muted:#5a5750;
+  --glass:rgba(26,45,74,0.6);--glass-border:rgba(212,168,67,0.15);
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+.tracker-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;
+  background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),
+  radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.03) 0%,transparent 50%),
+  radial-gradient(ellipse at 50% 80%,rgba(192,57,43,0.02) 0%,transparent 50%),var(--navy-deep);}
+.tracker-bg::after{content:'';position:absolute;top:0;left:0;right:0;bottom:0;
+  background-image:linear-gradient(rgba(212,168,67,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(212,168,67,0.03) 1px,transparent 1px);
+  background-size:60px 60px;pointer-events:none;}
+.tracker-page{position:relative;z-index:1;}
+.t-container{max-width:1100px;margin:0 auto;padding:0 24px;}
+a{color:var(--gold-dim);text-decoration:none;}a:hover{color:var(--gold);}
+.breadcrumb{padding:20px 0 0;font-size:13px;color:var(--text-muted);}
+.breadcrumb span{margin:0 8px;opacity:0.4;}
+.page-hero{padding:48px 0 40px;border-bottom:1px solid var(--glass-border);}
+.page-hero .hero-eyebrow{display:inline-flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:var(--gold);margin-bottom:16px;}
+.page-hero h1{font-family:'Playfair Display',serif;font-size:clamp(32px,5vw,52px);font-weight:800;color:var(--white);margin-bottom:16px;line-height:1.1;}
+.page-hero h1 em{font-style:italic;color:var(--gold);font-weight:600;}
+.page-hero .hero-desc{font-size:16px;color:var(--text-dim);max-width:680px;line-height:1.65;font-weight:300;}
+.fin-section{padding:48px 0;border-bottom:1px solid var(--glass-border);}
+.fin-table-wrap{overflow-x:auto;margin:24px 0;-webkit-overflow-scrolling:touch;}
+.fin-table{width:100%;border-collapse:collapse;min-width:700px;}
+.fin-table th{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);text-align:left;padding:12px 16px;border-bottom:2px solid var(--gold-dim);white-space:nowrap;}
+.fin-table th.num{text-align:right;}
+.fin-table td{padding:14px 16px;border-bottom:1px solid var(--glass-border);font-size:14px;color:var(--text);vertical-align:middle;}
+.fin-table td.num{text-align:right;font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:600;}
+.fin-table tr:hover{background:rgba(212,168,67,0.03);}
+.fin-table .cand-name{font-family:'Playfair Display',serif;font-size:16px;font-weight:700;color:var(--white);}
+.fin-table .cand-party{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:1px;text-transform:uppercase;padding:2px 8px;border-radius:2px;font-weight:600;margin-left:8px;}
+.fin-table .cand-party.rep{background:rgba(192,57,43,0.15);color:var(--red-r);border:1px solid rgba(192,57,43,0.3);}
+.fin-table .cand-party.dem{background:rgba(41,128,185,0.15);color:var(--blue-d);border:1px solid rgba(41,128,185,0.3);}
+.warchest-grid{display:grid;grid-template-columns:1fr;gap:16px;margin:32px 0;}
+.wc-row{display:grid;grid-template-columns:160px 1fr 100px;align-items:center;gap:16px;padding:12px 0;}
+.wc-name{font-family:'Playfair Display',serif;font-size:15px;color:var(--white);font-weight:600;}
+.wc-track{height:32px;background:var(--navy);border-radius:3px;overflow:hidden;position:relative;}
+.wc-fill{height:100%;border-radius:3px;display:flex;align-items:center;padding-left:12px;font-size:11px;color:rgba(255,255,255,0.9);font-weight:600;transition:width 1.5s ease;}
+.wc-fill.rep{background:linear-gradient(90deg,var(--red-r),rgba(192,57,43,0.5));}
+.wc-fill.dem{background:linear-gradient(90deg,var(--blue-d),rgba(41,128,185,0.5));}
+.wc-amount{font-family:'JetBrains Mono',monospace;font-size:14px;font-weight:700;text-align:right;}
+.wc-amount.rep{color:var(--red-r);}.wc-amount.dem{color:var(--blue-d);}
+.analysis-box{background:linear-gradient(135deg,rgba(212,168,67,0.06),rgba(212,168,67,0.02));border:1px solid rgba(212,168,67,0.2);border-radius:4px;padding:28px 32px;margin:32px 0;position:relative;}
+.analysis-box::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;background:var(--gold);border-radius:2px 0 0 2px;}
+.analysis-box h4{font-family:'Playfair Display',serif;font-size:16px;color:var(--gold);margin-bottom:10px;}
+.analysis-box p{font-size:14px;color:var(--text-dim);line-height:1.7;}
+.donor-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;margin:24px 0;}
+.donor-card{background:var(--navy-mid);border:1px solid var(--glass-border);border-radius:4px;padding:24px;text-align:center;position:relative;}
+.donor-card::before{content:'';position:absolute;top:0;left:0;width:100%;height:3px;border-radius:4px 4px 0 0;}
+.donor-card.in-state::before{background:var(--green-ind);}
+.donor-card.out-state::before{background:var(--red-r);}
+.donor-pct{font-family:'JetBrains Mono',monospace;font-size:48px;font-weight:700;line-height:1;}
+.donor-pct.high{color:var(--green-ind);}.donor-pct.low{color:var(--red-r);}
+.donor-label{font-size:13px;color:var(--text-dim);margin-top:6px;}
+.donor-who{font-family:'Playfair Display',serif;font-size:16px;color:var(--white);margin-top:4px;font-weight:600;}
+.newsletter-section{padding:60px 0 80px;}
+.newsletter-box{background:linear-gradient(135deg,rgba(212,168,67,0.1),rgba(212,168,67,0.03));border:1px solid var(--gold-dim);border-radius:4px;padding:48px;text-align:center;}
+.newsletter-box h3{font-family:'Playfair Display',serif;font-size:26px;color:var(--white);margin-bottom:8px;}
+.newsletter-box p{color:var(--text-dim);margin-bottom:24px;font-size:15px;}
+.nl-form{display:flex;gap:12px;max-width:500px;margin:0 auto;flex-wrap:wrap;justify-content:center;}
+.nl-input{flex:1;min-width:200px;padding:14px 18px;background:var(--navy);border:1px solid var(--glass-border);border-radius:3px;color:var(--white);font-family:'Work Sans',sans-serif;font-size:14px;outline:none;}
+.nl-input:focus{border-color:var(--gold);}.nl-input::placeholder{color:var(--text-muted);}
+.nl-btn{padding:14px 32px;background:var(--gold);color:var(--navy-deep);font-family:'Work Sans',sans-serif;font-weight:700;font-size:14px;border:none;border-radius:3px;cursor:pointer;text-transform:uppercase;letter-spacing:1px;}
+.nl-btn:hover{background:var(--gold-bright);}
+.disclaimer{padding:40px 0;border-top:1px solid var(--glass-border);text-align:center;}
+.disclaimer p{font-size:12px;color:var(--text-muted);line-height:1.7;max-width:700px;margin:0 auto;}
+.loading{text-align:center;padding:60px 0;color:var(--text-dim);font-size:15px;}
+.loading-spinner{display:inline-block;width:24px;height:24px;border:2px solid var(--glass-border);border-top-color:var(--gold);border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:12px;}
+@keyframes spin{to{transform:rotate(360deg);}}
+.last-updated{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:1px;color:var(--text-muted);margin-top:8px;}
+@media(max-width:768px){.wc-row{grid-template-columns:1fr;gap:4px;}.wc-name{font-size:13px;}.donor-grid{grid-template-columns:1fr;}}
+@media(max-width:480px){.nl-form{flex-direction:column;}}
+</style>
+</head>
+<body>
+<div class="tracker-bg"></div>
+<div class="tracker-page">
+
+<div class="t-container">
+  <div class="breadcrumb">
+    <a href="https://www.tnfirefly.com">TNFirefly</a><span>›</span>
+    <a href="hub-page.html">Governor's Race</a><span>›</span>
+    Campaign Finance
+  </div>
+</div>
+
+<section class="page-hero">
+  <div class="t-container">
+    <div class="hero-eyebrow">💰 FOLLOW THE MONEY</div>
+    <h1>Campaign <em>Finance</em></h1>
+    <p class="hero-desc">Where the money comes from, how much each candidate has, and what it tells us about the 2026 Tennessee governor's race. Data from Tennessee Bureau of Ethics & Campaign Finance filings.</p>
+    <div class="last-updated" id="lastUpdated"></div>
+  </div>
+</section>
+
+<!-- DYNAMIC CONTENT -->
+<div id="financeContent">
+  <div class="loading"><div class="loading-spinner"></div><br>Loading finance data...</div>
+</div>
+
+<!-- NEWSLETTER -->
+<section class="newsletter-section">
+  <div class="t-container">
+    <div class="newsletter-box">
+      <h3>Get Race Updates in Your Inbox</h3>
+      <p>The Signal delivers Tennessee education and politics coverage weekly — including governor's race analysis you won't find elsewhere.</p>
+      <div class="nl-form">
+        <input type="email" class="nl-input" placeholder="Your email address">
+        <button class="nl-btn">Subscribe →</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="disclaimer">
+  <div class="t-container">
+    <p>Tennessee Firefly is an independent education journalism project of <a href="https://www.tnfirefly.com">Tennesseans for Student Success</a>. Governor's race tracker designed and built by <a href="https://longdrivemarketing.com" target="_blank">Long Drive Marketing</a>.</p>
+  </div>
+</section>
+
+</div>
+<script>
+const CDN = 'https://cdn.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data';
+
+function fmt(n) {
+  if (n >= 1000000) return '$' + (n / 1000000).toFixed(2) + 'M';
+  if (n >= 1000) return '$' + (n / 1000).toFixed(0) + 'K';
+  return '$' + n.toLocaleString();
+}
+
+function fmtFull(n) { return '$' + n.toLocaleString(); }
+
+async function loadFinance() {
+  try {
+    const res = await fetch(`${CDN}/finance.json`);
+    const data = await res.json();
+    
+    document.getElementById('lastUpdated').textContent = 
+      `LAST UPDATED: ${data.lastUpdated} · REPORTING PERIOD: ${data.reportingPeriod || ''}`;
+    
+    const candidates = data.candidates || [];
+    const maxWar = Math.max(...candidates.map(c => c.warChest));
+    
+    let html = '';
+    
+    // === WAR CHEST BARS ===
+    html += `<section class="fin-section"><div class="t-container">`;
+    html += `<h2 style="font-family:'Playfair Display',serif;font-size:28px;color:var(--white);margin-bottom:8px;">The War Chests</h2>`;
+    html += `<p style="font-size:14px;color:var(--text-dim);margin-bottom:24px;">Total funds available to each candidate, including personal loans. Based on ${data.reportingPeriod || 'latest'} filings.</p>`;
+    html += `<div class="warchest-grid">`;
+    
+    candidates.sort((a, b) => b.warChest - a.warChest).forEach(c => {
+      const pct = (c.warChest / maxWar * 100).toFixed(1);
+      const label = c.personalLoans > 0 
+        ? `${fmt(c.personalLoans)} personal + ${fmt(c.totalRaised)} raised`
+        : `${fmt(c.totalRaised)} from ${c.contributionCount.toLocaleString()} donors`;
+      
+      html += `<div class="wc-row">
+        <div class="wc-name">${c.name}</div>
+        <div class="wc-track"><div class="wc-fill ${c.party}" style="width:${pct}%">${pct > 8 ? label : ''}</div></div>
+        <div class="wc-amount ${c.party}">${fmt(c.warChest)}</div>
+      </div>`;
+    });
+    
+    html += `</div>`;
+    
+    // War chest analysis
+    if (data.analysis) {
+      html += `<div class="analysis-box"><h4>TNFirefly Analysis: Follow the Money</h4><p>${data.analysis}</p></div>`;
+    }
+    html += `</div></section>`;
+    
+    // === DETAILED TABLE ===
+    html += `<section class="fin-section"><div class="t-container">`;
+    html += `<h2 style="font-family:'Playfair Display',serif;font-size:28px;color:var(--white);margin-bottom:8px;">Detailed Breakdown</h2>`;
+    html += `<p style="font-size:14px;color:var(--text-dim);margin-bottom:24px;">Full finance data for candidates who have filed reports with the Tennessee Bureau of Ethics & Campaign Finance.</p>`;
+    html += `<div class="fin-table-wrap"><table class="fin-table"><thead><tr>`;
+    html += `<th>Candidate</th><th class="num">Total Raised</th><th class="num">Personal Loans</th><th class="num">Total Spent</th><th class="num">Cash on Hand</th><th class="num">War Chest</th>`;
+    html += `</tr></thead><tbody>`;
+    
+    candidates.forEach(c => {
+      const partyLabel = c.party === 'rep' ? 'R' : c.party === 'dem' ? 'D' : 'I';
+      html += `<tr>
+        <td><span class="cand-name">${c.name}</span><span class="cand-party ${c.party}">${partyLabel}</span></td>
+        <td class="num">${fmtFull(c.totalRaised)}</td>
+        <td class="num">${fmtFull(c.personalLoans)}</td>
+        <td class="num">${fmtFull(c.totalSpent)}</td>
+        <td class="num">${fmtFull(c.cashOnHand)}</td>
+        <td class="num" style="color:var(--gold);">${fmtFull(c.warChest)}</td>
+      </tr>`;
+    });
+    
+    html += `</tbody></table></div></div></section>`;
+    
+    // === DONOR SOURCE ===
+    html += `<section class="fin-section"><div class="t-container">`;
+    html += `<h2 style="font-family:'Playfair Display',serif;font-size:28px;color:var(--white);margin-bottom:8px;">Where the Money Comes From</h2>`;
+    html += `<p style="font-size:14px;color:var(--text-dim);margin-bottom:24px;">In-state vs. out-of-state donor percentages for top fundraisers.</p>`;
+    html += `<div class="donor-grid">`;
+    
+    candidates.filter(c => c.warChest > 100000).forEach(c => {
+      const inHigh = c.inStatePct >= 50;
+      html += `<div class="donor-card ${inHigh ? 'in-state' : 'out-state'}">
+        <div class="donor-who">${c.name}</div>
+        <div class="donor-pct ${inHigh ? 'high' : 'low'}">${c.inStatePct}%</div>
+        <div class="donor-label">Tennessee Donors</div>
+        <div style="margin-top:8px;font-size:12px;color:var(--text-muted);">${c.outStatePct}% Out-of-State · ${c.contributionCount.toLocaleString()} total contributions</div>
+      </div>`;
+    });
+    
+    html += `</div></div></section>`;
+    
+    document.getElementById('financeContent').innerHTML = html;
+    
+    // Animate bars
+    setTimeout(() => {
+      document.querySelectorAll('.wc-fill').forEach(b => {
+        const w = b.style.width;
+        b.style.width = '0%';
+        setTimeout(() => { b.style.width = w; }, 100);
+      });
+    }, 200);
+    
+  } catch(e) {
+    document.getElementById('financeContent').innerHTML = 
+      '<div class="loading" style="color:var(--red-r);">Failed to load finance data. Please try refreshing.</div>';
+    console.error('Finance load error:', e);
+  }
+}
+
+loadFinance();
+</script>
+</body>
+</html>

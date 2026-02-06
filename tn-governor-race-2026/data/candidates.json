@@ -1,0 +1,355 @@
+{
+  "lastUpdated": "2026-02-06T12:00:00Z",
+  "election": {
+    "name": "2026 Tennessee Governor's Race",
+    "primaryDate": "2026-08-06",
+    "generalDate": "2026-11-03",
+    "filingDeadline": "2026-03-10T12:00:00",
+    "inauguration": "2027-01-16",
+    "incumbentGovernor": "Bill Lee",
+    "incumbentParty": "Republican",
+    "incumbentStatus": "Term-limited, cannot seek re-election",
+    "raceRating": {
+      "cook": "Solid Republican",
+      "sabato": "Safe Republican",
+      "insideElections": "Solid Republican"
+    }
+  },
+  "candidates": [
+    {
+      "id": "marsha-blackburn",
+      "name": "Marsha Blackburn",
+      "party": "Republican",
+      "status": "declared",
+      "tier": "frontrunner",
+      "currentRole": "U.S. Senator",
+      "age": 73,
+      "hometown": "Brentwood, TN",
+      "county": "Williamson",
+      "website": "https://marshablackburn.com",
+      "profilePage": "candidates/marsha-blackburn.html",
+      "announcementDate": "2025-08-06",
+      "bio": "Close ally of President Trump with statewide name recognition from two Senate elections. If elected, would be Tennessee's first female governor and would appoint her own Senate replacement.",
+      "politicalBackground": [
+        "U.S. Senator (2019-present)",
+        "U.S. Representative, TN-7 (2003-2019)",
+        "Tennessee State Senator (1999-2003)",
+        "Led fight against proposed TN state income tax"
+      ],
+      "educationStance": {
+        "schoolChoice": "Pro-voucher, strong school choice advocate",
+        "teacherPay": "No specific position",
+        "charterSchools": "Supportive",
+        "earlyChildhood": "No specific position"
+      },
+      "financeSummary": {
+        "totalRaised": 5354381,
+        "totalSpent": 1600000,
+        "cashOnHand": 3754381,
+        "personalLoans": 0,
+        "pctFromTN": 22,
+        "totalContributions": 33000
+      },
+      "keyFacts": [
+        "Beacon Center poll: 68% among Republican voters",
+        "33,000 contributions broke the state filing system",
+        "Campaign treasurer: Knox County Mayor Glenn Jacobs",
+        "Would appoint her own Senate replacement if elected"
+      ]
+    },
+    {
+      "id": "john-rose",
+      "name": "John Rose",
+      "party": "Republican",
+      "status": "declared",
+      "tier": "major",
+      "currentRole": "U.S. Representative, TN-6",
+      "age": 61,
+      "hometown": "Cookeville, TN",
+      "county": "Putnam",
+      "website": "https://johnroseforgovernor.com",
+      "profilePage": "candidates/john-rose.html",
+      "announcementDate": "2025-03-01",
+      "bio": "Family farmer, IT businessman, and former Commissioner of Agriculture. Self-funded $5M and already running TV ads statewide. 92% of contributions from Tennessee donors.",
+      "politicalBackground": [
+        "U.S. Representative, TN-6 (2019-present, not seeking re-election)",
+        "Commissioner of Agriculture under Bredesen & Haslam (2002-2018)",
+        "Family farming operation in Cookeville"
+      ],
+      "educationStance": {
+        "schoolChoice": "No specific position",
+        "teacherPay": "Pledged to appoint a teacher as education commissioner",
+        "charterSchools": "No specific position",
+        "earlyChildhood": "No specific position"
+      },
+      "financeSummary": {
+        "totalRaised": 1456005,
+        "totalSpent": 1500000,
+        "cashOnHand": 4712735,
+        "personalLoans": 5000000,
+        "warChest": 6456005,
+        "pctFromTN": 92,
+        "totalContributions": null
+      },
+      "keyFacts": [
+        "Self-funded $5M personal loan to campaign",
+        "92% of contributions from Tennessee donors",
+        "Only candidate running statewide TV and mail ads",
+        "First major Republican candidate to formally enter",
+        "His TN-6 Congressional seat will be open Nov 2026"
+      ]
+    },
+    {
+      "id": "monty-fritts",
+      "name": "Monty Fritts",
+      "party": "Republican",
+      "status": "declared",
+      "tier": "minor",
+      "currentRole": "State Representative, 32nd District",
+      "age": null,
+      "hometown": "Kingston, TN",
+      "county": "Roane",
+      "website": null,
+      "profilePage": "candidates/monty-fritts.html",
+      "announcementDate": "2025-09-05",
+      "bio": "Anti-establishment Army veteran and Y-12 nuclear complex manager. One of ~20 House Republicans to vote against school vouchers. Announced at Washington County GOP 'Trump Day' dinner.",
+      "politicalBackground": [
+        "Tennessee State Representative, 32nd District (2023-present)",
+        "U.S. Army veteran",
+        "Y-12 National Security Complex manager",
+        "Morgan County Commissioner"
+      ],
+      "educationStance": {
+        "schoolChoice": "ANTI-voucher — one of ~20 House Republicans to vote against",
+        "teacherPay": "Supports teacher raises through state spending cuts",
+        "charterSchools": "No specific position",
+        "earlyChildhood": "No specific position"
+      },
+      "financeSummary": {
+        "totalRaised": 11000,
+        "totalSpent": null,
+        "cashOnHand": null,
+        "personalLoans": null,
+        "warChest": 11000,
+        "pctFromTN": null,
+        "totalContributions": null
+      },
+      "keyFacts": [
+        "Voted against school vouchers (HB1)",
+        "Called for execution of parents/doctors of trans children (Jan 2026)",
+        "Slogan: 'Liberty & Less Government'",
+        "Anti-establishment positioning against Blackburn"
+      ],
+      "controversies": [
+        "Jan 29, 2026: Podcast appearance advocating capital punishment for parents, guardians, and doctors involved in gender-affirming care for minors. Went viral via Right Wing Watch."
+      ]
+    },
+    {
+      "id": "cito-pellegra",
+      "name": "Cito Pellegra",
+      "party": "Republican",
+      "status": "filed",
+      "tier": "ballot-only",
+      "currentRole": null,
+      "hometown": "Arlington, TN",
+      "county": "Shelby",
+      "website": null,
+      "profilePage": "candidates/other-candidates.html",
+      "bio": "Ballot-only candidate. No campaign website, no finance reports, no public platform, no media coverage.",
+      "educationStance": {},
+      "financeSummary": {},
+      "keyFacts": []
+    },
+    {
+      "id": "jerri-green",
+      "name": "Jerri Green",
+      "party": "Democrat",
+      "status": "declared",
+      "tier": "major",
+      "currentRole": "Memphis City Council, District 2",
+      "age": null,
+      "hometown": "Memphis, TN",
+      "county": "Shelby",
+      "website": "https://greenforgovernor.com",
+      "profilePage": "candidates/jerri-green.html",
+      "announcementDate": "2025-07-01",
+      "bio": "Georgetown Law grad, former public defender, three-time gun violence survivor. Only Democrat with current elected office. Running on 'army of moms' coalition and public school funding.",
+      "politicalBackground": [
+        "Memphis City Council, District 2 (2024-present)",
+        "Candidate for TN House District 83 (2020, lost)",
+        "Public Defender",
+        "Director of Community Engagement, Community Legal Center",
+        "Statewide election lead, TN Moms Demand Action"
+      ],
+      "educationStance": {
+        "schoolChoice": "Emphasis on funding public schools over alternatives",
+        "teacherPay": "Pro-increase, 'fund what we value'",
+        "charterSchools": "No specific position",
+        "earlyChildhood": "Expanded pre-K and youth programming as council member"
+      },
+      "financeSummary": {
+        "totalRaised": 125440,
+        "totalSpent": 30000,
+        "cashOnHand": 95000,
+        "personalLoans": 0,
+        "warChest": 125440,
+        "pctFromTN": null,
+        "totalContributions": null
+      },
+      "keyFacts": [
+        "Only Democrat with current elected office experience",
+        "Georgetown Law graduate, former public defender",
+        "Three-time gun violence survivor",
+        "Campaign slogan: 'One Tough Mother'",
+        "Running on 'army of moms' coalition strategy"
+      ]
+    },
+    {
+      "id": "carnita-atwater",
+      "name": "Carnita Atwater",
+      "party": "Democrat",
+      "status": "declared",
+      "tier": "minor",
+      "currentRole": "Museum President / Community Advocate",
+      "hometown": "Memphis, TN",
+      "county": "Shelby",
+      "website": null,
+      "profilePage": "candidates/other-candidates.html",
+      "announcementDate": "2026-01-09",
+      "bio": "Museum president and Memphis community leader. Third gubernatorial attempt. Ran for governor in 2022 (3rd in Dem primary) and Memphis mayor in 2023. First African American woman to run for TN governor.",
+      "politicalBackground": [
+        "Candidate for Governor (2022, 3rd place in Dem primary with ~18%)",
+        "Candidate for Mayor of Memphis (2023, lost)",
+        "President, African American International Museum Foundation",
+        "EMT/Nurse background, higher education administration"
+      ],
+      "educationStance": {
+        "schoolChoice": "No specific position",
+        "teacherPay": "No specific position",
+        "earlyChildhood": "No specific position"
+      },
+      "financeSummary": {},
+      "keyFacts": [
+        "First African American woman to run for TN governor",
+        "Third run for major office in 4 years",
+        "Focused on racial equity and community advocacy"
+      ]
+    },
+    {
+      "id": "adam-kurtz",
+      "name": "Adam \"Ditch\" Kurtz",
+      "party": "Democrat",
+      "status": "declared",
+      "tier": "minor",
+      "currentRole": "Musician (pedal steel guitarist)",
+      "hometown": "Nashville, TN",
+      "county": "Davidson",
+      "website": "https://ditch4governor.com",
+      "profilePage": "candidates/other-candidates.html",
+      "announcementDate": "2025-05-15",
+      "bio": "Nashville musician running no-corporate-money grassroots campaign. Supports free healthcare, eliminating grocery tax, raising minimum wage, legalizing marijuana with tax revenue to schools.",
+      "educationStance": {
+        "schoolChoice": "Pro-public school funding",
+        "teacherPay": "Education is '#1 priority', pro-raise",
+        "earlyChildhood": "Free pre-K for all Tennessee children",
+        "funding": "Legalize marijuana, tax revenue to public schools"
+      },
+      "financeSummary": {
+        "totalRaised": 9502,
+        "pctFromTN": null,
+        "totalContributions": null
+      },
+      "keyFacts": [
+        "No-corporate-money pledge, small donors only",
+        "Friends with Rep. Gloria Johnson",
+        "Campaign launch at The 5 Spot, East Nashville"
+      ]
+    },
+    {
+      "id": "tim-cyr",
+      "name": "Tim Cyr",
+      "party": "Democrat",
+      "status": "filed",
+      "tier": "ballot-only",
+      "currentRole": null,
+      "hometown": "Gallatin, TN",
+      "county": "Sumner",
+      "website": null,
+      "profilePage": "candidates/other-candidates.html",
+      "bio": "'Tennessee Tim' moved to TN in 2017. Previously ran for Illinois House in 2010. Ballot-only candidate.",
+      "educationStance": {},
+      "financeSummary": {},
+      "keyFacts": ["Previously ran for Illinois House (2010, lost)"]
+    },
+    {
+      "id": "stephen-maxwell",
+      "name": "Stephen Maxwell",
+      "party": "Independent",
+      "status": "filed",
+      "tier": "minor",
+      "currentRole": "Nonprofit Director / Military Veteran / Minister",
+      "hometown": null,
+      "website": null,
+      "profilePage": "candidates/other-candidates.html",
+      "bio": "Military veteran (PTSD), nonprofit director, minister. Most detailed platform among independents. Completed Ballotpedia survey.",
+      "educationStance": {
+        "schoolChoice": "No specific position",
+        "teacherPay": "Supports teacher raises",
+        "model": "Year-round, gender-segregated education programs"
+      },
+      "financeSummary": {},
+      "keyFacts": [
+        "Oppose REAL ID, TSA, Patriot Act",
+        "40% farmer stimulus",
+        "Require 90/95 counties approve state budget",
+        "Most detailed independent platform"
+      ]
+    },
+    {
+      "id": "lauren-pinkston",
+      "name": "Lauren Pinkston",
+      "party": "Independent",
+      "status": "filed",
+      "tier": "ballot-only",
+      "profilePage": "candidates/other-candidates.html",
+      "bio": "Filed as independent. No public profile.",
+      "educationStance": {},
+      "financeSummary": {},
+      "keyFacts": []
+    },
+    {
+      "id": "manasa-reddy",
+      "name": "Manasa Reddy",
+      "party": "Independent",
+      "status": "filed",
+      "tier": "ballot-only",
+      "profilePage": "candidates/other-candidates.html",
+      "bio": "Filed as independent. No public profile.",
+      "educationStance": {},
+      "financeSummary": {},
+      "keyFacts": []
+    },
+    {
+      "id": "robert-vick",
+      "name": "Robert Vick",
+      "party": "Independent",
+      "status": "filed",
+      "tier": "ballot-only",
+      "profilePage": "candidates/other-candidates.html",
+      "bio": "Filed as independent. No public profile.",
+      "educationStance": {},
+      "financeSummary": {},
+      "keyFacts": []
+    }
+  ],
+  "watchlist": [
+    {"name": "Bill Hagerty", "role": "U.S. Senator", "status": "declined", "note": "Running for Senate re-election"},
+    {"name": "Tre Hargett", "role": "TN Secretary of State", "status": "rumored", "note": "SoS since 2009"},
+    {"name": "Diana Harshbarger", "role": "U.S. Representative, TN-1", "status": "rumored"},
+    {"name": "Mark Green", "role": "Former U.S. Representative, TN-7", "status": "rumored", "note": "Left Congress 2025"},
+    {"name": "Glenn Jacobs", "role": "Knox County Mayor", "status": "declined", "note": "Endorsed Blackburn, serving as campaign treasurer"},
+    {"name": "Lee Harris", "role": "Shelby County Mayor", "status": "rumored", "note": "Potential Dem candidate"},
+    {"name": "Steve Cohen", "role": "U.S. Representative, TN-9", "status": "rumored"},
+    {"name": "Damon Hininger", "role": "CEO, CoreCivic", "status": "declined", "note": "Backed Blackburn instead"}
+  ]
+}
