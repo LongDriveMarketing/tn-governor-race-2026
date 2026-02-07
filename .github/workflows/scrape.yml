@@ -45,4 +45,5 @@ jobs:
           git config user.email "bot@tnfirefly.com"
           git add data/
           git commit -m "Auto-update: governor race data $(date -u +%Y-%m-%d_%H:%M)"
+          git pull --rebase origin main
           git push
