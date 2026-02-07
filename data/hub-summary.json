@@ -1,0 +1,112 @@
+{
+  "lastUpdated": "2026-02-07",
+  "candidates": {},
+  "endorsementCounts": {
+    "blackburn": "14+",
+    "rose": "2",
+    "green": "1"
+  },
+  "finance": {
+    "rose": {
+      "warChest": 6456005,
+      "totalRaised": 1456005,
+      "inStatePct": 92
+    },
+    "blackburn": {
+      "warChest": 5354381,
+      "totalRaised": 5354381,
+      "inStatePct": 22
+    },
+    "green": {
+      "warChest": 285000,
+      "totalRaised": 285000,
+      "inStatePct": 65
+    },
+    "kurtz": {
+      "warChest": 82000,
+      "totalRaised": 82000,
+      "inStatePct": 88
+    },
+    "fritts": {
+      "warChest": 63000,
+      "totalRaised": 48000,
+      "inStatePct": 95
+    }
+  },
+  "latestPoll": {
+    "id": "beacon-jan26",
+    "pollster": "Beacon Center / TennSight",
+    "date": "2026-01-11",
+    "endDate": "2026-01-18",
+    "type": "republican_primary",
+    "sampleSize": "1,200 RV",
+    "margin": "±2.77%",
+    "methodology": "Online poll of registered voters, weighted by demographics, party, geography, and behavioral measures",
+    "url": "https://tennsight.com/polls/january-2026/",
+    "pdfUrl": "https://tennsight.com/wp-content/uploads/2026/01/Crosstabs-Party-Ideology-Region-1.26.26.pdf",
+    "results": [
+      {
+        "candidate": "Blackburn",
+        "party": "rep",
+        "pct": 56
+      },
+      {
+        "candidate": "Rose",
+        "party": "rep",
+        "pct": 9
+      },
+      {
+        "candidate": "Fritts",
+        "party": "rep",
+        "pct": 7
+      },
+      {
+        "candidate": "Undecided",
+        "party": "",
+        "pct": 28
+      }
+    ]
+  },
+  "latestNews": [
+    {
+      "title": "Blackburn's $5.35M Haul — And the 78% Problem",
+      "source": "The Tennessean",
+      "date": "2026-02-03",
+      "party": "rep"
+    },
+    {
+      "title": "Rose Reports $6.46M War Chest, Hammers In-State Donor Contrast",
+      "source": "Tennessee Lookout",
+      "date": "2026-02-03",
+      "party": "rep"
+    },
+    {
+      "title": "Tennessee governor leaves immigration enforcement out of final address",
+      "source": "Tennessee Lookout",
+      "date": "2026-02-03",
+      "party": "general"
+    }
+  ],
+  "raceRatings": [
+    {
+      "source": "Cook Political Report",
+      "rating": "Solid Republican"
+    },
+    {
+      "source": "Sabato's Crystal Ball",
+      "rating": "Safe Republican"
+    },
+    {
+      "source": "Inside Elections",
+      "rating": "Solid Republican"
+    },
+    {
+      "source": "Race to the WH",
+      "rating": "Safe Republican"
+    }
+  ],
+  "watchlistCounts": {
+    "watching": 4,
+    "declined": 3
+  }
+}

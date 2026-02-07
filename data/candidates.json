@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T12:00:00Z",
+  "lastUpdated": "2026-02-07",
   "election": {
     "name": "2026 Tennessee Governor's Race",
     "primaryDate": "2026-08-06",
@@ -279,7 +279,9 @@
       "bio": "'Tennessee Tim' moved to TN in 2017. Previously ran for Illinois House in 2010. Ballot-only candidate.",
       "educationStance": {},
       "financeSummary": {},
-      "keyFacts": ["Previously ran for Illinois House (2010, lost)"]
+      "keyFacts": [
+        "Previously ran for Illinois House (2010, lost)"
+      ]
     },
     {
       "id": "stephen-maxwell",
@@ -343,13 +345,171 @@
     }
   ],
   "watchlist": [
-    {"name": "Bill Hagerty", "role": "U.S. Senator", "status": "declined", "note": "Running for Senate re-election"},
-    {"name": "Tre Hargett", "role": "TN Secretary of State", "status": "rumored", "note": "SoS since 2009"},
-    {"name": "Diana Harshbarger", "role": "U.S. Representative, TN-1", "status": "rumored"},
-    {"name": "Mark Green", "role": "Former U.S. Representative, TN-7", "status": "rumored", "note": "Left Congress 2025"},
-    {"name": "Glenn Jacobs", "role": "Knox County Mayor", "status": "declined", "note": "Endorsed Blackburn, serving as campaign treasurer"},
-    {"name": "Lee Harris", "role": "Shelby County Mayor", "status": "rumored", "note": "Potential Dem candidate"},
-    {"name": "Steve Cohen", "role": "U.S. Representative, TN-9", "status": "rumored"},
-    {"name": "Damon Hininger", "role": "CEO, CoreCivic", "status": "declined", "note": "Backed Blackburn instead"}
-  ]
+    {
+      "name": "Bill Hagerty",
+      "role": "U.S. Senator",
+      "status": "declined",
+      "note": "Running for Senate re-election"
+    },
+    {
+      "name": "Tre Hargett",
+      "role": "TN Secretary of State",
+      "status": "rumored",
+      "note": "SoS since 2009"
+    },
+    {
+      "name": "Diana Harshbarger",
+      "role": "U.S. Representative, TN-1",
+      "status": "rumored"
+    },
+    {
+      "name": "Mark Green",
+      "role": "Former U.S. Representative, TN-7",
+      "status": "rumored",
+      "note": "Left Congress 2025"
+    },
+    {
+      "name": "Glenn Jacobs",
+      "role": "Knox County Mayor",
+      "status": "declined",
+      "note": "Endorsed Blackburn, serving as campaign treasurer"
+    },
+    {
+      "name": "Lee Harris",
+      "role": "Shelby County Mayor",
+      "status": "rumored",
+      "note": "Potential Dem candidate"
+    },
+    {
+      "name": "Steve Cohen",
+      "role": "U.S. Representative, TN-9",
+      "status": "rumored"
+    },
+    {
+      "name": "Damon Hininger",
+      "role": "CEO, CoreCivic",
+      "status": "declined",
+      "note": "Backed Blackburn instead"
+    }
+  ],
+  "lastScraped": "2026-02-07T07:45:15.839273+00:00",
+  "sos_filings": [
+    {
+      "name": "Marsha Blackburn",
+      "party": "Republican"
+    },
+    {
+      "name": "Monty Fritts",
+      "party": "Republican"
+    },
+    {
+      "name": "Rebecca Lynn Inman",
+      "party": "Republican"
+    },
+    {
+      "name": "Pamela Moses",
+      "party": "Republican"
+    },
+    {
+      "name": "John W. Rose",
+      "party": "Republican"
+    },
+    {
+      "name": "Carnita Atwater",
+      "party": "Democratic"
+    },
+    {
+      "name": "Tim Cyr",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jerri Green",
+      "party": "Democratic"
+    },
+    {
+      "name": "Martin dePorres Kennedy",
+      "party": "Democratic"
+    },
+    {
+      "name": "Adam D. Kurtz",
+      "party": "Democratic"
+    },
+    {
+      "name": "David R Martin",
+      "party": "Democratic"
+    },
+    {
+      "name": "Matthew Martin",
+      "party": "Democratic"
+    },
+    {
+      "name": "Kevin Lee McCants",
+      "party": "Democratic"
+    },
+    {
+      "name": "Misam Abidi",
+      "party": "Independent"
+    },
+    {
+      "name": "Santiago Asconape",
+      "party": "Independent"
+    },
+    {
+      "name": "Austin Basham",
+      "party": "Independent"
+    },
+    {
+      "name": "Trystin Blum",
+      "party": "Independent"
+    },
+    {
+      "name": "Mark L Brown",
+      "party": "Independent"
+    },
+    {
+      "name": "Ray Brown",
+      "party": "Independent"
+    },
+    {
+      "name": "Dustin Michael Gatlin",
+      "party": "Independent"
+    },
+    {
+      "name": "Gregory Stanton Greene",
+      "party": "Independent"
+    },
+    {
+      "name": "Elliot Hood",
+      "party": "Independent"
+    },
+    {
+      "name": "Wendell Jackson",
+      "party": "Independent"
+    },
+    {
+      "name": "Pamela Moses",
+      "party": "Independent"
+    },
+    {
+      "name": "Eddie Lee Murphy",
+      "party": "Independent"
+    },
+    {
+      "name": "Lauren M Pinkston",
+      "party": "Independent"
+    },
+    {
+      "name": "Victor Lloyd Scoggin",
+      "party": "Independent"
+    },
+    {
+      "name": "Robert C. Vick",
+      "party": "Independent"
+    }
+  ],
+  "ballotpedia": {
+    "rep": [],
+    "dem": [],
+    "ind": []
+  }
 }

@@ -1,10 +1,22 @@
 {
-  "lastUpdated": "2026-02-06",
+  "lastUpdated": "2026-02-07",
   "raceRatings": [
-    { "source": "Cook Political Report", "rating": "Solid Republican" },
-    { "source": "Sabato's Crystal Ball", "rating": "Safe Republican" },
-    { "source": "Inside Elections", "rating": "Solid Republican" },
-    { "source": "Race to the WH", "rating": "Safe Republican" }
+    {
+      "source": "Cook Political Report",
+      "rating": "Solid Republican"
+    },
+    {
+      "source": "Sabato's Crystal Ball",
+      "rating": "Safe Republican"
+    },
+    {
+      "source": "Inside Elections",
+      "rating": "Solid Republican"
+    },
+    {
+      "source": "Race to the WH",
+      "rating": "Safe Republican"
+    }
   ],
   "pollingSources": [
     {
@@ -29,10 +41,26 @@
       "url": "https://tennsight.com/polls/january-2026/",
       "pdfUrl": "https://tennsight.com/wp-content/uploads/2026/01/Crosstabs-Party-Ideology-Region-1.26.26.pdf",
       "results": [
-        { "candidate": "Blackburn", "party": "rep", "pct": 56 },
-        { "candidate": "Rose", "party": "rep", "pct": 9 },
-        { "candidate": "Fritts", "party": "rep", "pct": 7 },
-        { "candidate": "Undecided", "party": "", "pct": 28 }
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 56
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 9
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 7
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 28
+        }
       ]
     },
     {
@@ -47,10 +75,26 @@
       "url": "https://tennsight.com/polls/november-2025/",
       "pdfUrl": "https://tennsight.com/wp-content/uploads/2026/01/Ballot-Crosstabs-Party-Ideology-Region-1.pdf",
       "results": [
-        { "candidate": "Blackburn", "party": "rep", "pct": 58 },
-        { "candidate": "Rose", "party": "rep", "pct": 9 },
-        { "candidate": "Fritts", "party": "rep", "pct": 5 },
-        { "candidate": "Undecided", "party": "", "pct": 28 }
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 58
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 9
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 5
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 28
+        }
       ]
     },
     {
@@ -64,11 +108,31 @@
       "methodology": "Online panel of likely Republican primary voters",
       "url": "https://tennsight.com/polls/august-2025/",
       "results": [
-        { "candidate": "Blackburn", "party": "rep", "pct": 68 },
-        { "candidate": "Rose", "party": "rep", "pct": 14 },
-        { "candidate": "Fritts", "party": "rep", "pct": 3 },
-        { "candidate": "Pellegra", "party": "rep", "pct": 1 },
-        { "candidate": "Undecided", "party": "", "pct": 14 }
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 68
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 14
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 3
+        },
+        {
+          "candidate": "Pellegra",
+          "party": "rep",
+          "pct": 1
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 14
+        }
       ]
     },
     {
@@ -82,26 +146,158 @@
       "methodology": "Online panel of likely general election voters",
       "url": "https://tennsight.com/polls/august-2025/",
       "results": [
-        { "candidate": "Blackburn", "party": "rep", "pct": 49 },
-        { "candidate": "Green", "party": "dem", "pct": 28 },
-        { "candidate": "Undecided", "party": "", "pct": 23 }
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 49
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 28
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 23
+        }
       ]
     }
   ],
   "trendline": {
     "description": "Blackburn's lead in the Republican primary has narrowed from 54 points (Aug) to 47 points (Jan), driven mainly by Fritts gaining and undecideds growing from 14% to 28%. Rose has remained flat at 9% since November despite significant ad spending.",
     "data": [
-      { "poll": "Aug 2025", "blackburn": 68, "rose": 14, "fritts": 3, "undecided": 14 },
-      { "poll": "Nov 2025", "blackburn": 58, "rose": 9, "fritts": 5, "undecided": 28 },
-      { "poll": "Jan 2026", "blackburn": 56, "rose": 9, "fritts": 7, "undecided": 28 }
+      {
+        "poll": "Aug 2025",
+        "blackburn": 68,
+        "rose": 14,
+        "fritts": 3,
+        "undecided": 14
+      },
+      {
+        "poll": "Nov 2025",
+        "blackburn": 58,
+        "rose": 9,
+        "fritts": 5,
+        "undecided": 28
+      },
+      {
+        "poll": "Jan 2026",
+        "blackburn": 56,
+        "rose": 9,
+        "fritts": 7,
+        "undecided": 28
+      }
     ]
   },
   "additionalData": {
-    "trumpApproval": { "approve": 53, "disapprove": 43, "source": "Beacon Jan 2026" },
-    "leeApproval": { "approve": 54, "disapprove": 38, "source": "Beacon Nov 2025" },
-    "legislatureApproval": { "approve": 53, "disapprove": 38, "source": "Beacon Jan 2026" },
-    "schoolChoiceTaxCredit": { "support": 72, "oppose": 18, "source": "Beacon Jan 2026" },
-    "educationFreedomScholarships": { "supportExpanding": 56, "source": "Beacon Aug 2025" }
+    "trumpApproval": {
+      "approve": 53,
+      "disapprove": 43,
+      "source": "Beacon Jan 2026"
+    },
+    "leeApproval": {
+      "approve": 54,
+      "disapprove": 38,
+      "source": "Beacon Nov 2025"
+    },
+    "legislatureApproval": {
+      "approve": 53,
+      "disapprove": 38,
+      "source": "Beacon Jan 2026"
+    },
+    "schoolChoiceTaxCredit": {
+      "support": 72,
+      "oppose": 18,
+      "source": "Beacon Jan 2026"
+    },
+    "educationFreedomScholarships": {
+      "supportExpanding": 56,
+      "source": "Beacon Aug 2025"
+    }
   },
-  "analysis": "Three Beacon Center/TennSight polls now paint a clearer picture of the Republican primary. Blackburn's lead has narrowed from 68% (August 2025) to 56% (January 2026) — still commanding, but a 12-point drop over five months. The most striking detail: Rose hasn't gained despite spending millions on TV ads. He's actually dropped from 14% to 9%. The movement has gone to Fritts (3% → 7%) and the undecided column (14% → 28%). That growing undecided pool — over a quarter of Republican voters — is the real battleground. It suggests voter uncertainty rather than a locked-in race. The next Beacon poll (likely April 2026) will be critical: if Rose's ad blitz hasn't moved his numbers by then, the primary may effectively be over. Education policy is a potential differentiator — 72% of Tennesseans support the federal school choice tax credit, and 67% backed Lee's voucher expansion, creating pressure on all candidates to stake out strong positions."
+  "analysis": "Three Beacon Center/TennSight polls now paint a clearer picture of the Republican primary. Blackburn's lead has narrowed from 68% (August 2025) to 56% (January 2026) — still commanding, but a 12-point drop over five months. The most striking detail: Rose hasn't gained despite spending millions on TV ads. He's actually dropped from 14% to 9%. The movement has gone to Fritts (3% → 7%) and the undecided column (14% → 28%). That growing undecided pool — over a quarter of Republican voters — is the real battleground. It suggests voter uncertainty rather than a locked-in race. The next Beacon poll (likely April 2026) will be critical: if Rose's ad blitz hasn't moved his numbers by then, the primary may effectively be over. Education policy is a potential differentiator — 72% of Tennesseans support the federal school choice tax credit, and 67% backed Lee's voucher expansion, creating pressure on all candidates to stake out strong positions.",
+  "lastScraped": "2026-02-07T07:45:15.838666+00:00",
+  "scraped_raw": [
+    {
+      "pollster": "",
+      "date": "Beacon Poll",
+      "results_raw": [
+        "2/02/2026",
+        "559 RV",
+        "56%",
+        "9%",
+        "7%",
+        "28%"
+      ]
+    },
+    {
+      "pollster": "",
+      "date": "Beacon Poll",
+      "results_raw": [
+        "11/05/2025",
+        "545 RV",
+        "58%",
+        "9%",
+        "5%",
+        "28%"
+      ]
+    },
+    {
+      "pollster": "",
+      "date": "Beacon Poll",
+      "results_raw": [
+        "8/11/2025",
+        "623 RV",
+        "66%",
+        "14%",
+        "-",
+        "20%"
+      ]
+    },
+    {
+      "pollster": "",
+      "date": "Quantus Insights",
+      "results_raw": [
+        "8/08/2025",
+        "294 RV",
+        "35%",
+        "6%",
+        "-",
+        "59%"
+      ]
+    },
+    {
+      "pollster": "",
+      "date": "Quantus Insights",
+      "results_raw": [
+        "8/08/2025",
+        "600 RV &plusmn3.5%",
+        "28%",
+        "49%",
+        "23%"
+      ]
+    },
+    {
+      "pollster": "",
+      "date": "Quantus Insights",
+      "results_raw": [
+        "8/08/2025",
+        "600 RV &plusmn3.5%",
+        "27%",
+        "43%",
+        "30%"
+      ]
+    }
+  ],
+  "tennsight_scraped": [
+    {
+      "url": "https://tennsight.com/polls/january-2026/",
+      "blackburn": 56,
+      "rose": 9,
+      "fritts": null,
+      "undecided": null,
+      "dates": "Fieldwork: January 11 through January 18, 2026"
+    }
+  ]
 }

@@ -1,19 +1,7 @@
 {
-  "lastUpdated": "2026-02-06",
+  "lastUpdated": "2026-02-07",
+  "lastScraped": "2026-02-07T07:45:05.482176+00:00",
   "articles": [
-    {
-      "id": "beacon-poll-jan26",
-      "date": "2026-01-26",
-      "title": "Beacon Poll: Blackburn at 56%, Rose Stalled at 9% Despite Ad Blitz",
-      "summary": "The January 2026 Beacon Center/TennSight poll of 1,200 registered voters shows Blackburn's lead narrowing from 68% (Aug) to 56%, but Rose hasn't gained — he's actually dropped from 14% to 9%. Fritts has risen to 7%, and 28% of Republican voters remain undecided. The growing undecided pool is the real story.",
-      "source": "Beacon Center / TennSight",
-      "url": "https://tennsight.com/polls/january-2026/",
-      "party": "general",
-      "candidate": "",
-      "tags": ["analysis"],
-      "tnfirefly": false,
-      "featured": true
-    },
     {
       "id": "blackburn-finance-feb26",
       "date": "2026-02-03",
@@ -23,7 +11,9 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
-      "tags": ["finance"],
+      "tags": [
+        "finance"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -36,7 +26,39 @@
       "url": "",
       "party": "rep",
       "candidate": "Rose",
-      "tags": ["finance"],
+      "tags": [
+        "finance"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3aa5709ffafa",
+      "date": "2026-02-03",
+      "title": "Tennessee governor leaves immigration enforcement out of final address",
+      "summary": "House Republicans continued their push to toughen immigration laws days before Tennessee Gov. Bill Lee made his final State of the State address. But the governor didn’t talk about immigration Monday night, heading into the last year of his two terms. The omission was not lost on Democratic state Re...",
+      "source": "Tennessee Lookout",
+      "url": "https://tennesseelookout.com/2026/02/03/tennessee-governor-leaves-immigration-enforcement-out-of-final-address/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "bce56586d856",
+      "date": "2026-01-30",
+      "title": "Tennessee governor urges better Nashville Electric Service efforts in winter storm",
+      "summary": "With tens of thousands of Nashville Electric Services customers still without power, Gov. Bill Lee encouraged the utility to improve communications and transparency five days after a winter storm struck. NES is drawing criticism about its response to the historic storm after turning down some outsid...",
+      "source": "Tennessee Lookout",
+      "url": "https://tennesseelookout.com/2026/01/30/tennessee-governor-urges-better-nashville-electric-service-efforts-in-winter-storm/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "controversy"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -49,7 +71,69 @@
       "url": "",
       "party": "rep",
       "candidate": "Fritts",
-      "tags": ["controversy"],
+      "tags": [
+        "controversy"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "beacon-poll-jan26",
+      "date": "2026-01-26",
+      "title": "Beacon Poll: Blackburn at 56%, Rose Stalled at 9% Despite Ad Blitz",
+      "summary": "The January 2026 Beacon Center/TennSight poll of 1,200 registered voters shows Blackburn's lead narrowing from 68% (Aug) to 56%, but Rose hasn't gained — he's actually dropped from 14% to 9%. Fritts has risen to 7%, and 28% of Republican voters remain undecided. The growing undecided pool is the real story.",
+      "source": "Beacon Center / TennSight",
+      "url": "https://tennsight.com/polls/january-2026/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": false,
+      "featured": true
+    },
+    {
+      "id": "4e29b6ebd4db",
+      "date": "2026-01-26",
+      "title": "With landfills filling up, Tennessee legislature once again looks at recycling bills",
+      "summary": "Tennessee’s slow uptake of recycling is costing the state — in economic opportunity and dwindling landfill space — according to multiple presentations to the state’s newly formed Solid Waste Task Force. With the bill filing deadline for the 2026 legislative session looming at the end of the month, t...",
+      "source": "Tennessee Lookout",
+      "url": "https://tennesseelookout.com/2026/01/26/with-landfills-filling-up-tennessee-legislature-once-again-looks-at-recycling-bills/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3c73a64fb185",
+      "date": "2026-01-22",
+      "title": "Even conservative Supreme Court justices cool to Trump dismissal of the Fed’s Lisa Cook",
+      "summary": "WASHINGTON — U.S. Supreme Court justices across the political spectrum appeared skeptical of President Donald Trump’s swift, informal dismissal of Federal Reserve Board Governor Lisa Cook, and his effort to influence the independent central bank that governs monetary policy in the United States. The...",
+      "source": "Tennessee Lookout",
+      "url": "https://tennesseelookout.com/2026/01/22/repub/even-conservative-supreme-court-justices-cool-to-trump-dismissal-of-the-feds-lisa-cook/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3d94bbf75878",
+      "date": "2026-01-21",
+      "title": "Tennesseans need representatives who oppose regime change and endless war",
+      "summary": "In the days following the Trump administration’s kidnapping of Venezuelan president Nicolás Maduro, Tennessee’s Republican lawmakers took to social media to praise the congressionally unauthorized attack.  U.S. Sens. Marsha Blackburn and Bill Hagerty referenced allegations against Maduro for his sup...",
+      "source": "Tennessee Lookout",
+      "url": "https://tennesseelookout.com/2026/01/21/tennesseans-need-representatives-who-oppose-regime-change-and-endless-war/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -62,7 +146,10 @@
       "url": "",
       "party": "general",
       "candidate": "",
-      "tags": ["podcast", "policy"],
+      "tags": [
+        "podcast",
+        "policy"
+      ],
       "tnfirefly": true,
       "featured": true
     },
@@ -75,20 +162,9 @@
       "url": "",
       "party": "dem",
       "candidate": "Atwater",
-      "tags": ["campaign"],
-      "tnfirefly": false,
-      "featured": false
-    },
-    {
-      "id": "beacon-poll-nov25",
-      "date": "2025-11-01",
-      "title": "Beacon Poll: Blackburn Drops to 58%, Undecideds Surge to 28%",
-      "summary": "The November 2025 Beacon Center/TennSight quarterly poll shows Blackburn's support declining 10 points from August while Rose dropped from 14% to 9%. The undecided pool has doubled from 14% to 28%, suggesting Republican voters are less locked in than August numbers implied.",
-      "source": "Beacon Center / TennSight",
-      "url": "https://tennsight.com/polls/november-2025/",
-      "party": "general",
-      "candidate": "",
-      "tags": ["analysis"],
+      "tags": [
+        "campaign"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -101,7 +177,24 @@
       "url": "",
       "party": "ind",
       "candidate": "",
-      "tags": ["campaign"],
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "beacon-poll-nov25",
+      "date": "2025-11-01",
+      "title": "Beacon Poll: Blackburn Drops to 58%, Undecideds Surge to 28%",
+      "summary": "The November 2025 Beacon Center/TennSight quarterly poll shows Blackburn's support declining 10 points from August while Rose dropped from 14% to 9%. The undecided pool has doubled from 14% to 28%, suggesting Republican voters are less locked in than August numbers implied.",
+      "source": "Beacon Center / TennSight",
+      "url": "https://tennsight.com/polls/november-2025/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "analysis"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -114,7 +207,9 @@
       "url": "",
       "party": "rep",
       "candidate": "Rose",
-      "tags": ["podcast"],
+      "tags": [
+        "podcast"
+      ],
       "tnfirefly": true,
       "featured": true
     },
@@ -127,7 +222,9 @@
       "url": "",
       "party": "rep",
       "candidate": "Fritts",
-      "tags": ["campaign"],
+      "tags": [
+        "campaign"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -140,7 +237,9 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
-      "tags": ["campaign"],
+      "tags": [
+        "campaign"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -153,7 +252,9 @@
       "url": "",
       "party": "general",
       "candidate": "",
-      "tags": ["analysis"],
+      "tags": [
+        "analysis"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -166,7 +267,9 @@
       "url": "",
       "party": "dem",
       "candidate": "Green",
-      "tags": ["campaign"],
+      "tags": [
+        "campaign"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -179,7 +282,9 @@
       "url": "",
       "party": "rep",
       "candidate": "Rose",
-      "tags": ["finance"],
+      "tags": [
+        "finance"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -192,7 +297,9 @@
       "url": "",
       "party": "dem",
       "candidate": "Kurtz",
-      "tags": ["campaign"],
+      "tags": [
+        "campaign"
+      ],
       "tnfirefly": false,
       "featured": false
     },
@@ -205,7 +312,24 @@
       "url": "",
       "party": "rep",
       "candidate": "Rose",
-      "tags": ["campaign"],
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b5407eac9a3d",
+      "date": "2024-04-09",
+      "title": "Beacon Poll: April 2024 Results",
+      "summary": "Today, we released our fourth quarterly Beacon Poll, a statewide survey of 1,197 registered Tennessee voters comprised of questions about political races, policy issues, and more. In the Tennessee Senate race that is garnering national attention, the new Beacon Poll finds incumbent Senator Marsha Bl...",
+      "source": "Beacon Center / TennSight",
+      "url": "https://tennsight.com/beacon-poll-april-results/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
       "tnfirefly": false,
       "featured": false
     }
