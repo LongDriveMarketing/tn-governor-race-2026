@@ -1,0 +1,48 @@
+# TNFirefly Governor Race Tracker - Automated Data Scraper
+# Runs every 6 hours to pull fresh news, polls, and candidate data.
+# Data is committed to the repo → jsDelivr CDN auto-refreshes.
+
+name: Update Governor Race Data
+
+on:
+  schedule:
+    # Every 6 hours: midnight, 6am, noon, 6pm UTC
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Manual trigger button in GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests beautifulsoup4
+
+      - name: Run scrapers
+        working-directory: scrapers
+        run: python run_all.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "TNFirefly Bot"
+          git config user.email "bot@tnfirefly.com"
+          git add data/
+          git commit -m "Auto-update: governor race data $(date -u +%Y-%m-%d_%H:%M)"
+          git push
