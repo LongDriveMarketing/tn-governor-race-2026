@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Governor Race Tracker — Admin Input</title>
+<style>
+:root{--navy:#0a1628;--navy-mid:#111f36;--gold:#d4a843;--white:#f8f6f1;--text:#e8e4db;--text-dim:#8a8677;--red:#c0392b;--blue:#2980b9;--green:#27ae60;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Work Sans',system-ui,sans-serif;background:var(--navy);color:var(--text);min-height:100vh;padding:24px;}
+.container{max-width:800px;margin:0 auto;}
+h1{font-size:24px;color:var(--gold);margin-bottom:8px;}
+.subtitle{color:var(--text-dim);font-size:14px;margin-bottom:32px;}
+.tabs{display:flex;gap:4px;margin-bottom:24px;flex-wrap:wrap;}
+.tab{padding:10px 20px;background:var(--navy-mid);border:1px solid rgba(212,168,67,0.15);border-radius:4px 4px 0 0;color:var(--text-dim);cursor:pointer;font-size:13px;font-weight:500;transition:all 0.2s;}
+.tab:hover{color:var(--white);}
+.tab.active{background:rgba(212,168,67,0.1);border-color:var(--gold);color:var(--gold);}
+.panel{display:none;background:var(--navy-mid);border:1px solid rgba(212,168,67,0.15);border-radius:0 4px 4px 4px;padding:28px;}
+.panel.active{display:block;}
+label{display:block;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:var(--gold);margin-bottom:6px;margin-top:16px;}
+label:first-child{margin-top:0;}
+input,textarea,select{width:100%;padding:10px 14px;background:var(--navy);border:1px solid rgba(212,168,67,0.2);border-radius:3px;color:var(--white);font-family:inherit;font-size:14px;outline:none;}
+input:focus,textarea:focus,select:focus{border-color:var(--gold);}
+textarea{min-height:80px;resize:vertical;}
+select{cursor:pointer;}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+.btn{display:inline-block;padding:12px 28px;background:var(--gold);color:var(--navy);font-weight:600;font-size:14px;border:none;border-radius:3px;cursor:pointer;margin-top:24px;transition:all 0.2s;}
+.btn:hover{filter:brightness(1.1);transform:translateY(-1px);}
+.btn:disabled{opacity:0.4;cursor:not-allowed;transform:none;}
+.status{margin-top:16px;padding:12px 16px;border-radius:3px;font-size:13px;display:none;}
+.status.success{display:block;background:rgba(39,174,96,0.15);border:1px solid var(--green);color:#6deca9;}
+.status.error{display:block;background:rgba(192,57,43,0.15);border:1px solid var(--red);color:#e88;}
+.status.loading{display:block;background:rgba(212,168,67,0.1);border:1px solid rgba(212,168,67,0.3);color:var(--gold);}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>TNFirefly Governor Race — Admin Input</h1>
+<p class="subtitle">Add editorial content that can't be scraped. Pushes directly to GitHub → jsDelivr → live site.</p>
+
+<div style="margin-bottom:24px;">
+  <label>GitHub Personal Access Token</label>
+  <input type="password" id="ghToken" placeholder="ghp_xxxxxxxxxxxx" style="max-width:400px;">
+  <div style="font-size:11px;color:var(--text-dim);margin-top:4px;">Token needs 'repo' scope. Only stored in memory for this session.</div>
+</div>
+
+<div class="tabs">
+  <div class="tab active" onclick="switchTab('news')">Add News</div>
+  <div class="tab" onclick="switchTab('endorsement')">Add Endorsement</div>
+  <div class="tab" onclick="switchTab('timeline')">Add Timeline Event</div>
+  <div class="tab" onclick="switchTab('watchlist')">Update Watchlist</div>
+</div>
+
+<!-- NEWS PANEL -->
+<div class="panel active" id="panel-news">
+  <label>Article Title</label>
+  <input type="text" id="news-title" placeholder="e.g. Blackburn Picks Up Major Endorsement from...">
+  <div class="row">
+    <div><label>Date</label><input type="date" id="news-date"></div>
+    <div><label>Source</label><input type="text" id="news-source" placeholder="e.g. The Tennessean"></div>
+  </div>
+  <label>Summary (2-3 sentences)</label>
+  <textarea id="news-summary" placeholder="What happened and why it matters..."></textarea>
+  <label>Article URL</label>
+  <input type="url" id="news-url" placeholder="https://...">
+  <div class="row">
+    <div>
+      <label>Primary Candidate</label>
+      <select id="news-candidate">
+        <option value="">General / Multiple</option>
+        <option value="Blackburn">Blackburn</option>
+        <option value="Rose">Rose</option>
+        <option value="Fritts">Fritts</option>
+        <option value="Green">Green</option>
+        <option value="Atwater">Atwater</option>
+        <option value="Kurtz">Kurtz</option>
+        <option value="Pellegra">Pellegra</option>
+      </select>
+    </div>
+    <div>
+      <label>Party</label>
+      <select id="news-party">
+        <option value="general">General</option>
+        <option value="rep">Republican</option>
+        <option value="dem">Democrat</option>
+        <option value="ind">Independent</option>
+      </select>
+    </div>
+  </div>
+  <div class="row">
+    <div>
+      <label>Tags</label>
+      <select id="news-tags" multiple size="4">
+        <option value="finance">Finance</option>
+        <option value="policy">Policy</option>
+        <option value="campaign">Campaign</option>
+        <option value="controversy">Controversy</option>
+        <option value="analysis">Analysis</option>
+        <option value="podcast">Podcast</option>
+      </select>
+    </div>
+    <div>
+      <label>TNFirefly Original?</label>
+      <select id="news-tnf"><option value="false">No</option><option value="true">Yes — TNFirefly content</option></select>
+      <label>Featured?</label>
+      <select id="news-featured"><option value="false">No</option><option value="true">Yes — top of feed</option></select>
+    </div>
+  </div>
+  <button class="btn" onclick="submitNews()">Push to GitHub →</button>
+  <div class="status" id="status-news"></div>
+</div>
+
+
+<!-- ENDORSEMENT PANEL -->
+<div class="panel" id="panel-endorsement">
+  <div class="row">
+    <div>
+      <label>Endorser Name</label>
+      <input type="text" id="end-name" placeholder="e.g. Gov. Bill Lee">
+    </div>
+    <div>
+      <label>Endorsing Which Candidate?</label>
+      <select id="end-candidate">
+        <option value="blackburn">Blackburn</option>
+        <option value="rose">Rose</option>
+        <option value="fritts">Fritts</option>
+        <option value="green">Green</option>
+        <option value="atwater">Atwater</option>
+        <option value="kurtz">Kurtz</option>
+      </select>
+    </div>
+  </div>
+  <label>Endorser Role / Title</label>
+  <input type="text" id="end-role" placeholder="e.g. Governor of Tennessee">
+  <label>Type</label>
+  <select id="end-type">
+    <option value="elected">Elected Official</option>
+    <option value="notable">Notable / Business</option>
+    <option value="org">Organization</option>
+    <option value="political">Political Signal</option>
+  </select>
+  <label>Note (optional — why it matters)</label>
+  <textarea id="end-note" placeholder="Context on why this endorsement is significant..."></textarea>
+  <button class="btn" onclick="submitEndorsement()">Push to GitHub →</button>
+  <div class="status" id="status-endorsement"></div>
+</div>
+
+<!-- TIMELINE PANEL -->
+<div class="panel" id="panel-timeline">
+  <label>Event Title</label>
+  <input type="text" id="tl-title" placeholder="e.g. Trump Endorses Blackburn">
+  <div class="row">
+    <div><label>Date</label><input type="date" id="tl-date"></div>
+    <div>
+      <label>Party</label>
+      <select id="tl-party">
+        <option value="neutral">Neutral / General</option>
+        <option value="rep">Republican</option>
+        <option value="dem">Democrat</option>
+        <option value="ind">Independent</option>
+      </select>
+    </div>
+  </div>
+  <label>Description</label>
+  <textarea id="tl-desc" placeholder="What happened and why it matters..."></textarea>
+  <div class="row">
+    <div>
+      <label>Major Event?</label>
+      <select id="tl-major"><option value="false">No</option><option value="true">Yes — milestone</option></select>
+    </div>
+    <div>
+      <label>Future Event?</label>
+      <select id="tl-future"><option value="false">No — already happened</option><option value="true">Yes — upcoming</option></select>
+    </div>
+  </div>
+  <button class="btn" onclick="submitTimeline()">Push to GitHub →</button>
+  <div class="status" id="status-timeline"></div>
+</div>
+
+<!-- WATCHLIST PANEL -->
+<div class="panel" id="panel-watchlist">
+  <label>Action</label>
+  <select id="wl-action" onchange="toggleWatchFields()">
+    <option value="add-watching">Add to "Still Watching"</option>
+    <option value="move-declined">Move to "Declined / Running Elsewhere"</option>
+    <option value="remove">Remove from watchlist (they filed!)</option>
+  </select>
+  <label>Person Name</label>
+  <input type="text" id="wl-name" placeholder="e.g. Tre Hargett">
+  <label>Role / Title</label>
+  <input type="text" id="wl-role" placeholder="e.g. Tennessee Secretary of State">
+  <div class="row">
+    <div>
+      <label>Party</label>
+      <select id="wl-party">
+        <option value="rep">Republican</option>
+        <option value="dem">Democrat</option>
+        <option value="ind">Independent</option>
+      </select>
+    </div>
+    <div id="wl-likelihood-wrap">
+      <label>Likelihood (0-100)</label>
+      <input type="number" id="wl-likelihood" min="0" max="100" value="25">
+    </div>
+  </div>
+  <div id="wl-status-wrap">
+    <label>Status Note</label>
+    <input type="text" id="wl-status" placeholder="e.g. Running for Senate re-election">
+  </div>
+  <label>Detail / Context</label>
+  <textarea id="wl-detail" placeholder="Why they're on the watchlist..."></textarea>
+  <button class="btn" onclick="submitWatchlist()">Push to GitHub →</button>
+  <div class="status" id="status-watchlist"></div>
+</div>
+
+</div><!-- /container -->
+
+<script>
+const REPO = 'LongDriveMarketing/tn-governor-race-2026';
+const BRANCH = 'main';
+
+function switchTab(name) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('panel-' + name).classList.add('active');
+}
+
+function toggleWatchFields() {
+  const action = document.getElementById('wl-action').value;
+  document.getElementById('wl-likelihood-wrap').style.display = action === 'add-watching' ? 'block' : 'none';
+  document.getElementById('wl-status-wrap').style.display = action === 'move-declined' ? 'block' : 'none';
+}
+
+function showStatus(panel, type, msg) {
+  const el = document.getElementById('status-' + panel);
+  el.className = 'status ' + type;
+  el.textContent = msg;
+}
+
+function getToken() {
+  const t = document.getElementById('ghToken').value.trim();
+  if (!t) { alert('Enter your GitHub token first!'); return null; }
+  return t;
+}
+
+// ---- GitHub API helpers ----
+
+async function fetchFile(token, path) {
+  const resp = await fetch(`https://api.github.com/repos/${REPO}/contents/data/${path}?ref=${BRANCH}`, {
+    headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' }
+  });
+  if (!resp.ok) throw new Error(`Failed to fetch ${path}: ${resp.status}`);
+  const data = await resp.json();
+  return {
+    content: JSON.parse(atob(data.content)),
+    sha: data.sha
+  };
+}
+
+async function pushFile(token, path, content, sha, message) {
+  const body = JSON.stringify(content, null, 2);
+  const resp = await fetch(`https://api.github.com/repos/${REPO}/contents/data/${path}`, {
+    method: 'PUT',
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      message: message,
+      content: btoa(unescape(encodeURIComponent(body))),
+      sha: sha,
+      branch: BRANCH
+    })
+  });
+  if (!resp.ok) {
+    const err = await resp.json();
+    throw new Error(err.message || `Push failed: ${resp.status}`);
+  }
+  return true;
+}
+
+</script>
+<script>
+// ---- Submit handlers ----
+
+async function submitNews() {
+  const token = getToken(); if (!token) return;
+  showStatus('news', 'loading', 'Pushing to GitHub...');
+  
+  try {
+    const { content: data, sha } = await fetchFile(token, 'news.json');
+    const title = document.getElementById('news-title').value.trim();
+    if (!title) { showStatus('news', 'error', 'Title is required'); return; }
+    
+    const selectedTags = Array.from(document.getElementById('news-tags').selectedOptions).map(o => o.value);
+    
+    const article = {
+      id: title.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 40),
+      date: document.getElementById('news-date').value || new Date().toISOString().split('T')[0],
+      title: title,
+      summary: document.getElementById('news-summary').value.trim(),
+      source: document.getElementById('news-source').value.trim(),
+      url: document.getElementById('news-url').value.trim(),
+      party: document.getElementById('news-party').value,
+      candidate: document.getElementById('news-candidate').value,
+      tags: selectedTags.length ? selectedTags : ['campaign'],
+      tnfirefly: document.getElementById('news-tnf').value === 'true',
+      featured: document.getElementById('news-featured').value === 'true'
+    };
+    
+    data.articles.unshift(article);
+    data.lastUpdated = new Date().toISOString().split('T')[0];
+    
+    await pushFile(token, 'news.json', data, sha, `Add news: ${title.slice(0, 50)}`);
+    showStatus('news', 'success', `✓ Added "${title}" — live in ~2 min via jsDelivr`);
+    
+    // Clear form
+    ['news-title','news-summary','news-source','news-url'].forEach(id => document.getElementById(id).value = '');
+  } catch (e) {
+    showStatus('news', 'error', `✗ ${e.message}`);
+  }
+}
+
+async function submitEndorsement() {
+  const token = getToken(); if (!token) return;
+  showStatus('endorsement', 'loading', 'Pushing to GitHub...');
+  
+  try {
+    const { content: data, sha } = await fetchFile(token, 'endorsements.json');
+    const name = document.getElementById('end-name').value.trim();
+    if (!name) { showStatus('endorsement', 'error', 'Name is required'); return; }
+    
+    const endorsement = {
+      candidate: document.getElementById('end-candidate').value,
+      name: name,
+      role: document.getElementById('end-role').value.trim(),
+      type: document.getElementById('end-type').value,
+      note: document.getElementById('end-note').value.trim()
+    };
+    
+    data.endorsements.push(endorsement);
+    data.lastUpdated = new Date().toISOString().split('T')[0];
+    
+    // Update count for the candidate
+    const cand = endorsement.candidate;
+    if (data.candidates[cand]) {
+      const current = parseInt(data.candidates[cand].count) || 0;
+      data.candidates[cand].count = String(current + 1);
+    }
+    
+    await pushFile(token, 'endorsements.json', data, sha, `Add endorsement: ${name} → ${cand}`);
+    showStatus('endorsement', 'success', `✓ Added ${name} endorsing ${cand} — live in ~2 min`);
+    
+    ['end-name','end-role','end-note'].forEach(id => document.getElementById(id).value = '');
+  } catch (e) {
+    showStatus('endorsement', 'error', `✗ ${e.message}`);
+  }
+}
+
+async function submitTimeline() {
+  const token = getToken(); if (!token) return;
+  showStatus('timeline', 'loading', 'Pushing to GitHub...');
+  
+  try {
+    const { content: data, sha } = await fetchFile(token, 'timeline.json');
+    const title = document.getElementById('tl-title').value.trim();
+    if (!title) { showStatus('timeline', 'error', 'Title is required'); return; }
+    
+    const event = {
+      date: document.getElementById('tl-date').value || new Date().toISOString().split('T')[0],
+      title: title,
+      desc: document.getElementById('tl-desc').value.trim(),
+      party: document.getElementById('tl-party').value,
+      tags: ['editorial'],
+      future: document.getElementById('tl-future').value === 'true',
+      major: document.getElementById('tl-major').value === 'true'
+    };
+    
+    data.events.push(event);
+    data.events.sort((a, b) => b.date.localeCompare(a.date));
+    data.lastUpdated = new Date().toISOString().split('T')[0];
+    
+    await pushFile(token, 'timeline.json', data, sha, `Add timeline: ${title.slice(0, 50)}`);
+    showStatus('timeline', 'success', `✓ Added "${title}" — live in ~2 min`);
+    
+    ['tl-title','tl-desc'].forEach(id => document.getElementById(id).value = '');
+  } catch (e) {
+    showStatus('timeline', 'error', `✗ ${e.message}`);
+  }
+}
+
+</script>
+<script>
+async function submitWatchlist() {
+  const token = getToken(); if (!token) return;
+  showStatus('watchlist', 'loading', 'Pushing to GitHub...');
+  
+  try {
+    const { content: data, sha } = await fetchFile(token, 'watchlist.json');
+    const action = document.getElementById('wl-action').value;
+    const name = document.getElementById('wl-name').value.trim();
+    if (!name) { showStatus('watchlist', 'error', 'Name is required'); return; }
+    
+    if (action === 'add-watching') {
+      const entry = {
+        name: name,
+        role: document.getElementById('wl-role').value.trim(),
+        party: document.getElementById('wl-party').value,
+        status: 'watching',
+        likelihood: parseInt(document.getElementById('wl-likelihood').value) || 25,
+        detail: document.getElementById('wl-detail').value.trim()
+      };
+      data.watching.push(entry);
+      
+    } else if (action === 'move-declined') {
+      // Remove from watching if present
+      data.watching = data.watching.filter(w => w.name.toLowerCase() !== name.toLowerCase());
+      const entry = {
+        name: name,
+        role: document.getElementById('wl-role').value.trim(),
+        party: document.getElementById('wl-party').value,
+        status: document.getElementById('wl-status').value.trim() || 'Not Running',
+        detail: document.getElementById('wl-detail').value.trim()
+      };
+      data.declined.push(entry);
+      
+    } else if (action === 'remove') {
+      data.watching = data.watching.filter(w => w.name.toLowerCase() !== name.toLowerCase());
+      data.declined = data.declined.filter(d => d.name.toLowerCase() !== name.toLowerCase());
+    }
+    
+    data.lastUpdated = new Date().toISOString().split('T')[0];
+    
+    await pushFile(token, 'watchlist.json', data, sha, `Watchlist: ${action} ${name}`);
+    showStatus('watchlist', 'success', `✓ ${action}: ${name} — live in ~2 min`);
+    
+    ['wl-name','wl-role','wl-status','wl-detail'].forEach(id => document.getElementById(id).value = '');
+  } catch (e) {
+    showStatus('watchlist', 'error', `✗ ${e.message}`);
+  }
+}
+</script>
+
+</body>
+</html>
