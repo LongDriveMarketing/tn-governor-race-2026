@@ -1,37 +1,251 @@
 {
   "lastUpdated": "2026-02-07",
   "candidates": {
-    "blackburn": { "name": "Marsha Blackburn", "count": "40+", "party": "rep", "label": "Republican Frontrunner" },
-    "rose": { "name": "John Rose", "count": "1", "party": "rep", "label": "Republican Challenger" },
-    "green": { "name": "Jerri Green", "count": "2", "party": "dem", "label": "Democratic Frontrunner" }
+    "blackburn": {
+      "name": "Marsha Blackburn",
+      "count": "20+",
+      "party": "rep",
+      "label": "Republican Frontrunner"
+    },
+    "rose": {
+      "name": "John Rose",
+      "count": "0",
+      "party": "rep",
+      "label": "Republican Challenger"
+    },
+    "green": {
+      "name": "Jerri Green",
+      "count": "7",
+      "party": "dem",
+      "label": "Democratic Frontrunner"
+    }
   },
   "endorsements": [
-    { "candidate": "blackburn", "name": "Glenn Jacobs", "role": "Knox County Mayor · Former WWE wrestler 'Kane'", "type": "elected", "note": "Serving as Blackburn's campaign treasurer. Major signal of East TN establishment support." },
-    { "candidate": "blackburn", "name": "Damon Hininger", "role": "CEO, CoreCivic (formerly CCA)", "type": "notable", "note": "Was rumored as potential candidate himself. Brings private prison industry connections and Nashville business establishment." },
-    { "candidate": "blackburn", "name": "Tim Burchett", "role": "U.S. Representative, TN-2", "type": "elected", "note": "Endorsed Aug 18, 2025 via WVLT interview." },
-    { "candidate": "blackburn", "name": "Chuck Fleischmann", "role": "U.S. Representative, TN-3 (Chattanooga)", "type": "elected", "note": "Endorsed Blackburn March 6, 2025 — one of her earliest congressional backers, months before her official campaign launch." },
-    { "candidate": "blackburn", "name": "Jimmy Duncan", "role": "Former U.S. Representative, TN-2 (1988–2019)", "type": "elected", "note": "Endorsed Sept 16, 2025. Long-serving East TN congressman adds institutional credibility." },
-    { "candidate": "blackburn", "name": "Mark Green", "role": "Former U.S. Representative, TN-7", "type": "elected", "note": "Retired from Congress in July 2025. His endorsement of Blackburn over fellow Republican Rose is a notable signal." },
-    { "candidate": "blackburn", "name": "Randy McNally", "role": "Tennessee Lt. Governor / Senate Speaker", "type": "elected", "note": "The state's highest-ranking Republican official after the governor." },
-    { "candidate": "blackburn", "name": "Jack Johnson", "role": "Tennessee Senate Majority Leader", "type": "elected", "note": "Endorsed at campaign launch Aug 6, 2025. Key figure in the income tax fight alongside Blackburn in the early 2000s." },
-    { "candidate": "blackburn", "name": "William Lamberth", "role": "Tennessee House Majority Leader", "type": "elected", "note": "Endorsed at campaign launch Aug 6, 2025. One of the most powerful voices in the state House." },
-    { "candidate": "blackburn", "name": "Ken Yager", "role": "State Senator, TN-12 · Senate Majority Caucus Chair", "type": "elected", "note": "Endorsed at campaign launch Aug 6, 2025." },
-    { "candidate": "blackburn", "name": "Bo Watson", "role": "State Senator, TN-11", "type": "elected", "note": "Endorsed via X post Aug 6, 2025." },
-    { "candidate": "blackburn", "name": "Weston Wamp", "role": "Hamilton County Mayor", "type": "elected", "note": "Endorsed at campaign launch Aug 6, 2025. Highlighted Blackburn's potential as Tennessee's first female governor." },
-    { "candidate": "blackburn", "name": "Joseph Butler", "role": "Former Carroll County Mayor", "type": "elected", "note": "" },
-    { "candidate": "blackburn", "name": "30+ State Legislators", "role": "Tennessee House & Senate Members", "type": "elected", "note": "Includes House leadership (Whip Johnny Garrett, Caucus Chair Jeremy Faison, Asst. Majority Leader Mark Cochran) plus dozens of individual state reps and senators." },
-    { "candidate": "blackburn", "name": "Club for Growth PAC", "role": "National conservative super PAC", "type": "org", "note": "Endorsed Sept 2025. Blackburn is a seven-time winner of their Defender of Economic Freedom Award." },
-    { "candidate": "blackburn", "name": "Tennessee Right to Life", "role": "Anti-abortion advocacy organization", "type": "org", "note": "" },
-    { "candidate": "blackburn", "name": "Susan B. Anthony Pro-Life America", "role": "National anti-abortion PAC", "type": "org", "note": "" },
-    { "candidate": "rose", "name": "92% Tennessee Donors", "role": "Campaign messaging emphasis", "type": "political", "note": "Rose has made his Tennessee donor base a core campaign message, contrasting with Blackburn's 22% in-state rate. No verified endorsements from elected officials as of Feb 2026." },
-    { "candidate": "green", "name": "Steve Cohen", "role": "U.S. Representative, TN-9 (Memphis)", "type": "elected", "note": "Tennessee's only Democratic congressman." },
-    { "candidate": "green", "name": "Tennessee Moms Demand Action", "role": "Gun violence prevention organization (Everytown affiliate)", "type": "org", "note": "Green served as statewide election lead for the organization before running." }
+    {
+      "candidate": "blackburn",
+      "name": "Glenn Jacobs",
+      "role": "Knox County Mayor · Former WWE wrestler 'Kane'",
+      "type": "elected",
+      "note": "Serving as Blackburn's campaign treasurer. Major signal of East TN establishment support."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Damon Hininger",
+      "role": "CEO, CoreCivic (formerly CCA)",
+      "type": "notable",
+      "note": "Was rumored as potential candidate himself. Brings private prison industry connections and Nashville business establishment."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Tim Burchett",
+      "role": "U.S. Representative, TN-2",
+      "type": "elected",
+      "note": "Endorsed Aug 18, 2025 via WVLT interview."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Chuck Fleischmann",
+      "role": "U.S. Representative, TN-3 (Chattanooga)",
+      "type": "elected",
+      "note": "Endorsed Blackburn March 6, 2025 — one of her earliest congressional backers, months before her official campaign launch."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Jimmy Duncan",
+      "role": "Former U.S. Representative, TN-2 (1988–2019)",
+      "type": "elected",
+      "note": "Endorsed Sept 16, 2025. Long-serving East TN congressman adds institutional credibility."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Mark Green",
+      "role": "Former U.S. Representative, TN-7",
+      "type": "elected",
+      "note": "Retired from Congress in July 2025. His endorsement of Blackburn over fellow Republican Rose is a notable signal."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Randy McNally",
+      "role": "Tennessee Lt. Governor / Senate Speaker",
+      "type": "elected",
+      "note": "The state's highest-ranking Republican official after the governor."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Jack Johnson",
+      "role": "Tennessee Senate Majority Leader",
+      "type": "elected",
+      "note": "Endorsed at campaign launch Aug 6, 2025. Key figure in the income tax fight alongside Blackburn in the early 2000s."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "William Lamberth",
+      "role": "Tennessee House Majority Leader",
+      "type": "elected",
+      "note": "Endorsed at campaign launch Aug 6, 2025. One of the most powerful voices in the state House."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Ken Yager",
+      "role": "State Senator, TN-12 · Senate Majority Caucus Chair",
+      "type": "elected",
+      "note": "Endorsed at campaign launch Aug 6, 2025."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Bo Watson",
+      "role": "State Senator, TN-11",
+      "type": "elected",
+      "note": "Endorsed via X post Aug 6, 2025."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Weston Wamp",
+      "role": "Hamilton County Mayor",
+      "type": "elected",
+      "note": "Endorsed at campaign launch Aug 6, 2025. Highlighted Blackburn's potential as Tennessee's first female governor."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Joseph Butler",
+      "role": "Former Carroll County Mayor",
+      "type": "elected",
+      "note": ""
+    },
+    {
+      "candidate": "blackburn",
+      "name": "30+ State Legislators",
+      "role": "Tennessee House & Senate Members",
+      "type": "elected",
+      "note": "Includes House leadership (Whip Johnny Garrett, Caucus Chair Jeremy Faison, Asst. Majority Leader Mark Cochran) plus dozens of individual state reps and senators."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Club for Growth PAC",
+      "role": "National conservative super PAC",
+      "type": "org",
+      "note": "Endorsed Sept 2025. Blackburn is a seven-time winner of their Defender of Economic Freedom Award."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Tennessee Right to Life",
+      "role": "Anti-abortion advocacy organization",
+      "type": "org",
+      "note": ""
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Susan B. Anthony Pro-Life America",
+      "role": "National anti-abortion PAC",
+      "type": "org",
+      "note": ""
+    },
+    {
+      "candidate": "rose",
+      "name": "92% Tennessee Donors",
+      "role": "Campaign messaging emphasis",
+      "type": "political",
+      "note": "Rose has made his Tennessee donor base a core campaign message, contrasting with Blackburn's 22% in-state rate. No verified endorsements from elected officials as of Feb 2026."
+    },
+    {
+      "candidate": "green",
+      "name": "Steve Cohen",
+      "role": "U.S. Representative, TN-9 (Memphis)",
+      "type": "elected",
+      "note": "Tennessee's only Democratic congressman."
+    },
+    {
+      "candidate": "green",
+      "name": "Tennessee Moms Demand Action",
+      "role": "Gun violence prevention organization (Everytown affiliate)",
+      "type": "org",
+      "note": "Green served as statewide election lead for the organization before running."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Aron Maberry",
+      "role": "state representativefrom the 68th district (2025–present)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Lee Reeves",
+      "role": "state representativefrom the 65th district (2025–present)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Jake McCalmon",
+      "role": "state representativefrom the 63rd district (2023–present)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Turning Point Action",
+      "role": "Organizations",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "Lee Harris",
+      "role": "mayor ofShelby County(2018–present) and former minority leader of theTennessee Senate(2015–2018) from the29th district(2015–2018)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "Kent Williams",
+      "role": "former Republican speaker of theTennessee House of Representatives",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "Walter Bailey Jr.",
+      "role": "Civil Rights activist and lawyer",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "Michalyn Easter-Thomas",
+      "role": "Memphis City Councilwoman",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "Sara Kyle",
+      "role": "Tennessee State Senator from the 33rd district",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    }
   ],
   "holdouts": [
-    { "name": "Donald Trump", "role": "President of the United States", "note": "The biggest endorsement in the race. On Jan. 28, 2026, Trump said Tennessee is 'lucky to get Blackburn' as governor — his strongest public signal yet, though he has not issued a formal endorsement." },
-    { "name": "Bill Hagerty", "role": "U.S. Senator", "note": "Running for Senate re-election. Has not endorsed in the governor's race despite being Tennessee's other Republican senator alongside Blackburn." },
-    { "name": "Bill Lee", "role": "Governor of Tennessee", "note": "Term-limited. Said Aug. 13, 2025 he will not endorse anyone in the race. His position on vouchers and education makes his endorsement complicated for any candidate." },
-    { "name": "Tre Hargett", "role": "Secretary of State", "note": "Opted out of running for governor in Aug. 2025. Has not endorsed in the race." }
+    {
+      "name": "Donald Trump",
+      "role": "President of the United States",
+      "note": "The biggest endorsement in the race. On Jan. 28, 2026, Trump said Tennessee is 'lucky to get Blackburn' as governor — his strongest public signal yet, though he has not issued a formal endorsement."
+    },
+    {
+      "name": "Bill Hagerty",
+      "role": "U.S. Senator",
+      "note": "Running for Senate re-election. Has not endorsed in the governor's race despite being Tennessee's other Republican senator alongside Blackburn."
+    },
+    {
+      "name": "Bill Lee",
+      "role": "Governor of Tennessee",
+      "note": "Term-limited. Said Aug. 13, 2025 he will not endorse anyone in the race. His position on vouchers and education makes his endorsement complicated for any candidate."
+    },
+    {
+      "name": "Tre Hargett",
+      "role": "Secretary of State",
+      "note": "Opted out of running for governor in Aug. 2025. Has not endorsed in the race."
+    }
   ],
   "analysis": {
     "blackburn": "Blackburn's endorsement coalition is historically dominant for a Republican primary. She has locked up nearly the entire TN congressional delegation, both legislative chamber leaders, 30+ state legislators, and major conservative organizations including Club for Growth PAC. Rose has not secured a single endorsement from an elected official. With Trump publicly praising Blackburn in January 2026, the institutional picture is overwhelmingly one-sided.",

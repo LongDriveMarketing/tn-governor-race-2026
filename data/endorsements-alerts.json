@@ -1,0 +1,69 @@
+{
+  "generated": "2026-02-07T21:27:08.843995+00:00",
+  "count": 9,
+  "new_endorsements": [
+    {
+      "name": "Aron Maberry",
+      "role": "state representativefrom the 68th district (2025–present)",
+      "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Lee Reeves",
+      "role": "state representativefrom the 65th district (2025–present)",
+      "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Jake McCalmon",
+      "role": "state representativefrom the 63rd district (2023–present)",
+      "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Turning Point Action",
+      "role": "Organizations",
+      "candidate": "blackburn",
+      "type": "org",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Lee Harris",
+      "role": "mayor ofShelby County(2018–present) and former minority leader of theTennessee Senate(2015–2018) from the29th district(2015–2018)",
+      "candidate": "green",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Kent Williams",
+      "role": "former Republican speaker of theTennessee House of Representatives",
+      "candidate": "green",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Walter Bailey Jr.",
+      "role": "Civil Rights activist and lawyer",
+      "candidate": "green",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Michalyn Easter-Thomas",
+      "role": "Memphis City Councilwoman",
+      "candidate": "green",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Sara Kyle",
+      "role": "Tennessee State Senator from the 33rd district",
+      "candidate": "green",
+      "type": "elected",
+      "source": "Wikipedia"
+    }
+  ]
+}
