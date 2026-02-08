@@ -1,29 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Jerri Green — 2026 Tennessee Governor's Race | Tennessee Firefly</title>
+<!-- Jerri Green - Page Header Code Injection -->
+
 <meta name="description" content="Complete profile of Jerri Green's 2026 Tennessee governor campaign: education positions, campaign finance, public safety record, and what it means for Tennessee families.">
 <meta name="author" content="Tennessee Firefly">
 <meta name="designer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="developer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/candidates/jerri-green">
-
-<!-- Open Graph -->
 <meta property="og:title" content="Jerri Green — 2026 TN Governor's Race Tracker">
 <meta property="og:description" content="Memphis Councilwoman Green's campaign profile: $125K raised, Georgetown Law grad, public defender, education stances, and what her candidacy means for Tennessee schools.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.tnfirefly.com/tennessee-governor-race/candidates/jerri-green">
 <meta property="og:site_name" content="Tennessee Firefly">
-
-<!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Jerri Green — 2026 TN Governor's Race">
 <meta name="twitter:description" content="Complete profile: campaign finance, education stances, public safety record, and service history.">
+<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/candidates/jerri-green">
 
-<!-- Schema: Person + Candidate -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -57,8 +48,9 @@
 </script>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Work+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <style>
 :root {
   --navy:#0a1628; --navy-deep:#060e1a; --navy-mid:#111f36; --navy-light:#1a2d4a;
@@ -68,10 +60,10 @@
   --text:#e8e4db; --text-dim:#8a8677; --text-muted:#5a5750;
   --glass:rgba(26,45,74,0.6); --glass-border:rgba(212,168,67,0.15);
 }
-*{margin:0;padding:0;box-sizing:border-box;}
-body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+.gov-tracker,.gov-tracker *{margin:0;padding:0;box-sizing:border-box;}
+.gov-tracker{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
 
-.tracker-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;
+.tracker-bg{position:absolute;top:0;left:0;width:100%;height:100%;z-index:0;
   background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),
   radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.05) 0%,transparent 50%),
   radial-gradient(ellipse at 50% 80%,rgba(39,174,96,0.02) 0%,transparent 50%),var(--navy-deep);}
@@ -90,7 +82,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 /* PROFILE HERO */
 .profile-hero{padding:40px 0 50px;border-bottom:1px solid var(--glass-border);}
 .profile-hero-inner{display:grid;grid-template-columns:auto 1fr;gap:36px;align-items:start;}
-.profile-photo{width:140px;height:140px;border-radius:6px;background:linear-gradient(135deg,var(--navy-mid),var(--navy-light));display:flex;align-items:center;justify-content:center;font-size:52px;font-family:'Playfair Display',serif;color:var(--gold);font-weight:700;border:2px solid var(--glass-border);flex-shrink:0;position:relative;}
+.profile-photo{width:140px;height:140px;border-radius:6px;background:linear-gradient(135deg,var(--navy-mid),var(--navy-light));display:flex;align-items:center;justify-content:center;font-size:52px;font-family:'Playfair Display',serif;color:var(--gold);font-weight:700;border:2px solid var(--glass-border);flex-shrink:0;position:relative;background-size:cover;background-position:center top;overflow:hidden;}
 .profile-photo::after{content:'';position:absolute;bottom:0;left:0;width:100%;height:4px;background:var(--blue-d);border-radius:0 0 4px 4px;}
 .profile-meta h1{font-family:'Playfair Display',serif;font-size:clamp(32px,5vw,52px);font-weight:800;color:var(--white);line-height:1.1;margin-bottom:8px;letter-spacing:-0.5px;}
 .profile-meta .role{font-size:16px;color:var(--text-dim);margin-bottom:12px;font-weight:300;}
@@ -197,15 +189,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 .vote-info p{font-size:13px;color:var(--text-dim);line-height:1.5;}
 
 /* NEWSLETTER */
-.newsletter-section{padding:56px 0;text-align:center;}
-.newsletter-section h2{font-family:'Playfair Display',serif;font-size:32px;font-weight:700;color:var(--white);margin-bottom:8px;}
-.newsletter-section p{font-size:16px;color:var(--text-dim);margin-bottom:24px;max-width:500px;margin-left:auto;margin-right:auto;}
-.nl-form{display:flex;gap:10px;max-width:500px;margin:0 auto;flex-wrap:wrap;justify-content:center;}
-.nl-form input{font-family:'Work Sans',sans-serif;font-size:14px;padding:12px 16px;background:var(--glass);border:1px solid var(--glass-border);border-radius:4px;color:var(--white);flex:1;min-width:140px;outline:none;transition:border-color 0.3s;}
-.nl-form input:focus{border-color:var(--gold-dim);}
-.nl-form input::placeholder{color:var(--text-muted);}
-.nl-form button{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;padding:12px 28px;background:linear-gradient(135deg,var(--gold),var(--gold-bright));color:var(--navy-deep);border:none;border-radius:4px;cursor:pointer;font-weight:700;transition:all 0.3s;flex-shrink:0;}
-.nl-form button:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(212,168,67,0.3);}
+.newsletter-section{padding:60px 0 80px;}
 
 /* CANDIDATE NAV */
 .candidate-nav{padding:40px 0;border-top:1px solid var(--glass-border);}
@@ -220,7 +204,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 .disclaimer a:hover{color:var(--gold);}
 
 /* FIREFLIES */
-.firefly{position:fixed;width:4px;height:4px;border-radius:50%;background:var(--gold);pointer-events:none;z-index:0;}
+.firefly{position:absolute;width:4px;height:4px;border-radius:50%;background:var(--gold);pointer-events:none;z-index:0;}
 .firefly:nth-child(1){top:15%;left:8%;animation:ff1 8s ease-in-out infinite;}
 .firefly:nth-child(2){top:45%;right:5%;animation:ff2 12s ease-in-out infinite;}
 .firefly:nth-child(3){top:70%;left:12%;animation:ff3 10s ease-in-out infinite;}
@@ -243,13 +227,12 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 }
 @media(max-width:480px){
   .stats-grid{grid-template-columns:1fr;}
-  .nl-form{flex-direction:column;}
-  .nl-form input,.nl-form button{min-width:100%;}
   .stat-val{font-size:22px;}
 }
 </style>
-</head>
-<body>
+
+<!-- Page Content (wrapped in .gov-tracker to avoid Squarespace style conflicts) -->
+<div class="gov-tracker" style="position:relative;overflow:hidden;">
 <div class="tracker-bg"></div>
 <div class="firefly"></div><div class="firefly"></div><div class="firefly"></div><div class="firefly"></div>
 
@@ -257,16 +240,12 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 <div class="t-container">
 
 <!-- BREADCRUMB -->
-<nav class="breadcrumb">
-<a href="/tennessee-governor-race">2026 Race</a><span>›</span>
-<a href="/tennessee-governor-race/candidates">Candidates</a><span>›</span>
-Jerri Green
-</nav>
+
 
 <!-- PROFILE HERO -->
 <section class="profile-hero">
 <div class="profile-hero-inner">
-<div class="profile-photo">JG</div>
+<div class="profile-photo" style="background-image:url('https://unavatar.io/x/Jerri_M_Green');font-size:0;color:transparent;"></div>
 <div class="profile-meta">
 <h1>Jerri Green</h1>
 <p class="role">Memphis City Council Member, District 2 · Georgetown Law · Public Defender</p>
@@ -279,6 +258,7 @@ Jerri Green
 </div>
 <div class="profile-links">
 <a href="https://greenforgovernor.com" target="_blank" rel="noopener">Campaign Site ↗</a>
+<a href="https://x.com/Jerri_M_Green" target="_blank" rel="noopener">@Jerri_M_Green</a>
 <a href="https://ballotpedia.org/Jerri_Green" target="_blank" rel="noopener">Ballotpedia ↗</a>
 <a href="https://memphistn.gov/city_council/district-2/" target="_blank" rel="noopener">Council Page ↗</a>
 </div>
@@ -299,17 +279,7 @@ Jerri Green
 </section>
 
 <!-- JUMP NAV -->
-<nav class="jump-nav" id="jumpNav">
-<div class="jump-nav-inner">
-<a href="#bio">Bio</a>
-<a href="#record">Service Record</a>
-<a href="#finance">Campaign Finance</a>
-<a href="#education">Education Stances</a>
-<a href="#issues">Key Issues</a>
-<a href="#endorsements">Endorsements</a>
-<a href="#votes">Council Record</a>
-</div>
-</nav>
+
 
 <!-- BIOGRAPHY -->
 <section class="cp-section" id="bio">
@@ -677,32 +647,21 @@ Jerri Green
 
 <!-- NEWSLETTER CTA -->
 <section class="newsletter-section">
-<h2>Follow the Race</h2>
-<p>Get Tennessee Firefly's nonpartisan coverage of every candidate, every filing, every education vote — delivered to your inbox.</p>
-<form class="nl-form" action="https://www.createsend.com/t/subscribeerror?description=subscribers&id=subscribe" method="post">
-<input type="email" name="cm-email" placeholder="Email address" required>
-<input type="text" name="cm-zip" placeholder="ZIP code">
-<button type="submit">Subscribe</button>
-</form>
+  <div class="t-container">
+    <div id="tf-newsletter" data-theme="light"></div>
+    <script src="https://cdn.jsdelivr.net/gh/LongDriveMarketing/tnfirefly-components@main/tnfirefly-newsletter.js"></script>
+  </div>
 </section>
 
 <!-- CANDIDATE NAV -->
-<nav class="candidate-nav">
-<div class="candidate-nav-inner">
-<a href="../hub-page.html">← All Candidates</a>
-<a href="marsha-blackburn.html">Marsha Blackburn →</a>
-<a href="john-rose.html">John Rose →</a>
-</div>
-</nav>
+
 
 <!-- DISCLAIMER -->
-<footer class="disclaimer">
-<p>Tennessee Firefly is a nonpartisan education journalism project. We do not endorse candidates. All candidate information is compiled from public records, campaign filings, official statements, and news reporting. <a href="https://www.tnfirefly.com">tnfirefly.com</a></p>
-<p style="margin-top:8px;">Designed & developed by <a href="https://longdrivemarketing.com" target="_blank" rel="noopener">Long Drive Marketing</a></p>
-</footer>
+
 
 </div><!-- end t-container -->
 </div><!-- end tracker-page -->
+</div><!-- /gov-tracker -->
 
 <script>
 // Jump nav scroll tracking
@@ -730,5 +689,3 @@ document.querySelectorAll('.fin-bar-fill').forEach(b=>{
   b.dataset.width=b.style.width;b.style.width='0%';observer.observe(b);
 });
 </script>
-</body>
-</html>
