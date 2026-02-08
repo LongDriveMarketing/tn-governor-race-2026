@@ -1,21 +1,20 @@
-# TNFirefly Governor Race Tracker - Automated Data Scraper
-# Runs every 6 hours for news RSS, endorsements, polls, and hub data.
-# Facebook scraping runs separately (see scrape-facebook.yml) once daily.
-# Data is committed to the repo → jsDelivr CDN auto-refreshes.
+# TNFirefly Governor Race - Facebook Scraper (Apify)
+# Runs once daily to pull candidate Facebook posts.
+# Separate from main scraper to manage Apify costs (~$0.24/day for 3 pages).
 
-name: Update Governor Race Data
+name: Update Facebook Posts
 
 on:
   schedule:
-    # Every 6 hours: midnight, 6am, noon, 6pm UTC
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Manual trigger button in GitHub UI
+    # Once daily at 2:00 PM UTC (9 AM Central)
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Manual trigger
 
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  scrape-facebook:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -28,11 +27,13 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests beautifulsoup4
+          pip install apify-client
 
-      - name: Run scrapers
+      - name: Run Facebook scraper
         working-directory: scrapers
-        run: python run_all.py
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: python scrape_facebook.py
 
       - name: Check for changes
         id: changes
@@ -45,6 +46,6 @@ jobs:
           git config user.name "TNFirefly Bot"
           git config user.email "bot@tnfirefly.com"
           git add data/
-          git commit -m "Auto-update: governor race data $(date -u +%Y-%m-%d_%H:%M)"
+          git commit -m "Auto-update: Facebook posts $(date -u +%Y-%m-%d_%H:%M)"
           git pull --rebase origin main
           git push
