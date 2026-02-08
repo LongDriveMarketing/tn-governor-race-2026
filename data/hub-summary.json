@@ -34,38 +34,43 @@
     }
   },
   "latestPoll": {
-    "id": "beacon-jan26",
-    "pollster": "Beacon Center / TennSight",
+    "id": "targoz-market-research-21-a-2026-01-11-republican-primary",
+    "pollster": "Targoz Market Research[21][A]",
+    "pollsterLean": "",
     "date": "2026-01-11",
     "endDate": "2026-01-18",
     "type": "republican_primary",
-    "sampleSize": "1,200 RV",
-    "margin": "±2.77%",
-    "methodology": "Online poll of registered voters, weighted by demographics, party, geography, and behavioral measures",
-    "url": "https://tennsight.com/polls/january-2026/",
-    "pdfUrl": "https://tennsight.com/wp-content/uploads/2026/01/Crosstabs-Party-Ideology-Region-1.26.26.pdf",
+    "sampleSize": "559 (LV)",
+    "margin": "�",
     "results": [
       {
         "candidate": "Blackburn",
         "party": "rep",
-        "pct": 56
+        "pct": 56.0
       },
       {
         "candidate": "Rose",
         "party": "rep",
-        "pct": 9
+        "pct": 9.0
       },
       {
         "candidate": "Fritts",
         "party": "rep",
-        "pct": 7
+        "pct": 7.0
+      },
+      {
+        "candidate": "Other",
+        "party": "",
+        "pct": 1.0
       },
       {
         "candidate": "Undecided",
         "party": "",
-        "pct": 28
+        "pct": 27.0
       }
-    ]
+    ],
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
   },
   "latestNews": [
     {
@@ -89,20 +94,28 @@
   ],
   "raceRatings": [
     {
-      "source": "Cook Political Report",
-      "rating": "Solid Republican"
+      "source": "The Cook Political Report[33]",
+      "rating": "Solid R",
+      "asOf": "September 11, 2025",
+      "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball",
-      "rating": "Safe Republican"
+      "source": "Inside Elections[34]",
+      "rating": "Solid R",
+      "asOf": "August 28, 2025",
+      "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Inside Elections",
-      "rating": "Solid Republican"
+      "source": "Sabato's Crystal Ball[35]",
+      "rating": "Safe R",
+      "asOf": "September 4, 2025",
+      "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH",
-      "rating": "Safe Republican"
+      "source": "Race to the WH[36]",
+      "rating": "Safe R",
+      "asOf": "September 16, 2025",
+      "scrapedFrom": "wikipedia"
     }
   ],
   "watchlistCounts": {
