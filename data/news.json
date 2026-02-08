@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-08",
-  "lastScraped": "2026-02-08T18:09:33.851777+00:00",
+  "lastScraped": "2026-02-08T18:29:16.713719+00:00",
   "articles": [
     {
       "id": "6cb9675406c2",
@@ -73,6 +73,52 @@
       "candidate": "Fritts",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "854744d74421",
+      "date": "2026-02-08",
+      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f384cfe02bf1",
+      "date": "2026-02-08",
+      "title": "Chattanooga Times Free Press: Trump: Tennessee is lucky to get Blackburn for governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9c56ac1cde28",
+      "date": "2026-02-08",
+      "title": "ICYMI: Blackburn: “Tennessee Can Be America’s Conservative Leader, And That’s Why I’m Running For Governor”",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
