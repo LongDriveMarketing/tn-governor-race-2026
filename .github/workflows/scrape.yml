@@ -48,3 +48,13 @@ jobs:
           git commit -m "Auto-update: governor race data $(date -u +%Y-%m-%d_%H:%M)"
           git pull --rebase origin main
           git push
+
+      - name: Purge jsDelivr CDN cache
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          echo "Purging jsDelivr cache..."
+          curl -s "https://purge.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data/news.json" || true
+          curl -s "https://purge.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data/hub-summary.json" || true
+          curl -s "https://purge.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data/endorsements.json" || true
+          curl -s "https://purge.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data/polls.json" || true
+          echo "CDN cache purged."

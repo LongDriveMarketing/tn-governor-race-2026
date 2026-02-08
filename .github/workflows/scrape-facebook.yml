@@ -49,3 +49,10 @@ jobs:
           git commit -m "Auto-update: Facebook posts $(date -u +%Y-%m-%d_%H:%M)"
           git pull --rebase origin main
           git push
+
+      - name: Purge jsDelivr CDN cache
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          echo "Purging jsDelivr cache..."
+          curl -s "https://purge.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data/news.json" || true
+          echo "CDN cache purged."
