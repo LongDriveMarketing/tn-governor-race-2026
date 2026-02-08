@@ -1,29 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>2026 Tennessee Governor's Race Tracker — The Tennessee Firefly</title>
+<!-- Governor Race Hub - Page Header Code Injection -->
+
 <meta name="description" content="Track every candidate, every dollar, and every education stance in Tennessee's 2026 governor's race. Live countdowns, campaign finance data, polls, and TNFirefly's nonpartisan analysis.">
 <meta name="author" content="Tennessee Firefly">
 <meta name="designer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="developer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race">
-
-<!-- Open Graph -->
 <meta property="og:title" content="2026 Tennessee Governor's Race Tracker — Tennessee Firefly">
 <meta property="og:description" content="The definitive tracker: 12 candidates, campaign finance, education stances, polls, endorsements, and what it all means for Tennessee's kids and schools.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.tnfirefly.com/tennessee-governor-race">
 <meta property="og:site_name" content="Tennessee Firefly">
-
-<!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="2026 TN Governor's Race Tracker">
 <meta name="twitter:description" content="Every candidate. Every dollar. Every education vote. Tennessee Firefly's nonpartisan tracker for the 2026 gubernatorial race.">
+<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race">
 
-<!-- Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -58,9 +49,11 @@
   ]
 }
 </script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Work+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <style>
 :root {
   --navy:#0a1628; --navy-deep:#060e1a; --navy-mid:#111f36; --navy-light:#1a2d4a;
@@ -70,11 +63,11 @@
   --text:#e8e4db; --text-dim:#8a8677; --text-muted:#5a5750;
   --glass:rgba(26,45,74,0.6); --glass-border:rgba(212,168,67,0.15);
 }
-*{margin:0;padding:0;box-sizing:border-box;}
-body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+.gov-tracker,.gov-tracker *{margin:0;padding:0;box-sizing:border-box;}
+.gov-tracker{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
 
 /* BG */
-.tracker-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;
+.tracker-bg{position:absolute;top:0;left:0;width:100%;height:100%;z-index:0;
   background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),
   radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.03) 0%,transparent 50%),
   radial-gradient(ellipse at 50% 80%,rgba(192,57,43,0.02) 0%,transparent 50%),var(--navy-deep);}
@@ -133,7 +126,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 .cand-card.ind::before{background:var(--green-ind);}
 .cand-card.ind::before{background:var(--green-ind);}
 .cand-card-top{display:flex;gap:18px;margin-bottom:16px;}
-.cand-photo{width:72px;height:72px;border-radius:4px;background:var(--navy);display:flex;align-items:center;justify-content:center;font-size:28px;font-family:'Playfair Display',serif;color:var(--gold);font-weight:700;flex-shrink:0;border:1px solid var(--glass-border);}
+.cand-photo{width:72px;height:72px;border-radius:4px;background:var(--navy);display:flex;align-items:center;justify-content:center;font-size:28px;font-family:'Playfair Display',serif;color:var(--gold);font-weight:700;flex-shrink:0;border:1px solid var(--glass-border);background-size:cover;background-position:center top;overflow:hidden;}
 .cand-info h3{font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:var(--white);margin-bottom:4px;line-height:1.2;}
 .cand-info .cand-role{font-size:13px;color:var(--text-dim);margin-bottom:6px;}
 .cand-info .cand-status{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;font-weight:600;}
@@ -172,7 +165,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 .edu-preview h3{font-family:'Playfair Display',serif;font-size:28px;color:var(--white);margin-bottom:12px;}
 .edu-preview p{color:var(--text-dim);max-width:600px;margin:0 auto 28px;line-height:1.6;}
 .edu-issues{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-bottom:32px;}
-.edu-tag{padding:8px 16px;background:rgba(212,168,67,0.08);border:1px solid var(--glass-border);border-radius:3px;font-size:12px;color:var(--gold);font-weight:500;transition:all 0.3s;}
+.edu-tag{padding:8px 16px;background:rgba(212,168,67,0.08);border:1px solid var(--glass-border);border-radius:3px;font-size:12px;color:var(--gold);font-weight:500;transition:all 0.3s;text-decoration:none;}
 .edu-tag:hover{background:rgba(212,168,67,0.15);border-color:var(--gold-dim);}
 
 /* === TIMELINE PREVIEW === */
@@ -217,7 +210,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 .disclaimer a{color:var(--gold-dim);text-decoration:none;}
 
 /* === FIREFLY ACCENTS === */
-.firefly{position:fixed;width:3px;height:3px;background:var(--gold-bright);border-radius:50%;pointer-events:none;z-index:0;opacity:0;animation:firefly-float 8s ease-in-out infinite;}
+.firefly{position:absolute;width:3px;height:3px;background:var(--gold-bright);border-radius:50%;pointer-events:none;z-index:0;opacity:0;animation:firefly-float 8s ease-in-out infinite;}
 @keyframes firefly-float{0%{opacity:0;transform:translateY(0) translateX(0);}15%{opacity:0.6;}50%{opacity:0.3;transform:translateY(-120px) translateX(40px);}85%{opacity:0.5;}100%{opacity:0;transform:translateY(-250px) translateX(-20px);}}
 
 /* === RESPONSIVE === */
@@ -237,9 +230,9 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
   .hero h1{font-size:32px;}
 }
 </style>
-</head>
-<body>
 
+<!-- Page Content (wrapped in .gov-tracker to avoid Squarespace style conflicts) -->
+<div class="gov-tracker" style="position:relative;overflow:hidden;">
 <div class="tracker-bg"></div>
 
 <!-- Firefly accents -->
@@ -293,9 +286,9 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
     <div class="party-label"><span class="party-dot rep"></span><span>Republican Primary · August 6, 2026</span></div>
     <div class="candidate-grid">
       <!-- Blackburn -->
-      <div class="cand-card rep" onclick="location.href='candidates/marsha-blackburn.html'">
+      <div class="cand-card rep" onclick="location.href='/tennessee-governor-race/candidates/marsha-blackburn'">
         <div class="cand-card-top">
-          <div class="cand-photo">MB</div>
+          <div class="cand-photo" style="background-image:url('https://unavatar.io/x/VoteMarsha');font-size:0;color:transparent;"></div>
           <div class="cand-info">
             <h3>Marsha Blackburn</h3>
             <div class="cand-role">U.S. Senator</div>
@@ -310,9 +303,9 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
       </div>
 
       <!-- Rose -->
-      <div class="cand-card rep" onclick="location.href='candidates/john-rose.html'">
+      <div class="cand-card rep" onclick="location.href='/tennessee-governor-race/candidates/john-rose'">
         <div class="cand-card-top">
-          <div class="cand-photo">JR</div>
+          <div class="cand-photo" style="background-image:url('https://unavatar.io/x/JohnRoseforTN');font-size:0;color:transparent;"></div>
           <div class="cand-info">
             <h3>John Rose</h3>
             <div class="cand-role">U.S. Representative, TN-6</div>
@@ -327,9 +320,9 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
       </div>
 
       <!-- Fritts -->
-      <div class="cand-card rep" onclick="location.href='candidates/monty-fritts.html'">
+      <div class="cand-card rep" onclick="location.href='/tennessee-governor-race/candidates/monty-fritts'">
         <div class="cand-card-top">
-          <div class="cand-photo">MF</div>
+          <div class="cand-photo" style="background-image:url('https://unavatar.io/x/MontyFritts4TN');font-size:0;color:transparent;"></div>
           <div class="cand-info">
             <h3>Monty Fritts</h3>
             <div class="cand-role">State Representative, 32nd Dist.</div>
@@ -344,7 +337,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
       </div>
 
       <!-- Pellegra -->
-      <div class="cand-card rep" onclick="location.href='candidates/other-candidates.html'">
+      <div class="cand-card rep" onclick="location.href='/tennessee-governor-race/candidates/other-candidates'">
         <div class="cand-card-top">
           <div class="cand-photo">CP</div>
           <div class="cand-info">
@@ -365,9 +358,9 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
     <div class="party-label" style="margin-top:32px;"><span class="party-dot dem"></span><span>Democratic Primary · August 6, 2026</span></div>
     <div class="candidate-grid">
       <!-- Green -->
-      <div class="cand-card dem" onclick="location.href='candidates/jerri-green.html'">
+      <div class="cand-card dem" onclick="location.href='/tennessee-governor-race/candidates/jerri-green'">
         <div class="cand-card-top">
-          <div class="cand-photo">JG</div>
+          <div class="cand-photo" style="background-image:url('https://unavatar.io/x/Jerri_M_Green');font-size:0;color:transparent;"></div>
           <div class="cand-info">
             <h3>Jerri Green</h3>
             <div class="cand-role">Memphis City Council, Dist. 2</div>
@@ -382,7 +375,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
       </div>
 
       <!-- Atwater -->
-      <div class="cand-card dem" onclick="location.href='candidates/other-candidates.html'">
+      <div class="cand-card dem" onclick="location.href='/tennessee-governor-race/candidates/other-candidates'">
         <div class="cand-card-top">
           <div class="cand-photo">CA</div>
           <div class="cand-info">
@@ -399,7 +392,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
       </div>
 
       <!-- Kurtz -->
-      <div class="cand-card dem" onclick="location.href='candidates/other-candidates.html'">
+      <div class="cand-card dem" onclick="location.href='/tennessee-governor-race/candidates/other-candidates'">
         <div class="cand-card-top">
           <div class="cand-photo">AK</div>
           <div class="cand-info">
@@ -416,7 +409,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
       </div>
 
       <!-- Cyr -->
-      <div class="cand-card dem" onclick="location.href='candidates/other-candidates.html'">
+      <div class="cand-card dem" onclick="location.href='/tennessee-governor-race/candidates/other-candidates'">
         <div class="cand-card-top">
           <div class="cand-photo">TC</div>
           <div class="cand-info">
@@ -436,7 +429,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
     <!-- Independents -->
     <div class="party-label" style="margin-top:32px;"><span class="party-dot ind"></span><span>Independent · General Election · November 3, 2026</span></div>
     <div class="candidate-grid">
-      <div class="cand-card ind" onclick="location.href='candidates/other-candidates.html'">
+      <div class="cand-card ind" onclick="location.href='/tennessee-governor-race/candidates/other-candidates'">
         <div class="cand-card-top">
           <div class="cand-photo">4</div>
           <div class="cand-info">
@@ -475,6 +468,10 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
         <div class="money-bar-wrap">
           <div class="money-bar-label"><span>Raised</span><span>$5.35M</span></div>
           <div class="money-bar"><div class="money-bar-fill raised" style="width:83%;"></div></div>
+        </div>
+        <div class="money-bar-wrap">
+          <div class="money-bar-label"><span>Cash on Hand</span><span>$3.75M</span></div>
+          <div class="money-bar"><div class="money-bar-fill coh" style="width:58%;"></div></div>
         </div>
         <div class="money-bar-wrap">
           <div class="money-bar-label"><span>Spent</span><span>$1.6M</span></div>
@@ -522,6 +519,10 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
           <div class="money-bar-label"><span>Cash on Hand</span><span>$95K</span></div>
           <div class="money-bar"><div class="money-bar-fill coh" style="width:76%;"></div></div>
         </div>
+        <div class="money-bar-wrap">
+          <div class="money-bar-label"><span>Spent</span><span>$30K</span></div>
+          <div class="money-bar"><div class="money-bar-fill spent" style="width:24%;"></div></div>
+        </div>
 
         <div class="money-tn-badge">📊 Largest Democratic war chest by far</div>
       </div>
@@ -552,16 +553,16 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
       <h3>The Issues That Matter for Tennessee's Kids</h3>
       <p>Every outlet tracks polls and money. Only TNFirefly breaks down what each candidate's platform means for Tennessee students, teachers, and families.</p>
       <div class="edu-issues">
-        <span class="edu-tag">School Choice & Vouchers</span>
-        <span class="edu-tag">Teacher Pay & Recruitment</span>
-        <span class="edu-tag">TCAP & Testing Standards</span>
-        <span class="edu-tag">Charter Schools</span>
-        <span class="edu-tag">Workforce Readiness</span>
-        <span class="edu-tag">Pre-K & Early Childhood</span>
-        <span class="edu-tag">Higher Education</span>
-        <span class="edu-tag">School Safety</span>
-        <span class="edu-tag">Special Education</span>
-        <span class="edu-tag">Funding Formula</span>
+        <a href="/tennessee-governor-race/education-stances#vouchers" class="edu-tag">School Choice & Vouchers</a>
+        <a href="/tennessee-governor-race/education-stances#teacher-pay" class="edu-tag">Teacher Pay & Recruitment</a>
+        <a href="/tennessee-governor-race/education-stances#testing" class="edu-tag">TCAP & Testing Standards</a>
+        <a href="/tennessee-governor-race/education-stances#charter" class="edu-tag">Charter Schools</a>
+        <a href="/tennessee-governor-race/education-stances#workforce" class="edu-tag">Workforce Readiness</a>
+        <a href="/tennessee-governor-race/education-stances#early-childhood" class="edu-tag">Pre-K & Early Childhood</a>
+        <a href="/tennessee-governor-race/education-stances#higher-ed" class="edu-tag">Higher Education</a>
+        <a href="/tennessee-governor-race/education-stances#safety" class="edu-tag">School Safety</a>
+        <a href="/tennessee-governor-race/education-stances#public-funding" class="edu-tag">Special Education</a>
+        <a href="/tennessee-governor-race/education-stances#public-funding" class="edu-tag">Funding Formula</a>
       </div>
       <a href="/tennessee-governor-race/education-stances" class="nl-btn" style="display:inline-block;text-decoration:none;">Compare Candidates on Education →</a>
     </div>
@@ -585,7 +586,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
       <div class="tl-item">
         <div class="tl-date">JAN 29, 2026</div>
         <div class="tl-text"><strong>Fritts calls for execution of parents of trans children</strong> — Podcast appearance goes viral via Right Wing Watch. Rep. Monty Fritts advocates capital punishment for parents, guardians, and doctors involved in gender-affirming care for minors. Draws national condemnation.</div>
-        <div class="tl-source"><a href="candidates/monty-fritts.html#controversies">Full Profile →</a></div>
+        <div class="tl-source"><a href="/tennessee-governor-race/candidates/monty-fritts#controversies">Full Profile →</a></div>
       </div>
       <div class="tl-item">
         <div class="tl-date">JAN 9, 2026</div>
@@ -638,7 +639,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
         <h4>Education Stances</h4>
         <p>Side-by-side comparison on the issues that matter for TN kids</p>
       </a>
-      <a href="/tennessee-governor-race/money" class="nav-card">
+      <a href="/tennessee-governor-race/finance" class="nav-card">
         <h4>Campaign Finance</h4>
         <p>Follow the money — who's funding the race and where it's going</p>
       </a>
@@ -669,28 +670,21 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 <!-- ====== NEWSLETTER ====== -->
 <section class="newsletter-section" id="newsletter">
   <div class="t-container">
-    <div class="newsletter-box">
-      <h3>Follow the Race</h3>
-      <p>Get governor's race updates delivered to your inbox with <strong>The Signal</strong>, TNFirefly's free newsletter.</p>
-      <div class="nl-form">
-        <input type="email" class="nl-input" placeholder="Your email address">
-        <input type="text" class="nl-input" placeholder="ZIP code" style="max-width:120px;min-width:100px;">
-        <button class="nl-btn">Subscribe</button>
-      </div>
-      <div style="font-size:11px;color:var(--text-muted);margin-top:12px;">Free. Unsubscribe anytime. We never share your information.</div>
-    </div>
+    <div id="tf-newsletter" data-theme="light"></div>
+    <script src="https://cdn.jsdelivr.net/gh/LongDriveMarketing/tnfirefly-components@main/tnfirefly-newsletter.js"></script>
   </div>
 </section>
 
 <!-- ====== DISCLAIMER ====== -->
 <section class="disclaimer">
   <div class="t-container">
-    <p>This tracker is produced by <a href="https://www.tnfirefly.com">The Tennessee Firefly</a>, an independent education journalism outlet covering all 95 Tennessee counties. All information is sourced from public records, official filings, and verified reporting. We do not endorse candidates. Factual information is clearly separated from analysis. <a href="/about">Learn more about our standards</a>.</p>
-    <p style="margin-top:8px;">Designed &amp; developed by <a href="https://longdrivemarketing.com" target="_blank" rel="noopener">Long Drive Marketing</a></p>
+    <p>This tracker is produced by <strong>The Tennessee Firefly</strong>, an education journalism outlet covering all 95 Tennessee counties. All information is sourced from public records, official filings, and verified reporting. We do not endorse candidates. Factual information is clearly separated from analysis. <a href="/about">Learn more about our standards</a>.</p>
   </div>
 </section>
+<!-- Built by Long Drive Marketing · longdrivemarketing.com -->
 
 </div><!-- /tracker-page -->
+</div><!-- /gov-tracker -->
 
 <script>
 // Countdown calculator
@@ -777,5 +771,3 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
   }
 })();
 </script>
-</body>
-</html>

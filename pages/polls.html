@@ -1,22 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Polls & Projections — 2026 TN Governor's Race | Tennessee Firefly</title>
+<!-- Polls - Page Header Code Injection -->
+
 <meta name="description" content="Polling data, race ratings, and analysis for the 2026 Tennessee governor's race.">
 <meta name="author" content="Tennessee Firefly">
 <meta name="designer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="developer" content="Long Drive Marketing - longdrivemarketing.com">
 <link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/polls">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Work+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <style>
 :root{--navy:#0a1628;--navy-deep:#060e1a;--navy-mid:#111f36;--navy-light:#1a2d4a;--gold:#d4a843;--gold-bright:#f0c654;--gold-dim:#a07e2e;--red-r:#c0392b;--blue-d:#2980b9;--green-ind:#27ae60;--white:#f8f6f1;--text:#e8e4db;--text-dim:#8a8677;--text-muted:#5a5750;--glass-border:rgba(212,168,67,0.15);}
-*{margin:0;padding:0;box-sizing:border-box;}
-body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
-.tracker-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.03) 0%,transparent 50%),radial-gradient(ellipse at 50% 80%,rgba(192,57,43,0.02) 0%,transparent 50%),var(--navy-deep);}
+.gov-tracker,.gov-tracker *{margin:0;padding:0;box-sizing:border-box;}
+.gov-tracker{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+.tracker-bg{position:absolute;top:0;left:0;width:100%;height:100%;z-index:0;background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.03) 0%,transparent 50%),radial-gradient(ellipse at 50% 80%,rgba(192,57,43,0.02) 0%,transparent 50%),var(--navy-deep);}
 .tracker-bg::after{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background-image:linear-gradient(rgba(212,168,67,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(212,168,67,0.03) 1px,transparent 1px);background-size:60px 60px;pointer-events:none;}
 .tracker-page{position:relative;z-index:1;}.t-container{max-width:1000px;margin:0 auto;padding:0 24px;}
 .breadcrumb{padding:20px 0 0;font-size:13px;color:var(--text-muted);}.breadcrumb a{color:var(--gold-dim);text-decoration:none;}.breadcrumb a:hover{color:var(--gold);}.breadcrumb span{margin:0 8px;opacity:0.4;}
@@ -43,11 +41,12 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 @media(max-width:768px){.ratings-grid{grid-template-columns:1fr 1fr;}.context-stats{grid-template-columns:1fr 1fr;}.page-hero{padding:32px 0 28px;}}
 @media(max-width:480px){.ratings-grid{grid-template-columns:1fr;}.context-stats{grid-template-columns:1fr;}.nl-form{flex-direction:column;}}
 </style>
-</head>
-<body>
+
+<!-- Page Content (wrapped in .gov-tracker to avoid Squarespace style conflicts) -->
+<div class="gov-tracker" style="position:relative;overflow:hidden;">
 <div class="tracker-bg"></div>
 <div class="tracker-page">
-<div class="t-container"><div class="breadcrumb"><a href="https://www.tnfirefly.com">TNFirefly</a><span>›</span><a href="hub-page.html">Governor's Race</a><span>›</span>Polls</div></div>
+<div class="t-container"><div class="breadcrumb"><a href="https://www.tnfirefly.com">TNFirefly</a><span>›</span><a href="/tennessee-governor-race">Governor's Race</a><span>›</span>Polls</div></div>
 <section class="page-hero"><div class="t-container"><div class="hero-eyebrow">📊 POLLS & PROJECTIONS</div><h1>Where They <em>Stand</em></h1><p class="hero-desc">Polling data, race ratings, and analysis for the 2026 Tennessee governor's race. Updated as new polls are released.</p></div></section>
 
 <!-- RACE RATINGS -->
@@ -68,6 +67,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 <section class="newsletter-section"><div class="t-container"><div class="newsletter-box"><h3>Get Race Updates in Your Inbox</h3><p>The Signal delivers Tennessee education and politics coverage weekly.</p><div class="nl-form"><input type="email" class="nl-input" placeholder="Your email address"><button class="nl-btn">Subscribe →</button></div></div></div></section>
 <section class="disclaimer"><div class="t-container"><p>Tennessee Firefly is an independent education journalism project of <a href="https://www.tnfirefly.com">Tennesseans for Student Success</a>. Governor's race tracker designed and built by <a href="https://longdrivemarketing.com" target="_blank">Long Drive Marketing</a>.</p></div></section>
 </div>
+</div><!-- /gov-tracker -->
 
 <script>
 const CDN = 'https://cdn.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data';
@@ -137,5 +137,3 @@ function renderAnalysis(text) {
 
 loadPolls();
 </script>
-</body>
-</html>

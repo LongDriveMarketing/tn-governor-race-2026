@@ -1,0 +1,705 @@
+<!-- Candidates Landing Page - Page Header Code Injection -->
+
+<meta name="description" content="Meet every candidate running for Tennessee Governor in 2026. Compare Republicans Marsha Blackburn, John Rose, and Monty Fritts, Democrat Jerri Green, and all declared candidates with bios, fundraising data, and education stances.">
+<meta name="author" content="Tennessee Firefly">
+<meta name="designer" content="Long Drive Marketing - longdrivemarketing.com">
+<meta name="developer" content="Long Drive Marketing - longdrivemarketing.com">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="2026 Tennessee Governor Candidates — Tennessee Firefly">
+<meta property="og:description" content="Every declared candidate for Tennessee Governor in 2026. Compare bios, fundraising, education stances, and endorsements side by side.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.tnfirefly.com/tennessee-governor-race/candidates">
+<meta property="og:site_name" content="Tennessee Firefly">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="2026 Tennessee Governor Candidates">
+<meta name="twitter:description" content="Meet the candidates: Blackburn, Rose, Fritts, Green, and more. Bios, money, and where they stand on education.">
+<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/candidates">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "2026 Tennessee Governor Candidates",
+  "description": "All declared candidates for the 2026 Tennessee gubernatorial election",
+  "url": "https://www.tnfirefly.com/tennessee-governor-race/candidates",
+  "numberOfItems": 12,
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Marsha Blackburn","url":"https://www.tnfirefly.com/tennessee-governor-race/candidates/marsha-blackburn"},
+    {"@type":"ListItem","position":2,"name":"John Rose","url":"https://www.tnfirefly.com/tennessee-governor-race/candidates/john-rose"},
+    {"@type":"ListItem","position":3,"name":"Monty Fritts","url":"https://www.tnfirefly.com/tennessee-governor-race/candidates/monty-fritts"},
+    {"@type":"ListItem","position":4,"name":"Cito Pellegra"},
+    {"@type":"ListItem","position":5,"name":"Jerri Green","url":"https://www.tnfirefly.com/tennessee-governor-race/candidates/jerri-green"},
+    {"@type":"ListItem","position":6,"name":"Carnita Atwater"},
+    {"@type":"ListItem","position":7,"name":"Adam Kurtz"},
+    {"@type":"ListItem","position":8,"name":"Tim Cyr"}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Tennessee Firefly","item":"https://www.tnfirefly.com"},
+    {"@type":"ListItem","position":2,"name":"Governor's Race","item":"https://www.tnfirefly.com/tennessee-governor-race"},
+    {"@type":"ListItem","position":3,"name":"Candidates"}
+  ]
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Work+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<style>
+:root {
+  --navy:#0a1628; --navy-deep:#060e1a; --navy-mid:#111f36; --navy-light:#1a2d4a;
+  --gold:#d4a843; --gold-bright:#f0c654; --gold-dim:#a07e2e;
+  --red-r:#c0392b; --blue-d:#2980b9; --green-ind:#27ae60;
+  --white:#f8f6f1; --cream:#f0ece3;
+  --text:#e8e4db; --text-dim:#8a8677; --text-muted:#5a5750;
+  --glass:rgba(26,45,74,0.6); --glass-border:rgba(212,168,67,0.15);
+}
+.gov-tracker,.gov-tracker *{margin:0;padding:0;box-sizing:border-box;}
+.gov-tracker{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+.gov-tracker a{text-decoration:none;color:inherit;}
+
+/* BG */
+.tracker-bg{position:absolute;top:0;left:0;width:100%;height:100%;z-index:0;
+  background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),
+  radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.03) 0%,transparent 50%),
+  radial-gradient(ellipse at 50% 80%,rgba(192,57,43,0.02) 0%,transparent 50%),var(--navy-deep);}
+.tracker-bg::after{content:'';position:absolute;top:0;left:0;right:0;bottom:0;
+  background-image:linear-gradient(rgba(212,168,67,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(212,168,67,0.03) 1px,transparent 1px);
+  background-size:60px 60px;pointer-events:none;}
+.tracker-page{position:relative;z-index:1;}
+.t-container{max-width:1200px;margin:0 auto;padding:0 24px;}
+
+/* HERO */
+.cand-hero{padding:80px 0 48px;text-align:center;position:relative;overflow:hidden;}
+.cand-hero::before{content:'';position:absolute;top:0;left:50%;transform:translateX(-50%);width:1px;height:80px;background:linear-gradient(to bottom,transparent,var(--gold));opacity:0.5;}
+.cand-breadcrumb{display:flex;justify-content:center;gap:8px;align-items:center;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-muted);margin-bottom:24px;padding-top:20px;}
+.cand-breadcrumb a{color:var(--gold);transition:color 0.3s;}
+.cand-breadcrumb a:hover{color:var(--gold-bright);}
+.cand-breadcrumb .sep{color:var(--text-muted);}
+.cand-hero h1{font-family:'Playfair Display',serif;font-size:clamp(32px,5vw,56px);font-weight:800;line-height:1.1;color:var(--white);margin-bottom:16px;letter-spacing:-0.5px;}
+.cand-hero h1 em{font-style:italic;color:var(--gold);font-weight:600;}
+.cand-hero-sub{font-size:17px;color:var(--text-dim);max-width:640px;margin:0 auto 32px;line-height:1.6;font-weight:300;}
+.cand-hero-stats{display:flex;justify-content:center;gap:48px;flex-wrap:wrap;padding:24px 0;border-top:1px solid var(--glass-border);border-bottom:1px solid var(--glass-border);}
+.chs-item{text-align:center;}
+.chs-val{font-family:'JetBrains Mono',monospace;font-size:28px;font-weight:600;color:var(--gold-bright);}
+.chs-label{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-top:4px;}
+
+/* QUICK COMPARE TABLE */
+.compare-section{padding:48px 0;}
+.section-header{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:32px;flex-wrap:wrap;gap:16px;border-bottom:1px solid var(--glass-border);padding-bottom:16px;}
+.section-header h2{font-family:'Playfair Display',serif;font-size:28px;font-weight:700;color:var(--white);}
+.section-header .section-tag{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);border:1px solid var(--gold-dim);padding:6px 14px;border-radius:2px;}
+
+.compare-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin-bottom:16px;}
+.compare-table{width:100%;border-collapse:collapse;font-size:13px;min-width:700px;}
+.compare-table thead th{background:var(--navy-mid);color:var(--gold);font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:12px 16px;text-align:left;border-bottom:2px solid var(--gold-dim);white-space:nowrap;position:sticky;top:0;}
+.compare-table tbody td{padding:14px 16px;border-bottom:1px solid rgba(255,255,255,0.04);vertical-align:middle;color:var(--text);}
+.compare-table tbody tr{background:var(--navy-deep);transition:background 0.2s;}
+.compare-table tbody tr:hover{background:var(--navy-mid);}
+.compare-table tbody tr:nth-child(even){background:rgba(17,31,54,0.4);}
+.compare-table tbody tr:nth-child(even):hover{background:var(--navy-mid);}
+.ct-name{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--white);}
+.ct-name a{color:var(--white);transition:color 0.3s;}
+.ct-name a:hover{color:var(--gold);}
+.ct-party{display:inline-block;width:8px;height:8px;border-radius:2px;margin-right:8px;}
+.ct-party.rep{background:var(--red-r);}
+.ct-party.dem{background:var(--blue-d);}
+.ct-party.ind{background:var(--green-ind);}
+.ct-money{font-family:'JetBrains Mono',monospace;font-weight:600;color:var(--gold-bright);}
+.ct-status{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;font-weight:600;display:inline-block;}
+.ct-status.frontrunner{background:rgba(212,168,67,0.15);color:var(--gold-bright);border:1px solid var(--gold-dim);}
+.ct-status.declared{background:rgba(255,255,255,0.06);color:var(--text-dim);border:1px solid rgba(255,255,255,0.1);}
+.ct-status.filed{background:rgba(255,255,255,0.03);color:var(--text-muted);border:1px solid rgba(255,255,255,0.06);}
+.ct-arrow{color:var(--gold);font-size:16px;transition:transform 0.3s;}
+.compare-table tbody tr:hover .ct-arrow{transform:translateX(4px);}
+
+/* PARTY LABELS */
+.party-section{padding:48px 0 0;}
+.party-label{display:flex;align-items:center;gap:10px;margin-bottom:24px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);}
+.party-dot{width:10px;height:10px;border-radius:2px;}
+.party-dot.rep{background:var(--red-r);}
+.party-dot.dem{background:var(--blue-d);}
+.party-dot.ind{background:var(--green-ind);}
+.party-label span{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--text-dim);}
+
+/* CANDIDATE CARDS - EXPANDED */
+.candidate-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:24px;margin-bottom:40px;}
+.cand-card{background:linear-gradient(135deg,var(--navy-mid),var(--navy-light));border:1px solid var(--glass-border);border-radius:4px;padding:32px;position:relative;overflow:hidden;transition:all 0.4s cubic-bezier(0.25,0.8,0.25,1);cursor:pointer;display:flex;flex-direction:column;}
+.cand-card:hover{border-color:var(--gold-dim);transform:translateY(-3px);box-shadow:0 12px 40px rgba(0,0,0,0.3);}
+.cand-card::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;transition:height 0.3s;}
+.cand-card.rep::before{background:var(--red-r);}
+.cand-card.dem::before{background:var(--blue-d);}
+.cand-card.ind::before{background:var(--green-ind);}
+.cand-card-top{display:flex;gap:18px;margin-bottom:16px;}
+.cand-photo{width:80px;height:80px;border-radius:4px;background:var(--navy);display:flex;align-items:center;justify-content:center;font-size:28px;font-family:'Playfair Display',serif;color:var(--gold);font-weight:700;flex-shrink:0;border:1px solid var(--glass-border);background-size:cover;background-position:center top;overflow:hidden;}
+.cand-info h3{font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:var(--white);margin-bottom:4px;line-height:1.2;}
+.cand-info .cand-role{font-size:13px;color:var(--text-dim);margin-bottom:8px;line-height:1.4;}
+.cand-tags{display:flex;flex-wrap:wrap;gap:6px;}
+.cand-tag{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:2px;font-weight:600;}
+.cand-tag.frontrunner{background:rgba(212,168,67,0.15);color:var(--gold-bright);border:1px solid var(--gold-dim);}
+.cand-tag.declared{background:rgba(255,255,255,0.06);color:var(--text-dim);border:1px solid rgba(255,255,255,0.1);}
+.cand-tag.filed{background:rgba(255,255,255,0.03);color:var(--text-muted);border:1px solid rgba(255,255,255,0.06);}
+.cand-tag.voucher-yes{background:rgba(39,174,96,0.12);color:#27ae60;border:1px solid rgba(39,174,96,0.3);}
+.cand-tag.voucher-no{background:rgba(192,57,43,0.12);color:#e74c3c;border:1px solid rgba(192,57,43,0.3);}
+.cand-tag.voucher-unk{background:rgba(255,255,255,0.04);color:var(--text-muted);border:1px solid rgba(255,255,255,0.06);}
+.cand-tag.voucher-lean{background:rgba(212,175,55,0.12);color:var(--gold);border:1px solid rgba(212,175,55,0.3);}
+.cand-tag.voucher-none{background:rgba(255,255,255,0.04);color:var(--text-dim);border:1px solid rgba(255,255,255,0.08);font-style:italic;}
+
+/* COMPARE LEGEND */
+.compare-legend{display:flex;flex-wrap:wrap;gap:16px 28px;padding:16px 0 0;margin-top:12px;border-top:1px solid var(--glass-border);align-items:center;}
+.legend-item{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--text-dim);}
+.legend-link{font-size:11px;color:var(--text-muted);margin-left:auto;}
+.legend-link a{color:var(--gold);text-decoration:none;}
+.legend-link a:hover{color:var(--gold-bright);}
+
+.cand-bio{font-size:14px;line-height:1.7;color:var(--text-dim);margin-bottom:20px;flex-grow:1;}
+.cand-stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:16px;}
+.cand-stat{background:rgba(0,0,0,0.2);padding:10px 12px;border-radius:3px;}
+.cand-stat-val{font-family:'JetBrains Mono',monospace;font-size:16px;font-weight:600;color:var(--white);line-height:1;}
+.cand-stat-label{font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:1px;margin-top:3px;}
+.cand-profile-link{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--gold);font-weight:500;transition:all 0.3s;margin-top:auto;}
+.cand-profile-link:hover{color:var(--gold-bright);gap:10px;}
+.cand-profile-link .arrow{transition:transform 0.3s;}
+.cand-card:hover .cand-profile-link .arrow{transform:translateX(4px);}
+
+/* CTA BANNER */
+.cta-banner{padding:48px 0;}
+.cta-box{background:linear-gradient(135deg,var(--navy-mid),rgba(26,45,74,0.8));border:1px solid var(--glass-border);border-radius:4px;padding:48px;text-align:center;position:relative;overflow:hidden;}
+.cta-box::before{content:'';position:absolute;top:-50%;left:-50%;width:200%;height:200%;background:radial-gradient(circle at center,rgba(212,168,67,0.03) 0%,transparent 50%);pointer-events:none;}
+.cta-box h3{font-family:'Playfair Display',serif;font-size:24px;color:var(--white);margin-bottom:12px;}
+.cta-box p{color:var(--text-dim);max-width:500px;margin:0 auto 24px;line-height:1.6;font-size:15px;}
+.cta-links{display:flex;justify-content:center;gap:16px;flex-wrap:wrap;}
+.cta-link{padding:12px 28px;border-radius:3px;font-size:14px;font-weight:600;transition:all 0.3s;display:inline-block;}
+.cta-link.primary{background:var(--gold);color:var(--navy-deep);}
+.cta-link.primary:hover{background:var(--gold-bright);transform:translateY(-2px);}
+.cta-link.secondary{border:1px solid var(--gold-dim);color:var(--gold);}
+.cta-link.secondary:hover{background:rgba(212,168,67,0.1);border-color:var(--gold);}
+
+/* NEWSLETTER */
+.newsletter-section{padding:48px 0;}
+.newsletter-box{background:linear-gradient(135deg,var(--navy-mid),var(--navy-light));border:2px solid var(--gold-dim);border-radius:4px;padding:48px;text-align:center;position:relative;overflow:hidden;}
+.newsletter-box h3{font-family:'Playfair Display',serif;font-size:24px;color:var(--white);margin-bottom:8px;}
+.newsletter-box p{color:var(--text-dim);font-size:15px;margin-bottom:24px;}
+.newsletter-box p strong{color:var(--white);}
+.nl-form{display:flex;gap:8px;max-width:640px;margin:0 auto 12px;justify-content:center;flex-wrap:wrap;}
+.nl-input{flex:1;padding:12px 16px;background:var(--navy-deep);border:1px solid var(--glass-border);border-radius:3px;color:var(--white);font-size:14px;font-family:'Work Sans',sans-serif;}
+.nl-input::placeholder{color:var(--text-muted);}
+.nl-btn{padding:12px 28px;background:var(--gold);color:var(--navy-deep);font-family:'Work Sans',sans-serif;font-weight:700;font-size:14px;border:none;border-radius:3px;cursor:pointer;transition:all 0.3s;text-transform:uppercase;letter-spacing:1px;}
+.nl-btn:hover{background:var(--gold-bright);transform:translateY(-1px);}
+.nl-fine{font-size:12px;color:var(--text-muted);}
+
+/* BOTTOM NAV */
+.bottom-nav{padding:48px 0;border-top:1px solid var(--glass-border);}
+.nav-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;}
+.nav-card{display:block;background:var(--navy-mid);border:1px solid var(--glass-border);border-radius:4px;padding:24px;transition:all 0.3s;}
+.nav-card:hover{border-color:var(--gold-dim);transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,0.2);}
+.nav-card h4{font-family:'Playfair Display',serif;font-size:16px;color:var(--white);margin-bottom:6px;}
+.nav-card p{font-size:12px;color:var(--text-dim);line-height:1.5;}
+
+/* DISCLAIMER */
+.disclaimer{padding:40px 0;text-align:center;}
+.disclaimer p{font-size:11px;color:var(--text-muted);line-height:1.7;max-width:700px;margin:0 auto;}
+.disclaimer a{color:var(--gold);text-decoration:none;}
+.disclaimer a:hover{color:var(--gold-bright);}
+
+/* FIREFLIES */
+.firefly{position:absolute;width:3px;height:3px;background:var(--gold-bright);border-radius:50%;pointer-events:none;opacity:0;}
+@keyframes ff1{0%,100%{opacity:0;transform:translate(0,0)}25%{opacity:0.6}60%{opacity:0.8;transform:translate(40px,-60px)}100%{opacity:0;transform:translate(80px,-20px)}}
+@keyframes ff2{0%,100%{opacity:0;transform:translate(0,0)}30%{opacity:0.5}50%{opacity:0.7;transform:translate(-50px,-40px)}100%{opacity:0;transform:translate(-20px,-80px)}}
+@keyframes ff3{0%,100%{opacity:0;transform:translate(0,0)}20%{opacity:0.4}70%{opacity:0.6;transform:translate(30px,50px)}100%{opacity:0;transform:translate(60px,10px)}}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  .cand-hero{padding:60px 0 36px;}
+  .cand-hero h1{font-size:clamp(28px,7vw,42px);}
+  .cand-hero-stats{gap:24px;}
+  .candidate-grid{grid-template-columns:1fr;}
+  .compare-table{font-size:12px;}
+  .nav-grid{grid-template-columns:1fr 1fr;}
+  .cta-box{padding:32px 20px;}
+  .nl-form{flex-direction:column;}
+}
+@media(max-width:480px){
+  .cand-hero-stats{gap:16px;}
+  .chs-val{font-size:22px;}
+  .nav-grid{grid-template-columns:1fr;}
+  .cta-links{flex-direction:column;align-items:center;}
+}
+</style>
+
+<!-- Page Content -->
+<div class="gov-tracker" style="position:relative;overflow:hidden;">
+<div class="tracker-bg"></div>
+<div class="tracker-page">
+
+<!-- HERO -->
+<section class="cand-hero">
+  <div class="t-container">
+    <div class="cand-breadcrumb">
+      <a href="/tennessee-governor-race">Governor's Race</a>
+      <span class="sep">→</span>
+      <span>Candidates</span>
+    </div>
+    <h1>Meet the <em>Candidates</em></h1>
+    <p class="cand-hero-sub">Every declared candidate for Tennessee Governor in 2026 — who they are, what they've raised, and where they stand on education.</p>
+    <div class="cand-hero-stats">
+      <div class="chs-item"><div class="chs-val">4</div><div class="chs-label">Republicans</div></div>
+      <div class="chs-item"><div class="chs-val">4</div><div class="chs-label">Democrats</div></div>
+      <div class="chs-item"><div class="chs-val">4</div><div class="chs-label">Independents</div></div>
+      <div class="chs-item"><div class="chs-val">$12M+</div><div class="chs-label">Total Raised</div></div>
+    </div>
+    <!-- Fireflies -->
+    <div class="firefly" style="top:15%;left:10%;animation:ff1 8s ease-in-out infinite 0s;"></div>
+    <div class="firefly" style="top:60%;right:12%;animation:ff2 10s ease-in-out infinite 2s;"></div>
+    <div class="firefly" style="top:40%;left:70%;animation:ff3 9s ease-in-out infinite 4s;"></div>
+  </div>
+</section>
+
+<!-- QUICK COMPARE -->
+<section class="compare-section">
+  <div class="t-container">
+    <div class="section-header">
+      <h2>At a Glance</h2>
+      <span class="section-tag">Quick Compare</span>
+    </div>
+    <div class="compare-table-wrap">
+      <table class="compare-table">
+        <thead>
+          <tr><th>Candidate</th><th>Party</th><th>Raised</th><th>Vouchers</th><th>School Choice</th><th>Charters</th><th>Teacher Pay</th><th>TCAP</th><th>Workforce</th><th></th></tr>
+        </thead>
+        <tbody>
+          <tr onclick="location.href='/tennessee-governor-race/candidates/marsha-blackburn'" style="cursor:pointer;">
+            <td><span class="ct-name"><a href="/tennessee-governor-race/candidates/marsha-blackburn">Marsha Blackburn</a></span></td>
+            <td><span class="ct-party rep"></span>R</td>
+            <td class="ct-money">$5.35M</td>
+            <td><span class="cand-tag voucher-yes">Supports</span></td>
+            <td><span class="cand-tag voucher-yes">Supports</span></td>
+            <td><span class="cand-tag voucher-yes">Supports</span></td>
+            <td><span class="cand-tag voucher-none">No Position</span></td>
+            <td><span class="cand-tag voucher-none">No Position</span></td>
+            <td><span class="cand-tag voucher-none">No Position</span></td>
+            <td><span class="ct-arrow">→</span></td>
+          </tr>
+          <tr onclick="location.href='/tennessee-governor-race/candidates/john-rose'" style="cursor:pointer;">
+            <td><span class="ct-name"><a href="/tennessee-governor-race/candidates/john-rose">John Rose</a></span></td>
+            <td><span class="ct-party rep"></span>R</td>
+            <td class="ct-money">$6.46M</td>
+            <td><span class="cand-tag voucher-yes">Supports</span></td>
+            <td><span class="cand-tag voucher-lean">Nuanced</span></td>
+            <td><span class="cand-tag voucher-lean">Nuanced</span></td>
+            <td><span class="cand-tag voucher-yes">Supports</span></td>
+            <td><span class="cand-tag voucher-none">No Position</span></td>
+            <td><span class="cand-tag voucher-yes">Supports</span></td>
+            <td><span class="ct-arrow">→</span></td>
+          </tr>
+          <tr onclick="location.href='/tennessee-governor-race/candidates/monty-fritts'" style="cursor:pointer;">
+            <td><span class="ct-name"><a href="/tennessee-governor-race/candidates/monty-fritts">Monty Fritts</a></span></td>
+            <td><span class="ct-party rep"></span>R</td>
+            <td class="ct-money">$11K</td>
+            <td><span class="cand-tag voucher-no">Opposes</span></td>
+            <td><span class="cand-tag voucher-no">Opposes</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="ct-arrow">→</span></td>
+          </tr>
+          <tr>
+            <td><span class="ct-name">Cito Pellegra</span></td>
+            <td><span class="ct-party rep"></span>R</td>
+            <td class="ct-money">$0</td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td></td>
+          </tr>
+          <tr onclick="location.href='/tennessee-governor-race/candidates/jerri-green'" style="cursor:pointer;">
+            <td><span class="ct-name"><a href="/tennessee-governor-race/candidates/jerri-green">Jerri Green</a></span></td>
+            <td><span class="ct-party dem"></span>D</td>
+            <td class="ct-money">$125K</td>
+            <td><span class="cand-tag voucher-no">Opposes</span></td>
+            <td><span class="cand-tag voucher-no">Opposes</span></td>
+            <td><span class="cand-tag voucher-none">No Position</span></td>
+            <td><span class="cand-tag voucher-yes">Supports</span></td>
+            <td><span class="cand-tag voucher-none">No Position</span></td>
+            <td><span class="cand-tag voucher-lean">Nuanced</span></td>
+            <td><span class="ct-arrow">→</span></td>
+          </tr>
+          <tr>
+            <td><span class="ct-name">Carnita Atwater</span></td>
+            <td><span class="ct-party dem"></span>D</td>
+            <td class="ct-money">—</td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><span class="ct-name">Adam "Ditch" Kurtz</span></td>
+            <td><span class="ct-party dem"></span>D</td>
+            <td class="ct-money">$9.5K</td>
+            <td><span class="cand-tag voucher-no">Opposes</span></td>
+            <td><span class="cand-tag voucher-no">Opposes</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><span class="ct-name">Tim Cyr</span></td>
+            <td><span class="ct-party dem"></span>D</td>
+            <td class="ct-money">$0</td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><span class="ct-name">4 Independents</span></td>
+            <td><span class="ct-party ind"></span>I</td>
+            <td class="ct-money">—</td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td><span class="cand-tag voucher-unk">Unknown</span></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="compare-legend">
+      <span class="legend-item"><span class="cand-tag voucher-yes">Supports</span> Clear supportive position</span>
+      <span class="legend-item"><span class="cand-tag voucher-lean">Nuanced</span> Supports with conditions or unique angle</span>
+      <span class="legend-item"><span class="cand-tag voucher-no">Opposes</span> Clear opposing position</span>
+      <span class="legend-item"><span class="cand-tag voucher-none">No Position</span> Hasn't publicly addressed</span>
+      <span class="legend-item"><span class="cand-tag voucher-unk">Unknown</span> Insufficient public info</span>
+      <span class="legend-link">Based on TNFirefly reporting · <a href="/tennessee-governor-race/education-stances">See full education stances →</a></span>
+    </div>
+  </div>
+</section>
+
+<!-- ====== REPUBLICAN CANDIDATES ====== -->
+<section class="party-section">
+  <div class="t-container">
+    <div class="party-label"><span class="party-dot rep"></span><span>Republican Primary · August 6, 2026</span></div>
+    <div class="candidate-grid">
+
+      <!-- Blackburn -->
+      <div class="cand-card rep" onclick="location.href='/tennessee-governor-race/candidates/marsha-blackburn'">
+        <div class="cand-card-top">
+          <div class="cand-photo" style="background-image:url('https://unavatar.io/x/VoteMarsha');font-size:0;color:transparent;">MB</div>
+          <div class="cand-info">
+            <h3>Marsha Blackburn</h3>
+            <div class="cand-role">U.S. Senator from Tennessee · Williamson County</div>
+            <div class="cand-tags">
+              <span class="cand-tag frontrunner">★ Frontrunner</span>
+              <span class="cand-tag voucher-yes">Pro-Voucher</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Close ally of President Trump with statewide name recognition from two Senate elections. Co-sponsored federal school choice legislation and championed Tennessee's Education Freedom Act. If elected, would be Tennessee's first female governor and would appoint her own Senate replacement.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">$5.35M</div><div class="cand-stat-label">Raised</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">33,000</div><div class="cand-stat-label">Contributions</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">$3.8M</div><div class="cand-stat-label">Cash on Hand</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">8 yrs</div><div class="cand-stat-label">In Senate</div></div>
+        </div>
+        <div class="cand-profile-link">View Full Profile <span class="arrow">→</span></div>
+      </div>
+
+      <!-- Rose -->
+      <div class="cand-card rep" onclick="location.href='/tennessee-governor-race/candidates/john-rose'">
+        <div class="cand-card-top">
+          <div class="cand-photo" style="background-image:url('https://unavatar.io/x/JohnRoseforTN');font-size:0;color:transparent;">JR</div>
+          <div class="cand-info">
+            <h3>John Rose</h3>
+            <div class="cand-role">U.S. Representative, TN-6 · Cookeville</div>
+            <div class="cand-tags">
+              <span class="cand-tag declared">Declared</span>
+              <span class="cand-tag voucher-yes">Pro-Voucher</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Family farmer, IT businessman, and former Commissioner of Agriculture under Gov. Sundquist. Self-funded $5M into his campaign and already running TV ads statewide. Touts that 92% of his contributions come from Tennessee donors — a direct contrast to Blackburn's national fundraising base.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">$6.46M</div><div class="cand-stat-label">War Chest</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">92%</div><div class="cand-stat-label">From TN</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">$5M</div><div class="cand-stat-label">Self-Funded</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">3 terms</div><div class="cand-stat-label">In Congress</div></div>
+        </div>
+        <div class="cand-profile-link">View Full Profile <span class="arrow">→</span></div>
+      </div>
+
+      <!-- Fritts -->
+      <div class="cand-card rep" onclick="location.href='/tennessee-governor-race/candidates/monty-fritts'">
+        <div class="cand-card-top">
+          <div class="cand-photo" style="background-image:url('https://unavatar.io/x/MontyFritts4TN');font-size:0;color:transparent;">MF</div>
+          <div class="cand-info">
+            <h3>Monty Fritts</h3>
+            <div class="cand-role">State Representative, 32nd Dist. · Oak Ridge</div>
+            <div class="cand-tags">
+              <span class="cand-tag declared">Declared</span>
+              <span class="cand-tag voucher-no">Anti-Voucher</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Anti-establishment Army veteran and Y-12 nuclear complex manager. One of roughly 20 House Republicans to vote against school vouchers. Generated national headlines in January 2026 for calling for execution of parents and doctors of transgender children on a podcast appearance.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">$11K</div><div class="cand-stat-label">House Fund</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">Anti-Voucher</div><div class="cand-stat-label">Key Stance</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">Veteran</div><div class="cand-stat-label">U.S. Army</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">Y-12</div><div class="cand-stat-label">Current Job</div></div>
+        </div>
+        <div class="cand-profile-link">View Full Profile <span class="arrow">→</span></div>
+      </div>
+
+      <!-- Pellegra -->
+      <div class="cand-card rep">
+        <div class="cand-card-top">
+          <div class="cand-photo">CP</div>
+          <div class="cand-info">
+            <h3>Cito Pellegra</h3>
+            <div class="cand-role">Arlington, TN</div>
+            <div class="cand-tags">
+              <span class="cand-tag filed">Filed</span>
+              <span class="cand-tag voucher-unk">Vouchers Unknown</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Filed to run in the Republican primary. No campaign website, no campaign finance reports, no public platform, and no media coverage. A ballot-only candidate with no apparent active campaign.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">$0</div><div class="cand-stat-label">Raised</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">None</div><div class="cand-stat-label">Platform</div></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ====== DEMOCRATIC CANDIDATES ====== -->
+<section class="party-section">
+  <div class="t-container">
+    <div class="party-label"><span class="party-dot dem"></span><span>Democratic Primary · August 6, 2026</span></div>
+    <div class="candidate-grid">
+
+      <!-- Green -->
+      <div class="cand-card dem" onclick="location.href='/tennessee-governor-race/candidates/jerri-green'">
+        <div class="cand-card-top">
+          <div class="cand-photo" style="background-image:url('https://unavatar.io/x/Jerri_M_Green');font-size:0;color:transparent;">JG</div>
+          <div class="cand-info">
+            <h3>Jerri Green</h3>
+            <div class="cand-role">Memphis City Council, District 2</div>
+            <div class="cand-tags">
+              <span class="cand-tag frontrunner">★ Dem Frontrunner</span>
+              <span class="cand-tag voucher-no">Anti-Voucher</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Georgetown Law grad, former public defender, and three-time gun violence survivor. The only Democrat with current elected office experience. Building an "army of moms" coalition focused on public school funding, maternal healthcare, and gun violence prevention.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">$125K</div><div class="cand-stat-label">Raised</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">1st</div><div class="cand-stat-label">Among Dems</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">Georgetown</div><div class="cand-stat-label">Law School</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">3x</div><div class="cand-stat-label">Gun Violence Survivor</div></div>
+        </div>
+        <div class="cand-profile-link">View Full Profile <span class="arrow">→</span></div>
+      </div>
+
+      <!-- Atwater -->
+      <div class="cand-card dem">
+        <div class="cand-card-top">
+          <div class="cand-photo">CA</div>
+          <div class="cand-info">
+            <h3>Carnita Atwater</h3>
+            <div class="cand-role">Community Advocate · Memphis</div>
+            <div class="cand-tags">
+              <span class="cand-tag declared">Declared</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Museum president and Memphis community leader. Ran for governor in 2022 (3rd in Dem primary) and Memphis mayor in 2023. First African American woman to run for Tennessee governor. Focused on racial equity, healthcare, and community advocacy.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">—</div><div class="cand-stat-label">Raised</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">2nd Run</div><div class="cand-stat-label">For Gov</div></div>
+        </div>
+      </div>
+
+      <!-- Kurtz -->
+      <div class="cand-card dem">
+        <div class="cand-card-top">
+          <div class="cand-photo">AK</div>
+          <div class="cand-info">
+            <h3>Adam "Ditch" Kurtz</h3>
+            <div class="cand-role">Musician · Nashville</div>
+            <div class="cand-tags">
+              <span class="cand-tag declared">Declared</span>
+              <span class="cand-tag voucher-no">Anti-Voucher</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Nashville pedal steel guitarist running a no-corporate-money grassroots campaign. "I'm a people." Supports free healthcare, eliminating grocery tax, raising minimum wage, and legalizing marijuana with tax revenue directed to public schools.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">$9.5K</div><div class="cand-stat-label">Raised</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">Grassroots</div><div class="cand-stat-label">No Corp $</div></div>
+        </div>
+      </div>
+
+      <!-- Cyr -->
+      <div class="cand-card dem">
+        <div class="cand-card-top">
+          <div class="cand-photo">TC</div>
+          <div class="cand-info">
+            <h3>Tim Cyr</h3>
+            <div class="cand-role">Gallatin, TN</div>
+            <div class="cand-tags">
+              <span class="cand-tag filed">Filed</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">"Tennessee Tim" moved to TN in 2017. Previously ran for Illinois House in 2010. No campaign website, no platform, and minimal public profile. A ballot-only candidate in the Democratic primary.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">$0</div><div class="cand-stat-label">Raised</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">None</div><div class="cand-stat-label">Platform</div></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ====== INDEPENDENT CANDIDATES ====== -->
+<section class="party-section">
+  <div class="t-container">
+    <div class="party-label"><span class="party-dot ind"></span><span>Independent · General Election · November 3, 2026</span></div>
+    <div class="candidate-grid">
+
+      <div class="cand-card ind">
+        <div class="cand-card-top">
+          <div class="cand-photo">SM</div>
+          <div class="cand-info">
+            <h3>Stephen Maxwell</h3>
+            <div class="cand-role">Military Veteran & Nonprofit Leader</div>
+            <div class="cand-tags">
+              <span class="cand-tag filed">Filed</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Most detailed platform among the independents. Military veteran and nonprofit leader who has outlined positions on multiple policy areas. Filed to appear on the November general election ballot, bypassing the primary process entirely.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">—</div><div class="cand-stat-label">Raised</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">0%</div><div class="cand-stat-label">Polling</div></div>
+        </div>
+      </div>
+
+      <div class="cand-card ind">
+        <div class="cand-card-top">
+          <div class="cand-photo">3+</div>
+          <div class="cand-info">
+            <h3>3 Other Independents</h3>
+            <div class="cand-role">Pinkston · Reddy · Vick</div>
+            <div class="cand-tags">
+              <span class="cand-tag filed">Filed</span>
+            </div>
+          </div>
+        </div>
+        <div class="cand-bio">Three additional independents have filed for the general election ballot. All have minimal public profiles, no campaign websites, and no reported campaign finance activity. Ballot-only candidates with no apparent active campaigns.</div>
+        <div class="cand-stats">
+          <div class="cand-stat"><div class="cand-stat-val">$0</div><div class="cand-stat-label">Combined Raised</div></div>
+          <div class="cand-stat"><div class="cand-stat-val">None</div><div class="cand-stat-label">Platform</div></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ====== CTA: EXPLORE MORE ====== -->
+<section class="cta-banner">
+  <div class="t-container">
+    <div class="cta-box">
+      <h3>Go Deeper on the Race</h3>
+      <p>Compare where candidates stand on vouchers, funding, and teacher pay. Follow the money. See who's endorsed whom.</p>
+      <div class="cta-links">
+        <a href="/tennessee-governor-race/education-stances" class="cta-link primary">Education Stances</a>
+        <a href="/tennessee-governor-race/finance" class="cta-link secondary">Campaign Finance</a>
+        <a href="/tennessee-governor-race/endorsements" class="cta-link secondary">Endorsements</a>
+        <a href="/tennessee-governor-race/polls" class="cta-link secondary">Polls</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ====== NEWSLETTER ====== -->
+<section class="newsletter-section">
+  <div class="t-container">
+    <div id="tf-newsletter" data-theme="light"></div>
+    <script src="https://cdn.jsdelivr.net/gh/LongDriveMarketing/tnfirefly-components@main/tnfirefly-newsletter.js"></script>
+  </div>
+</section>
+
+<!-- ====== EXPLORE THE TRACKER ====== -->
+<section class="bottom-nav">
+  <div class="t-container">
+    <div class="section-header">
+      <h2>Explore the Tracker</h2>
+    </div>
+    <div class="nav-grid">
+      <a href="/tennessee-governor-race" class="nav-card">
+        <h4>← Race Hub</h4>
+        <p>The full tracker — countdown, candidates, money, timeline, and more.</p>
+      </a>
+      <a href="/tennessee-governor-race/education-stances" class="nav-card">
+        <h4>Education Stances</h4>
+        <p>Where every candidate stands on vouchers, funding, and teacher pay.</p>
+      </a>
+      <a href="/tennessee-governor-race/finance" class="nav-card">
+        <h4>Campaign Finance</h4>
+        <p>Who's raising what, where it's coming from, and how they're spending it.</p>
+      </a>
+      <a href="/tennessee-governor-race/endorsements" class="nav-card">
+        <h4>Endorsements</h4>
+        <p>Every endorsement in the race — from Trump to teacher unions.</p>
+      </a>
+      <a href="/tennessee-governor-race/polls" class="nav-card">
+        <h4>Polls</h4>
+        <p>Latest polling data and trend analysis.</p>
+      </a>
+      <a href="/tennessee-governor-race/timeline" class="nav-card">
+        <h4>Timeline</h4>
+        <p>Key events, announcements, and milestones in the race.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- DISCLAIMER -->
+<section class="disclaimer">
+  <div class="t-container">
+    <p>This tracker is produced by <strong>The Tennessee Firefly</strong>, an education journalism outlet covering all 95 Tennessee counties. All information is sourced from public records, official filings, and verified reporting. We do not endorse candidates. Factual information is clearly separated from analysis. <a href="/about">Learn more about our standards</a>. <a href="/tennessee-governor-race">Back to Race Hub →</a></p>
+  </div>
+</section>
+<!-- Built by Long Drive Marketing · longdrivemarketing.com -->
+
+</div><!-- /tracker-page -->
+</div><!-- /gov-tracker -->
+
+<script src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>

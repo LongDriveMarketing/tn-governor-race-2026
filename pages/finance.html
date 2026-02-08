@@ -1,19 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Campaign Finance — 2026 TN Governor's Race | Tennessee Firefly</title>
+<!-- Campaign Finance - Page Header Code Injection -->
+
 <meta name="description" content="Follow the money in Tennessee's 2026 governor's race. Campaign finance data for every candidate — who's raising, who's spending, and where the money comes from.">
 <meta name="author" content="Tennessee Firefly">
 <meta name="designer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="developer" content="Long Drive Marketing - longdrivemarketing.com">
-<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/finance">
 <meta property="og:title" content="Campaign Finance — 2026 TN Governor's Race | Tennessee Firefly">
 <meta property="og:description" content="Follow the money. Campaign finance data for every 2026 Tennessee governor candidate.">
+<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/finance">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Work+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <style>
 :root {
   --navy:#0a1628;--navy-deep:#060e1a;--navy-mid:#111f36;--navy-light:#1a2d4a;
@@ -23,9 +21,9 @@
   --text:#e8e4db;--text-dim:#8a8677;--text-muted:#5a5750;
   --glass:rgba(26,45,74,0.6);--glass-border:rgba(212,168,67,0.15);
 }
-*{margin:0;padding:0;box-sizing:border-box;}
-body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
-.tracker-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;
+.gov-tracker,.gov-tracker *{margin:0;padding:0;box-sizing:border-box;}
+.gov-tracker{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+.tracker-bg{position:absolute;top:0;left:0;width:100%;height:100%;z-index:0;
   background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),
   radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.03) 0%,transparent 50%),
   radial-gradient(ellipse at 50% 80%,rgba(192,57,43,0.02) 0%,transparent 50%),var(--navy-deep);}
@@ -94,15 +92,16 @@ a{color:var(--gold-dim);text-decoration:none;}a:hover{color:var(--gold);}
 @media(max-width:768px){.wc-row{grid-template-columns:1fr;gap:4px;}.wc-name{font-size:13px;}.donor-grid{grid-template-columns:1fr;}}
 @media(max-width:480px){.nl-form{flex-direction:column;}}
 </style>
-</head>
-<body>
+
+<!-- Page Content (wrapped in .gov-tracker to avoid Squarespace style conflicts) -->
+<div class="gov-tracker" style="position:relative;overflow:hidden;">
 <div class="tracker-bg"></div>
 <div class="tracker-page">
 
 <div class="t-container">
   <div class="breadcrumb">
     <a href="https://www.tnfirefly.com">TNFirefly</a><span>›</span>
-    <a href="hub-page.html">Governor's Race</a><span>›</span>
+    <a href="/tennessee-governor-race">Governor's Race</a><span>›</span>
     Campaign Finance
   </div>
 </div>
@@ -142,6 +141,8 @@ a{color:var(--gold-dim);text-decoration:none;}a:hover{color:var(--gold);}
 </section>
 
 </div>
+</div><!-- /gov-tracker -->
+
 <script>
 const CDN = 'https://cdn.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data';
 
@@ -253,5 +254,3 @@ async function loadFinance() {
 
 loadFinance();
 </script>
-</body>
-</html>

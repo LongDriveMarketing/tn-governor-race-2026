@@ -1,25 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Endorsements — 2026 TN Governor's Race | Tennessee Firefly</title>
+<!-- Endorsements - Page Header Code Injection -->
+
 <meta name="description" content="Who's backing whom in Tennessee's 2026 governor's race. Every endorsement from elected officials, organizations, and political leaders — tracked by Tennessee Firefly.">
 <meta name="author" content="Tennessee Firefly">
 <meta name="designer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="developer" content="Long Drive Marketing - longdrivemarketing.com">
-<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/endorsements">
 <meta property="og:title" content="2026 TN Governor's Race Endorsements — Tennessee Firefly">
 <meta property="og:description" content="Who's backing whom. Every endorsement from elected officials, organizations, and political leaders in Tennessee's gubernatorial race.">
 <meta property="og:type" content="article">
+<link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/endorsements">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Work+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <style>
 :root{--navy:#0a1628;--navy-deep:#060e1a;--navy-mid:#111f36;--navy-light:#1a2d4a;--gold:#d4a843;--gold-bright:#f0c654;--gold-dim:#a07e2e;--red-r:#c0392b;--blue-d:#2980b9;--green-ind:#27ae60;--white:#f8f6f1;--cream:#f0ece3;--text:#e8e4db;--text-dim:#8a8677;--text-muted:#5a5750;--glass:rgba(26,45,74,0.6);--glass-border:rgba(212,168,67,0.15);}
-*{margin:0;padding:0;box-sizing:border-box;}
-body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
-.tracker-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.03) 0%,transparent 50%),radial-gradient(ellipse at 50% 80%,rgba(192,57,43,0.02) 0%,transparent 50%),var(--navy-deep);}
+.gov-tracker,.gov-tracker *{margin:0;padding:0;box-sizing:border-box;}
+.gov-tracker{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--text);-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+.tracker-bg{position:absolute;top:0;left:0;width:100%;height:100%;z-index:0;background:radial-gradient(ellipse at 20% 50%,rgba(212,168,67,0.04) 0%,transparent 50%),radial-gradient(ellipse at 80% 20%,rgba(41,128,185,0.03) 0%,transparent 50%),radial-gradient(ellipse at 50% 80%,rgba(192,57,43,0.02) 0%,transparent 50%),var(--navy-deep);}
 .tracker-bg::after{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background-image:linear-gradient(rgba(212,168,67,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(212,168,67,0.03) 1px,transparent 1px);background-size:60px 60px;pointer-events:none;}
 .tracker-page{position:relative;z-index:1;}
 .t-container{max-width:1200px;margin:0 auto;padding:0 24px;}
@@ -91,12 +89,13 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 @media(max-width:768px){.endorse-grid{grid-template-columns:1fr;}.score-row{grid-template-columns:1fr 1fr;}.absence-grid{grid-template-columns:1fr;}.page-hero{padding:32px 0 28px;}}
 @media(max-width:480px){.score-row{grid-template-columns:1fr;}.nl-form{flex-direction:column;}}
 </style>
-</head>
-<body>
+
+<!-- Page Content (wrapped in .gov-tracker to avoid Squarespace style conflicts) -->
+<div class="gov-tracker" style="position:relative;overflow:hidden;">
 <div class="tracker-bg"></div>
 <div class="tracker-page">
 
-<div class="t-container"><div class="breadcrumb"><a href="https://www.tnfirefly.com">TNFirefly</a><span>›</span><a href="hub-page.html">Governor's Race</a><span>›</span>Endorsements</div></div>
+<div class="t-container"><div class="breadcrumb"><a href="https://www.tnfirefly.com">TNFirefly</a><span>›</span><a href="/tennessee-governor-race">Governor's Race</a><span>›</span>Endorsements</div></div>
 
 <section class="page-hero">
   <div class="t-container">
@@ -137,6 +136,7 @@ body{font-family:'Work Sans',sans-serif;background:var(--navy-deep);color:var(--
 <section class="disclaimer"><div class="t-container"><p>Tennessee Firefly is an independent education journalism project of <a href="https://www.tnfirefly.com">Tennesseans for Student Success</a>. Governor's race tracker designed and built by <a href="https://longdrivemarketing.com" target="_blank">Long Drive Marketing</a>.</p></div></section>
 
 </div>
+</div><!-- /gov-tracker -->
 
 <script>
 const CDN = 'https://cdn.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data';
@@ -216,5 +216,3 @@ function renderHoldouts(holdouts) {
 
 loadEndorsements();
 </script>
-</body>
-</html>
