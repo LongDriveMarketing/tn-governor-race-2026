@@ -176,6 +176,19 @@ POLLING_SOURCES = [
     },
 ]
 
+# Legacy variables used by scrape_polls.py
+POLLING_URLS = [
+    "https://www.270towin.com/2026-governor-polls/tennessee",
+    "https://www.realclearpolling.com/polls/governor/general/2026/tennessee",
+    "https://www.realclearpolling.com/polls/governor/republican-primary/2026/tennessee",
+]
+
+TENNSIGHT_URLS = {
+    "elections": "https://tennsight.com/elections/",
+    "polls_index": "https://tennsight.com/polls/",
+    "latest_poll": "https://tennsight.com/polls/january-2026/",
+}
+
 # TN Secretary of State
 SOS_CANDIDATE_URL = "https://sos.tn.gov/elections/2026-candidate-lists"
 SOS_FINANCE_URL = "https://apps.tn.gov/tncamp/public/cpsearch.htm"
