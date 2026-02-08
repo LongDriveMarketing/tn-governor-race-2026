@@ -1,0 +1,51 @@
+# TNFirefly Governor Race - Facebook Scraper (Apify)
+# Runs once daily to pull candidate Facebook posts.
+# Separate from main scraper to manage Apify costs (~$0.24/day for 3 pages).
+
+name: Update Facebook Posts
+
+on:
+  schedule:
+    # Once daily at 2:00 PM UTC (9 AM Central)
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-facebook:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install apify-client
+
+      - name: Run Facebook scraper
+        working-directory: scrapers
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: python scrape_facebook.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "TNFirefly Bot"
+          git config user.email "bot@tnfirefly.com"
+          git add data/
+          git commit -m "Auto-update: Facebook posts $(date -u +%Y-%m-%d_%H:%M)"
+          git pull --rebase origin main
+          git push
