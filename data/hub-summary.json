@@ -35,13 +35,12 @@
   },
   "latestPoll": {
     "id": "targoz-market-research-21-a-2026-01-11-republican-primary",
-    "pollster": "Targoz Market Research[21][A]",
-    "pollsterLean": "",
+    "pollster": "Targoz Market Research",
     "date": "2026-01-11",
     "endDate": "2026-01-18",
     "type": "republican_primary",
     "sampleSize": "559 (LV)",
-    "margin": "�",
+    "margin": "",
     "results": [
       {
         "candidate": "Blackburn",
