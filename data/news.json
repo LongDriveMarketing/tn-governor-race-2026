@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-09",
-  "lastScraped": "2026-02-09T15:50:58.934570+00:00",
+  "lastScraped": "2026-02-09T15:54:29.345340+00:00",
   "articles": [
     {
       "id": "cda0ecc55abf",
@@ -43,6 +43,37 @@
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a3c36d324196",
+      "date": "2026-02-09",
+      "title": "Every time CoreCivic fails, victims like Christopher Hatcher carry damage forever, while Tennesseans are forced to...",
+      "summary": "Every time CoreCivic fails, victims like Christopher Hatcher carry damage forever, while Tennesseans are forced to cover the cost of negligence.\n\nI’m fighting to protect taxpayers and reform our prison system.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/2004680826764402/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "32b41afcdfc2",
+      "date": "2026-02-09",
+      "title": "I enjoyed sitting down with Franklin County Mayor Chris Guess, and Senator Janice Bowling to talk about protecting...",
+      "summary": "I enjoyed sitting down with Franklin County Mayor Chris Guess, and Senator Janice Bowling to talk about protecting farmland, responsible growth, and our public schools. These are the real, everyday issues I will focus on as governor.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02S91jAkcDYaZtgzyndpCjqqBgjNKHXDYiUnXrT1M7bR1ymNYm1yasUhdiki2cUYLwl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "policy",
         "campaign"
       ],
       "tnfirefly": false,
@@ -164,6 +195,21 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4c39ed634054",
+      "date": "2026-02-08",
+      "title": "Freedom for Farmers, Loudon County TN",
+      "summary": "Freedom for Farmers, Loudon County TN\n#freedomforfarmers #fritts4tn #tennessee",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1703749750608734/",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
