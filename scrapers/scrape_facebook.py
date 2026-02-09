@@ -32,7 +32,7 @@ NEWS_FILE = DATA_DIR / "news.json"
 
 FACEBOOK_PAGES = [
     {
-        "page_url": "https://www.facebook.com/marshablackburn",
+        "page_url": "https://www.facebook.com/votemarshablackburn",
         "source_key": "Blackburn (Facebook)",
         "candidate": "Blackburn",
         "party": "rep"

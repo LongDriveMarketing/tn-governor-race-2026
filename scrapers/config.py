@@ -14,6 +14,13 @@ DATA_DIR = "data"
 
 # RSS feeds to scrape for governor race news
 NEWS_RSS_FEEDS = [
+    # --- TNFirefly (our own content — looser filter) ---
+    {
+        "name": "Tennessee Firefly",
+        "url": "https://www.tnfirefly.com/news?format=rss",
+        "source_key": "Tennessee Firefly",
+        "tier": "tnfirefly"
+    },
     # --- National / Unbiased ---
     {
         "name": "Associated Press",

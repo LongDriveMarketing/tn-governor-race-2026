@@ -49,6 +49,23 @@ HEADERS = {
     "User-Agent": "TNFirefly-NewsBot/2.0 (Tennessee education journalism)"
 }
 
+# Looser keywords for TNFirefly's own content (no TN signal required)
+TNFIREFLY_KEYWORDS = [
+    "governor", "gubernatorial", "governor's race",
+    "blackburn", "marsha blackburn",
+    "john rose", "rose",
+    "monty fritts", "fritts",
+    "jerri green", "green",
+    "carnita atwater", "atwater",
+    "adam kurtz", "kurtz",
+    "cito pellegra", "pellegra",
+    "primary", "candidate", "election",
+    "campaign", "endorsement", "polling", "poll",
+    "legislature", "legislative session",
+    "voucher", "school choice", "education funding",
+    "teacher pay", "school funding",
+]
+
 
 # =============================================================
 # UTILITY FUNCTIONS
@@ -121,7 +138,8 @@ def scrape_rss_feeds():
     """Scrape national RSS feeds, filter for TN governor race."""
     articles = []
     for feed_config in NEWS_RSS_FEEDS:
-        print(f"  RSS: {feed_config['name']}...")
+        is_tnf = feed_config.get("tier") == "tnfirefly"
+        print(f"  RSS: {feed_config['name']}{'  (TNFirefly — loose filter)' if is_tnf else ''}...")
         try:
             feed = feedparser.parse(feed_config["url"])
             count = 0
@@ -131,8 +149,15 @@ def scrape_rss_feeds():
                     entry.get("summary", "") or
                     entry.get("description", "")
                 )
-                if not matches_governor_race(title, summary):
-                    continue
+
+                # TNFirefly uses looser keyword match (no TN signal needed)
+                if is_tnf:
+                    combined = f"{title} {summary}".lower()
+                    if not any(kw in combined for kw in TNFIREFLY_KEYWORDS):
+                        continue
+                else:
+                    if not matches_governor_race(title, summary):
+                        continue
 
                 date = parse_date(entry)
                 party, candidate = detect_candidate(title, summary)
@@ -149,7 +174,7 @@ def scrape_rss_feeds():
                     "party": party,
                     "candidate": candidate,
                     "tags": tags,
-                    "tnfirefly": False,
+                    "tnfirefly": is_tnf,
                     "featured": False
                 })
                 count += 1
