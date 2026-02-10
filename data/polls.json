@@ -607,7 +607,7 @@
     }
   ],
   "trendline": {
-    "description": "Across 11 polls from 9 pollsters, Blackburn's support has moved from 56.0% to 60.6% (+4.6 pts). Undecided voters at 26.1%, representing the key battleground.",
+    "description": "Tracking Blackburn's primary support from Jan 2025 to Feb 2026: 71.0% to 60.6%. After dipping to 56% in January, Blackburn rebounded in the TSS poll. Undecided voters remain the key battleground at 26.1%.",
     "data": [
       {
         "date": "",
@@ -690,6 +690,14 @@
       {
         "date": "2026-02-04",
         "pollster": "Tennesseans for Student Success / Victory Phones",
+        "blackburn": 60.6,
+        "rose": 8.1,
+        "fritts": 5.1,
+        "undecided": 26.1
+      },
+      {
+        "date": "2026-02-04",
+        "pollster": "TSS / Victory Phones",
         "blackburn": 60.6,
         "rose": 8.1,
         "fritts": 5.1,
@@ -1072,5 +1080,6 @@
       ]
     }
   },
-  "analysis": "With 11 polls from 6 pollsters tracking the Republican primary, Blackburn leads at 60.6% over Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. Race ratings: The Cook Political Report: Solid R, Inside Elections: Solid R, Sabato's Crystal Ball: Safe R, Race to the WH: Safe R. Governor Lee's approval: 59% (Beacon Center / TennSight)."
+  "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, TSS/Victory Phones), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
+  "lastMerged": "2026-02-10T02:22:39.266043+00:00"
 }
