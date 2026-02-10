@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-10",
-  "lastMerged": "2026-02-10T15:48:56.399942+00:00",
+  "lastMerged": "2026-02-10T20:09:48.422864+00:00",
   "articles": [
     {
       "id": "59423208f4ad",
@@ -73,6 +73,22 @@
       "party": "rep",
       "candidate": "Fritts",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ed2911dec333",
+      "date": "2026-02-10",
+      "title": "God gave us two ears and one mouth for a reason.",
+      "summary": "God gave us two ears and one mouth for a reason.\n\nIn my interview with the Tennessean, I said, “Tennesseans want a governor who will listen to them — not talk at them.”\n\nhttps://www.knoxnews.com/story/news/politics/elections/2026/02/09/rep-john-rose-using-business-acumen-in-tennessee-governor-race/8...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0EUgCN65DRdzQKv8XW3t8U9RtHuTw2di7tVCZCPUHnpeWQRUGRNMso6qDu9AgUVjwl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "podcast",
         "campaign"
       ],
       "tnfirefly": false,

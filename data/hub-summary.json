@@ -121,7 +121,7 @@
       "warChest": 0,
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
+      "cashOnHand": 0.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
