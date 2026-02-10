@@ -1,52 +1,19 @@
 {
   "lastUpdated": "2026-02-09",
-  "lastScraped": "2026-02-09T20:07:21.565956+00:00",
+  "lastScraped": "2026-02-09T23:00:00.000000+00:00",
   "articles": [
     {
-      "id": "cda0ecc55abf",
+      "id": "tss-poll-feb-2026",
       "date": "2026-02-09",
-      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
-      "summary": "Press Release",
-      "source": "Blackburn Campaign",
-      "url": "",
-      "party": "rep",
-      "candidate": "Blackburn",
-      "tags": [
-        "finance",
-        "campaign"
-      ],
-      "tnfirefly": false,
-      "featured": false
-    },
-    {
-      "id": "70ba179d90b1",
-      "date": "2026-02-09",
-      "title": "Chattanooga Times Free Press: Trump: Tennessee is lucky to get Blackburn for governor",
-      "summary": "In The News",
-      "source": "Blackburn Campaign",
-      "url": "",
-      "party": "rep",
-      "candidate": "Blackburn",
-      "tags": [
-        "campaign"
-      ],
-      "tnfirefly": false,
-      "featured": false
-    },
-    {
-      "id": "9b3a98f06412",
-      "date": "2026-02-09",
-      "title": "ICYMI: Blackburn: “Tennessee Can Be America’s Conservative Leader, And That’s Why I’m Running For Governor”",
-      "summary": "In The News",
-      "source": "Blackburn Campaign",
-      "url": "",
-      "party": "rep",
-      "candidate": "Blackburn",
-      "tags": [
-        "campaign"
-      ],
-      "tnfirefly": false,
-      "featured": false
+      "title": "New Statewide Poll: Blackburn at 60.6%, Voters Overwhelmingly Back Education Accountability",
+      "summary": "A new survey of 500 Tennessee registered voters by Tennesseans for Student Success finds Sen. Marsha Blackburn leading the GOP primary at 60.6%, with Rep. John Rose at 8.1% and Rep. Monty Fritts at 5.1%. The poll also reveals broad education consensus: 87% support holding schools accountable, 82% back open enrollment, 81% say annual testing matters, and 64% believe education funding is not spent efficiently.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/tsspoll",
+      "party": "neutral",
+      "candidate": "",
+      "tags": ["analysis", "education", "poll"],
+      "tnfirefly": true,
+      "featured": true
     },
     {
       "id": "20d9a7b058bc",
@@ -366,22 +333,6 @@
       "featured": false
     },
     {
-      "id": "0098ce7df6ae",
-      "date": "2026-02-05",
-      "title": "Sen. Blackburn Expresses Support for Public Charter Schools and Open Enrollment",
-      "summary": "In an exclusive interview, Blackburn expressed support for removing tuition \nrequirements for out-of-district students and charter school funding.",
-      "source": "Tennessee Firefly",
-      "url": "https://www.tnfirefly.com/news/sen-blackburn-expresses-support-for-public-charter-schools-and-open-enrollment",
-      "party": "rep",
-      "candidate": "Blackburn",
-      "tags": [
-        "policy",
-        "podcast"
-      ],
-      "tnfirefly": true,
-      "featured": false
-    },
-    {
       "id": "67bf927a94c3",
       "date": "2026-02-04",
       "title": "A mom was counting down the hours until her son came home.",
@@ -537,36 +488,6 @@
       "featured": false
     },
     {
-      "id": "edc13f520303",
-      "date": "2026-02-03",
-      "title": "Memphis Councilwoman Jerri Green and Senator Marsha Blackburn Surge Ahead in Gubernatorial Campaign Contributions",
-      "summary": "Blackburn reported $5.3 million in contributions while Green reported \n$125,000.",
-      "source": "Tennessee Firefly",
-      "url": "https://www.tnfirefly.com/news/memphis-councilwoman-jerri-green-and-senator-marsha-blackburn-surge-ahead-in-gubernatorial-campaign-contributions",
-      "party": "rep",
-      "candidate": "Blackburn",
-      "tags": [
-        "finance"
-      ],
-      "tnfirefly": true,
-      "featured": false
-    },
-    {
-      "id": "fa7f04dda926",
-      "date": "2026-02-03",
-      "title": "Governor Lee Proposes $155 Million to Double the Number of Education Freedom Scholarships",
-      "summary": "Lee said demand warrants the investment in what’s expected to be a tighter \nbudget year to expand the number of scholarships to 40,000.",
-      "source": "Tennessee Firefly",
-      "url": "https://www.tnfirefly.com/news/governor-lee-proposes-155-million-to-double-the-number-of-education-freedom-scholarships",
-      "party": "general",
-      "candidate": "",
-      "tags": [
-        "policy"
-      ],
-      "tnfirefly": true,
-      "featured": false
-    },
-    {
       "id": "5974a4a06507",
       "date": "2026-02-02",
       "title": "Watchman on the Wall: Leadership needs to get in the game.",
@@ -594,36 +515,6 @@
         "campaign"
       ],
       "tnfirefly": false,
-      "featured": false
-    },
-    {
-      "id": "1bdef7c3a57e",
-      "date": "2026-02-02",
-      "title": "Senator Blackburn Continues to Hold a Strong Lead in the Latest Poll of the Governor’s Race",
-      "summary": "57 percent of the 463 Republican voters who responded to the January poll \nsaid they’d vote for Blackburn in the August primary, compared to 8 percent \nfor State Representative Monty Fritts, R-Kingston, and 7 percent for \nCongressman John Rose.",
-      "source": "Tennessee Firefly",
-      "url": "https://www.tnfirefly.com/news/senator-blackburn-continues-to-hold-a-strong-lead-in-the-latest-poll-of-the-governors-race",
-      "party": "rep",
-      "candidate": "Blackburn",
-      "tags": [
-        "analysis"
-      ],
-      "tnfirefly": true,
-      "featured": false
-    },
-    {
-      "id": "41a886a7c2e3",
-      "date": "2026-01-29",
-      "title": "President Trump Appears to Move Closer to an Endorsement in the Tennessee Governor’s Race",
-      "summary": "On Wednesday, Blackburn shared a video clip on social media of the \nPresident praising her at the Trump Accounts summit that day, and \nindicating he believes she’ll win the race to succeed Governor Bill Lee.",
-      "source": "Tennessee Firefly",
-      "url": "https://www.tnfirefly.com/news/president-trump-appears-to-move-closer-to-an-endorsement-in-the-tennessee-governors-race",
-      "party": "rep",
-      "candidate": "Blackburn",
-      "tags": [
-        "campaign"
-      ],
-      "tnfirefly": true,
       "featured": false
     },
     {
