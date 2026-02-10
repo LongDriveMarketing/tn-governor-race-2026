@@ -184,6 +184,39 @@ def merge_endorsements():
         print("  [WARN] No scraped endorsements found — skipping")
 
 
+# ─── Finance (scraped + manual overrides for highlights/analysis) ─
+
+def merge_finance():
+    """Merge scraped finance with manual overrides."""
+    scraped = load_json(SCRAPED_DIR / "finance.json")
+    manual = load_json(MANUAL_FILE)
+    manual_finance = manual.get("finance", {}) if manual else {}
+
+    if not scraped:
+        print("  [WARN] No scraped finance data — skipping")
+        return
+
+    # Merge candidate-level manual overrides
+    manual_candidates = {c["name"]: c for c in manual_finance.get("candidates", [])}
+    for cand in scraped.get("candidates", []):
+        override = manual_candidates.get(cand["name"], {})
+        for key, val in override.items():
+            cand[key] = val  # Manual always wins
+
+    # Top-level manual overrides (analysis, reportingPeriod, etc.)
+    for key in ["analysis", "reportingPeriod"]:
+        if key in manual_finance and manual_finance[key]:
+            scraped[key] = manual_finance[key]
+
+    # Add merge timestamp
+    scraped["lastMerged"] = datetime.now(timezone.utc).isoformat()
+
+    save_json(DATA_DIR / "finance.json", scraped)
+    count = len(scraped.get("candidates", []))
+    manual_count = len(manual_candidates)
+    print(f"  finance.json: {count} candidates ({manual_count} manual overrides)")
+
+
 # ─── Main ─────────────────────────────────────────────────────
 
 def run():
@@ -213,6 +246,9 @@ def run():
 
     print("\nMerging endorsements...")
     merge_endorsements()
+
+    print("\nMerging finance...")
+    merge_finance()
 
     print("\n" + "=" * 60)
     print("  Merge complete. Final output in data/")

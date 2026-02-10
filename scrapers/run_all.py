@@ -22,7 +22,7 @@ def main():
     results = {}
     
     # 1. News scraper
-    print("\n[1/4] RUNNING NEWS SCRAPER...")
+    print("\n[1/6] RUNNING NEWS SCRAPER...")
     print("-" * 40)
     try:
         from scrape_news import run as run_news
@@ -33,7 +33,7 @@ def main():
         print(f"NEWS SCRAPER ERROR: {e}")
     
     # 2. Endorsement scraper
-    print("\n[2/4] RUNNING ENDORSEMENT SCRAPER...")
+    print("\n[2/6] RUNNING ENDORSEMENT SCRAPER...")
     print("-" * 40)
     try:
         from scrape_endorsements import run as run_endorsements
@@ -44,7 +44,7 @@ def main():
         print(f"ENDORSEMENT SCRAPER ERROR: {e}")
 
     # 3. Polls & candidates scraper
-    print("\n[3/4] RUNNING POLLS & CANDIDATES SCRAPER...")
+    print("\n[3/6] RUNNING POLLS & CANDIDATES SCRAPER...")
     print("-" * 40)
     try:
         from scrape_polls import run as run_polls
@@ -53,9 +53,20 @@ def main():
     except Exception as e:
         results["polls"] = f"FAILED - {e}"
         print(f"POLLS SCRAPER ERROR: {e}")
+
+    # 4. Campaign finance scraper
+    print("\n[4/6] RUNNING CAMPAIGN FINANCE SCRAPER...")
+    print("-" * 40)
+    try:
+        from scrape_finance import run as run_finance
+        success = run_finance()
+        results["finance"] = "OK" if success else "FAILED - no data"
+    except Exception as e:
+        results["finance"] = f"FAILED - {e}"
+        print(f"FINANCE SCRAPER ERROR: {e}")
     
-    # 4. MERGE: Combine scraped data with manual overrides
-    print("\n[4/5] MERGING SCRAPED + MANUAL DATA...")
+    # 5. MERGE: Combine scraped data with manual overrides
+    print("\n[5/6] MERGING SCRAPED + MANUAL DATA...")
     print("-" * 40)
     try:
         from merge import run as run_merge
@@ -65,8 +76,8 @@ def main():
         results["merge"] = f"FAILED - {e}"
         print(f"MERGE ERROR: {e}")
 
-    # 5. Hub aggregator (reads merged output)
-    print("\n[5/5] AGGREGATING HUB SUMMARY...")
+    # 6. Hub aggregator (reads merged output)
+    print("\n[6/6] AGGREGATING HUB SUMMARY...")
     print("-" * 40)
     try:
         from aggregate_hub import run as run_hub
