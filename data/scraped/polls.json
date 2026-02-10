@@ -1,0 +1,1076 @@
+﻿{
+  "lastUpdated": "2026-02-10",
+  "lastScraped": "2026-02-10T00:11:47.840245+00:00",
+  "pollingSources": [
+    {
+      "name": "Beacon Center / TennSight",
+      "type": "pollster",
+      "url": "https://tennsight.com/elections/",
+      "frequency": "Quarterly (January, April, August, November)",
+      "methodology": "Online poll of registered voters, weighted by demographics, party, geography, and behavioral measures",
+      "sampleSize": "1,200 RV (typical)",
+      "margin": "± 2.77%",
+      "lean": "Conservative think tank",
+      "conductor": "Targoz Market Research",
+      "note": "Most consistent public polling source for TN governor race."
+    },
+    {
+      "name": "Quantus Insights",
+      "type": "pollster",
+      "url": "https://quantusinsights.com/",
+      "frequency": "Periodic",
+      "sampleSize": "600 RV",
+      "lean": "R",
+      "note": "R-leaning firm. Conducted one TN governor poll (Aug 2025)."
+    },
+    {
+      "name": "Vanderbilt Poll",
+      "type": "pollster",
+      "url": "https://www.vanderbilt.edu/csdi/vupoll-home.php",
+      "frequency": "Semiannual (Spring ~May, Fall ~Nov)",
+      "methodology": "Telephone interviews (landline + cell), registered voter list sample",
+      "sampleSize": "1,000-1,200 RV",
+      "margin": "± 3.0-3.6%",
+      "lean": "Nonpartisan academic",
+      "conductor": "Vanderbilt Center for Study of Democratic Institutions",
+      "note": "Gold standard TN state poll since 2011. Tracks approvals, issues, political environment. May add governor matchups as race heats up."
+    },
+    {
+      "name": "MTSU Poll",
+      "type": "pollster",
+      "url": "http://mtsupoll.org/",
+      "frequency": "Periodic",
+      "sampleSize": "600 RV",
+      "margin": "± 4.0%",
+      "lean": "Nonpartisan academic",
+      "note": "Middle Tennessee State University poll. No 2026 governor data yet."
+    },
+    {
+      "name": "Tennesseans for Student Success / Victory Phones",
+      "type": "pollster",
+      "url": "https://www.tnfirefly.com/tsspoll",
+      "frequency": "Periodic",
+      "methodology": "IVR automated telephone survey of registered voters",
+      "sampleSize": "500 RV",
+      "margin": "± 4.4%",
+      "lean": "Education advocacy",
+      "conductor": "Victory Phones",
+      "note": "Education-focused statewide poll commissioned by Tennesseans for Student Success. Feb 2026 survey included governor's race horse race plus 20+ education policy questions."
+    },
+    {
+      "name": "RealClearPolling",
+      "type": "aggregator",
+      "url": "https://www.realclearpolling.com/polls/governor/republican-primary/2026/tennessee",
+      "note": "Polling aggregator. Will compile averages once more polls available."
+    },
+    {
+      "name": "270toWin",
+      "type": "aggregator",
+      "url": "https://www.270towin.com/2026-governor-polls/tennessee",
+      "note": "Election forecasting site with polling tracker."
+    },
+    {
+      "name": "Wikipedia",
+      "type": "aggregator",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
+      "note": "Community-maintained structured polling tables. Primary data source for this tracker."
+    }
+  ],
+  "raceRatings": [
+    {
+      "source": "The Cook Political Report[33]",
+      "rating": "Solid R",
+      "asOf": "September 11, 2025",
+      "scrapedFrom": "wikipedia"
+    },
+    {
+      "source": "Inside Elections[34]",
+      "rating": "Solid R",
+      "asOf": "August 28, 2025",
+      "scrapedFrom": "wikipedia"
+    },
+    {
+      "source": "Sabato's Crystal Ball[35]",
+      "rating": "Safe R",
+      "asOf": "September 4, 2025",
+      "scrapedFrom": "wikipedia"
+    },
+    {
+      "source": "Race to the WH[36]",
+      "rating": "Safe R",
+      "asOf": "September 16, 2025",
+      "scrapedFrom": "wikipedia"
+    }
+  ],
+  "polls": [
+    {
+      "id": "tss-victory-phones-2026-02-04-republican-primary",
+      "pollster": "Tennesseans for Student Success / Victory Phones",
+      "date": "2026-02-04",
+      "endDate": "2026-02-06",
+      "type": "republican_primary",
+      "sampleSize": "500 (RV)",
+      "margin": "± 4.4%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 60.6
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 8.1
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 5.1
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 26.1
+        }
+      ],
+      "source": "tnfirefly",
+      "url": "https://www.tnfirefly.com/tsspoll"
+    },
+    {
+      "id": "targoz-market-research-21-a-2026-01-11-republican-primary",
+      "pollster": "Targoz Market Research",
+      "date": "2026-01-11",
+      "endDate": "2026-01-18",
+      "type": "republican_primary",
+      "sampleSize": "559 (LV)",
+      "margin": "",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 56.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 9.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 7.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 1.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 27.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "targoz-market-research-22-a-2025-10-26-republican-primary",
+      "pollster": "Targoz Market Research",
+      "date": "2025-10-26",
+      "endDate": "2025-10-29",
+      "type": "republican_primary",
+      "sampleSize": "545 (RV)",
+      "margin": "",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 58.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 9.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 5.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 29.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "quantus-insights-23-2025-08-05-republican-primary",
+      "pollster": "Quantus Insights",
+      "pollsterLean": "R",
+      "date": "2025-08-05",
+      "endDate": "2025-08-07",
+      "type": "republican_primary",
+      "sampleSize": "",
+      "margin": "",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 35.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 6.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 22.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 37.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "targoz-market-research-24-a-2025-08-01-republican-primary",
+      "pollster": "Targoz Market Research",
+      "date": "2025-08-01",
+      "endDate": "2025-08-01",
+      "type": "republican_primary",
+      "sampleSize": "623 (RV)",
+      "margin": "± 2.8%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 66.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 14.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 19.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "targoz-market-research-24-a-2025-07-27-republican-primary",
+      "pollster": "Targoz Market Research[24][A]",
+      "pollsterLean": "",
+      "date": "2025-07-27",
+      "endDate": "2025-08-01",
+      "type": "republican_primary",
+      "sampleSize": "623 (RV)",
+      "margin": "± 2.8%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 66.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 14.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 19.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "fabrizio-lee-associates-25-26-b-2025-01-13-republican-primary",
+      "pollster": "Fabrizio Lee & Associates",
+      "pollsterLean": "R",
+      "date": "2025-01-13",
+      "endDate": "2025-01-16",
+      "type": "republican_primary",
+      "sampleSize": "800 (LV)",
+      "margin": "± 3.5%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 71.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 13.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 16.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "targoz-market-research-21-a-unknown-republican-primary",
+      "pollster": "Targoz Market Research[21][A]",
+      "pollsterLean": "",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "559 (LV)",
+      "margin": "1%[b]",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 56.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 9.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 7.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 1.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 27.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "targoz-market-research-22-a-unknown-republican-primary",
+      "pollster": "Targoz Market Research[22][A]",
+      "pollsterLean": "",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "545 (RV)",
+      "margin": "",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 58.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 9.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 5.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 29.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "quantus-insights-r-23-unknown-republican-primary",
+      "pollster": "Quantus Insights (R)[23]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "",
+      "margin": "22%[c]",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 35.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 6.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 22.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 37.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "fabrizio-lee-associates-r-25-26-b-unknown-republican-primary",
+      "pollster": "Fabrizio Lee & Associates (R)[25][26][B]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "800 (LV)",
+      "margin": "± 3.5%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 71.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 13.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 16.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    }
+  ],
+  "generalPolls": [
+    {
+      "id": "quantus-insights-23-2025-08-05-general-blackburn-vs-green",
+      "pollster": "Quantus Insights",
+      "pollsterLean": "R",
+      "date": "2025-08-05",
+      "endDate": "2025-08-07",
+      "type": "general_hypothetical",
+      "matchup": "Blackburn vs Green",
+      "sampleSize": "600 (RV)",
+      "margin": "± 3.5%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 49.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 28.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 7.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 17.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#General_election_polling"
+    },
+    {
+      "id": "quantus-insights-23-2025-08-05-general-rose-vs-green",
+      "pollster": "Quantus Insights",
+      "pollsterLean": "R",
+      "date": "2025-08-05",
+      "endDate": "2025-08-07",
+      "type": "general_hypothetical",
+      "matchup": "Rose vs Green",
+      "sampleSize": "600 (RV)",
+      "margin": "± 3.5%",
+      "results": [
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 43.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 27.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 8.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 23.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#General_election_polling"
+    },
+    {
+      "id": "quantus-insights-r-23-unknown-general-hypothetical",
+      "pollster": "Quantus Insights (R)[23]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "general_hypothetical",
+      "sampleSize": "600 (RV)",
+      "margin": "7%[d]",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 49.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 28.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 7.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 17.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
+      "matchup": "Blackburn vs Green"
+    },
+    {
+      "id": "quantus-insights-r-23-unknown-general-hypothetical",
+      "pollster": "Quantus Insights (R)[23]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "general_hypothetical",
+      "sampleSize": "600 (RV)",
+      "margin": "8%[e]",
+      "results": [
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 43.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 27.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 8.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 23.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
+      "matchup": "Rose vs Green"
+    }
+  ],
+  "trendline": {
+    "description": "Across 11 polls from 9 pollsters, Blackburn's support has moved from 56.0% to 60.6% (+4.6 pts). Undecided voters at 26.1%, representing the key battleground.",
+    "data": [
+      {
+        "date": "",
+        "pollster": "Targoz Market Research[21][A]",
+        "blackburn": 56.0,
+        "rose": 9.0,
+        "fritts": 7.0,
+        "other": 1.0,
+        "undecided": 27.0
+      },
+      {
+        "date": "",
+        "pollster": "Targoz Market Research[22][A]",
+        "blackburn": 58.0,
+        "rose": 9.0,
+        "fritts": 5.0,
+        "undecided": 29.0
+      },
+      {
+        "date": "",
+        "pollster": "Quantus Insights (R)[23]",
+        "blackburn": 35.0,
+        "rose": 6.0,
+        "other": 22.0,
+        "undecided": 37.0
+      },
+      {
+        "date": "",
+        "pollster": "Fabrizio Lee & Associates (R)[25][26][B]",
+        "blackburn": 71.0,
+        "rose": 13.0,
+        "undecided": 16.0
+      },
+      {
+        "date": "2025-01-13",
+        "pollster": "Fabrizio Lee & Associates",
+        "blackburn": 71.0,
+        "rose": 13.0,
+        "undecided": 16.0
+      },
+      {
+        "date": "2025-07-27",
+        "pollster": "Targoz Market Research[24][A]",
+        "blackburn": 66.0,
+        "rose": 14.0,
+        "undecided": 19.0
+      },
+      {
+        "date": "2025-08-01",
+        "pollster": "Targoz Market Research",
+        "blackburn": 66.0,
+        "rose": 14.0,
+        "undecided": 19.0
+      },
+      {
+        "date": "2025-08-05",
+        "pollster": "Quantus Insights",
+        "blackburn": 35.0,
+        "rose": 6.0,
+        "other": 22.0,
+        "undecided": 37.0
+      },
+      {
+        "date": "2025-10-26",
+        "pollster": "Targoz Market Research",
+        "blackburn": 58.0,
+        "rose": 9.0,
+        "fritts": 5.0,
+        "undecided": 29.0
+      },
+      {
+        "date": "2026-01-11",
+        "pollster": "Targoz Market Research",
+        "blackburn": 56.0,
+        "rose": 9.0,
+        "fritts": 7.0,
+        "other": 1.0,
+        "undecided": 27.0
+      },
+      {
+        "date": "2026-02-04",
+        "pollster": "Tennesseans for Student Success / Victory Phones",
+        "blackburn": 60.6,
+        "rose": 8.1,
+        "fritts": 5.1,
+        "undecided": 26.1
+      }
+    ]
+  },
+  "approvalRatings": {
+    "Governor Lee": [
+      {
+        "subject": "Governor Lee",
+        "approve": 59,
+        "disapprove": 34,
+        "poll": "april-2025",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/april-2025/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 58,
+        "poll": "",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/12/11/vanderbilt-poll-tennesseans-economic-anxiety-surges-transcends-party-lines/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 60,
+        "poll": "Fall 2024",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 58,
+        "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/12/11/vanderbilt-poll-tennesseans-economic-anxiety-surges-transcends-party-lines/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 60,
+        "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      }
+    ],
+    "TN Legislature": [
+      {
+        "subject": "TN Legislature",
+        "approve": 46,
+        "poll": "Fall 2024",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 53,
+        "poll": "january-2026",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/january-2026/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 36,
+        "poll": "spring 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 36,
+        "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 46,
+        "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      }
+    ],
+    "President Trump": [
+      {
+        "subject": "President Trump",
+        "approve": 53,
+        "poll": "january-2026",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/january-2026/"
+      },
+      {
+        "subject": "President Trump",
+        "approve": 55,
+        "poll": "Fall 2024",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "President Trump",
+        "approve": 63,
+        "poll": "january-2024",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/january-2024/"
+      },
+      {
+        "subject": "President Trump",
+        "approve": 55,
+        "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      }
+    ],
+    "Senator Blackburn": [
+      {
+        "subject": "Senator Blackburn",
+        "approve": 46,
+        "poll": "Fall 2024",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "Senator Blackburn",
+        "approve": 46,
+        "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      }
+    ]
+  },
+  "issuePolling": {
+    "School Choice / Tax Credit": [
+      {
+        "topic": "School Choice / Tax Credit",
+        "support": 71,
+        "poll": "february-2026",
+        "source": "Tennesseans for Student Success",
+        "url": "https://www.tnfirefly.com/tsspoll",
+        "note": "71.3% support public school choice; 82.3% support open enrollment"
+      },
+      {
+        "topic": "School Choice / Tax Credit",
+        "support": 72,
+        "poll": "january-2026",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/january-2026/"
+      },
+      {
+        "topic": "School Choice / Tax Credit",
+        "support": 77,
+        "poll": "january-2025",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/january-2025/"
+      },
+      {
+        "topic": "School Choice / Tax Credit",
+        "support": 77,
+        "poll": "april-2025",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/april-2025/"
+      },
+      {
+        "topic": "School Choice / Tax Credit",
+        "support": 56,
+        "poll": "august-2025",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/august-2025/"
+      }
+    ],
+    "Education Satisfaction": [
+      {
+        "topic": "Education Satisfaction",
+        "support": 40,
+        "poll": "january-2025",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/january-2025/"
+      }
+    ],
+    "Education Priority": [
+      {
+        "topic": "Education Priority",
+        "value": 84,
+        "poll": "",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/12/11/vanderbilt-poll-tennesseans-economic-anxiety-surges-transcends-party-lines/"
+      },
+      {
+        "topic": "Education Priority",
+        "value": 53,
+        "poll": "spring 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "topic": "Education Priority",
+        "value": 67,
+        "poll": "",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/04/04/vanderbilt-poll-mayor-oconnell-keeps-earning-high-marks-nashvillians-align-on-issues-but-not-always-on-solutions%e2%80%af/"
+      },
+      {
+        "topic": "Education Priority",
+        "value": 53,
+        "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      }
+    ],
+    "School Vouchers": [
+      {
+        "topic": "School Vouchers",
+        "value": 17,
+        "poll": "Fall 2024",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      }
+    ],
+    "Student Testing & Accountability": [
+      {
+        "topic": "Student Testing & Accountability",
+        "support": 81,
+        "poll": "february-2026",
+        "source": "Tennesseans for Student Success",
+        "url": "https://www.tnfirefly.com/tsspoll",
+        "note": "81.2% say annual student testing is important"
+      },
+      {
+        "topic": "Student Testing & Accountability",
+        "support": 87,
+        "poll": "february-2026",
+        "source": "Tennesseans for Student Success",
+        "url": "https://www.tnfirefly.com/tsspoll",
+        "note": "87.3% support holding schools and teachers accountable"
+      }
+    ],
+    "Education Spending Efficiency": [
+      {
+        "topic": "Education Spending Efficiency",
+        "support": 36,
+        "poll": "february-2026",
+        "source": "Tennesseans for Student Success",
+        "url": "https://www.tnfirefly.com/tsspoll",
+        "note": "Only 35.7% believe education funding is spent efficiently; 64.3% say it is NOT"
+      }
+    ]
+  },
+  "politicalEnvironment": {
+    "Tennessee Right Track": [
+      {
+        "metric": "Tennessee Right Track",
+        "value": 46,
+        "poll": "",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/12/11/vanderbilt-poll-tennesseans-economic-anxiety-surges-transcends-party-lines/"
+      },
+      {
+        "metric": "Tennessee Right Track",
+        "value": 67,
+        "poll": "",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/04/04/vanderbilt-poll-mayor-oconnell-keeps-earning-high-marks-nashvillians-align-on-issues-but-not-always-on-solutions%e2%80%af/"
+      },
+      {
+        "metric": "Tennessee Right Track",
+        "value": 60,
+        "poll": "Fall 2024",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      }
+    ],
+    "MAGA Identification (among R)": [
+      {
+        "metric": "MAGA Identification (among R)",
+        "value": 87,
+        "poll": "spring 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "metric": "MAGA Identification (among R)",
+        "value": 55,
+        "poll": "Fall 2024",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      }
+    ]
+  },
+  "aggregators": {
+    "realClearPolling": {
+      "hasData": false,
+      "url": "https://www.realclearpolling.com/polls/governor/republican-primary/2026/tennessee",
+      "rawPolls": []
+    },
+    "twoSeventyToWin": {
+      "hasData": true,
+      "url": "https://www.270towin.com/2026-governor-polls/tennessee",
+      "rawPolls": [
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Beacon Poll",
+            "2/02/2026",
+            "559 RV",
+            "56%",
+            "9%",
+            "7%",
+            "28%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Beacon Poll",
+            "11/05/2025",
+            "545 RV",
+            "58%",
+            "9%",
+            "5%",
+            "28%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Beacon Poll",
+            "8/11/2025",
+            "623 RV",
+            "66%",
+            "14%",
+            "-",
+            "20%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Quantus Insights",
+            "8/08/2025",
+            "294 RV",
+            "35%",
+            "6%",
+            "-",
+            "59%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Quantus Insights",
+            "8/08/2025",
+            "600 RV &plusmn3.5%",
+            "28%",
+            "49%",
+            "23%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Quantus Insights",
+            "8/08/2025",
+            "600 RV &plusmn3.5%",
+            "27%",
+            "43%",
+            "30%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        }
+      ]
+    }
+  },
+  "analysis": "With 11 polls from 6 pollsters tracking the Republican primary, Blackburn leads at 60.6% over Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. Race ratings: The Cook Political Report: Solid R, Inside Elections: Solid R, Sabato's Crystal Ball: Safe R, Race to the WH: Safe R. Governor Lee's approval: 59% (Beacon Center / TennSight)."
+}
