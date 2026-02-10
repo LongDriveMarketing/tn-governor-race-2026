@@ -209,11 +209,11 @@ def run():
 
     # Load existing news (scraped version, or fall back to main data/)
     if NEWS_FILE.exists():
-        with open(NEWS_FILE, "r") as f:
+        with open(NEWS_FILE, "r", encoding="utf-8-sig") as f:
             data = json.load(f)
         existing = data.get("articles", [])
     elif (DATA_DIR / "news.json").exists():
-        with open(DATA_DIR / "news.json", "r") as f:
+        with open(DATA_DIR / "news.json", "r", encoding="utf-8-sig") as f:
             data = json.load(f)
         existing = data.get("articles", [])
     else:

@@ -45,12 +45,12 @@ CANDIDATE_MAP = {
 def load_current_endorsements():
     """Load the current endorsements.json. Falls back to main data/ if scraped version doesn't exist."""
     if ENDORSEMENTS_FILE.exists():
-        with open(ENDORSEMENTS_FILE, "r", encoding="utf-8") as f:
+        with open(ENDORSEMENTS_FILE, "r", encoding="utf-8-sig") as f:
             return json.load(f)
     # Bootstrap: fall back to main data dir on first run
     fallback = DATA_DIR / "endorsements.json"
     if fallback.exists():
-        with open(fallback, "r", encoding="utf-8") as f:
+        with open(fallback, "r", encoding="utf-8-sig") as f:
             return json.load(f)
     return {"endorsements": [], "holdouts": [], "candidates": {}}
 

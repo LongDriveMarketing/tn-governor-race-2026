@@ -990,10 +990,10 @@ def run():
     
     # Load existing data (scraped version, or fall back to main data/ for bootstrap)
     if POLLS_FILE.exists():
-        with open(POLLS_FILE, "r", encoding="utf-8", errors="replace") as f:
+        with open(POLLS_FILE, "r", encoding="utf-8-sig") as f:
             data = json.load(f)
     elif (DATA_DIR / "polls.json").exists():
-        with open(DATA_DIR / "polls.json", "r", encoding="utf-8", errors="replace") as f:
+        with open(DATA_DIR / "polls.json", "r", encoding="utf-8-sig") as f:
             data = json.load(f)
         print("  (Bootstrap: loaded existing data from data/polls.json)")
     else:
