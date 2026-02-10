@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-10",
-  "lastScraped": "2026-02-10T02:51:58.028123+00:00",
+  "lastScraped": "2026-02-10T00:11:47.840245+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -46,7 +46,7 @@
       "note": "Middle Tennessee State University poll. No 2026 governor data yet."
     },
     {
-      "name": "Tennesseans for Student Success / Victory Phones",
+      "name": "Tennesseans for Student Success",
       "type": "pollster",
       "url": "https://www.tnfirefly.com/tsspoll",
       "frequency": "Periodic",
@@ -54,7 +54,7 @@
       "sampleSize": "500 RV",
       "margin": "± 4.4%",
       "lean": "Education advocacy",
-      "conductor": "Victory Phones",
+      "conductor": "Tennesseans for Student Success",
       "note": "Education-focused statewide poll commissioned by Tennesseans for Student Success. Feb 2026 survey included governor's race horse race plus 20+ education policy questions."
     },
     {
@@ -104,8 +104,8 @@
   ],
   "polls": [
     {
-      "id": "tss-victory-phones-2026-02-04-republican-primary",
-      "pollster": "Tennesseans for Student Success / Victory Phones",
+      "id": "tss-2026-02-04-republican-primary",
+      "pollster": "Tennesseans for Student Success",
       "date": "2026-02-04",
       "endDate": "2026-02-06",
       "type": "republican_primary",
@@ -689,7 +689,7 @@
       },
       {
         "date": "2026-02-04",
-        "pollster": "Tennesseans for Student Success / Victory Phones",
+        "pollster": "Tennesseans for Student Success",
         "blackburn": 60.6,
         "rose": 8.1,
         "fritts": 5.1,
