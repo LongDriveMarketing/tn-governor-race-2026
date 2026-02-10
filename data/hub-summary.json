@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09",
+  "lastUpdated": "2026-02-10",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "20+",
@@ -34,60 +34,55 @@
     }
   },
   "latestPoll": {
-    "id": "targoz-market-research-21-a-2026-01-11-republican-primary",
-    "pollster": "Targoz Market Research",
-    "date": "2026-01-11",
-    "endDate": "2026-01-18",
+    "id": "tss-victory-phones-2026-02-04-republican-primary",
+    "pollster": "Tennesseans for Student Success / Victory Phones",
+    "date": "2026-02-04",
+    "endDate": "2026-02-06",
     "type": "republican_primary",
-    "sampleSize": "559 (LV)",
-    "margin": "",
+    "sampleSize": "500 (RV)",
+    "margin": "± 4.4%",
     "results": [
       {
         "candidate": "Blackburn",
         "party": "rep",
-        "pct": 56.0
+        "pct": 60.6
       },
       {
         "candidate": "Rose",
         "party": "rep",
-        "pct": 9.0
+        "pct": 8.1
       },
       {
         "candidate": "Fritts",
         "party": "rep",
-        "pct": 7.0
-      },
-      {
-        "candidate": "Other",
-        "party": "",
-        "pct": 1.0
+        "pct": 5.1
       },
       {
         "candidate": "Undecided",
         "party": "",
-        "pct": 27.0
+        "pct": 26.1
       }
     ],
-    "source": "wikipedia",
-    "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    "source": "tnfirefly",
+    "url": "https://www.tnfirefly.com/tsspoll"
   },
   "latestNews": [
     {
       "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
       "source": "Blackburn Campaign",
-      "date": "2026-02-09",
+      "date": "2026-02-10",
       "party": "rep"
     },
     {
       "title": "Chattanooga Times Free Press: Trump: Tennessee is lucky to get Blackburn for governor",
       "source": "Blackburn Campaign",
-      "date": "2026-02-09",
+      "date": "2026-02-10",
       "party": "rep"
     },
     {
       "title": "ICYMI: Blackburn: “Tennessee Can Be America’s Conservative Leader, And That’s Why I’m Running For Governor”",
       "source": "Blackburn Campaign",
-      "date": "2026-02-09",
+      "date": "2026-02-10",
       "party": "rep"
     }
   ],
