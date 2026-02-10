@@ -40,9 +40,14 @@ def run():
         for c in fdata.get("candidates", []):
             name_key = c["name"].split()[-1].lower()  # "Blackburn", "Rose", etc.
             summary["finance"][name_key] = {
-                "warChest": c["warChest"],
-                "totalRaised": c["totalRaised"],
-                "inStatePct": c.get("inStatePct", 0)
+                "warChest": c.get("totalRaised", 0) + c.get("personalLoans", 0),
+                "totalRaised": c.get("totalRaised", 0),
+                "totalSpent": c.get("totalSpent", 0),
+                "cashOnHand": c.get("cashOnHand", 0),
+                "personalLoans": c.get("personalLoans", 0),
+                "contributionCount": c.get("contributionCount", 0),
+                "inStatePct": c.get("inStatePct", 0),
+                "outStatePct": c.get("outStatePct", 0),
             }
     except Exception as e:
         print(f"  Finance: {e}")
