@@ -4,7 +4,7 @@
   "polls": {
     "sources": [
       {
-        "name": "Tennesseans for Student Success / Victory Phones",
+        "name": "Tennesseans for Student Success",
         "type": "pollster",
         "url": "https://www.tnfirefly.com/tsspoll",
         "frequency": "Periodic",
@@ -12,14 +12,14 @@
         "sampleSize": "500 RV",
         "margin": "± 4.4%",
         "lean": "Education advocacy",
-        "conductor": "Victory Phones",
+        "conductor": "Tennesseans for Student Success",
         "note": "Education-focused statewide poll commissioned by Tennesseans for Student Success. Feb 2026 survey included governor's race horse race plus 20+ education policy questions."
       }
     ],
     "polls": [
       {
-        "id": "tss-victory-phones-2026-02-04-republican-primary",
-        "pollster": "Tennesseans for Student Success / Victory Phones",
+        "id": "tss-2026-02-04-republican-primary",
+        "pollster": "Tennesseans for Student Success",
         "date": "2026-02-04",
         "endDate": "2026-02-06",
         "type": "republican_primary",
@@ -80,7 +80,7 @@
       "data": [
         {
           "date": "2026-02-04",
-          "pollster": "TSS / Victory Phones",
+          "pollster": "TSS",
           "blackburn": 60.6,
           "rose": 8.1,
           "fritts": 5.1,
@@ -88,7 +88,7 @@
         }
       ]
     },
-    "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, TSS/Victory Phones), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican."
+    "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican."
   },
 
   "news": {
