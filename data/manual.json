@@ -1,0 +1,111 @@
+{
+  "_README": "Manual data additions for the TN Governor Race Tracker. Scrapers NEVER touch this file. The merge step (merge.py) combines this with scraped data to produce the final output files. Manual entries always win on conflicts.",
+
+  "polls": {
+    "sources": [
+      {
+        "name": "Tennesseans for Student Success / Victory Phones",
+        "type": "pollster",
+        "url": "https://www.tnfirefly.com/tsspoll",
+        "frequency": "Periodic",
+        "methodology": "IVR automated telephone survey of registered voters",
+        "sampleSize": "500 RV",
+        "margin": "± 4.4%",
+        "lean": "Education advocacy",
+        "conductor": "Victory Phones",
+        "note": "Education-focused statewide poll commissioned by Tennesseans for Student Success. Feb 2026 survey included governor's race horse race plus 20+ education policy questions."
+      }
+    ],
+    "polls": [
+      {
+        "id": "tss-victory-phones-2026-02-04-republican-primary",
+        "pollster": "Tennesseans for Student Success / Victory Phones",
+        "date": "2026-02-04",
+        "endDate": "2026-02-06",
+        "type": "republican_primary",
+        "sampleSize": "500 (RV)",
+        "margin": "± 4.4%",
+        "results": [
+          {"candidate": "Blackburn", "party": "rep", "pct": 60.6},
+          {"candidate": "Rose", "party": "rep", "pct": 8.1},
+          {"candidate": "Fritts", "party": "rep", "pct": 5.1},
+          {"candidate": "Undecided", "party": "", "pct": 26.1}
+        ],
+        "source": "tnfirefly",
+        "url": "https://www.tnfirefly.com/tsspoll"
+      }
+    ],
+    "issuePolling": {
+      "School Choice / Tax Credit": [
+        {
+          "topic": "School Choice / Tax Credit",
+          "support": 71,
+          "poll": "february-2026",
+          "source": "Tennesseans for Student Success",
+          "url": "https://www.tnfirefly.com/tsspoll",
+          "note": "71.3% support public school choice; 82.3% support open enrollment"
+        }
+      ],
+      "Student Testing & Accountability": [
+        {
+          "topic": "Student Testing & Accountability",
+          "support": 81,
+          "poll": "february-2026",
+          "source": "Tennesseans for Student Success",
+          "url": "https://www.tnfirefly.com/tsspoll",
+          "note": "81.2% say annual student testing is important"
+        },
+        {
+          "topic": "Student Testing & Accountability",
+          "support": 87,
+          "poll": "february-2026",
+          "source": "Tennesseans for Student Success",
+          "url": "https://www.tnfirefly.com/tsspoll",
+          "note": "87.3% support holding schools and teachers accountable"
+        }
+      ],
+      "Education Spending Efficiency": [
+        {
+          "topic": "Education Spending Efficiency",
+          "support": 36,
+          "poll": "february-2026",
+          "source": "Tennesseans for Student Success",
+          "url": "https://www.tnfirefly.com/tsspoll",
+          "note": "Only 35.7% believe education funding is spent efficiently; 64.3% say it is NOT"
+        }
+      ]
+    },
+    "trendline": {
+      "description": "Tracking Blackburn's primary support from Jan 2025 to Feb 2026: 71.0% to 60.6%. After dipping to 56% in January, Blackburn rebounded in the TSS poll. Undecided voters remain the key battleground at 26.1%.",
+      "data": [
+        {
+          "date": "2026-02-04",
+          "pollster": "TSS / Victory Phones",
+          "blackburn": 60.6,
+          "rose": 8.1,
+          "fritts": 5.1,
+          "undecided": 26.1
+        }
+      ]
+    },
+    "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, TSS/Victory Phones), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican."
+  },
+
+  "news": {
+    "articles": [
+      {
+        "id": "tss-poll-feb-2026",
+        "date": "2026-02-09",
+        "title": "New Statewide Poll: Blackburn at 60.6%, Voters Overwhelmingly Back Education Accountability",
+        "summary": "A new survey of 500 Tennessee registered voters by Tennesseans for Student Success finds Sen. Marsha Blackburn leading the GOP primary at 60.6%, with Rep. John Rose at 8.1% and Rep. Monty Fritts at 5.1%. The poll also reveals broad education consensus: 87% support holding schools accountable, 82% back open enrollment, 81% say annual testing matters, and 64% believe education funding is not spent efficiently.",
+        "source": "Tennessee Firefly",
+        "url": "https://www.tnfirefly.com/tsspoll",
+        "party": "neutral",
+        "candidate": "",
+        "tags": ["analysis", "education", "poll"],
+        "tnfirefly": true,
+        "featured": true
+      }
+    ]
+  }
+}
