@@ -34,8 +34,8 @@
     }
   },
   "latestPoll": {
-    "id": "tss-victory-phones-2026-02-04-republican-primary",
-    "pollster": "Tennesseans for Student Success / Victory Phones",
+    "id": "tss-2026-02-04-republican-primary",
+    "pollster": "Tennesseans for Student Success",
     "date": "2026-02-04",
     "endDate": "2026-02-06",
     "type": "republican_primary",
