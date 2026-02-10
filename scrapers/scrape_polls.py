@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
 TNFirefly Governor Race - Comprehensive Polls Scraper
 =====================================================
@@ -45,7 +45,9 @@ except ImportError:
 from config import POLLING_SOURCES
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-POLLS_FILE = DATA_DIR / "polls.json"
+SCRAPED_DIR = DATA_DIR / "scraped"
+SCRAPED_DIR.mkdir(exist_ok=True)
+POLLS_FILE = SCRAPED_DIR / "polls.json"
 
 HEADERS = {
     "User-Agent": "TNFirefly-GovernorTracker/2.0 (info@tnfirefly.com)"
@@ -986,10 +988,14 @@ def run():
     print(f"Run time: {datetime.now(timezone.utc).isoformat()}")
     print("=" * 60)
     
-    # Load existing data
+    # Load existing data (scraped version, or fall back to main data/ for bootstrap)
     if POLLS_FILE.exists():
         with open(POLLS_FILE, "r", encoding="utf-8", errors="replace") as f:
             data = json.load(f)
+    elif (DATA_DIR / "polls.json").exists():
+        with open(DATA_DIR / "polls.json", "r", encoding="utf-8", errors="replace") as f:
+            data = json.load(f)
+        print("  (Bootstrap: loaded existing data from data/polls.json)")
     else:
         data = {
             "lastUpdated": "",
@@ -1154,3 +1160,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+

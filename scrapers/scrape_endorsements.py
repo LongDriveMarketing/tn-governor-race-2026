@@ -22,8 +22,10 @@ from bs4 import BeautifulSoup
 
 # Paths
 DATA_DIR = Path(__file__).parent.parent / "data"
-ENDORSEMENTS_FILE = DATA_DIR / "endorsements.json"
-ALERTS_FILE = DATA_DIR / "endorsements-alerts.json"
+SCRAPED_DIR = DATA_DIR / "scraped"
+SCRAPED_DIR.mkdir(exist_ok=True)
+ENDORSEMENTS_FILE = SCRAPED_DIR / "endorsements.json"
+ALERTS_FILE = SCRAPED_DIR / "endorsements-alerts.json"
 
 # Wikipedia URL
 WIKI_URL = "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
@@ -41,9 +43,16 @@ CANDIDATE_MAP = {
 
 
 def load_current_endorsements():
-    """Load the current endorsements.json."""
-    with open(ENDORSEMENTS_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+    """Load the current endorsements.json. Falls back to main data/ if scraped version doesn't exist."""
+    if ENDORSEMENTS_FILE.exists():
+        with open(ENDORSEMENTS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    # Bootstrap: fall back to main data dir on first run
+    fallback = DATA_DIR / "endorsements.json"
+    if fallback.exists():
+        with open(fallback, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"endorsements": [], "holdouts": [], "candidates": {}}
 
 
 def get_existing_names(data):

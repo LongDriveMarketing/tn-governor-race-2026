@@ -43,7 +43,9 @@ from config import (
 )
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-NEWS_FILE = DATA_DIR / "news.json"
+SCRAPED_DIR = DATA_DIR / "scraped"
+SCRAPED_DIR.mkdir(exist_ok=True)
+NEWS_FILE = SCRAPED_DIR / "news.json"
 
 HEADERS = {
     "User-Agent": "TNFirefly-NewsBot/2.0 (Tennessee education journalism)"
@@ -358,12 +360,17 @@ def run():
     print(f"Run time: {datetime.now(timezone.utc).isoformat()}")
     print("=" * 60)
 
-    # Load existing
+    # Load existing (scraped version, or fall back to main data/)
     if NEWS_FILE.exists():
         with open(NEWS_FILE, "r") as f:
             data = json.load(f)
         existing = data.get("articles", [])
         print(f"Loaded {len(existing)} existing articles")
+    elif (DATA_DIR / "news.json").exists():
+        with open(DATA_DIR / "news.json", "r") as f:
+            data = json.load(f)
+        existing = data.get("articles", [])
+        print(f"Loaded {len(existing)} existing articles (bootstrap from data/)")
     else:
         existing = []
         print("No existing news.json found, starting fresh")

@@ -54,8 +54,19 @@ def main():
         results["polls"] = f"FAILED - {e}"
         print(f"POLLS SCRAPER ERROR: {e}")
     
-    # 4. Hub aggregator
-    print("\n[4/4] AGGREGATING HUB SUMMARY...")
+    # 4. MERGE: Combine scraped data with manual overrides
+    print("\n[4/5] MERGING SCRAPED + MANUAL DATA...")
+    print("-" * 40)
+    try:
+        from merge import run as run_merge
+        run_merge()
+        results["merge"] = "OK"
+    except Exception as e:
+        results["merge"] = f"FAILED - {e}"
+        print(f"MERGE ERROR: {e}")
+
+    # 5. Hub aggregator (reads merged output)
+    print("\n[5/5] AGGREGATING HUB SUMMARY...")
     print("-" * 40)
     try:
         from aggregate_hub import run as run_hub

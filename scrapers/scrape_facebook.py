@@ -24,7 +24,9 @@ except ImportError:
 from config import TAG_KEYWORDS
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-NEWS_FILE = DATA_DIR / "news.json"
+SCRAPED_DIR = DATA_DIR / "scraped"
+SCRAPED_DIR.mkdir(exist_ok=True)
+NEWS_FILE = SCRAPED_DIR / "news.json"
 
 # =============================================================
 # FACEBOOK PAGES TO SCRAPE
@@ -205,14 +207,18 @@ def run():
     print(f"Run time: {datetime.now(timezone.utc).isoformat()}")
     print("=" * 60)
 
-    # Load existing news.json
+    # Load existing news (scraped version, or fall back to main data/)
     if NEWS_FILE.exists():
         with open(NEWS_FILE, "r") as f:
             data = json.load(f)
         existing = data.get("articles", [])
-        print(f"Loaded {len(existing)} existing articles")
+    elif (DATA_DIR / "news.json").exists():
+        with open(DATA_DIR / "news.json", "r") as f:
+            data = json.load(f)
+        existing = data.get("articles", [])
     else:
         existing = []
+    print(f"Loaded {len(existing)} existing articles")
 
     # Scrape
     new_articles = scrape_facebook_posts()
