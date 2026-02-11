@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-11",
-  "lastScraped": "2026-02-11T17:37:45.245687+00:00",
+  "lastScraped": "2026-02-11T20:01:24.686678+00:00",
   "articles": [
     {
       "id": "8c1e66e2604d",
@@ -162,6 +162,22 @@
       "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0oYQZHQVsGvhpQN2QSBpcazcwuYwsQ7YhStQfsgwjMxJJWYSQY9N5PzHhuHbDyapyl",
       "party": "rep",
       "candidate": "Rose",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "df608e80025a",
+      "date": "2026-02-11",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
       "tags": [
         "analysis",
         "campaign"

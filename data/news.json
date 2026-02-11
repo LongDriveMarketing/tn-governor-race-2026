@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-11",
-  "lastMerged": "2026-02-11T15:17:49.156927+00:00",
+  "lastMerged": "2026-02-11T20:02:12.250812+00:00",
   "articles": [
     {
       "id": "8c1e66e2604d",
@@ -43,6 +43,143 @@
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3ec7c51af847",
+      "date": "2026-02-11",
+      "title": "As I talk to Tennesseans, listen to their stories, and earn their votes, I'll continue working with President Donald J.",
+      "summary": "As I talk to Tennesseans, listen to their stories, and earn their votes, I'll continue working with President Donald J. Trump to make Tennessee America's conservative leader!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0TWC83NyBivheWKYxaKSYS2T12XgzPuYpsdGKHqyBijGqTFXTcxq1rbQbVos5Nt3Nl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2b18af8cceda",
+      "date": "2026-02-11",
+      "title": "We couldn’t do this without the support of conservative rockstars like you, Johnny Garrett for Congress.",
+      "summary": "We couldn’t do this without the support of conservative rockstars like you, Johnny Garrett for Congress. Let’s keep it rolling!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0epmGu45LvNXXXpyEjWY5C7EEKZDCqb8m5kmQqvMy1CHW4h2Pmu6cDK34Y5KnPzY8l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "91903de6f93c",
+      "date": "2026-02-11",
+      "title": "Tennessee values are what make our state the best in the nation to live, work, and rear a family.",
+      "summary": "Tennessee values are what make our state the best in the nation to live, work, and rear a family. Sevier County Mayor Larry Waters understands exactly that, and he’s on Team Marsha!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02gAJVDj3AdbHv3u6YvvfF8TvZK4CnzAmp3JtXWVJDuFRSACFx2261uGtn7fXoTbmyl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7d3c988ae41e",
+      "date": "2026-02-11",
+      "title": "We're incredibly blessed to have proven, conservative leaders like you on Team Marsha, Senator Jack Johnson!",
+      "summary": "We're incredibly blessed to have proven, conservative leaders like you on Team Marsha, Senator Jack Johnson! And the best part is, we're just getting started!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid036fZb3FAAS5ivSTnBYFJzuzW7yBLiAydZ6a5QSYMEyueAYctjegmrei9nTm4tUh6Sl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9cbbe91350a6",
+      "date": "2026-02-11",
+      "title": "Thank you for your trust and support, State Senator Jessie Seal!",
+      "summary": "Thank you for your trust and support, State Senator Jessie Seal!\n\nTogether, we will make Tennessee America’s conservative leader and the best place in the nation to live, work, and rear a family!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0rataTgWZgPGKrVpjZ9W56TUewTV8bnToGHfd3QWR4pfycijtiXRf6dh8cuCzqtD9l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f479552e1b23",
+      "date": "2026-02-11",
+      "title": "🇺🇸🇺🇸🇺🇸Let's make Memphis safe with John DeBerry.",
+      "summary": "🇺🇸🇺🇸🇺🇸Let's make Memphis safe with John DeBerry. He has the respect of the community and the experience to get the job done in Shelby County.\n\nhttps://www.actionnews5.com/2026/02/11/former-state-rep-announces-run-shelby-co-mayor-1st-gop-candidate-sources-say/",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid07ABEqZ4Lh2sxbHrDgWqj3ma39kFYJ6wvSe438hNiPnsF5eMHLiMirJhmpaQHpjtSl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3a0cbb2ea654",
+      "date": "2026-02-11",
+      "title": "Hakeem Jeffries thinks “something is really wrong” with Tennesseans who support ICE and voter ID.",
+      "summary": "Hakeem Jeffries thinks “something is really wrong” with Tennesseans who support ICE and voter ID.\n\nHere in Tennessee, we call that respect for the law. And as governor, I won’t apologize for it.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1845183802799158/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7b96b4bdd06e",
+      "date": "2026-02-11",
+      "title": "A special night celebrating young leaders at the Tennessee Cattlemen's Association Youth Awards Banquet.",
+      "summary": "A special night celebrating young leaders at the Tennessee Cattlemen's Association Youth Awards Banquet. I had good conversations with farmers, families, and ag leaders from across our state.\n\nIf listening to ag families is “too much time,” I’m happy to keep showing up. 🐄",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0oYQZHQVsGvhpQN2QSBpcazcwuYwsQ7YhStQfsgwjMxJJWYSQY9N5PzHhuHbDyapyl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "df608e80025a",
+      "date": "2026-02-11",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
         "campaign"
       ],
       "tnfirefly": false,
@@ -153,6 +290,66 @@
         "analysis"
       ],
       "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "698ce2e21028",
+      "date": "2026-02-10",
+      "title": "As I campaign across the Volunteer State, I’m deeply honored by the trust Tennesseans are placing in me to serve as the...",
+      "summary": "As I campaign across the Volunteer State, I’m deeply honored by the trust Tennesseans are placing in me to serve as the next Governor of Tennessee.\n\nOur mission to make Tennessee America’s conservative leader isn’t about one person; it’s about all of us working together to ensure a stronger future f...",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02aGupaBjgYsp1PXrqeESQ7EGKUzu2mWe7zPKZuVHu4s8fLSCVnWvqACf12kDkr3URl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "79c7b4a60821",
+      "date": "2026-02-10",
+      "title": "My name is Marsha Blackburn, and I'm running to serve as the next Governor of Tennessee.",
+      "summary": "My name is Marsha Blackburn, and I'm running to serve as the next Governor of Tennessee.\n\nI'd be honored to have your support: MarshaBlackburn.com",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02fETjVoxGwybqC8nKnLGyYwPPG1G1raYHHAhAf4n7k7J9SRgm5dXEJkTa955YWWudl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3dd8bb08c39f",
+      "date": "2026-02-10",
+      "title": "The fake news can keep talking, Kid Rock, but they’ve never been on our side and never will be.",
+      "summary": "The fake news can keep talking, Kid Rock, but they’ve never been on our side and never will be.\n\nThe All-American Halftime Show was truly awesome. 🇺🇲",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid09WFfFK6dH7rLGtWCXLSD1UjP6nnhzykngznig4MQ4jRq6JBr9gxY5bf7gnZiYJyDl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1a3f724aad00",
+      "date": "2026-02-10",
+      "title": "Democrats think ICE agents should carry ID.",
+      "summary": "Democrats think ICE agents should carry ID.\n\nHere’s another idea: show ID when you vote.\n\nThat’s how we do elections in Tennessee and why we need to make the New Yorks and Californias of the world play by the same rules.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/4263497133969432/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
       "featured": false
     },
     {
