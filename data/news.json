@@ -1,7 +1,53 @@
 {
-  "lastUpdated": "2026-02-10",
-  "lastMerged": "2026-02-10T20:09:48.422864+00:00",
+  "lastUpdated": "2026-02-11",
+  "lastMerged": "2026-02-11T05:47:14.230434+00:00",
   "articles": [
+    {
+      "id": "8c1e66e2604d",
+      "date": "2026-02-11",
+      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0c8b1acf8305",
+      "date": "2026-02-11",
+      "title": "Chattanooga Times Free Press: Trump: Tennessee is lucky to get Blackburn for governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "eed8421af8e3",
+      "date": "2026-02-11",
+      "title": "ICYMI: Blackburn: “Tennessee Can Be America’s Conservative Leader, And That’s Why I’m Running For Governor”",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "59423208f4ad",
       "date": "2026-02-10",
@@ -92,6 +138,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1f1a201bf074",
+      "date": "2026-02-10",
+      "title": "Sen. Marsha Blackburn Continues to Hold Strong Lead in the Latest Governor’s Race Poll",
+      "summary": "That poll found Blackburn leading with support from more than 60 percent of \nrespondents.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/sen-marsha-blackburn-continues-to-hold-strong-lead-in-the-latest-governors-race-poll",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
