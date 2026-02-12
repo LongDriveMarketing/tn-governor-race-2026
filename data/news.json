@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-02-11",
-  "lastMerged": "2026-02-11T20:02:12.250812+00:00",
+  "lastUpdated": "2026-02-12",
+  "lastMerged": "2026-02-12T05:20:13.383392+00:00",
   "articles": [
+    {
+      "id": "4afdfc2627ff",
+      "date": "2026-02-12",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f642186072b1",
+      "date": "2026-02-12",
+      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5b0044101d6c",
+      "date": "2026-02-12",
+      "title": "Chattanooga Times Free Press: Trump: Tennessee is lucky to get Blackburn for governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "8c1e66e2604d",
       "date": "2026-02-11",
@@ -183,6 +230,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c6a5e2cee1fb",
+      "date": "2026-02-11",
+      "title": "House Subcommittee Narrowly Advances Legislation Allowing the Election of Superintendents",
+      "summary": "Currently, superintendents in Tennessee are appointed by local school \ndistricts.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/house-subcommittee-narrowly-advances-legislation-allowing-the-election-of-superintendents",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
