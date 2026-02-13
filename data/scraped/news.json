@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-13",
-  "lastScraped": "2026-02-13T14:41:30.089153+00:00",
+  "lastScraped": "2026-02-13T18:47:31.870269+00:00",
   "articles": [
     {
       "id": "170f705dd7b0",
@@ -92,6 +92,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e784a1e5f08a",
+      "date": "2026-02-13",
+      "title": "New Poll Finds Voters Support Removing Barriers to Enroll Students Across County Lines",
+      "summary": "The poll comes as lawmakers are poised to reduce barriers to open \nenrollment.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/new-poll-finds-voters-support-removing-barriers-to-enroll-students-across-county-lines",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
