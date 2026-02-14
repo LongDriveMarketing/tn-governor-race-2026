@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-02-13",
-  "lastScraped": "2026-02-13T18:47:31.870269+00:00",
+  "lastUpdated": "2026-02-14",
+  "lastScraped": "2026-02-14T01:57:21.394709+00:00",
   "articles": [
+    {
+      "id": "c6ab1e2acf2c",
+      "date": "2026-02-14",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "27d38c2ddff8",
+      "date": "2026-02-14",
+      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9b5b9cbd86c5",
+      "date": "2026-02-14",
+      "title": "Chattanooga Times Free Press: Trump: Tennessee is lucky to get Blackburn for governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "170f705dd7b0",
       "date": "2026-02-13",
@@ -105,6 +152,21 @@
       "candidate": "",
       "tags": [
         "analysis"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "e690148092da",
+      "date": "2026-02-13",
+      "title": "State House Passes Bill to Allow Ten Commandments be Displayed in School Classrooms",
+      "summary": "Tennessee House of Representatives and the 10 Commandments (Photo by Tennessee General Assembly and Unsplash) \n \n \n The Tennessee House of Representatives voted 75-17 on Thursday to allow the Ten Commandments to be displayed in classrooms across the state. House Bill 0047  also requires the Ten Comm...",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/state-house-passes-bill-to-allow-ten-commandments-be-displayed-in-school-classrooms",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "policy"
       ],
       "tnfirefly": true,
       "featured": false
