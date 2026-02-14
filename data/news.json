@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-14",
-  "lastMerged": "2026-02-14T12:46:11.703131+00:00",
+  "lastMerged": "2026-02-14T18:34:55.706167+00:00",
   "articles": [
     {
       "id": "c6ab1e2acf2c",
@@ -43,6 +43,82 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "12232bc67572",
+      "date": "2026-02-14",
+      "title": "Celebrating today with my forever Valentine, Chuck ❤️",
+      "summary": "Celebrating today with my forever Valentine, Chuck ❤️",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0kjo2bLckSyyic9G2KxUxWojjAhqsAxnJ3LG54KGuseykGi2q1buuWRexAt7xQQLcl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "75501e8065bb",
+      "date": "2026-02-14",
+      "title": "Thank you, Garrett! I’m ready to deliver proven, conservative leadership to the Governor’s Office and keep securing...",
+      "summary": "Thank you, Garrett! I’m ready to deliver proven, conservative leadership to the Governor’s Office and keep securing wins for our great state.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0dTojSEKbEM3btTrLsAQbADVRUvvn6c2xBcmkpW1e8wkU4hDwXNRB7uYvqrDQ89EEl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ce0a26849b2b",
+      "date": "2026-02-14",
+      "title": "It's Saturday and there's work to do.",
+      "summary": "It's Saturday and there's work to do. My youngest son Sam is getting it done 👏",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0Js2fXWgvdpznTZKrMyBzuVEYXaTEL1yK6FB8Bqz2cu6nZXrMBuFEx2wdvdcdpa5Yl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7baa55acf6da",
+      "date": "2026-02-14",
+      "title": "Yesterday morning, I enjoyed meeting with the hardworking men and women at Star Construction.",
+      "summary": "Yesterday morning, I enjoyed meeting with the hardworking men and women at Star Construction. Their work helps keep Tennessee communities connected and growing.\n\nTennessee is the best state to do business, and I'm committed to keeping it that way—so companies can grow, create good-paying jobs, and c...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0EjRSDdAHx7SYRCnWPHrPB591CkrPHHXJ3knmfgrNQTReBMR1EZvBpXBxS6zjgLk8l",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "534ce78dc7e7",
+      "date": "2026-02-14",
+      "title": "Sevier County is one of Tennessee’s strongest economic drivers and home to some of our state’s most scenic treasures.",
+      "summary": "Sevier County is one of Tennessee’s strongest economic drivers and home to some of our state’s most scenic treasures. As Governor, I look forward to building on that strength and ensuring it continues to thrive.\n\nWe had a great evening at the Sevier County Lincoln Day Dinner—thankful for the chance ...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02np2UJdcEP3WskgQfXfbAu7ghhn934XK4A4tMK8R76Gbhfg3TQiwvRxnyZgDgDPhl",
+      "party": "rep",
+      "candidate": "Rose",
       "tags": [
         "campaign"
       ],
@@ -169,6 +245,66 @@
         "policy"
       ],
       "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "a5edcd0177b6",
+      "date": "2026-02-13",
+      "title": "So appreciative to have a partner like Senator Brent Taylor in our fight to make Memphis the safest city in America!",
+      "summary": "So appreciative to have a partner like Senator Brent Taylor in our fight to make Memphis the safest city in America!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0yUP9wDXerWrHfHwC4JPVRdNdUwLnwYB8XzqxKB7jgE3G7kuEFFE5czPPhwB88xk5l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9d19ce43cf35",
+      "date": "2026-02-13",
+      "title": "Jacobs for Mayor is right, and together we’ll make Tennessee the best place in the nation to live, work, and rear a...",
+      "summary": "Jacobs for Mayor is right, and together we’ll make Tennessee the best place in the nation to live, work, and rear a family!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02oooiXhaL6icf2ymqMEfYFZ9Lo3kZgReydMUag3zNUjqxVn91EztNgufjriDPdMQFl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1d5c68bf9acc",
+      "date": "2026-02-13",
+      "title": "One person doesn't win a campaign, and I'm thankful for every member of Team Marsha standing behind our conservative...",
+      "summary": "One person doesn't win a campaign, and I'm thankful for every member of Team Marsha standing behind our conservative vision for Tennessee!\n\nIt's not too late to join us: MarshaBlackburn.com",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0L52rUBqMt4DwYMgtDmjLJfAPLzKNY4UCGjgjnDxWxTPY4tCqjzM1okmedZsxXhqBl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "796b9e60dbe8",
+      "date": "2026-02-13",
+      "title": "The establishment has forgotten they work for YOU, the average Tennessean.",
+      "summary": "The establishment has forgotten they work for YOU, the average Tennessean. And they've forgotten that they work just under the authority of the Tennessee Constitution.\n\nThose folks lobbying against your rights? We're going to reassign them so they answer your calls and ask how they can help you.\n\nIt...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1409433267862558/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
       "featured": false
     },
     {
