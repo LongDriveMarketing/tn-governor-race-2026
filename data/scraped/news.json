@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-15",
-  "lastScraped": "2026-02-15T12:48:46.317851+00:00",
+  "lastScraped": "2026-02-15T14:25:32.590259+00:00",
   "articles": [
     {
       "id": "26bdaa29a830",
@@ -43,6 +43,21 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f5e17fe5095b",
+      "date": "2026-02-15",
+      "title": "More transparency and public involvement leads to more liberty and less government.",
+      "summary": "More transparency and public involvement leads to more liberty and less government. #montyfritts4governor #libertyandlessgovt #fritts4tn",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0HD9GrofuN7SaCyDAvq6LrqXxoVrYHqkQJu2UGq2D5yUAckdwhu76sWqW1roEesgBl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
