@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-16",
-  "lastMerged": "2026-02-16T13:01:50.481202+00:00",
+  "lastMerged": "2026-02-16T18:42:22.584231+00:00",
   "articles": [
     {
       "id": "ff138e9246b5",
@@ -44,6 +44,22 @@
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "810375054a4c",
+      "date": "2026-02-16",
+      "title": "This is our son, Guy.\n\nHe came home so proud of the flag he made at school.",
+      "summary": "This is our son, Guy.\n\nHe came home so proud of the flag he made at school. Moments like this remind me how patriotism gets passed on. \n\nAmerica’s future is in good hands.\n\nHappy Presidents’ Day 🇺🇸",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02FF8Kjzq2iVR7TXB1Sz62okY88dbenYW3FtA8iqiEfiS4ABDYkgKu54Xi26HvueVCl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "policy",
         "campaign"
       ],
       "tnfirefly": false,
@@ -105,6 +121,36 @@
       "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0HD9GrofuN7SaCyDAvq6LrqXxoVrYHqkQJu2UGq2D5yUAckdwhu76sWqW1roEesgBl&id=61580207799026",
       "party": "rep",
       "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "681b0bf14718",
+      "date": "2026-02-15",
+      "title": "“Give thanks to the Lord, for he is good; his love endures forever.” - 1 Chronicles 16:34",
+      "summary": "“Give thanks to the Lord, for he is good; his love endures forever.” - 1 Chronicles 16:34",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02Xx3FRJUd3xU7vbJdmpkGDFBtjdeVSqLhEFw2xiACHXPrkD4xRhewcgm9jYZUfXhLl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "fd9cce86a430",
+      "date": "2026-02-15",
+      "title": "Great visit this week with the team at Smith & Wesson Inc.",
+      "summary": "Great visit this week with the team at Smith & Wesson Inc. Since relocating to Tennessee in 2023, they’ve created quality jobs and strengthened our state’s manufacturing economy.\n\nThe Second Amendment reminds us: “A well regulated Militia, being necessary to the security of a free State, the right o...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid09PGRMkdeuKeJYizvev2JcpN2DfK3Mu9uYNcL16DwRCE93JMVEsmgn6KGAHzQLJbEl",
+      "party": "rep",
+      "candidate": "Rose",
       "tags": [
         "campaign"
       ],
