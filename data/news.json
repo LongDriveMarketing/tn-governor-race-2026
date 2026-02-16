@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-02-15",
-  "lastMerged": "2026-02-15T18:36:10.922273+00:00",
+  "lastUpdated": "2026-02-16",
+  "lastMerged": "2026-02-16T02:04:52.223927+00:00",
   "articles": [
+    {
+      "id": "ff138e9246b5",
+      "date": "2026-02-16",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f4e91397a4fd",
+      "date": "2026-02-16",
+      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7762eec44012",
+      "date": "2026-02-16",
+      "title": "Chattanooga Times Free Press: Trump: Tennessee is lucky to get Blackburn for governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "26bdaa29a830",
       "date": "2026-02-15",
