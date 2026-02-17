@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-17",
-  "lastScraped": "2026-02-17T14:43:38.954940+00:00",
+  "lastScraped": "2026-02-17T18:56:36.789138+00:00",
   "articles": [
     {
       "id": "8276559007c3",
@@ -151,6 +151,21 @@
       "candidate": "Fritts",
       "tags": [
         "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "09fa851aa8ff",
+      "date": "2026-02-17",
+      "title": "Blackburn Urges Support For Amendment Two On November Ballot",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
