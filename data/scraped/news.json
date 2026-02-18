@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-02-17",
-  "lastScraped": "2026-02-17T18:56:36.789138+00:00",
+  "lastUpdated": "2026-02-18",
+  "lastScraped": "2026-02-18T02:05:12.195198+00:00",
   "articles": [
+    {
+      "id": "99e45adeef3e",
+      "date": "2026-02-18",
+      "title": "Blackburn Urges Support For Amendment Two On November Ballot",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5896029e13cc",
+      "date": "2026-02-18",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e617b9b69555",
+      "date": "2026-02-18",
+      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "8276559007c3",
       "date": "2026-02-17",
@@ -169,6 +216,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "bbac357d9b62",
+      "date": "2026-02-17",
+      "title": "Poll Finds Voters Oppose Removing Algebra II as a Graduation Requirement and Reductions in Required Exams",
+      "summary": "Of those surveyed, nearly 67 percent oppose removing Algebra II as a \ngraduation requirement.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/poll-finds-voters-oppose-removing-algebra-ii-as-a-graduation-requirement-and-reductions-in-required-exams",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
