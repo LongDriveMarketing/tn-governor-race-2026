@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-02-18",
-  "lastScraped": "2026-02-18T18:54:01.493596+00:00",
+  "lastUpdated": "2026-02-19",
+  "lastScraped": "2026-02-19T02:03:55.014950+00:00",
   "articles": [
+    {
+      "id": "4c8bc20b9f08",
+      "date": "2026-02-19",
+      "title": "Blackburn Urges Support For Amendment Two On November Ballot",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7022910b97bc",
+      "date": "2026-02-19",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "88ac91f5c967",
+      "date": "2026-02-19",
+      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "99e45adeef3e",
       "date": "2026-02-18",
@@ -137,6 +184,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7297eb32a6ae",
+      "date": "2026-02-18",
+      "title": "Lawmakers Consider Making Election Day a Holiday for College Students",
+      "summary": "Vote pin. (Photo by Pexels/Sora Shimaza)",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/lawmakers-consider-making-election-day-a-holiday-for-college-students",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
