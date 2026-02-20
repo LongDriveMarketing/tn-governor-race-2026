@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-20",
-  "lastScraped": "2026-02-20T14:37:25.633109+00:00",
+  "lastScraped": "2026-02-20T18:45:32.901700+00:00",
   "articles": [
     {
       "id": "aad7d3addec6",
@@ -47,6 +47,22 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "969739135584",
+      "date": "2026-02-20",
+      "title": "Survey Finds Tennessee More Likely to Support Charter Schools, Open Enrollment, and Raising Teacher Pay Than Other States",
+      "summary": "One of the key findings in the survey is that Tennessee ranks above the \nnational average for parents who strongly favor charter schools (ranked \n15th), open enrollment (ranked 15th), and higher teacher salaries (ranked \n18th). (Logo by TennesseeCAN)",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/survey-finds-tennessee-more-likely-to-support-charter-schools-open-enrollment-and-raising-teacher-pay-than-other-states",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy",
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
