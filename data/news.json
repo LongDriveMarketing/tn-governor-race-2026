@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-22",
-  "lastMerged": "2026-02-22T12:48:33.704820+00:00",
+  "lastMerged": "2026-02-22T18:35:13.870167+00:00",
   "articles": [
     {
       "id": "86e663f4bfc6",
@@ -44,6 +44,21 @@
       "candidate": "Blackburn",
       "tags": [
         "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a14206ace453",
+      "date": "2026-02-22",
+      "title": "Trump says he’s sending ‘great’ US hospital boat to Greenland",
+      "summary": "President Trump on Saturday said he was sending a “great” U.S. hospital boat to Greenland, a territory of Denmark that the president fixated on in recent months. “Working with the fantastic Governor of Louisiana, Jeff Landry, we are going to send a great hospital boat to Greenland to take care of th...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5749675-trump-greenland-hospital-boat/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
