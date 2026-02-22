@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-02-21",
-  "lastMerged": "2026-02-21T18:34:47.594440+00:00",
+  "lastUpdated": "2026-02-22",
+  "lastMerged": "2026-02-22T02:04:24.548946+00:00",
   "articles": [
+    {
+      "id": "86e663f4bfc6",
+      "date": "2026-02-22",
+      "title": "Blackburn Urges Support For Amendment Two On November Ballot",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d08aef5c33ed",
+      "date": "2026-02-22",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e098113e84e3",
+      "date": "2026-02-22",
+      "title": "Blackburn Raised Over $5.5 Million In Just 5 Months",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "c9f2cd019f29",
       "date": "2026-02-21",
