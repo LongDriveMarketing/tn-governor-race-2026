@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-02-26",
-  "lastMerged": "2026-02-26T13:04:41.995820+00:00",
+  "lastMerged": "2026-02-26T18:53:02.323984+00:00",
   "articles": [
     {
       "id": "12341f887b72",
@@ -44,6 +44,21 @@
       "candidate": "Blackburn",
       "tags": [
         "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b3344e27b27a",
+      "date": "2026-02-26",
+      "title": "AFP State PAC Endorses Senator Marsha Blackburn for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
