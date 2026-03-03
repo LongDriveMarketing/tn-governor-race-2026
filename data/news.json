@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-03",
-  "lastMerged": "2026-03-03T12:56:52.882574+00:00",
+  "lastMerged": "2026-03-03T18:45:38.762948+00:00",
   "articles": [
     {
       "id": "5a32c5bbfd50",
@@ -46,6 +46,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d21046dc72ed",
+      "date": "2026-03-03",
+      "title": "Rep. William Slater Proposes ‘Fair Opportunity’ for Public School Choice",
+      "summary": "Slater is co-sponsoring legislation to make it easier to enroll children \noutside their zoned school district.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/rep-william-slater-proposes-fair-opportunity-for-public-school-choice",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
