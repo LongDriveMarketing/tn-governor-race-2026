@@ -1,7 +1,53 @@
 {
-  "lastUpdated": "2026-03-03",
-  "lastMerged": "2026-03-03T18:45:38.762948+00:00",
+  "lastUpdated": "2026-03-04",
+  "lastMerged": "2026-03-04T01:58:14.921049+00:00",
   "articles": [
+    {
+      "id": "771012986f18",
+      "date": "2026-03-04",
+      "title": "AFP State PAC Endorses Senator Marsha Blackburn for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "640ed7b0a2ed",
+      "date": "2026-03-04",
+      "title": "Blackburn Urges Support For Amendment Two On November Ballot",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b314eb6234a4",
+      "date": "2026-03-04",
+      "title": "Marsha Blackburn Dominates GOP Gubernatorial Primary Poll in Tennessee",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "5a32c5bbfd50",
       "date": "2026-03-03",
