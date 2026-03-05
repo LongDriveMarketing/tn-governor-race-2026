@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-05",
-  "lastScraped": "2026-03-05T14:42:37.876485+00:00",
+  "lastScraped": "2026-03-05T19:15:21.318100+00:00",
   "articles": [
     {
       "id": "d0bec0a74b70",
@@ -918,6 +918,21 @@
       "date": "2026-02-18",
       "title": "Lawmakers Consider Making Election Day a Holiday for College Students",
       "summary": "Vote pin. (Photo by Pexels/Sora Shimaza)",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/lawmakers-consider-making-election-day-a-holiday-for-college-students",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "c7d6a5247d49",
+      "date": "2026-02-18",
+      "title": "Lawmakers Consider Making Election Day a Holiday for Students",
+      "summary": "New legislation would make it easier for college students to vote.",
       "source": "Tennessee Firefly",
       "url": "https://www.tnfirefly.com/news/lawmakers-consider-making-election-day-a-holiday-for-college-students",
       "party": "general",
