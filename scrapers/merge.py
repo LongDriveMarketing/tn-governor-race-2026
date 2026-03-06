@@ -171,17 +171,45 @@ def merge_news():
     print(f"  news.json: {len(merged)} articles ({len(manual_articles)} manual)")
 
 
-# ─── Endorsements (pass-through, no manual layer needed yet) ─
+# ─── Endorsements (scraped + manual overrides) ─────────────
 
 def merge_endorsements():
-    """Copy scraped endorsements to final output (no manual overrides yet)."""
+    """Merge scraped endorsements with manual overrides from manual.json."""
     scraped = load_json(SCRAPED_DIR / "endorsements.json")
-    if scraped:
-        save_json(DATA_DIR / "endorsements.json", scraped)
-        count = len(scraped.get("endorsements", []))
-        print(f"  endorsements.json: {count} endorsements (scraped only)")
-    else:
+    manual = load_json(MANUAL_FILE).get("endorsements", {})
+
+    if not scraped:
         print("  [WARN] No scraped endorsements found — skipping")
+        return
+
+    # Build a dict of manual overrides keyed by lowercase name
+    manual_overrides = {
+        e["name"].lower(): e for e in manual.get("overrides", [])
+    }
+
+    # Apply manual field overrides to matching scraped endorsements
+    merged_endorsements = []
+    for endorser in scraped.get("endorsements", []):
+        key = endorser.get("name", "").lower()
+        if key in manual_overrides:
+            # Manual fields win; keep all scraped fields not overridden
+            merged = {**endorser, **manual_overrides[key]}
+            merged_endorsements.append(merged)
+        else:
+            merged_endorsements.append(endorser)
+
+    # Append any manual-only entries not in scraped data
+    scraped_names = {e.get("name", "").lower() for e in scraped.get("endorsements", [])}
+    for e in manual.get("overrides", []):
+        if e["name"].lower() not in scraped_names:
+            merged_endorsements.append(e)
+
+    scraped["endorsements"] = merged_endorsements
+    save_json(DATA_DIR / "endorsements.json", scraped)
+
+    count = len(merged_endorsements)
+    manual_count = len(manual.get("overrides", []))
+    print(f"  endorsements.json: {count} endorsements ({manual_count} manual overrides)")
 
 
 # ─── Finance (scraped + manual overrides for highlights/analysis) ─
