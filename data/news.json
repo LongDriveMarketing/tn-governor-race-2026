@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-06",
-  "lastMerged": "2026-03-06T18:15:41.284292+00:00",
+  "lastMerged": "2026-03-06T18:31:56.099613+00:00",
   "articles": [
     {
       "id": "e1277ee9d704",
@@ -43,6 +43,21 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3c1c92fba69b",
+      "date": "2026-03-06",
+      "title": "Marsha Blackburn Files Record-Breaking Nominating Petition With Over 3,000 Signatures From All 95 Counties",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,

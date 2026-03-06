@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-06",
-  "lastScraped": "2026-03-06T18:15:41.277833+00:00",
+  "lastScraped": "2026-03-06T18:31:56.093456+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -29,7 +29,7 @@
     {
       "name": "John Rose",
       "party": "rep",
-      "totalRaised": 354977.17,
+      "totalRaised": 1456044,
       "totalSpent": 1505369.84,
       "cashOnHand": 4712735.3,
       "loansReceived": 0.0,
@@ -217,6 +217,6 @@
       "lastReportType": "Early Year End Supplemental 2025"
     }
   ],
-  "analysis": "The money race reveals two fundamentally different Republican strategies. Rose bet big on himself — a $5M personal loan plus $1.46M raised, all while keeping 92% of his donors in-state. Blackburn countered with sheer volume: 33,000 contributions totaling $5.35M, leveraging her national Senate donor network. Rose is hammering her 78% out-of-state rate in ads; Blackburn argues the volume shows grassroots enthusiasm. On the Democratic side, fundraising reflects the party's structural disadvantage in Tennessee statewide races — Green leads with $125K, a fraction of either Republican's total.",
-  "lastMerged": "2026-03-06T18:15:41.288109+00:00"
+  "analysis": "The money race reveals two fundamentally different Republican strategies. Rose bet big on himself — a $5M personal loan plus $1.46M raised, all while keeping 92% of his donors in-state. Blackburn countered with sheer volume: 33,000 contributions totaling $5.5M, leveraging her national Senate donor network. Rose is hammering her 78% out-of-state rate in ads; Blackburn argues the volume shows grassroots enthusiasm. On the Democratic side, fundraising reflects the party's structural disadvantage in Tennessee statewide races — Green leads with $125K, a fraction of either Republican's total.",
+  "lastMerged": "2026-03-06T18:31:56.103208+00:00"
 }
