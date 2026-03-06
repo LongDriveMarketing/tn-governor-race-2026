@@ -1,18 +1,18 @@
 <!-- Monty Fritts - Page Header Code Injection -->
 
-<meta name="description" content="Complete profile of Monty Fritts' 2026 Tennessee governor campaign: anti-voucher stance, legislative record, campaign finance, controversies, and what it means for Tennessee schools.">
+<meta name="description" content="Complete profile of Monty Fritts' 2026 Tennessee governor campaign: stance on the Education Freedom Scholarship, legislative record, campaign finance, controversies, and what it means for Tennessee schools.">
 <meta name="author" content="Tennessee Firefly">
 <meta name="designer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="developer" content="Long Drive Marketing - longdrivemarketing.com">
 <meta name="robots" content="index, follow">
 <meta property="og:title" content="Monty Fritts — 2026 TN Governor's Race Tracker">
-<meta property="og:description" content="State Rep. Fritts' campaign profile: anti-voucher Republican, Army veteran, nuclear industry background, education stances, and what his long-shot candidacy means for the GOP primary.">
+<meta property="og:description" content="State Rep. Fritts' campaign profile: Army veteran, nuclear industry background, education stances, opposition to the Education Freedom Scholarship, and what his candidacy means for the GOP primary.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.tnfirefly.com/tennessee-governor-race/candidates/monty-fritts">
 <meta property="og:site_name" content="Tennessee Firefly">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Monty Fritts — 2026 TN Governor's Race">
-<meta name="twitter:description" content="Complete profile: legislative record, anti-voucher stance, campaign finance, controversies, and education positions.">
+<meta name="twitter:description" content="Complete profile: legislative record, Education Freedom Scholarship stance, campaign finance, controversies, and education positions.">
 <link rel="canonical" href="https://www.tnfirefly.com/tennessee-governor-race/candidates/monty-fritts">
 
 <script type="application/ld+json">
@@ -183,6 +183,7 @@
 @keyframes ff3{0%,100%{opacity:0;transform:translate(0,0)}20%{opacity:0.6}50%{opacity:0.4;transform:translate(20px,-10px)}80%{opacity:0.7;transform:translate(-15px,20px)}}
 @keyframes ff4{0%,100%{opacity:0;transform:translate(0,0)}35%{opacity:0.4}55%{opacity:0.8;transform:translate(-10px,-15px)}85%{opacity:0.3;transform:translate(15px,10px)}}
 @media(max-width:768px){
+.nav-grid{grid-template-columns:repeat(2,1fr);}
   .profile-hero-inner{grid-template-columns:1fr;text-align:center;}
   .profile-photo{margin:0 auto;}
   .profile-tags{justify-content:center;}
@@ -193,9 +194,65 @@
   .candidate-nav-inner{flex-direction:column;align-items:stretch;}
 }
 @media(max-width:480px){
+.nav-grid{grid-template-columns:1fr;}
   .stats-grid{grid-template-columns:1fr;}
   .stat-val{font-size:22px;}
 }
+
+
+/* === NAV CARDS (Explore the Tracker) === */
+.nav-section{padding:60px 0;}
+.gov-tracker .nav-section h2{font-family:'Playfair Display',serif!important;font-size:28px!important;color:#f8f6f1!important;line-height:1.2;margin:0 0 28px 0;}
+.gov-tracker .disclaimer{padding:40px 0;border-top:1px solid rgba(212,168,67,0.15);text-align:center;}
+.gov-tracker .disclaimer p{font-size:12px!important;color:#5a5750!important;line-height:1.7;max-width:700px;margin:0 auto;}
+.gov-tracker .disclaimer a{color:#a07e2e;text-decoration:none;}
+.nav-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;}
+.nav-card{background:var(--navy-mid);border:1px solid var(--glass-border);border-radius:4px;padding:28px 24px;text-decoration:none;transition:all 0.3s;position:relative;overflow:hidden;}
+.nav-card:hover{border-color:var(--gold-dim);transform:translateY(-2px);box-shadow:0 8px 30px rgba(0,0,0,0.2);}
+.nav-card::after{content:'\2192';position:absolute;top:28px;right:24px;font-size:18px;color:var(--gold);opacity:0;transition:all 0.3s;transform:translateX(-8px);}
+.nav-card:hover::after{opacity:1;transform:translateX(0);}
+.nav-card h4{font-family:'Playfair Display',serif;font-size:17px;color:var(--white);margin-bottom:6px;}
+.nav-card p{font-size:12px;color:var(--text-muted);line-height:1.5;}
+/* === NEWSLETTER - THE SIGNAL === */
+.tf-inline-newsletter{background:linear-gradient(135deg,#0f2440 0%,#1a2f4d 50%,#0d1b2a 100%);border-radius:16px;padding:30px 35px;margin:40px 0;box-shadow:0 4px 20px rgba(15,36,64,0.25),0 0 25px rgba(244,166,35,0.2);position:relative;overflow:hidden;border:4px solid #F4A623;}
+.tf-firefly{position:absolute;border-radius:50%;pointer-events:none;z-index:0;}
+.tf-firefly::before{content:'';position:absolute;border-radius:50%;background:radial-gradient(circle,rgba(244,166,35,0.9) 0%,rgba(244,166,35,0.4) 40%,transparent 70%);}
+.tf-firefly-1{top:20%;left:10%;animation:tfFF1 8s ease-in-out infinite;}.tf-firefly-1::before{width:6px;height:6px;animation:tfFG 2s ease-in-out infinite;}
+.tf-firefly-2{top:60%;left:25%;animation:tfFF2 10s ease-in-out infinite;}.tf-firefly-2::before{width:4px;height:4px;animation:tfFG 2.5s ease-in-out infinite .5s;}
+.tf-firefly-3{top:30%;left:50%;animation:tfFF3 9s ease-in-out infinite;}.tf-firefly-3::before{width:5px;height:5px;animation:tfFG 1.8s ease-in-out infinite 1s;}
+.tf-firefly-4{top:70%;left:70%;animation:tfFF4 11s ease-in-out infinite;}.tf-firefly-4::before{width:4px;height:4px;animation:tfFG 2.2s ease-in-out infinite .3s;}
+.tf-firefly-5{top:15%;left:85%;animation:tfFF5 7s ease-in-out infinite;}.tf-firefly-5::before{width:5px;height:5px;animation:tfFG 2s ease-in-out infinite .8s;}
+.tf-firefly-6{top:50%;left:5%;animation:tfFF6 12s ease-in-out infinite;}.tf-firefly-6::before{width:3px;height:3px;animation:tfFG 2.8s ease-in-out infinite 1.2s;}
+@keyframes tfFG{0%,100%{opacity:.3;box-shadow:0 0 2px rgba(244,166,35,.5);}50%{opacity:1;box-shadow:0 0 12px rgba(244,166,35,.9),0 0 20px rgba(244,166,35,.5);}}
+@keyframes tfFF1{0%,100%{transform:translate(0,0);}25%{transform:translate(15px,-10px);}50%{transform:translate(25px,5px);}75%{transform:translate(10px,12px);}}
+@keyframes tfFF2{0%,100%{transform:translate(0,0);}25%{transform:translate(-20px,8px);}50%{transform:translate(-10px,-12px);}75%{transform:translate(15px,-5px);}}
+@keyframes tfFF3{0%,100%{transform:translate(0,0);}25%{transform:translate(12px,15px);}50%{transform:translate(-8px,10px);}75%{transform:translate(-15px,-8px);}}
+@keyframes tfFF4{0%,100%{transform:translate(0,0);}25%{transform:translate(-18px,-12px);}50%{transform:translate(10px,-8px);}75%{transform:translate(20px,10px);}}
+@keyframes tfFF5{0%,100%{transform:translate(0,0);}25%{transform:translate(-25px,5px);}50%{transform:translate(-15px,15px);}75%{transform:translate(-5px,-10px);}}
+@keyframes tfFF6{0%,100%{transform:translate(0,0);}25%{transform:translate(20px,-5px);}50%{transform:translate(30px,8px);}75%{transform:translate(10px,12px);}}
+.tf-inline-newsletter-inner{display:flex;align-items:center;gap:30px;position:relative;z-index:1;justify-content:space-between;}
+.tf-inline-newsletter-logo{max-width:160px!important;width:160px!important;height:auto!important;flex-shrink:0;filter:drop-shadow(0 2px 30px rgba(244,166,35,0.3));}
+.tf-inline-newsletter-content{flex:1;min-width:0;display:flex;align-items:center;gap:20px;flex-wrap:nowrap;}
+.tf-inline-newsletter-text{flex:0 1 auto;min-width:180px;}
+.tf-inline-newsletter-text .tf-nl-headline{font-family:'Playfair Display',serif;font-size:20px;font-weight:800;color:#fff;margin:0 0 6px 0;line-height:1.2;}
+.tf-inline-newsletter-text .tf-nl-headline em{color:#F4A623;font-style:normal;}
+.tf-inline-newsletter-text .tf-nl-subtext{font-size:14px;color:rgba(255,255,255,0.7);margin:0;font-weight:600;}
+.tf-inline-newsletter-form{display:flex;flex-wrap:nowrap;gap:12px;align-items:center;flex:1 1 auto;min-width:0;}
+.tf-inline-newsletter-form input{padding:12px 14px;border:2px solid rgba(255,255,255,0.15);border-radius:8px;font-size:14px;font-family:'Work Sans',sans-serif;background:rgba(255,255,255,0.1);color:#fff;transition:all .3s;}
+.tf-inline-newsletter-form input::placeholder{color:rgba(255,255,255,0.5);}
+.tf-inline-newsletter-form input:focus{outline:none;border-color:#F4A623;background:rgba(255,255,255,0.15);box-shadow:0 0 0 3px rgba(244,166,35,0.2);}
+.tf-inline-newsletter-form input[name="cm-name"]{flex:1 1 100px;min-width:80px;max-width:160px;}
+.tf-inline-newsletter-form input[type="email"]{flex:1 1 140px;min-width:110px;max-width:200px;}
+.tf-inline-newsletter-form input[name="cm-f-ttdydht"]{flex:0 0 70px;min-width:60px;max-width:90px;}
+.tf-inline-newsletter-form button{padding:12px 24px;background:linear-gradient(135deg,#F4A623 0%,#e6951d 100%);color:#0f2440;border:none;border-radius:8px;font-weight:800;font-size:14px;font-family:'Work Sans',sans-serif;cursor:pointer;transition:all .3s;white-space:nowrap;text-transform:uppercase;letter-spacing:.5px;box-shadow:0 4px 15px rgba(244,166,35,0.4);flex-shrink:0;}
+.tf-inline-newsletter-form button:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(244,166,35,0.5);}
+@media(max-width:1024px){.tf-inline-newsletter-inner{flex-direction:column;text-align:center;gap:20px;}.tf-inline-newsletter-content{flex-direction:column;gap:20px;}.tf-inline-newsletter-form{flex-wrap:wrap;justify-content:center;}}
+@media(max-width:768px){.tf-inline-newsletter{padding:25px 20px;}.tf-inline-newsletter-logo{max-width:120px!important;width:120px!important;}.tf-inline-newsletter-form{flex-direction:column;width:100%;}.tf-inline-newsletter-form input{width:100%!important;min-width:100%!important;max-width:100%!important;flex:none!important;}.tf-inline-newsletter-form button{width:100%;}.nav-grid{grid-template-columns:1fr;}}
+@media(max-width:480px){.nav-grid{grid-template-columns:1fr;}}
+/* === DISCLAIMER === */
+.disclaimer{padding:40px 0;border-top:1px solid var(--glass-border);text-align:center;}
+.disclaimer p{font-size:12px;color:var(--text-muted);line-height:1.7;max-width:700px;margin:0 auto;}
+.disclaimer a{color:var(--gold-dim);text-decoration:none;}
 </style>
 
 <!-- Page Content (wrapped in .gov-tracker to avoid Squarespace style conflicts) -->
@@ -219,10 +276,10 @@
 <div class="profile-tags">
 <span class="tag tag-party">Republican</span>
 <span class="tag tag-detail">Anti-Establishment</span>
-<span class="tag tag-detail">Anti-Voucher</span>
+<span class="tag tag-detail">Opposes Ed. Freedom Scholarship</span>
 <span class="tag tag-detail">Army Veteran</span>
 <span class="tag tag-controversy">Controversial</span>
-<span class="tag tag-detail">$11K Raised</span>
+<span class="tag tag-detail" data-live="Monty Fritts.totalRaised" data-live-format="money">$167K</span>
 </div>
 <div class="profile-links">
 <a href="https://fritts4tn.com" target="_blank" rel="noopener">Campaign Site ↗</a>
@@ -237,12 +294,13 @@
 <!-- QUICK STATS -->
 <section class="stats-bar">
 <div class="stats-grid">
-<div class="stat-card"><div class="stat-val">$11K</div><div class="stat-label">Campaign Balance</div></div>
+<div class="stat-card"><div class="stat-val" data-live="Monty Fritts.cashOnHand" data-live-format="money">$11K</div><div class="stat-label">Campaign Balance</div></div>
 <div class="stat-card"><div class="stat-val">Dist. 32</div><div class="stat-label">House Seat</div></div>
 <div class="stat-card"><div class="stat-val">62</div><div class="stat-label">Age</div></div>
 <div class="stat-card"><div class="stat-val">Sep '25</div><div class="stat-label">Entered Race</div></div>
 <div class="stat-card"><div class="stat-val">20+ Yrs</div><div class="stat-label">Nuclear Industry</div></div>
 <div class="stat-card"><div class="stat-val">No PACs</div><div class="stat-label">Grassroots Only</div></div>
+<div class="stat-card"><div class="stat-val" data-poll="Fritts">5.1%</div><div class="stat-label">Latest Poll (Feb '26)</div></div>
 </div>
 </section>
 
@@ -254,7 +312,7 @@
 <div class="section-eyebrow">Biography</div>
 <h2 class="section-title">The Anti-Establishment Outsider</h2>
 <div class="section-prose">
-<p><strong>Monty Fritts is the longest of long shots in the 2026 Republican governor's primary</strong> — and he knows it. The two-term state representative from Kingston entered the race in September 2025 with $11,000 in his campaign account, no statewide name recognition, and a message that his opponents Marsha Blackburn and John Rose are part of the very "Nashville establishment" that he believes has failed Tennessee. His candidacy is built on faith, frustration, and a belief that grassroots conservatives are hungry for something the frontrunners aren't offering.</p>
+<p>Political insiders consider Monty Fritts to be a long shot in the 2026 Republican governor's primary, but he's built a coalition of committed supporters. The two-term state representative from Kingston entered the race in September 2025 with $11,000 in his campaign account, no statewide name recognition, and a message that his opponents Marsha Blackburn and John Rose are part of the very "Nashville establishment" that he believes has failed Tennessee. His candidacy is built on faith, frustration, and a belief that grassroots conservatives are hungry for something the frontrunners aren't offering.</p>
 
 <p>Born in <strong>Rockwood, Tennessee</strong> on December 10, 1963, Fritts grew up in East Tennessee's Roane County and graduated from <strong>Roane County High School</strong> in 1982. He earned a <strong>B.S. in Business and Chemistry</strong> and an <strong>M.A. in Theological Studies</strong> from <strong>Liberty University</strong>, followed by an <strong>MBA from the University of Tennessee</strong> in 2011. He served in the <strong>Tennessee Army National Guard</strong> and spent more than two decades in the nuclear industry, primarily at the <strong>Y-12 National Security Complex</strong> in Oak Ridge, where he worked as a federal program manager for the U.S. Department of Energy.</p>
 
@@ -327,7 +385,7 @@
 
 <div class="issue-grid">
 <div class="issue-item">
-<h3>❌ Voted Against School Vouchers (2025)</h3>
+<h3>❌ Voted Against Education Freedom Scholarship (2025)</h3>
 <p>One of approximately 20 House Republicans to vote against Gov. Lee's Education Freedom Scholarship program during the January 2025 special session. Called it "fiscally irresponsible" and unconstitutional. Estimated opposition in his district at 100-to-1.</p>
 </div>
 <div class="issue-item">
@@ -352,11 +410,6 @@
 </div>
 </div>
 
-<div class="analysis-box">
-<div class="ab-head">TNFirefly Analysis</div>
-<p>Fritts' legislative record is fascinating for an education-focused audience. He is the only Republican gubernatorial candidate who voted against school vouchers — a position that puts him closer to the Democratic candidates and to Tennessee's public school establishment than to his own party's leadership. His constitutional argument (Article XI, Section 12 requires funding public schools, not private ones) is one that voucher opponents across both parties have adopted.</p>
-<p>However, his record also includes voting to arm teachers weeks after the Covenant School shooting and voting against IVF and contraception rights — positions that will energize his base but alienate moderates. The "chemtrail" bill made national news for the wrong reasons, and his sole vote against continuing the Department of Education raises questions about whether his anti-government philosophy has practical limits.</p>
-</div>
 </section>
 
 <!-- CAMPAIGN FINANCE -->
@@ -370,7 +423,7 @@
 <div class="finance-grid">
 <div class="finance-card">
 <h3>Campaign Balance</h3>
-<div class="fin-val">$11,051</div>
+<div class="fin-val" data-live="Monty Fritts.cashOnHand" data-live-format="money-full">$147,653</div>
 <div class="fin-note">Balance in state House campaign account at time of announcement. Can be transferred to gubernatorial account under Tennessee rules. Fritts also owes himself $15,000 from a self-loan.</div>
 </div>
 <div class="finance-card">
@@ -392,12 +445,6 @@
 </div>
 </div>
 
-<div class="analysis-box">
-<div class="ab-head">TNFirefly Analysis</div>
-<p>The financial math makes Fritts' candidacy essentially symbolic — and he seems to know it. At $11,000 versus the $5M+ war chests of Blackburn and Rose, Fritts cannot afford statewide TV advertising, a professional campaign staff, or even basic statewide mail. His campaign is running on earned media, social media, and event appearances.</p>
-<p>That said, Fritts' presence in the primary isn't meaningless. Blackburn's allies have publicly said his candidacy helps her by splitting the anti-establishment conservative vote that might otherwise go to Rose. If Fritts pulls even 5-10% of the primary electorate in rural East Tennessee, that could matter in a tight Blackburn-Rose race.</p>
-<p>His no-PAC pledge is a genuine differentiator. Both Blackburn and Rose have significant PAC backing — Blackburn from Club for Growth and Americans for Prosperity, Rose from agricultural and business interests. For the slice of Republican voters who view all establishment money as corrupt, Fritts is the only option.</p>
-</div>
 </section>
 
 <!-- EDUCATION STANCES -->
@@ -405,24 +452,24 @@
 <div class="section-eyebrow">Education Stances</div>
 <h2 class="section-title">Where Fritts Stands on Schools</h2>
 <div class="section-prose">
-<p>Fritts' education positions are <strong>unusual for a Republican gubernatorial candidate</strong> — he is the only GOP contender who opposes school vouchers and who has voted to block their expansion. His education stance is rooted in constitutional originalism and fiscal conservatism rather than a progressive philosophy, but the practical effect puts him closer to public school advocates than to his own party's leadership.</p>
+<p>Fritts' education positions are <strong>unusual for a Republican gubernatorial candidate</strong> — he is the only GOP contender who opposes the Education Freedom Scholarship and who has voted to block its expansion. His education stance is rooted in constitutional originalism and fiscal conservatism rather than a progressive philosophy, but the practical effect puts him closer to public school advocates than to his own party's leadership.</p>
 </div>
 
 <div class="stance-cards">
 <div class="stance-card oppose">
 <div class="stance-label">Strong Opposition</div>
-<h3>School Vouchers</h3>
-<p>Voted against Gov. Lee's Education Freedom Scholarship program. Calls it "fiscally irresponsible" and "unconstitutional" — citing Article XI, Section 12 of the Tennessee Constitution, which mandates funding for "a system of free public schools" and does not mention private schools. Pledges to suspend or end the program if elected governor. Estimated constituent opposition at 100-to-1.</p>
+<h3>Education Freedom Scholarship</h3>
+<p>Voted against Gov. Lee's Education Freedom Scholarship program. Calls it "fiscally irresponsible" and "unconstitutional" — citing Article XI, Section 12 of the Tennessee Constitution, which mandates funding for "a system of free public schools" and does not mention private schools. Pledges to suspend or end the program if elected governor.</p>
 </div>
 <div class="stance-card moderate">
 <div class="stance-label">General Position</div>
 <h3>Parental Rights in Education</h3>
-<p>Supports the right of parents to homeschool or send children to private school — but draws the line at taxpayer funding. "I support the rights of parents to home school or send their children to private school but don't believe in providing taxpayer money for private schools." This is a nuanced position that separates "school choice" philosophy from the voucher funding mechanism.</p>
+<p>Supports the right of parents to homeschool or send children to private school — but draws the line at taxpayer funding. "I support the rights of parents to home school or send their children to private school but don't believe in providing taxpayer money for private schools." This is a nuanced position that separates "school choice" philosophy from the Education Freedom Scholarship funding mechanism.</p>
 </div>
 <div class="stance-card oppose">
 <div class="stance-label">Strong Opposition</div>
-<h3>Voucher Expansion</h3>
-<p>Opposes Speaker Sexton's plan to double voucher enrollment to 40,000 students. Joined Reps. Jody Barrett and Todd Warner in publicly opposing expansion in January 2026, citing fiscal concerns about the program potentially ballooning to $300M+ and evidence that 70% of vouchers went to students already enrolled in private schools.</p>
+<h3>School Choice Expansion</h3>
+<p>Opposes Governor Lee's plan to double Education Freedom Scholarship enrollment to 40,000 students. Joined Reps. Jody Barrett and Todd Warner in publicly opposing expansion in January 2026, citing fiscal concerns about the program potentially ballooning to $300M+ and evidence that 70% of scholarship funds went to students already enrolled in private schools.</p>
 </div>
 <div class="stance-card moderate">
 <div class="stance-label">Skeptical Position</div>
@@ -437,16 +484,10 @@
 <div class="stance-card unclear">
 <div class="stance-label">No Position</div>
 <h3>Teacher Pay / TCAP / BEP Funding</h3>
-<p>Fritts has not released specific proposals on teacher compensation, TCAP reform, or Tennessee's education funding formula. His education platform is primarily defined by opposition to vouchers and distrust of the education bureaucracy rather than a proactive agenda for improving public school outcomes.</p>
+<p>Fritts has not released specific proposals on teacher compensation, TCAP reform, or Tennessee's education funding formula. His education platform is primarily defined by opposition to the Education Freedom Scholarship and distrust of the education bureaucracy rather than a proactive agenda for improving public school outcomes.</p>
 </div>
 </div>
 
-<div class="analysis-box">
-<div class="ab-head">TNFirefly Analysis</div>
-<p>Fritts presents a genuine puzzle for education voters. He is, by far, the most anti-voucher Republican in the race — and his constitutional argument against public funding of private schools is substantive and well-articulated. His vote against vouchers alongside 20+ House Republicans reflects real rural conservative anxiety about a program that primarily benefits families in urban/suburban areas with private school access.</p>
-<p>But his education philosophy is defined almost entirely by what he opposes. He's against vouchers, skeptical of the Department of Education, and wants to deny public school access to undocumented children. What he hasn't articulated is what he'd do to actually improve public schools — no teacher pay plan, no TCAP reform proposal, no funding formula changes, no career-and-technical education vision.</p>
-<p>For Tennessee families, the Fritts education platform is a mirror of the broader anti-establishment conservative tension: it correctly identifies problems (voucher costs, bureaucratic overreach, budget growth) but offers faith and constitutional principles rather than a governing blueprint. Public school advocates will appreciate his voucher opposition; they'll find little else to work with.</p>
-</div>
 </section>
 
 <!-- KEY ISSUES / PLATFORM -->
@@ -475,7 +516,7 @@
 <p>Challenged Gov. Lee and AG Skrmetti for appealing a court ruling favorable to gun rights. Supports constitutional carry without permits. Wants to protect firearms manufacturers from "frivolous lawsuits" to make Tennessee the "arsenal of the Republic."</p>
 </div>
 <div class="issue-item">
-<h3>📚 End Voucher Programs</h3>
+<h3>📚 End Education Freedom Scholarship Program</h3>
 <p>Would suspend or end the Education Freedom Scholarship program. Opposes taxpayer funding of private schools on constitutional and fiscal grounds. Supports parental right to homeschool or choose private school — without public subsidy.</p>
 </div>
 <div class="issue-item">
@@ -496,9 +537,9 @@
 <!-- CONTROVERSIES -->
 <section class="cp-section" id="controversies">
 <div class="section-eyebrow">Controversies</div>
-<h2 class="section-title">National Headlines for the Wrong Reasons</h2>
+<h2 class="section-title">Courting Controversy</h2>
 <div class="section-prose">
-<p>Fritts' candidacy has attracted significant national media attention — though not for his fiscal conservatism or anti-voucher stance. A series of escalating public statements have made him one of the most controversial candidates in any 2026 governor's race nationwide.</p>
+<p>Fritts' candidacy has attracted significant national media attention — though not for his fiscal conservatism or opposition to the Education Freedom Scholarship. A series of escalating public statements have made him one of the most controversial candidates in any 2026 governor's race nationwide.</p>
 </div>
 
 <div class="vote-list">
@@ -539,11 +580,6 @@
 </div>
 </div>
 
-<div class="analysis-box">
-<div class="ab-head">TNFirefly Analysis</div>
-<p>The January 2026 comments calling for execution of parents and doctors of trans children represent an extraordinary escalation — even by the standards of Tennessee's conservative politics. These are not policy positions that any other Republican gubernatorial candidate has endorsed, and they generated national coverage that overwhelmed any substantive discussion of Fritts' fiscal or education platform.</p>
-<p>For education-focused readers, the pattern matters: Fritts' trans healthcare comments, combined with his anti-abortion extremism and vote to arm teachers after Covenant, paint a picture of a candidate whose social positions may alienate the very moderate and rural Republican voters who might otherwise be receptive to his anti-voucher, anti-spending message. The "chemtrail" bill, while less inflammatory, contributed to a public perception that Fritts operates on the fringes — making it harder for his legitimate fiscal concerns to get a serious hearing.</p>
-</div>
 </section>
 
 <!-- ENDORSEMENTS -->
@@ -558,17 +594,17 @@
 <div class="endorse-card">
 <h3>Gary Humble</h3>
 <div class="endorse-role">Tennessee Stands / Conservative Advocacy</div>
-<p>Founder of Tennessee Stands, an influential conservative advocacy group. Called Fritts "one of the most compelling cases for Governor" and has amplified his anti-voucher and anti-establishment messaging through the organization's network.</p>
+<p>Founder of Tennessee Stands, an influential conservative advocacy group. Called Fritts "one of the most compelling cases for Governor" and has amplified his anti-establishment messaging opposing the Education Freedom Scholarship through the organization's network.</p>
 </div>
 <div class="endorse-card">
 <h3>Rep. Todd Warner</h3>
 <div class="endorse-role">State Rep., Chapel Hill (R)</div>
-<p>Signed Fritts' letters challenging Gov. Lee and AG Skrmetti on the gun rights appeal. Shares Fritts' opposition to school vouchers and has publicly praised Fritts as a "God-fearing patriot." Co-leader of the rural Republican anti-voucher bloc.</p>
+<p>Signed Fritts' letters challenging Gov. Lee and AG Skrmetti on the gun rights appeal. Shares Fritts' opposition to the Education Freedom Scholarship and has publicly praised Fritts as a "God-fearing patriot." Co-leader of the rural Republican bloc opposing the program.</p>
 </div>
 <div class="endorse-card">
 <h3>Rep. Jody Barrett</h3>
 <div class="endorse-role">State Rep., Dickson (R)</div>
-<p>Fellow anti-voucher Republican who has aligned with Fritts on fiscal conservative messaging. Opposes voucher expansion and has worked alongside Fritts to demand transparency on voucher enrollment data.</p>
+<p>Fellow Republican who has aligned with Fritts on fiscal conservative messaging opposing the Education Freedom Scholarship. Opposes Education Freedom Scholarship expansion and has worked alongside Fritts to demand transparency on scholarship enrollment data.</p>
 </div>
 <div class="endorse-card">
 <h3>Tennessee Firearms Association</h3>
@@ -577,11 +613,6 @@
 </div>
 </div>
 
-<div class="analysis-box">
-<div class="ab-head">TNFirefly Analysis</div>
-<p>Compare this endorsement list to Blackburn's roster (Club for Growth, Glenn Jacobs, Tim Burchett, 20+ state legislators, AFP mobilizing 200,000 door knocks) or Rose's strategic alignment with the Lee administration orbit. Fritts has a handful of like-minded state legislators and a conservative advocacy group founder. That's it.</p>
-<p>Notably absent: any endorsement from Donald Trump, who is the most powerful force in Tennessee Republican politics. Fritts' anti-establishment messaging borrows Trump's populist language, but Trump has not signaled any interest in the race, and Blackburn's close relationship with the former president makes a Fritts endorsement extremely unlikely. Without Trump or a major organizational backer, Fritts' ceiling in the primary is likely in the low single digits statewide.</p>
-</div>
 </section>
 
 <!-- VOTING RECORD -->
@@ -596,8 +627,8 @@
 <div class="vote-item">
 <span class="vote-badge no">No</span>
 <div class="vote-info">
-<h3>Education Freedom Scholarships / Vouchers (2025)</h3>
-<p>Voted against Gov. Lee's private school voucher program. Called it unconstitutional and fiscally irresponsible. One of ~20 House Republicans to oppose. Would suspend or end program as governor.</p>
+<h3>Education Freedom Scholarship (2025)</h3>
+<p>Voted against Gov. Lee's Education Freedom Scholarship program. Called it unconstitutional and fiscally irresponsible. One of ~20 House Republicans to oppose. Would suspend or end program as governor.</p>
 </div>
 </div>
 <div class="vote-item">
@@ -646,12 +677,7 @@
 </section>
 
 <!-- NEWSLETTER CTA -->
-<section class="newsletter-section">
-  <div class="t-container">
-    <div id="tf-newsletter" data-theme="light"></div>
-    <script src="https://cdn.jsdelivr.net/gh/LongDriveMarketing/tnfirefly-components@main/tnfirefly-newsletter.js"></script>
-  </div>
-</section>
+
 
 <!-- CANDIDATE NAV -->
 
@@ -660,7 +686,63 @@
 
 
 </div><!-- end t-container -->
-</div><!-- end tracker-page -->
+
+
+<!-- ====== EXPLORE TRACKER ====== -->
+<section class="nav-section" id="explore">
+  <div class="t-container">
+    <div class="section-header">
+      <h2>Explore the Tracker</h2>
+    </div>
+    <div class="nav-grid">
+      <a href="/tennessee-governor-race" class="nav-card"><h4>Race Overview</h4><p>The complete tracker hub with polling, fundraising, and race highlights</p></a>
+      <a href="/tennessee-governor-race/education-stances" class="nav-card"><h4>Education Stances</h4><p>Side-by-side comparison on the issues that matter for TN kids</p></a>
+      <a href="/tennessee-governor-race/finance" class="nav-card"><h4>Campaign Finance</h4><p>Follow the money — who’s funding the race and where it’s going</p></a>
+      <a href="/tennessee-governor-race/polls" class="nav-card"><h4>Polls</h4><p>Every poll with methodology, sample size, and results</p></a>
+      <a href="/tennessee-governor-race/endorsements" class="nav-card"><h4>Endorsements</h4><p>Who’s backing whom — elected officials, organizations, and leaders</p></a>
+      <a href="/tennessee-governor-race/timeline" class="nav-card"><h4>Full Timeline</h4><p>Every major event in the race, from announcement to election day</p></a>
+      <a href="/tennessee-governor-race/news" class="nav-card"><h4>TNFirefly Coverage</h4><p>Our latest reporting on the governor’s race</p></a>
+      <a href="/tennessee-governor-race/watchlist" class="nav-card"><h4>Watchlist</h4><p>Rumored and potential candidates who haven’t entered yet</p></a>
+    </div>
+  </div>
+</section>
+<!-- ====== NEWSLETTER ====== -->
+<section class="newsletter-section" id="newsletter">
+  <div class="t-container">
+<div class="tf-inline-newsletter">
+  <div class="tf-firefly tf-firefly-1"></div>
+  <div class="tf-firefly tf-firefly-2"></div>
+  <div class="tf-firefly tf-firefly-3"></div>
+  <div class="tf-firefly tf-firefly-4"></div>
+  <div class="tf-firefly tf-firefly-5"></div>
+  <div class="tf-firefly tf-firefly-6"></div>
+  <div class="tf-inline-newsletter-inner">
+    <img src="https://images.squarespace-cdn.com/content/66a14193b569bc003b6f3326/ebdc9da2-310a-4891-b6f2-8de69c0a593a/Copy+of+The+Signal+%282%29.png?content-type=image%2Fpng" alt="The Signal Newsletter" class="tf-inline-newsletter-logo">
+    <div class="tf-inline-newsletter-content">
+      <div class="tf-inline-newsletter-text">
+        <p class="tf-nl-headline">Stories <em>they</em> don’t want you to see.</p>
+        <p class="tf-nl-subtext">Join 5,000+ subscribers. Free ALWAYS!</p>
+      </div>
+      <form class="tf-inline-newsletter-form js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="191722FC90141D02184CB1B62AB3DC26CA6EEC3BB1641E05D4FC8818866E876F586146E07574F9E4BEE6F87776D0A2F0E5B180E08CCB156A0D45A6D918ADF519">
+        <input type="text" name="cm-name" placeholder="Full Name" required maxlength="200" autocomplete="given-name">
+        <input type="email" name="cm-ttureh-ttureh" placeholder="Email" required maxlength="200" autocomplete="email" class="js-cm-email-input">
+        <input type="text" name="cm-f-ttdydht" placeholder="Zip" required maxlength="10" pattern="[0-9]{5}" inputmode="numeric">
+        <button type="submit">I’m In →</button>
+      </form>
+    </div>
+  </div>
+</div>
+  </div>
+</section>
+<!-- ====== DISCLAIMER ====== -->
+<section class="disclaimer">
+  <div class="t-container">
+    <p>This tracker is produced by <strong>The Tennessee Firefly</strong>, an education journalism outlet covering all 95 Tennessee counties. All information is sourced from public records, official filings, and verified reporting. We do not endorse candidates. Factual information is clearly separated from analysis. <a href="/about">Learn more about our standards</a>.</p>
+  </div>
+</section>
+<!-- Built by Long Drive Marketing · longdrivemarketing.com -->
+
+</div><!-- /tracker-page -->
 </div><!-- /gov-tracker -->
 
 <script>
@@ -688,4 +770,69 @@ const observer=new IntersectionObserver(entries=>{
 document.querySelectorAll('.fin-bar-fill').forEach(b=>{
   b.dataset.width=b.style.width;b.style.width='0%';observer.observe(b);
 });
+</script>
+
+<script src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+<script>
+// === LIVE FINANCE UPDATER ===
+(async function(){
+  const CDN = 'https://raw.githubusercontent.com/LongDriveMarketing/tn-governor-race-2026/main/data';
+  try {
+    const res = await fetch(`${CDN}/finance.json?v=${Date.now()}`);
+    const data = await res.json();
+    const byName = {};
+    (data.candidates || []).forEach(c => {
+      c.personalLoans = c.personalLoans || 0;
+      c.warChest = c.totalRaised + c.personalLoans;
+      byName[c.name] = c;
+    });
+    document.querySelectorAll('[data-live]').forEach(el => {
+      const parts = el.dataset.live.split('.');
+      const field = parts.pop();
+      const name = parts.join('.');
+      const c = byName[name];
+      if (!c || c[field] === undefined || c[field] === null) return;
+      const val = c[field];
+      const fmt = el.dataset.liveFormat;
+      if (fmt === 'money') {
+        const n = Number(val);
+        if (n >= 1000000) el.textContent = '$' + (n/1000000).toFixed(2) + 'M';
+        else if (n >= 1000) el.textContent = '$' + (n/1000).toFixed(0) + 'K';
+        else el.textContent = '$' + n.toLocaleString();
+      } else if (fmt === 'money-full') {
+        el.textContent = '$' + Number(val).toLocaleString();
+      } else if (fmt === 'pct') {
+        el.textContent = val + '%';
+      } else if (fmt === 'comma') {
+        el.textContent = Number(val).toLocaleString();
+      } else {
+        el.textContent = val;
+      }
+    });
+  } catch(e) { console.warn('Finance live update failed:', e); }
+})();
+</script>
+<script>
+// === LIVE POLL + ENDORSEMENT UPDATER ===
+(async function(){
+  const CDN = 'https://raw.githubusercontent.com/LongDriveMarketing/tn-governor-race-2026/main/data';
+  try {
+    const res = await fetch(`${CDN}/hub-summary.json`);
+    const data = await res.json();
+    if (data.latestPoll && data.latestPoll.results) {
+      const byName = {};
+      data.latestPoll.results.forEach(r => { byName[r.candidate.toLowerCase()] = r; });
+      document.querySelectorAll('[data-poll]').forEach(el => {
+        const key = el.dataset.poll.toLowerCase();
+        if (byName[key]) el.textContent = byName[key].pct + '%';
+      });
+    }
+    if (data.endorsementCounts) {
+      document.querySelectorAll('[data-endr]').forEach(el => {
+        const key = el.dataset.endr;
+        if (data.endorsementCounts[key] !== undefined) el.textContent = data.endorsementCounts[key];
+      });
+    }
+  } catch(e) { console.warn('Live poll update failed:', e); }
+})();
 </script>
