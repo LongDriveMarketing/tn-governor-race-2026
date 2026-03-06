@@ -18,10 +18,10 @@
       "outStatePct": 78
     },
     "rose": {
-      "warChest": 6101067.66,
-      "totalRaised": 1101067.66,
-      "totalSpent": 237657.69,
-      "cashOnHand": 5863375.97,
+      "warChest": 5354977.17,
+      "totalRaised": 354977.17,
+      "totalSpent": 1505369.84,
+      "cashOnHand": 4712735.3,
       "personalLoans": 5000000,
       "contributionCount": 4200,
       "inStatePct": 92,
@@ -37,6 +37,16 @@
       "inStatePct": 95,
       "outStatePct": 5
     },
+    "green": {
+      "warChest": 125014,
+      "totalRaised": 125014,
+      "totalSpent": 91163.45,
+      "cashOnHand": 33851.53,
+      "personalLoans": 0,
+      "contributionCount": 1800,
+      "inStatePct": 65,
+      "outStatePct": 35
+    },
     "pinkston": {
       "warChest": 62439.0,
       "totalRaised": 62439.0,
@@ -47,41 +57,31 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
-    "green": {
-      "warChest": 25748.2,
-      "totalRaised": 25748.2,
-      "totalSpent": 3209.5,
-      "cashOnHand": 22538.7,
-      "personalLoans": 0,
-      "contributionCount": 1800,
-      "inStatePct": 65,
-      "outStatePct": 35
-    },
     "kurtz": {
-      "warChest": 4131.0,
-      "totalRaised": 4131.0,
-      "totalSpent": 868.85,
-      "cashOnHand": 3262.15,
+      "warChest": 10290.2,
+      "totalRaised": 10290.2,
+      "totalSpent": 8885.3,
+      "cashOnHand": 4667.05,
       "personalLoans": 0,
       "contributionCount": 620,
       "inStatePct": 88,
       "outStatePct": 12
-    },
-    "maxwell": {
-      "warChest": 3178.98,
-      "totalRaised": 3178.98,
-      "totalSpent": 3178.98,
-      "cashOnHand": 0.0,
-      "personalLoans": 0,
-      "contributionCount": 0,
-      "inStatePct": 0,
-      "outStatePct": 0
     },
     "vick": {
       "warChest": 2000.0,
       "totalRaised": 2000.0,
       "totalSpent": 988.71,
       "cashOnHand": 1011.29,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
+    "cyr": {
+      "warChest": 40.0,
+      "totalRaised": 40.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 40.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -101,7 +101,7 @@
       "warChest": 0,
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0.0,
+      "cashOnHand": 100.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -137,10 +137,10 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
-    "cyr": {
-      "warChest": 0,
-      "totalRaised": 0,
-      "totalSpent": 0,
+    "maxwell": {
+      "warChest": 0.0,
+      "totalRaised": 0.0,
+      "totalSpent": 0.0,
       "cashOnHand": 0.0,
       "personalLoans": 0,
       "contributionCount": 0,
