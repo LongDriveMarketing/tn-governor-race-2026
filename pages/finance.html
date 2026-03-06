@@ -31,7 +31,7 @@
   background-image:linear-gradient(rgba(212,168,67,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(212,168,67,0.03) 1px,transparent 1px);
   background-size:60px 60px;pointer-events:none;}
 .tracker-page{position:relative;z-index:1;}
-.t-container{max-width:1100px;margin:0 auto;padding:0 24px;}
+.t-container{max-width:1200px;margin:0 auto;padding:0 24px;}
 a{color:var(--gold-dim);text-decoration:none;}a:hover{color:var(--gold);}
 .breadcrumb{padding:20px 0 0;font-size:13px;color:var(--text-muted);}
 .breadcrumb span{margin:0 8px;opacity:0.4;}
@@ -89,8 +89,65 @@ a{color:var(--gold-dim);text-decoration:none;}a:hover{color:var(--gold);}
 .loading-spinner{display:inline-block;width:24px;height:24px;border:2px solid var(--glass-border);border-top-color:var(--gold);border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:12px;}
 @keyframes spin{to{transform:rotate(360deg);}}
 .last-updated{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:1px;color:var(--text-muted);margin-top:8px;}
-@media(max-width:768px){.wc-row{grid-template-columns:1fr;gap:4px;}.wc-name{font-size:13px;}.donor-grid{grid-template-columns:1fr;}}
-@media(max-width:480px){.nl-form{flex-direction:column;}}
+@media(max-width:768px){
+.nav-grid{grid-template-columns:repeat(2,1fr);}.wc-row{grid-template-columns:1fr;gap:4px;}.wc-name{font-size:13px;}.donor-grid{grid-template-columns:1fr;}}
+@media(max-width:480px){
+.nav-grid{grid-template-columns:1fr;}.nl-form{flex-direction:column;}}
+
+
+/* === NAV CARDS (Explore the Tracker) === */
+.nav-section{padding:60px 0;}
+.gov-tracker .nav-section h2{font-family:'Playfair Display',serif!important;font-size:28px!important;color:#f8f6f1!important;line-height:1.2;margin:0 0 28px 0;}
+.gov-tracker .disclaimer{padding:40px 0;border-top:1px solid rgba(212,168,67,0.15);text-align:center;}
+.gov-tracker .disclaimer p{font-size:12px!important;color:#5a5750!important;line-height:1.7;max-width:700px;margin:0 auto;}
+.gov-tracker .disclaimer a{color:#a07e2e;text-decoration:none;}
+.nav-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;}
+.nav-card{background:var(--navy-mid);border:1px solid var(--glass-border);border-radius:4px;padding:28px 24px;text-decoration:none;transition:all 0.3s;position:relative;overflow:hidden;}
+.nav-card:hover{border-color:var(--gold-dim);transform:translateY(-2px);box-shadow:0 8px 30px rgba(0,0,0,0.2);}
+.nav-card::after{content:'\2192';position:absolute;top:28px;right:24px;font-size:18px;color:var(--gold);opacity:0;transition:all 0.3s;transform:translateX(-8px);}
+.nav-card:hover::after{opacity:1;transform:translateX(0);}
+.nav-card h4{font-family:'Playfair Display',serif;font-size:17px;color:var(--white);margin-bottom:6px;}
+.nav-card p{font-size:12px;color:var(--text-muted);line-height:1.5;}
+/* === NEWSLETTER - THE SIGNAL === */
+.tf-inline-newsletter{background:linear-gradient(135deg,#0f2440 0%,#1a2f4d 50%,#0d1b2a 100%);border-radius:16px;padding:30px 35px;margin:40px 0;box-shadow:0 4px 20px rgba(15,36,64,0.25),0 0 25px rgba(244,166,35,0.2);position:relative;overflow:hidden;border:4px solid #F4A623;}
+.tf-firefly{position:absolute;border-radius:50%;pointer-events:none;z-index:0;}
+.tf-firefly::before{content:'';position:absolute;border-radius:50%;background:radial-gradient(circle,rgba(244,166,35,0.9) 0%,rgba(244,166,35,0.4) 40%,transparent 70%);}
+.tf-firefly-1{top:20%;left:10%;animation:tfFF1 8s ease-in-out infinite;}.tf-firefly-1::before{width:6px;height:6px;animation:tfFG 2s ease-in-out infinite;}
+.tf-firefly-2{top:60%;left:25%;animation:tfFF2 10s ease-in-out infinite;}.tf-firefly-2::before{width:4px;height:4px;animation:tfFG 2.5s ease-in-out infinite .5s;}
+.tf-firefly-3{top:30%;left:50%;animation:tfFF3 9s ease-in-out infinite;}.tf-firefly-3::before{width:5px;height:5px;animation:tfFG 1.8s ease-in-out infinite 1s;}
+.tf-firefly-4{top:70%;left:70%;animation:tfFF4 11s ease-in-out infinite;}.tf-firefly-4::before{width:4px;height:4px;animation:tfFG 2.2s ease-in-out infinite .3s;}
+.tf-firefly-5{top:15%;left:85%;animation:tfFF5 7s ease-in-out infinite;}.tf-firefly-5::before{width:5px;height:5px;animation:tfFG 2s ease-in-out infinite .8s;}
+.tf-firefly-6{top:50%;left:5%;animation:tfFF6 12s ease-in-out infinite;}.tf-firefly-6::before{width:3px;height:3px;animation:tfFG 2.8s ease-in-out infinite 1.2s;}
+@keyframes tfFG{0%,100%{opacity:.3;box-shadow:0 0 2px rgba(244,166,35,.5);}50%{opacity:1;box-shadow:0 0 12px rgba(244,166,35,.9),0 0 20px rgba(244,166,35,.5);}}
+@keyframes tfFF1{0%,100%{transform:translate(0,0);}25%{transform:translate(15px,-10px);}50%{transform:translate(25px,5px);}75%{transform:translate(10px,12px);}}
+@keyframes tfFF2{0%,100%{transform:translate(0,0);}25%{transform:translate(-20px,8px);}50%{transform:translate(-10px,-12px);}75%{transform:translate(15px,-5px);}}
+@keyframes tfFF3{0%,100%{transform:translate(0,0);}25%{transform:translate(12px,15px);}50%{transform:translate(-8px,10px);}75%{transform:translate(-15px,-8px);}}
+@keyframes tfFF4{0%,100%{transform:translate(0,0);}25%{transform:translate(-18px,-12px);}50%{transform:translate(10px,-8px);}75%{transform:translate(20px,10px);}}
+@keyframes tfFF5{0%,100%{transform:translate(0,0);}25%{transform:translate(-25px,5px);}50%{transform:translate(-15px,15px);}75%{transform:translate(-5px,-10px);}}
+@keyframes tfFF6{0%,100%{transform:translate(0,0);}25%{transform:translate(20px,-5px);}50%{transform:translate(30px,8px);}75%{transform:translate(10px,12px);}}
+.tf-inline-newsletter-inner{display:flex;align-items:center;gap:30px;position:relative;z-index:1;justify-content:space-between;}
+.tf-inline-newsletter-logo{max-width:160px!important;width:160px!important;height:auto!important;flex-shrink:0;filter:drop-shadow(0 2px 30px rgba(244,166,35,0.3));}
+.tf-inline-newsletter-content{flex:1;min-width:0;display:flex;align-items:center;gap:20px;flex-wrap:nowrap;}
+.tf-inline-newsletter-text{flex:0 1 auto;min-width:180px;}
+.tf-inline-newsletter-text .tf-nl-headline{font-family:'Playfair Display',serif;font-size:20px;font-weight:800;color:#fff;margin:0 0 6px 0;line-height:1.2;}
+.tf-inline-newsletter-text .tf-nl-headline em{color:#F4A623;font-style:normal;}
+.tf-inline-newsletter-text .tf-nl-subtext{font-size:14px;color:rgba(255,255,255,0.7);margin:0;font-weight:600;}
+.tf-inline-newsletter-form{display:flex;flex-wrap:nowrap;gap:12px;align-items:center;flex:1 1 auto;min-width:0;}
+.tf-inline-newsletter-form input{padding:12px 14px;border:2px solid rgba(255,255,255,0.15);border-radius:8px;font-size:14px;font-family:'Work Sans',sans-serif;background:rgba(255,255,255,0.1);color:#fff;transition:all .3s;}
+.tf-inline-newsletter-form input::placeholder{color:rgba(255,255,255,0.5);}
+.tf-inline-newsletter-form input:focus{outline:none;border-color:#F4A623;background:rgba(255,255,255,0.15);box-shadow:0 0 0 3px rgba(244,166,35,0.2);}
+.tf-inline-newsletter-form input[name="cm-name"]{flex:1 1 100px;min-width:80px;max-width:160px;}
+.tf-inline-newsletter-form input[type="email"]{flex:1 1 140px;min-width:110px;max-width:200px;}
+.tf-inline-newsletter-form input[name="cm-f-ttdydht"]{flex:0 0 70px;min-width:60px;max-width:90px;}
+.tf-inline-newsletter-form button{padding:12px 24px;background:linear-gradient(135deg,#F4A623 0%,#e6951d 100%);color:#0f2440;border:none;border-radius:8px;font-weight:800;font-size:14px;font-family:'Work Sans',sans-serif;cursor:pointer;transition:all .3s;white-space:nowrap;text-transform:uppercase;letter-spacing:.5px;box-shadow:0 4px 15px rgba(244,166,35,0.4);flex-shrink:0;}
+.tf-inline-newsletter-form button:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(244,166,35,0.5);}
+@media(max-width:1024px){.tf-inline-newsletter-inner{flex-direction:column;text-align:center;gap:20px;}.tf-inline-newsletter-content{flex-direction:column;gap:20px;}.tf-inline-newsletter-form{flex-wrap:wrap;justify-content:center;}}
+@media(max-width:768px){.tf-inline-newsletter{padding:25px 20px;}.tf-inline-newsletter-logo{max-width:120px!important;width:120px!important;}.tf-inline-newsletter-form{flex-direction:column;width:100%;}.tf-inline-newsletter-form input{width:100%!important;min-width:100%!important;max-width:100%!important;flex:none!important;}.tf-inline-newsletter-form button{width:100%;}.nav-grid{grid-template-columns:1fr;}}
+@media(max-width:480px){.nav-grid{grid-template-columns:1fr;}}
+/* === DISCLAIMER === */
+.disclaimer{padding:40px 0;border-top:1px solid var(--glass-border);text-align:center;}
+.disclaimer p{font-size:12px;color:var(--text-muted);line-height:1.7;max-width:700px;margin:0 auto;}
+.disclaimer a{color:var(--gold-dim);text-decoration:none;}
 </style>
 
 <!-- Page Content (wrapped in .gov-tracker to avoid Squarespace style conflicts) -->
@@ -121,30 +178,67 @@ a{color:var(--gold-dim);text-decoration:none;}a:hover{color:var(--gold);}
 </div>
 
 <!-- NEWSLETTER -->
-<section class="newsletter-section">
+
+
+<!-- ====== EXPLORE TRACKER ====== -->
+<section class="nav-section" id="explore">
   <div class="t-container">
-    <div class="newsletter-box">
-      <h3>Get Race Updates in Your Inbox</h3>
-      <p>The Signal delivers Tennessee education and politics coverage weekly — including governor's race analysis you won't find elsewhere.</p>
-      <div class="nl-form">
-        <input type="email" class="nl-input" placeholder="Your email address">
-        <button class="nl-btn">Subscribe →</button>
-      </div>
+    <div class="section-header">
+      <h2>Explore the Tracker</h2>
+    </div>
+    <div class="nav-grid">
+      <a href="/tennessee-governor-race" class="nav-card"><h4>Race Overview</h4><p>The complete tracker hub with polling, fundraising, and race highlights</p></a>
+      <a href="/tennessee-governor-race/candidates" class="nav-card"><h4>Candidate Profiles</h4><p>Deep dives on every declared and rumored candidate</p></a>
+      <a href="/tennessee-governor-race/education-stances" class="nav-card"><h4>Education Stances</h4><p>Side-by-side comparison on the issues that matter for TN kids</p></a>
+      <a href="/tennessee-governor-race/polls" class="nav-card"><h4>Polls</h4><p>Every poll with methodology, sample size, and results</p></a>
+      <a href="/tennessee-governor-race/endorsements" class="nav-card"><h4>Endorsements</h4><p>Who’s backing whom — elected officials, organizations, and leaders</p></a>
+      <a href="/tennessee-governor-race/timeline" class="nav-card"><h4>Full Timeline</h4><p>Every major event in the race, from announcement to election day</p></a>
+      <a href="/tennessee-governor-race/news" class="nav-card"><h4>TNFirefly Coverage</h4><p>Our latest reporting on the governor’s race</p></a>
+      <a href="/tennessee-governor-race/watchlist" class="nav-card"><h4>Watchlist</h4><p>Rumored and potential candidates who haven’t entered yet</p></a>
     </div>
   </div>
 </section>
-
-<section class="disclaimer">
+<!-- ====== NEWSLETTER ====== -->
+<section class="newsletter-section" id="newsletter">
   <div class="t-container">
-    <p>Tennessee Firefly is an independent education journalism project of <a href="https://www.tnfirefly.com">Tennesseans for Student Success</a>. Governor's race tracker designed and built by <a href="https://longdrivemarketing.com" target="_blank">Long Drive Marketing</a>.</p>
+<div class="tf-inline-newsletter">
+  <div class="tf-firefly tf-firefly-1"></div>
+  <div class="tf-firefly tf-firefly-2"></div>
+  <div class="tf-firefly tf-firefly-3"></div>
+  <div class="tf-firefly tf-firefly-4"></div>
+  <div class="tf-firefly tf-firefly-5"></div>
+  <div class="tf-firefly tf-firefly-6"></div>
+  <div class="tf-inline-newsletter-inner">
+    <img src="https://images.squarespace-cdn.com/content/66a14193b569bc003b6f3326/ebdc9da2-310a-4891-b6f2-8de69c0a593a/Copy+of+The+Signal+%282%29.png?content-type=image%2Fpng" alt="The Signal Newsletter" class="tf-inline-newsletter-logo">
+    <div class="tf-inline-newsletter-content">
+      <div class="tf-inline-newsletter-text">
+        <p class="tf-nl-headline">Stories <em>they</em> don’t want you to see.</p>
+        <p class="tf-nl-subtext">Join 5,000+ subscribers. Free ALWAYS!</p>
+      </div>
+      <form class="tf-inline-newsletter-form js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="191722FC90141D02184CB1B62AB3DC26CA6EEC3BB1641E05D4FC8818866E876F586146E07574F9E4BEE6F87776D0A2F0E5B180E08CCB156A0D45A6D918ADF519">
+        <input type="text" name="cm-name" placeholder="Full Name" required maxlength="200" autocomplete="given-name">
+        <input type="email" name="cm-ttureh-ttureh" placeholder="Email" required maxlength="200" autocomplete="email" class="js-cm-email-input">
+        <input type="text" name="cm-f-ttdydht" placeholder="Zip" required maxlength="10" pattern="[0-9]{5}" inputmode="numeric">
+        <button type="submit">I’m In →</button>
+      </form>
+    </div>
+  </div>
+</div>
   </div>
 </section>
+<!-- ====== DISCLAIMER ====== -->
+<section class="disclaimer">
+  <div class="t-container">
+    <p>This tracker is produced by <strong>The Tennessee Firefly</strong>, an education journalism outlet covering all 95 Tennessee counties. All information is sourced from public records, official filings, and verified reporting. We do not endorse candidates. Factual information is clearly separated from analysis. <a href="/about">Learn more about our standards</a>.</p>
+  </div>
+</section>
+<!-- Built by Long Drive Marketing · longdrivemarketing.com -->
 
-</div>
+</div><!-- /tracker-page -->
 </div><!-- /gov-tracker -->
 
 <script>
-const CDN = 'https://cdn.jsdelivr.net/gh/LongDriveMarketing/tn-governor-race-2026@main/data';
+const CDN = 'https://raw.githubusercontent.com/LongDriveMarketing/tn-governor-race-2026/main/data';
 
 function fmt(n) {
   if (n >= 1000000) return '$' + (n / 1000000).toFixed(2) + 'M';
@@ -156,13 +250,18 @@ function fmtFull(n) { return '$' + n.toLocaleString(); }
 
 async function loadFinance() {
   try {
-    const res = await fetch(`${CDN}/finance.json`);
+    const res = await fetch(`${CDN}/finance.json?v=${Date.now()}`);
     const data = await res.json();
     
     document.getElementById('lastUpdated').textContent = 
       `LAST UPDATED: ${data.lastUpdated} · REPORTING PERIOD: ${data.reportingPeriod || ''}`;
     
     const candidates = data.candidates || [];
+    // Recalculate warChest to include manual personalLoans
+    candidates.forEach(c => {
+      c.personalLoans = c.personalLoans || 0;
+      c.warChest = c.totalRaised + c.personalLoans;
+    });
     const maxWar = Math.max(...candidates.map(c => c.warChest));
     
     let html = '';
@@ -173,11 +272,13 @@ async function loadFinance() {
     html += `<p style="font-size:14px;color:var(--text-dim);margin-bottom:24px;">Total funds available to each candidate, including personal loans. Based on ${data.reportingPeriod || 'latest'} filings.</p>`;
     html += `<div class="warchest-grid">`;
     
-    candidates.sort((a, b) => b.warChest - a.warChest).forEach(c => {
+    candidates.sort((a, b) => b.warChest - a.warChest).filter(c => c.warChest > 0).forEach(c => {
       const pct = (c.warChest / maxWar * 100).toFixed(1);
       const label = c.personalLoans > 0 
         ? `${fmt(c.personalLoans)} personal + ${fmt(c.totalRaised)} raised`
-        : `${fmt(c.totalRaised)} from ${c.contributionCount.toLocaleString()} donors`;
+        : c.contributionCount 
+          ? `${fmt(c.totalRaised)} from ${c.contributionCount.toLocaleString()} donors`
+          : `${fmt(c.totalRaised)} raised`;
       
       html += `<div class="wc-row">
         <div class="wc-name">${c.name}</div>
@@ -188,10 +289,6 @@ async function loadFinance() {
     
     html += `</div>`;
     
-    // War chest analysis
-    if (data.analysis) {
-      html += `<div class="analysis-box"><h4>TNFirefly Analysis: Follow the Money</h4><p>${data.analysis}</p></div>`;
-    }
     html += `</div></section>`;
     
     // === DETAILED TABLE ===
@@ -202,12 +299,12 @@ async function loadFinance() {
     html += `<th>Candidate</th><th class="num">Total Raised</th><th class="num">Personal Loans</th><th class="num">Total Spent</th><th class="num">Cash on Hand</th><th class="num">War Chest</th>`;
     html += `</tr></thead><tbody>`;
     
-    candidates.forEach(c => {
+    candidates.filter(c => c.reportsFiled > 0 || c.totalRaised > 0).forEach(c => {
       const partyLabel = c.party === 'rep' ? 'R' : c.party === 'dem' ? 'D' : 'I';
       html += `<tr>
         <td><span class="cand-name">${c.name}</span><span class="cand-party ${c.party}">${partyLabel}</span></td>
         <td class="num">${fmtFull(c.totalRaised)}</td>
-        <td class="num">${fmtFull(c.personalLoans)}</td>
+        <td class="num">${fmtFull(c.personalLoans || 0)}</td>
         <td class="num">${fmtFull(c.totalSpent)}</td>
         <td class="num">${fmtFull(c.cashOnHand)}</td>
         <td class="num" style="color:var(--gold);">${fmtFull(c.warChest)}</td>
@@ -216,23 +313,28 @@ async function loadFinance() {
     
     html += `</tbody></table></div></div></section>`;
     
-    // === DONOR SOURCE ===
+    // === DONOR PROFILE ===
     html += `<section class="fin-section"><div class="t-container">`;
-    html += `<h2 style="font-family:'Playfair Display',serif;font-size:28px;color:var(--white);margin-bottom:8px;">Where the Money Comes From</h2>`;
-    html += `<p style="font-size:14px;color:var(--text-dim);margin-bottom:24px;">In-state vs. out-of-state donor percentages for top fundraisers.</p>`;
+    html += `<h2 style="font-family:'Playfair Display',serif;font-size:28px;color:var(--white);margin-bottom:8px;">Donor Profile</h2>`;
+    html += `<p style="font-size:14px;color:var(--text-dim);margin-bottom:24px;">Contribution counts and donor geography for top fundraisers.</p>`;
     html += `<div class="donor-grid">`;
     
-    candidates.filter(c => c.warChest > 100000).forEach(c => {
-      const inHigh = c.inStatePct >= 50;
-      html += `<div class="donor-card ${inHigh ? 'in-state' : 'out-state'}">
+    candidates.filter(c => c.warChest > 100000 && c.contributionCount != null).forEach(c => {
+      html += `<div class="donor-card in-state">
         <div class="donor-who">${c.name}</div>
-        <div class="donor-pct ${inHigh ? 'high' : 'low'}">${c.inStatePct}%</div>
-        <div class="donor-label">Tennessee Donors</div>
-        <div style="margin-top:8px;font-size:12px;color:var(--text-muted);">${c.outStatePct}% Out-of-State · ${c.contributionCount.toLocaleString()} total contributions</div>
+        <div class="donor-pct" style="color:var(--gold);">${c.contributionCount.toLocaleString()}</div>
+        <div class="donor-label">Total Contributions</div>
+        <div style="margin-top:8px;font-size:12px;color:var(--text-muted);">${c.inStatePct}% In-State · ${c.outStatePct}% Out-of-State</div>
       </div>`;
     });
     
     html += `</div></div></section>`;
+    
+    // Source attribution
+    html += `<div style="text-align:center;padding:32px 24px 16px;font-size:12px;color:var(--text-dim);">`;
+    html += `Data source: <a href="https://apps.tn.gov/tncamp/public/cpsearch.htm" target="_blank" style="color:var(--gold);">Tennessee Registry of Election Finance</a>`;
+    html += data.lastScraped ? ` · Auto-updated every 6 hours` : '';
+    html += `</div>`;
     
     document.getElementById('financeContent').innerHTML = html;
     
@@ -254,3 +356,5 @@ async function loadFinance() {
 
 loadFinance();
 </script>
+
+<script src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
