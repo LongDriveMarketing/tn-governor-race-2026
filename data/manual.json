@@ -1,6 +1,5 @@
 {
   "_README": "Manual data additions for the TN Governor Race Tracker. Scrapers NEVER touch this file. The merge step (merge.py) combines this with scraped data to produce the final output files. Manual entries always win on conflicts.",
-
   "polls": {
     "sources": [
       {
@@ -26,10 +25,26 @@
         "sampleSize": "500 (RV)",
         "margin": "± 4.4%",
         "results": [
-          {"candidate": "Blackburn", "party": "rep", "pct": 60.6},
-          {"candidate": "Rose", "party": "rep", "pct": 8.1},
-          {"candidate": "Fritts", "party": "rep", "pct": 5.1},
-          {"candidate": "Undecided", "party": "", "pct": 26.1}
+          {
+            "candidate": "Blackburn",
+            "party": "rep",
+            "pct": 60.6
+          },
+          {
+            "candidate": "Rose",
+            "party": "rep",
+            "pct": 8.1
+          },
+          {
+            "candidate": "Fritts",
+            "party": "rep",
+            "pct": 5.1
+          },
+          {
+            "candidate": "Undecided",
+            "party": "",
+            "pct": 26.1
+          }
         ],
         "source": "tnfirefly",
         "url": "https://www.tnfirefly.com/tsspoll"
@@ -90,7 +105,6 @@
     },
     "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican."
   },
-
   "news": {
     "articles": [
       {
@@ -102,13 +116,16 @@
         "url": "https://www.tnfirefly.com/tsspoll",
         "party": "neutral",
         "candidate": "",
-        "tags": ["analysis", "education", "poll"],
+        "tags": [
+          "analysis",
+          "education",
+          "poll"
+        ],
         "tnfirefly": true,
         "featured": true
       }
     ]
   },
-
   "finance": {
     "reportingPeriod": "Through January 31, 2026",
     "analysis": "The money race reveals two fundamentally different Republican strategies. Rose bet big on himself — a $5M personal loan plus $1.46M raised, all while keeping 92% of his donors in-state. Blackburn countered with sheer volume: 33,000 contributions totaling $5.5M, leveraging her national Senate donor network. Rose is hammering her 78% out-of-state rate in ads; Blackburn argues the volume shows grassroots enthusiasm. On the Democratic side, fundraising reflects the party's structural disadvantage in Tennessee statewide races — Green leads with $125K, a fraction of either Republican's total.",
@@ -173,6 +190,25 @@
           "$15K personal loan",
           "95% Tennessee donors"
         ]
+      }
+    ]
+  },
+  "endorsements": {
+    "_note": "Manual overrides for endorsements. Each entry in 'overrides' matches by name (case-insensitive) and replaces fields in the scraped entry. Scrapers never touch this file.",
+    "overrides": [
+      {
+        "name": "Turning Point Action",
+        "candidate": "blackburn",
+        "role": "National conservative organization (Charlie Kirk's Turning Point USA)",
+        "type": "org",
+        "note": "Endorsed December 5, 2025. Founded by the late Charlie Kirk, who was killed in September 2025; now led by his widow Erika Kirk. Blackburn said she was 'honored to carry the torch for freedom forward.'"
+      },
+      {
+        "name": "Randy McNally",
+        "candidate": "blackburn",
+        "role": "Tennessee Lt. Governor / Senate Speaker",
+        "type": "elected",
+        "note": "Announced on February 26, 2026 that he will not seek reelection, ending a nearly 50-year legislative career. Still serving as Lt. Governor through January 2027."
       }
     ]
   }
