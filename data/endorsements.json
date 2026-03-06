@@ -68,7 +68,7 @@
       "name": "Randy McNally",
       "role": "Tennessee Lt. Governor / Senate Speaker",
       "type": "elected",
-      "note": "The state's highest-ranking Republican official after the governor."
+      "note": "Announced on February 26, 2026 that he will not seek reelection, ending a nearly 50-year legislative career. Still serving as Lt. Governor through January 2027."
     },
     {
       "candidate": "blackburn",
@@ -185,9 +185,9 @@
     {
       "candidate": "blackburn",
       "name": "Turning Point Action",
-      "role": "Organizations",
+      "role": "National conservative organization (Charlie Kirk's Turning Point USA)",
       "type": "org",
-      "note": "Auto-detected from Wikipedia. Verify and add context."
+      "note": "Endorsed December 5, 2025. Founded by the late Charlie Kirk, who was killed in September 2025; now led by his widow Erika Kirk. Blackburn said she was 'honored to carry the torch for freedom forward.'"
     },
     {
       "candidate": "green",
