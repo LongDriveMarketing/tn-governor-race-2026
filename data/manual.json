@@ -116,6 +116,7 @@
       {
         "name": "John Rose",
         "totalRaised": 1456044,
+        "warChest": 6456044,
         "personalLoans": 5000000,
         "inStatePct": 92,
         "outStatePct": 8,
@@ -135,7 +136,7 @@
         "highlights": [
           "33,000 contributions — briefly crashed state filing system",
           "78% of money from out-of-state donors — Rose's key attack line",
-          "$5.35M raised without self-funding — biggest pure fundraising total"
+          "$5.5M raised without self-funding — biggest pure fundraising total"
         ]
       },
       {
