@@ -251,8 +251,17 @@ def scrape_all():
             })
             continue
 
+        # Sort by filed date descending so reports[0] is always the most recent
+        # (TN Registry can list filings in ascending/mixed order for some candidates)
+        def _parse_filed(r):
+            try:
+                return datetime.strptime(r.get("filed", ""), "%m/%d/%Y")
+            except ValueError:
+                return datetime.min
+        reports.sort(key=_parse_filed, reverse=True)
+
         print(f"  Found {len(reports)} report(s)")
-        latest = reports[0]  # Most recent
+        latest = reports[0]  # Most recent after sort
         print(f"  Latest: {latest['type']} (filed {latest['filed']})")
 
         time.sleep(0.5)
