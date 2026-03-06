@@ -142,9 +142,66 @@
 .disclaimer p{font-size:11px;color:var(--text-muted);line-height:1.7;max-width:700px;margin:0 auto;}.disclaimer a{color:var(--gold-dim);text-decoration:none;}
 .firefly{position:absolute;width:3px;height:3px;background:var(--gold-bright);border-radius:50%;pointer-events:none;z-index:0;opacity:0;animation:firefly-float 8s ease-in-out infinite;}
 @keyframes firefly-float{0%{opacity:0;transform:translateY(0) translateX(0);}15%{opacity:0.6;}50%{opacity:0.3;transform:translateY(-120px) translateX(40px);}85%{opacity:0.5;}100%{opacity:0;transform:translateY(-250px) translateX(-20px);}}
-@media(max-width:768px){.profile-hero-inner{grid-template-columns:1fr;text-align:center;}.profile-photo{margin:0 auto;}.profile-tags{justify-content:center;}.profile-links{justify-content:center;}.stats-grid{grid-template-columns:1fr 1fr;}.finance-grid{grid-template-columns:1fr;}.issue-grid{grid-template-columns:1fr;}.endorse-grid{grid-template-columns:1fr;}.jump-links{gap:4px;}}
+@media(max-width:768px){
+.nav-grid{grid-template-columns:repeat(2,1fr);}.profile-hero-inner{grid-template-columns:1fr;text-align:center;}.profile-photo{margin:0 auto;}.profile-tags{justify-content:center;}.profile-links{justify-content:center;}.stats-grid{grid-template-columns:1fr 1fr;}.finance-grid{grid-template-columns:1fr;}.issue-grid{grid-template-columns:1fr;}.endorse-grid{grid-template-columns:1fr;}.jump-links{gap:4px;}}
 @media(max-width:600px){.candidate-nav{grid-template-columns:1fr;}}
-@media(max-width:480px){.stats-grid{grid-template-columns:1fr;}.nl-form{flex-direction:column;}}
+@media(max-width:480px){
+.nav-grid{grid-template-columns:1fr;}.stats-grid{grid-template-columns:1fr;}.nl-form{flex-direction:column;}}
+
+
+/* === NAV CARDS (Explore the Tracker) === */
+.nav-section{padding:60px 0;}
+.gov-tracker .nav-section h2{font-family:'Playfair Display',serif!important;font-size:28px!important;color:#f8f6f1!important;line-height:1.2;margin:0 0 28px 0;}
+.gov-tracker .disclaimer{padding:40px 0;border-top:1px solid rgba(212,168,67,0.15);text-align:center;}
+.gov-tracker .disclaimer p{font-size:12px!important;color:#5a5750!important;line-height:1.7;max-width:700px;margin:0 auto;}
+.gov-tracker .disclaimer a{color:#a07e2e;text-decoration:none;}
+.nav-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;}
+.nav-card{background:var(--navy-mid);border:1px solid var(--glass-border);border-radius:4px;padding:28px 24px;text-decoration:none;transition:all 0.3s;position:relative;overflow:hidden;}
+.nav-card:hover{border-color:var(--gold-dim);transform:translateY(-2px);box-shadow:0 8px 30px rgba(0,0,0,0.2);}
+.nav-card::after{content:'\2192';position:absolute;top:28px;right:24px;font-size:18px;color:var(--gold);opacity:0;transition:all 0.3s;transform:translateX(-8px);}
+.nav-card:hover::after{opacity:1;transform:translateX(0);}
+.nav-card h4{font-family:'Playfair Display',serif;font-size:17px;color:var(--white);margin-bottom:6px;}
+.nav-card p{font-size:12px;color:var(--text-muted);line-height:1.5;}
+/* === NEWSLETTER - THE SIGNAL === */
+.tf-inline-newsletter{background:linear-gradient(135deg,#0f2440 0%,#1a2f4d 50%,#0d1b2a 100%);border-radius:16px;padding:30px 35px;margin:40px 0;box-shadow:0 4px 20px rgba(15,36,64,0.25),0 0 25px rgba(244,166,35,0.2);position:relative;overflow:hidden;border:4px solid #F4A623;}
+.tf-firefly{position:absolute;border-radius:50%;pointer-events:none;z-index:0;}
+.tf-firefly::before{content:'';position:absolute;border-radius:50%;background:radial-gradient(circle,rgba(244,166,35,0.9) 0%,rgba(244,166,35,0.4) 40%,transparent 70%);}
+.tf-firefly-1{top:20%;left:10%;animation:tfFF1 8s ease-in-out infinite;}.tf-firefly-1::before{width:6px;height:6px;animation:tfFG 2s ease-in-out infinite;}
+.tf-firefly-2{top:60%;left:25%;animation:tfFF2 10s ease-in-out infinite;}.tf-firefly-2::before{width:4px;height:4px;animation:tfFG 2.5s ease-in-out infinite .5s;}
+.tf-firefly-3{top:30%;left:50%;animation:tfFF3 9s ease-in-out infinite;}.tf-firefly-3::before{width:5px;height:5px;animation:tfFG 1.8s ease-in-out infinite 1s;}
+.tf-firefly-4{top:70%;left:70%;animation:tfFF4 11s ease-in-out infinite;}.tf-firefly-4::before{width:4px;height:4px;animation:tfFG 2.2s ease-in-out infinite .3s;}
+.tf-firefly-5{top:15%;left:85%;animation:tfFF5 7s ease-in-out infinite;}.tf-firefly-5::before{width:5px;height:5px;animation:tfFG 2s ease-in-out infinite .8s;}
+.tf-firefly-6{top:50%;left:5%;animation:tfFF6 12s ease-in-out infinite;}.tf-firefly-6::before{width:3px;height:3px;animation:tfFG 2.8s ease-in-out infinite 1.2s;}
+@keyframes tfFG{0%,100%{opacity:.3;box-shadow:0 0 2px rgba(244,166,35,.5);}50%{opacity:1;box-shadow:0 0 12px rgba(244,166,35,.9),0 0 20px rgba(244,166,35,.5);}}
+@keyframes tfFF1{0%,100%{transform:translate(0,0);}25%{transform:translate(15px,-10px);}50%{transform:translate(25px,5px);}75%{transform:translate(10px,12px);}}
+@keyframes tfFF2{0%,100%{transform:translate(0,0);}25%{transform:translate(-20px,8px);}50%{transform:translate(-10px,-12px);}75%{transform:translate(15px,-5px);}}
+@keyframes tfFF3{0%,100%{transform:translate(0,0);}25%{transform:translate(12px,15px);}50%{transform:translate(-8px,10px);}75%{transform:translate(-15px,-8px);}}
+@keyframes tfFF4{0%,100%{transform:translate(0,0);}25%{transform:translate(-18px,-12px);}50%{transform:translate(10px,-8px);}75%{transform:translate(20px,10px);}}
+@keyframes tfFF5{0%,100%{transform:translate(0,0);}25%{transform:translate(-25px,5px);}50%{transform:translate(-15px,15px);}75%{transform:translate(-5px,-10px);}}
+@keyframes tfFF6{0%,100%{transform:translate(0,0);}25%{transform:translate(20px,-5px);}50%{transform:translate(30px,8px);}75%{transform:translate(10px,12px);}}
+.tf-inline-newsletter-inner{display:flex;align-items:center;gap:30px;position:relative;z-index:1;justify-content:space-between;}
+.tf-inline-newsletter-logo{max-width:160px!important;width:160px!important;height:auto!important;flex-shrink:0;filter:drop-shadow(0 2px 30px rgba(244,166,35,0.3));}
+.tf-inline-newsletter-content{flex:1;min-width:0;display:flex;align-items:center;gap:20px;flex-wrap:nowrap;}
+.tf-inline-newsletter-text{flex:0 1 auto;min-width:180px;}
+.tf-inline-newsletter-text .tf-nl-headline{font-family:'Playfair Display',serif;font-size:20px;font-weight:800;color:#fff;margin:0 0 6px 0;line-height:1.2;}
+.tf-inline-newsletter-text .tf-nl-headline em{color:#F4A623;font-style:normal;}
+.tf-inline-newsletter-text .tf-nl-subtext{font-size:14px;color:rgba(255,255,255,0.7);margin:0;font-weight:600;}
+.tf-inline-newsletter-form{display:flex;flex-wrap:nowrap;gap:12px;align-items:center;flex:1 1 auto;min-width:0;}
+.tf-inline-newsletter-form input{padding:12px 14px;border:2px solid rgba(255,255,255,0.15);border-radius:8px;font-size:14px;font-family:'Work Sans',sans-serif;background:rgba(255,255,255,0.1);color:#fff;transition:all .3s;}
+.tf-inline-newsletter-form input::placeholder{color:rgba(255,255,255,0.5);}
+.tf-inline-newsletter-form input:focus{outline:none;border-color:#F4A623;background:rgba(255,255,255,0.15);box-shadow:0 0 0 3px rgba(244,166,35,0.2);}
+.tf-inline-newsletter-form input[name="cm-name"]{flex:1 1 100px;min-width:80px;max-width:160px;}
+.tf-inline-newsletter-form input[type="email"]{flex:1 1 140px;min-width:110px;max-width:200px;}
+.tf-inline-newsletter-form input[name="cm-f-ttdydht"]{flex:0 0 70px;min-width:60px;max-width:90px;}
+.tf-inline-newsletter-form button{padding:12px 24px;background:linear-gradient(135deg,#F4A623 0%,#e6951d 100%);color:#0f2440;border:none;border-radius:8px;font-weight:800;font-size:14px;font-family:'Work Sans',sans-serif;cursor:pointer;transition:all .3s;white-space:nowrap;text-transform:uppercase;letter-spacing:.5px;box-shadow:0 4px 15px rgba(244,166,35,0.4);flex-shrink:0;}
+.tf-inline-newsletter-form button:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(244,166,35,0.5);}
+@media(max-width:1024px){.tf-inline-newsletter-inner{flex-direction:column;text-align:center;gap:20px;}.tf-inline-newsletter-content{flex-direction:column;gap:20px;}.tf-inline-newsletter-form{flex-wrap:wrap;justify-content:center;}}
+@media(max-width:768px){.tf-inline-newsletter{padding:25px 20px;}.tf-inline-newsletter-logo{max-width:120px!important;width:120px!important;}.tf-inline-newsletter-form{flex-direction:column;width:100%;}.tf-inline-newsletter-form input{width:100%!important;min-width:100%!important;max-width:100%!important;flex:none!important;}.tf-inline-newsletter-form button{width:100%;}.nav-grid{grid-template-columns:1fr;}}
+@media(max-width:480px){.nav-grid{grid-template-columns:1fr;}}
+/* === DISCLAIMER === */
+.disclaimer{padding:40px 0;border-top:1px solid var(--glass-border);text-align:center;}
+.disclaimer p{font-size:12px;color:var(--text-muted);line-height:1.7;max-width:700px;margin:0 auto;}
+.disclaimer a{color:var(--gold-dim);text-decoration:none;}
 </style>
 
 <!-- Page Content (wrapped in .gov-tracker to avoid Squarespace style conflicts) -->
@@ -190,22 +247,22 @@
   <div class="t-container">
     <div class="stats-grid">
       <div class="stat-card">
-        <div class="stat-val">$6.46M</div>
+        <div class="stat-val" data-live="John Rose.warChest" data-live-format="money">$6.46M</div>
         <div class="stat-label">Total War Chest</div>
         <div class="stat-source"><a href="https://tennesseelookout.com/briefs/tennessee-gubernatorial-candidate-touts-6-1m-campaign-war-chest/" target="_blank">TN Lookout, Jul 2025</a></div>
       </div>
       <div class="stat-card">
-        <div class="stat-val">$5M</div>
+        <div class="stat-val" data-live="John Rose.personalLoans" data-live-format="money">$5M</div>
         <div class="stat-label">Personal Loan</div>
         <div class="stat-source"><a href="https://tennesseelookout.com/2025/08/28/tennessee-gubernatorial-candidates-use-different-financial-strategies/" target="_blank">TN Lookout, Aug 2025</a></div>
       </div>
       <div class="stat-card">
-        <div class="stat-val">$1.46M</div>
+        <div class="stat-val" data-live="John Rose.totalRaised" data-live-format="money">$1.46M</div>
         <div class="stat-label">Raised from Donors</div>
         <div class="stat-source"><a href="https://www.tnfirefly.com/news/us-rep-john-rose-reports-11-million-in-contributions-on-first-filing-for-2026-tennessee-governors-race" target="_blank">TN Firefly, Jul 2025</a></div>
       </div>
       <div class="stat-card">
-        <div class="stat-val">92%</div>
+        <div class="stat-val" data-live="John Rose.inStatePct" data-live-format="pct">92%</div>
         <div class="stat-label">Donations from TN</div>
         <div class="stat-source"><a href="https://tennesseelookout.com/2025/08/28/tennessee-gubernatorial-candidates-use-different-financial-strategies/" target="_blank">TN Lookout, Aug 2025</a></div>
       </div>
@@ -218,6 +275,11 @@
         <div class="stat-val">Mar 20, '25</div>
         <div class="stat-label">Entered Race</div>
         <div class="stat-source"><a href="https://www.nashvillescene.com/news/pithinthewind/john-rose-tennessee-governors-race/article_fd378f78-6034-5fa9-9fea-1a7e047097a7.html" target="_blank">Nashville Scene</a></div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-val" data-poll="Rose">8.1%</div>
+        <div class="stat-label">Latest Poll (Feb 2026)</div>
+        <div class="stat-source"><a href="/tsspoll">TSS Statewide Survey, Feb 2026</a></div>
       </div>
     </div>
   </div>
@@ -234,12 +296,12 @@
       <span class="section-tag">Background</span>
     </div>
     <div class="bio-text">
-      <p><strong>John William Rose</strong> is a U.S. Representative serving Tennessee's 6th Congressional District since January 2019. A Cookeville native, he was the first major candidate to enter the 2026 governor's race, announcing on March 20, 2025 at the Wilson County Fairgrounds in Lebanon. His campaign launched with a direct shot at Governor Bill Lee's education leadership — drawing a sharp distinction from what he characterized as a failed approach to education.</p>
+      <p><strong>John William Rose</strong> is a U.S. Representative serving Tennessee's 6th Congressional District since January 2019. A Cookeville native, he was the first major candidate to enter the 2026 governor's race, announcing on March 20, 2025 at the Wilson County Fairgrounds in Lebanon.</p>
       <p>Rose was born and raised in <strong>Cookeville, Putnam County</strong>, on a family farm in the rural community of Temperance Hall. He earned a bachelor's degree in agribusiness economics from Tennessee Technological University (1988), a master's in agricultural economics from Purdue University (1990), and a J.D. from Vanderbilt University Law School (1993).</p>
       <p>Rose built his wealth through <strong>Boson Software LLC</strong> (formerly Transcender Corp.), an IT certification training company he co-founded in 2000. His personal worth is estimated between <strong>$24 million and $106 million</strong>, according to 2023 congressional financial disclosures — making him one of the wealthiest members of the Tennessee delegation.</p>
-      <p>Before Congress, Rose served as <strong>Tennessee's Commissioner of Agriculture</strong> under governors Phil Bredesen and Bill Haslam. He chaired the Tennessee State Fair Association since its founding in 2010, the Tennessee FFA Foundation, and the Tennessee Tech Foundation board.</p>
+      <p>Before Congress, Rose served as <strong>Tennessee's Commissioner of Agriculture</strong> under governors Don Sundquist and Phil Bredesen. He chaired the Tennessee State Fair Association since its founding in 2010, the Tennessee FFA Foundation, and the Tennessee Tech Foundation board.</p>
       <p>Rose and his wife Chelsea (née Doss) married in January 2011. They have two sons and live in Cookeville. He briefly went viral in 2024 when one of his sons made silly faces behind him on camera during a House floor speech.</p>
-      <p><strong>Key distinction:</strong> Rose is the only major candidate already running statewide TV and mail advertising campaigns. His campaign uses Bill Lee's former campaign advisor, Chris Devaney, giving him a strategic connection to the outgoing governor's political apparatus — even though Lee has declined to endorse in the primary.</p>
+      <p><strong>Key distinction:</strong> Rose is the only major candidate already running statewide TV and mail advertising campaigns.</p>
     </div>
     <div class="fin-source-note" style="margin-top:20px;">
       <strong>Sources:</strong>
@@ -263,7 +325,7 @@
       <div class="pol-item current">
         <div class="pol-year">2025 – PRESENT</div>
         <div class="pol-role">Candidate for Governor of Tennessee</div>
-        <div class="pol-detail">First major candidate to enter, announced March 20, 2025. Self-funded $5M and raised $1.46M from donors. Running statewide TV and mail campaigns. Uses Bill Lee's former campaign advisor Chris Devaney.</div>
+        <div class="pol-detail">First major candidate to enter, announced March 20, 2025. Self-funded $5M and raised $1.46M from donors. Running statewide TV and mail campaigns.</div>
         <div class="pol-source"><a href="https://tennesseelookout.com/2025/03/21/stockard-on-the-stump-rose-jabs-gov-lee-not-his-likely-opponent-in-gubernatorial-kickoff/" target="_blank">TN Lookout</a></div>
       </div>
       <div class="pol-item current">
@@ -281,7 +343,7 @@
       <div class="pol-item past">
         <div class="pol-year">2002 – 2003</div>
         <div class="pol-role">Tennessee Commissioner of Agriculture</div>
-        <div class="pol-detail">Served as the state's top agriculture official under governors Bredesen and Haslam, overseeing policy for Tennessee's farming sector.</div>
+        <div class="pol-detail">Served as the state's top agriculture official under governors Sundquist and Bredesen, overseeing policy for Tennessee's farming sector.</div>
         <div class="pol-source"><a href="https://ballotpedia.org/John_Rose_(Tennessee)" target="_blank">Ballotpedia</a></div>
       </div>
       <div class="pol-item past">
@@ -295,7 +357,6 @@
 </section>
 
 
-
 <!-- ====== CAMPAIGN FINANCE ====== -->
 <section class="cp-section" id="finance">
   <div class="t-container">
@@ -306,7 +367,7 @@
     <div class="finance-grid">
       <div class="fin-card">
         <h4>Total War Chest</h4>
-        <div class="fin-headline">$6.46M</div>
+        <div class="fin-headline" data-live="John Rose.warChest" data-live-format="money-full">$6.46M</div>
         <div class="fin-context">$1.46M from donors + $5M personal loan. Largest war chest among all candidates, though 77% is self-funded.</div>
         <div class="fin-bar-wrap">
           <div class="fin-bar-label"><span>Donor-funded portion</span><span>23%</span></div>
@@ -315,7 +376,7 @@
       </div>
       <div class="fin-card">
         <h4>TN Donor Percentage</h4>
-        <div class="fin-headline">92%</div>
+        <div class="fin-headline" data-live="John Rose.inStatePct" data-live-format="pct">92%</div>
         <div class="fin-context">Of all donor contributions, 92% came from Tennessee — the highest of any major candidate. Compare to Blackburn's 22%.</div>
         <div class="fin-bar-wrap">
           <div class="fin-bar-label"><span>From Tennessee</span><span>92%</span></div>
@@ -324,13 +385,13 @@
       </div>
       <div class="fin-card">
         <h4>Personal Loan</h4>
-        <div class="fin-headline">$5,000,000</div>
+        <div class="fin-headline" data-live="John Rose.personalLoans" data-live-format="money-full">$5,000,000</div>
         <div class="fin-context">Rose loaned his own campaign $5 million — reflecting his personal fortune from Boson Software. Personal wealth estimated at $24M–$106M.</div>
         <div class="fin-flag">💰 <strong>Self-funded:</strong> Largest personal loan in the race</div>
       </div>
       <div class="fin-card">
         <h4>Cash on Hand</h4>
-        <div class="fin-headline">$4.71M</div>
+        <div class="fin-headline" data-live="John Rose.cashOnHand" data-live-format="money-full">$4.71M</div>
         <div class="fin-context">After spending an estimated $1.5M+ on statewide TV and mail advertising — the only candidate with active statewide ad buys this early.</div>
         <div class="fin-bar-wrap">
           <div class="fin-bar-label"><span>Spent vs. Raised</span><span>$1.5M spent</span></div>
@@ -339,10 +400,6 @@
       </div>
     </div>
 
-    <div class="tnf-analysis">
-      <div class="tnf-analysis-header"><span>🔥 TNFirefly Analysis</span></div>
-      <p>Rose's finance strategy is the mirror image of Blackburn's. Where Blackburn raised $5.5M from 33,000 donors but only 22% from Tennessee, Rose raised just $1.46M from donors — but 92% of it came from within the state. The $5M personal loan gives Rose the largest total war chest in the race, and he's the only candidate spending it on statewide advertising already. The question for voters: does a self-funded campaign signal independence from special interests, or does it raise questions about whose interests a governor would serve? Rose's donors skew heavily toward business owners and agriculture connections in his existing TN-6 congressional district.</p>
-    </div>
 
     <div class="fin-source-note">
       <strong>Sources:</strong>
@@ -368,17 +425,17 @@
           <span class="stance-meter-label">Position Strength</span>
           <div class="stance-meter-bar"><div class="stance-meter-fill strong-support"></div></div>
         </div>
-        <div class="stance-position">Rose has made a direct pledge to appoint a classroom teacher as Tennessee's Education Commissioner — the most specific education promise from any candidate. This is a direct jab at Governor Lee's appointment of Lizzette Reynolds, who came from Texas and was not Tennessee-certified. Rose launched his campaign by criticizing Lee's education leadership, calling for someone who understands Tennessee classrooms from the inside.</div>
+        <div class="stance-position">Rose has made a direct pledge to appoint a classroom teacher as Tennessee's Education Commissioner — the most specific education promise from any candidate. This is a direct contrast to Governor Lee's appointment of Lizzette Reynolds, who came from Texas and was not Tennessee-certified.</div>
         <div class="stance-source"><a href="https://tennesseelookout.com/2025/03/21/stockard-on-the-stump-rose-jabs-gov-lee-not-his-likely-opponent-in-gubernatorial-kickoff/" target="_blank">TN Lookout, Mar 21 2025</a></div>
       </div>
       <div class="stance-card">
-        <div class="stance-topic">School Choice / Vouchers</div>
+        <div class="stance-topic">Education Freedom Scholarship</div>
         <div class="stance-meter">
           <span class="stance-meter-label">Position Strength</span>
-          <div class="stance-meter-bar"><div class="stance-meter-fill no-position"></div></div>
+          <div class="stance-meter-bar"><div class="stance-meter-fill strong-support"></div></div>
         </div>
-        <div class="stance-position">Rose has not made school choice or vouchers a central campaign issue. Unlike Blackburn, who has a federal voting record on education choice legislation, Rose has focused his education messaging on the commissioner appointment and criticizing the current administration's approach rather than specific policy positions on vouchers.</div>
-        <div class="stance-source">No public statement identified as of Feb 2026</div>
+        <div class="stance-position">Rose strongly supports expansion of the Education Freedom Scholarship program. He says he believes it will introduce competition into the public education system and that competition is good for students and schools.</div>
+        <div class="stance-source">Source: Tennessee Firefly, Sep 2025</div>
       </div>
       <div class="stance-card">
         <div class="stance-topic">Teacher Pay</div>
@@ -400,10 +457,6 @@
       </div>
     </div>
 
-    <div class="tnf-analysis">
-      <div class="tnf-analysis-header"><span>🔥 TNFirefly Analysis</span></div>
-      <p>Rose's education-commissioner pledge is the single most specific education promise from any Republican candidate in this race — and it's smart politics. The appointment of a non-Tennessean commissioner was deeply unpopular with educators across the state. However, one pledge does not make an education platform. Rose has not laid out positions on school choice, teacher pay, TCAP reform, charter expansion, or early childhood education. For a candidate who launched his campaign by attacking the incumbent governor's education record, the lack of detailed alternatives is notable. Tennessee Firefly will continue tracking Rose's education positions as the campaign develops.</p>
-    </div>
   </div>
 </section>
 
@@ -457,20 +510,7 @@
       <span class="section-tag">Who's Backing Rose</span>
     </div>
 
-    <div class="endorse-category">Campaign Team</div>
-    <div class="endorse-grid">
-      <div class="endorse-card">
-        <div class="endorse-name">Chris Devaney</div>
-        <div class="endorse-role">Campaign Advisor — Former campaign advisor to Governor Bill Lee. Gives Rose a direct strategic link to the outgoing governor's political operation.</div>
-        <div class="endorse-date">March 2025</div>
-        <div class="endorse-source"><a href="https://tennesseelookout.com/2025/03/21/stockard-on-the-stump-rose-jabs-gov-lee-not-his-likely-opponent-in-gubernatorial-kickoff/" target="_blank">TN Lookout</a></div>
-      </div>
-    </div>
 
-    <div class="tnf-analysis">
-      <div class="tnf-analysis-header"><span>🔥 TNFirefly Analysis</span></div>
-      <p>Rose's endorsement picture is notably thin compared to Blackburn's. While Blackburn has secured the Club for Growth PAC, Knox County Mayor Glenn Jacobs (as campaign treasurer), and Rep. Tim Burchett, Rose has not announced major public endorsements. His most significant campaign asset is advisor Chris Devaney, who ran Bill Lee's successful 2018 campaign. The Lee connection is strategic but complicated — Rose launched his campaign by attacking Lee's education record, while simultaneously employing Lee's former campaign brain. No Trump endorsement has been issued for any candidate in this race, and that absence benefits Rose; a Trump endorsement for Blackburn would likely end the primary, while the current ambiguity keeps the race competitive.</p>
-    </div>
   </div>
 </section>
 
@@ -517,12 +557,7 @@
 </section>
 
 <!-- ====== NEWSLETTER CTA ====== -->
-<section class="newsletter-section">
-  <div class="t-container">
-    <div id="tf-newsletter" data-theme="light"></div>
-    <script src="https://cdn.jsdelivr.net/gh/LongDriveMarketing/tnfirefly-components@main/tnfirefly-newsletter.js"></script>
-  </div>
-</section>
+
 
 <!-- ====== CANDIDATE NAV ====== -->
 <div class="t-container">
@@ -539,6 +574,55 @@
 </div>
 
 <!-- DISCLAIMER -->
+
+
+<!-- ====== EXPLORE TRACKER ====== -->
+<section class="nav-section" id="explore">
+  <div class="t-container">
+    <div class="section-header">
+      <h2>Explore the Tracker</h2>
+    </div>
+    <div class="nav-grid">
+      <a href="/tennessee-governor-race" class="nav-card"><h4>Race Overview</h4><p>The complete tracker hub with polling, fundraising, and race highlights</p></a>
+      <a href="/tennessee-governor-race/education-stances" class="nav-card"><h4>Education Stances</h4><p>Side-by-side comparison on the issues that matter for TN kids</p></a>
+      <a href="/tennessee-governor-race/finance" class="nav-card"><h4>Campaign Finance</h4><p>Follow the money — who’s funding the race and where it’s going</p></a>
+      <a href="/tennessee-governor-race/polls" class="nav-card"><h4>Polls</h4><p>Every poll with methodology, sample size, and results</p></a>
+      <a href="/tennessee-governor-race/endorsements" class="nav-card"><h4>Endorsements</h4><p>Who’s backing whom — elected officials, organizations, and leaders</p></a>
+      <a href="/tennessee-governor-race/timeline" class="nav-card"><h4>Full Timeline</h4><p>Every major event in the race, from announcement to election day</p></a>
+      <a href="/tennessee-governor-race/news" class="nav-card"><h4>TNFirefly Coverage</h4><p>Our latest reporting on the governor’s race</p></a>
+      <a href="/tennessee-governor-race/watchlist" class="nav-card"><h4>Watchlist</h4><p>Rumored and potential candidates who haven’t entered yet</p></a>
+    </div>
+  </div>
+</section>
+<!-- ====== NEWSLETTER ====== -->
+<section class="newsletter-section" id="newsletter">
+  <div class="t-container">
+<div class="tf-inline-newsletter">
+  <div class="tf-firefly tf-firefly-1"></div>
+  <div class="tf-firefly tf-firefly-2"></div>
+  <div class="tf-firefly tf-firefly-3"></div>
+  <div class="tf-firefly tf-firefly-4"></div>
+  <div class="tf-firefly tf-firefly-5"></div>
+  <div class="tf-firefly tf-firefly-6"></div>
+  <div class="tf-inline-newsletter-inner">
+    <img src="https://images.squarespace-cdn.com/content/66a14193b569bc003b6f3326/ebdc9da2-310a-4891-b6f2-8de69c0a593a/Copy+of+The+Signal+%282%29.png?content-type=image%2Fpng" alt="The Signal Newsletter" class="tf-inline-newsletter-logo">
+    <div class="tf-inline-newsletter-content">
+      <div class="tf-inline-newsletter-text">
+        <p class="tf-nl-headline">Stories <em>they</em> don’t want you to see.</p>
+        <p class="tf-nl-subtext">Join 5,000+ subscribers. Free ALWAYS!</p>
+      </div>
+      <form class="tf-inline-newsletter-form js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="191722FC90141D02184CB1B62AB3DC26CA6EEC3BB1641E05D4FC8818866E876F586146E07574F9E4BEE6F87776D0A2F0E5B180E08CCB156A0D45A6D918ADF519">
+        <input type="text" name="cm-name" placeholder="Full Name" required maxlength="200" autocomplete="given-name">
+        <input type="email" name="cm-ttureh-ttureh" placeholder="Email" required maxlength="200" autocomplete="email" class="js-cm-email-input">
+        <input type="text" name="cm-f-ttdydht" placeholder="Zip" required maxlength="10" pattern="[0-9]{5}" inputmode="numeric">
+        <button type="submit">I’m In →</button>
+      </form>
+    </div>
+  </div>
+</div>
+  </div>
+</section>
+<!-- ====== DISCLAIMER ====== -->
 <section class="disclaimer">
   <div class="t-container">
     <p>This tracker is produced by <strong>The Tennessee Firefly</strong>, an education journalism outlet covering all 95 Tennessee counties. All information is sourced from public records, official filings, and verified reporting. We do not endorse candidates. Factual information is clearly separated from analysis. <a href="/about">Learn more about our standards</a>.</p>
@@ -546,7 +630,7 @@
 </section>
 <!-- Built by Long Drive Marketing · longdrivemarketing.com -->
 
-</div><!-- .tracker-page -->
+</div><!-- /tracker-page -->
 </div><!-- /gov-tracker -->
 
 <script>
@@ -589,4 +673,69 @@ document.addEventListener('DOMContentLoaded', function() {
   }, { threshold: 0.5 });
   finBars.forEach(bar => barObserver.observe(bar));
 });
+</script>
+
+<script src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+<script>
+// === LIVE FINANCE UPDATER ===
+(async function(){
+  const CDN = 'https://raw.githubusercontent.com/LongDriveMarketing/tn-governor-race-2026/main/data';
+  try {
+    const res = await fetch(`${CDN}/finance.json?v=${Date.now()}`);
+    const data = await res.json();
+    const byName = {};
+    (data.candidates || []).forEach(c => {
+      c.personalLoans = c.personalLoans || 0;
+      c.warChest = c.totalRaised + c.personalLoans;
+      byName[c.name] = c;
+    });
+    document.querySelectorAll('[data-live]').forEach(el => {
+      const parts = el.dataset.live.split('.');
+      const field = parts.pop();
+      const name = parts.join('.');
+      const c = byName[name];
+      if (!c || c[field] === undefined || c[field] === null) return;
+      const val = c[field];
+      const fmt = el.dataset.liveFormat;
+      if (fmt === 'money') {
+        const n = Number(val);
+        if (n >= 1000000) el.textContent = '$' + (n/1000000).toFixed(2) + 'M';
+        else if (n >= 1000) el.textContent = '$' + (n/1000).toFixed(0) + 'K';
+        else el.textContent = '$' + n.toLocaleString();
+      } else if (fmt === 'money-full') {
+        el.textContent = '$' + Number(val).toLocaleString();
+      } else if (fmt === 'pct') {
+        el.textContent = val + '%';
+      } else if (fmt === 'comma') {
+        el.textContent = Number(val).toLocaleString();
+      } else {
+        el.textContent = val;
+      }
+    });
+  } catch(e) { console.warn('Finance live update failed:', e); }
+})();
+</script>
+<script>
+// === LIVE POLL + ENDORSEMENT UPDATER ===
+(async function(){
+  const CDN = 'https://raw.githubusercontent.com/LongDriveMarketing/tn-governor-race-2026/main/data';
+  try {
+    const res = await fetch(`${CDN}/hub-summary.json`);
+    const data = await res.json();
+    if (data.latestPoll && data.latestPoll.results) {
+      const byName = {};
+      data.latestPoll.results.forEach(r => { byName[r.candidate.toLowerCase()] = r; });
+      document.querySelectorAll('[data-poll]').forEach(el => {
+        const key = el.dataset.poll.toLowerCase();
+        if (byName[key]) el.textContent = byName[key].pct + '%';
+      });
+    }
+    if (data.endorsementCounts) {
+      document.querySelectorAll('[data-endr]').forEach(el => {
+        const key = el.dataset.endr;
+        if (data.endorsementCounts[key] !== undefined) el.textContent = data.endorsementCounts[key];
+      });
+    }
+  } catch(e) { console.warn('Live poll update failed:', e); }
+})();
 </script>
