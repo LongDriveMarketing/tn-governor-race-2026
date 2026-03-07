@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-06",
-  "lastScraped": "2026-03-06T18:53:35.130798+00:00",
+  "lastUpdated": "2026-03-07",
+  "lastScraped": "2026-03-07T01:52:48.448937+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -1240,6 +1240,20 @@
         "poll": "fall 2025",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 58,
+        "poll": "fall 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/12/11/vanderbilt-poll-tennesseans-economic-anxiety-surges-transcends-party-lines/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 60,
+        "poll": "fall 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
       }
     ],
     "TN Legislature": [
@@ -1277,6 +1291,20 @@
         "poll": "fall 2025",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 36,
+        "poll": "fall 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 46,
+        "poll": "fall 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
       }
     ],
     "President Trump": [
@@ -1307,6 +1335,13 @@
         "poll": "fall 2025",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "President Trump",
+        "approve": 55,
+        "poll": "fall 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
       }
     ],
     "Senator Blackburn": [
@@ -1321,6 +1356,13 @@
         "subject": "Senator Blackburn",
         "approve": 46,
         "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "Senator Blackburn",
+        "approve": 46,
+        "poll": "fall 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
       }
@@ -1400,6 +1442,13 @@
         "topic": "Education Priority",
         "value": 53,
         "poll": "fall 2025",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "topic": "Education Priority",
+        "value": 53,
+        "poll": "fall 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
       }
