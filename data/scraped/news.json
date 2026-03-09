@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-09",
-  "lastScraped": "2026-03-09T13:00:47.936339+00:00",
+  "lastScraped": "2026-03-09T14:47:49.607167+00:00",
   "articles": [
     {
       "id": "8efb98cb0da0",
@@ -42,6 +42,52 @@
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2dd8a4caa9cf",
+      "date": "2026-03-09",
+      "title": "Chelsea, Guy, and Sam represented our family and the campaign in Union County for their Lincoln-Reagan Dinner.",
+      "summary": "Chelsea, Guy, and Sam represented our family and the campaign in Union County for their Lincoln-Reagan Dinner. Thanks to the Union County Republican Party for graciously hosting my family!",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02LsgFwo35tRuGFguq8EtWQW8HZAH5YBBt3mQSz9C8WCGcM1UCdYJvuscXHEByEddel",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5ab6338be940",
+      "date": "2026-03-09",
+      "title": "It is true—we have repeatedly requested a gubernatorial debate over the past several months.",
+      "summary": "It is true—we have repeatedly requested a gubernatorial debate over the past several months. That invitation remains open.\n\nIn the meantime, I will keep doing what matters most: meeting with Tennesseans, listening to their stories, and hearing their ideas for building a stronger, freer Tennessee.\n\n#...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ZECtZV7UWgajG7LqPMK3b5E67eQhZa9ijv3hQDyCL7RJLYzS1jhQqu7yRKBKyb19l&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "69ece274d96a",
+      "date": "2026-03-09",
+      "title": "Less bureaucracy. Lower budgets. More of your hard-earned money stays where it belongs—in your pocket. I’m committed to...",
+      "summary": "Less bureaucracy. Lower budgets. More of your hard-earned money stays where it belongs—in your pocket. I’m committed to liberty and less government.\n\n#libertyandlessgovt #montyfrittsforgovernor #TNLeadership",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/944129277957007/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
         "campaign"
       ],
       "tnfirefly": false,
@@ -133,6 +179,66 @@
       "candidate": "Fritts",
       "tags": [
         "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "30fc471881a4",
+      "date": "2026-03-08",
+      "title": "In 2018, I was honored to be the first female elected to represent Tennessee in the United States Senate.",
+      "summary": "In 2018, I was honored to be the first female elected to represent Tennessee in the United States Senate. With your support, we can break barriers once again as Tennessee’s first female Governor. Join us: MarshaBlackburn.com\n\n#internationalwomensday",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02hjj3RMVxDp8KehqWpYGwfbA7wJZdhtdWMUakbjkvXDgxd2DcTD1szGzwVFHLgizdl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "26ea223ac0ee",
+      "date": "2026-03-08",
+      "title": "We won’t let those who refuse to address the crime in Memphis stop us from making Memphis the SAFEST city in America.",
+      "summary": "We won’t let those who refuse to address the crime in Memphis stop us from making Memphis the SAFEST city in America.\n\nMemphians deserve a safe place to live, work, and rear a family, and that’s exactly what we’re going to deliver.\n\nSenator Brent Taylor",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0Fn9z7Mz1K4KvVuuR8p9x1teFmCAB4BYvr6S7qF6jYod9oXeH78GqXHb76QShYK98l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a2ab22b03732",
+      "date": "2026-03-08",
+      "title": "“Be on your guard; stand firm in the faith; be courageous; be strong.” - 1 Corinthians 16:13",
+      "summary": "“Be on your guard; stand firm in the faith; be courageous; be strong.” - 1 Corinthians 16:13",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02epn4Dpvc2yUdm87P4SRMXQVzJTwJ4nnfR1wGEf75a1XwRhwrbZHu5Xu6voesyKStl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "325ecd2b5c70",
+      "date": "2026-03-08",
+      "title": "Visited Samaritan Recovery Community in Nashville to see how they’re helping Tennesseans overcome addiction and rebuild...",
+      "summary": "Visited Samaritan Recovery Community in Nashville to see how they’re helping Tennesseans overcome addiction and rebuild their lives. Strengthening recovery resources like this helps families heal and makes our communities safer and stronger. We’ll pair this type of care with a no-nonsense approach t...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0Ciad74RZd64bWVDuKqen3EzBo8iwoCq6KBbJH1qfsd4QnDAzUAQoQthNEYnJ3Q1Vl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
