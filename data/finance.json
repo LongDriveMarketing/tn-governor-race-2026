@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-09",
-  "lastScraped": "2026-03-09T18:52:51.868713+00:00",
+  "lastUpdated": "2026-03-10",
+  "lastScraped": "2026-03-10T01:55:58.435383+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -248,8 +248,19 @@
       "reportsFiled": 13,
       "lastReportDate": "01/29/2026",
       "lastReportType": "Early Year End Supplemental 2025"
+    },
+    {
+      "name": "HATLEY, DAVID E.",
+      "party": "unknown",
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0,
+      "loansReceived": 0,
+      "reportsFiled": 0,
+      "lastReportDate": null,
+      "lastReportType": null
     }
   ],
   "analysis": "The money race reveals two fundamentally different Republican strategies. Rose bet big on himself — a $5M personal loan plus $1.46M raised, all while keeping 92% of his donors in-state. Blackburn countered with sheer volume: 33,000 contributions totaling $5.5M, leveraging her national Senate donor network. Rose is hammering her 78% out-of-state rate in ads; Blackburn argues the volume shows grassroots enthusiasm. On the Democratic side, fundraising reflects the party's structural disadvantage in Tennessee statewide races — Green leads with $125K, a fraction of either Republican's total.",
-  "lastMerged": "2026-03-09T18:52:51.880310+00:00"
+  "lastMerged": "2026-03-10T01:55:58.447259+00:00"
 }

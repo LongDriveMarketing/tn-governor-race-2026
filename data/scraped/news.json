@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-03-09",
-  "lastScraped": "2026-03-09T18:52:05.897049+00:00",
+  "lastUpdated": "2026-03-10",
+  "lastScraped": "2026-03-10T01:55:11.952273+00:00",
   "articles": [
+    {
+      "id": "43d5799c201e",
+      "date": "2026-03-10",
+      "title": "Marsha Blackburn Files Record-Breaking Nominating Petition With Over 3,000 Signatures From All 95 Counties",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7df1b1159858",
+      "date": "2026-03-10",
+      "title": "AFP State PAC Endorses Senator Marsha Blackburn for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "451920249520",
+      "date": "2026-03-10",
+      "title": "Blackburn Urges Support For Amendment Two On November Ballot",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "8efb98cb0da0",
       "date": "2026-03-09",
@@ -91,6 +136,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "883d4467b7bc",
+      "date": "2026-03-09",
+      "title": "Sen. Blackburn’s Math Act Heads to Senate Floor",
+      "summary": "The Mathematical and Statistical Modeling Education Act aims to address the \ncountry’s STEM shortage.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/sen-blackburns-math-bill-heads-to-senate-floor",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
