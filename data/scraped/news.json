@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-10",
-  "lastScraped": "2026-03-10T14:45:59.572645+00:00",
+  "lastScraped": "2026-03-10T18:45:56.976474+00:00",
   "articles": [
     {
       "id": "43d5799c201e",
@@ -91,6 +91,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1ddb232d4edb",
+      "date": "2026-03-10",
+      "title": "Governor says Educational Opportunity is Moving in the ‘Right Direction’",
+      "summary": "Lee said the number of economically distressed poverty counties has been \ncut in half due to greater access to opportunity and to education.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/governor-says-educational-opportunity-is-moving-in-the-right-direction",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
