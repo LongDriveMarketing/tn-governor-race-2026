@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-11",
-  "lastScraped": "2026-03-11T12:57:52.973674+00:00",
+  "lastScraped": "2026-03-11T14:44:48.208608+00:00",
   "articles": [
     {
       "id": "34eb7f94c563",
@@ -41,6 +41,21 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2edf4cc95398",
+      "date": "2026-03-11",
+      "title": "Chelsea and I were down at Doral for President Donald J.",
+      "summary": "Chelsea and I were down at Doral for President Donald J. Trump’s press conference, and I’ll tell you he has his priorities straight. \n\nPass the SAVE America Act—no matter what—and keep oil lanes open so gas prices come down for Tennessee families.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid029kgdQYVSTPr8Gnd3u2Kei2PZF7zNQuZSbwetkVUkLev2zjPPKSaQ7rpMkmvtw3WEl",
+      "party": "rep",
+      "candidate": "Rose",
       "tags": [
         "campaign"
       ],
@@ -151,6 +166,96 @@
         "policy"
       ],
       "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "d28b55cbcf6c",
+      "date": "2026-03-10",
+      "title": "Six months ago today, a monster took Charlie Kirk from us.",
+      "summary": "Six months ago today, a monster took Charlie Kirk from us.\n\nCharlie hoped he would be remembered for his courage for his faith. Today - and every day - we do.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0oSCRZZ9SRLAGfVV1qVC7i5zSeoTa5BkfvHX5vXZKkTVjVwJjEmExJi8M4PsjbnCpl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5429be984720",
+      "date": "2026-03-10",
+      "title": "Smith County Commissioner Junior Fields is a law enforcement officer and a staunch conservative, and it’s leaders like...",
+      "summary": "Smith County Commissioner Junior Fields is a law enforcement officer and a staunch conservative, and it’s leaders like him who make Team Marsha so strong. Thank you for your support, Junior!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid034AL31Q2dmS5mUT9UZyRZaSQrk7wJX5dpcMMvcBTDF3S6EPghp4mixz2H7x11g8SVl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "bd5419f78826",
+      "date": "2026-03-10",
+      "title": "Really enjoyed sitting down with Humphreys County Executive Mike Pogreba.",
+      "summary": "Really enjoyed sitting down with Humphreys County Executive Mike Pogreba.\n\nWe covered what matters most to rural Tennessee: health care, good jobs, and reliable broadband.\n\nAs governor, I’ll keep listening and working to make life better while protecting the beauty of our state.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid01N3XfSemEV7iG3uu2JvKd69tQjk6GjcCHKqgUeyH3PgyKXGUEH1oCMuJUS3LzfWNl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "009688b51076",
+      "date": "2026-03-10",
+      "title": "When there’s a job to do, Tennesseans don’t sit around on their hands.",
+      "summary": "When there’s a job to do, Tennesseans don’t sit around on their hands. We just get it done. Our state deserves a governor with the courage to demand a vote on the SAVE America Act.\n\nI will always advocate for your interests even when it isn’t easy.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1247848964217530/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ce5a7238e5a9",
+      "date": "2026-03-10",
+      "title": "As governor I'll work hand in hand with President Trump to secure our border and send illegals home.",
+      "summary": "As governor I'll work hand in hand with President Trump to secure our border and send illegals home. \n\nI don't care if you're an Iranian terrorist or an anonymous gotaway. You're going back.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1587625979125175/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a129ef0c6055",
+      "date": "2026-03-10",
+      "title": "Election security is one of my priorities.",
+      "summary": "Election security is one of my priorities. We must protect our elections from compromised machines, malicious foreign interests and cheaters.\n\nElection Day is Primary Day - August 6th.  Mark your calenders.\n\n#TNLeadership #libertyandlessgovt  #electionintegrity",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0HAeMYS9D3LccE5uWMJZE751UoWCTVo1cFZ4hCTG6GzvG4THieinQnGbzuBTYNSx9l&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
       "featured": false
     },
     {
