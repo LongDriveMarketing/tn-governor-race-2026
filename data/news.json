@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-03-11",
-  "lastMerged": "2026-03-11T18:53:56.866485+00:00",
+  "lastUpdated": "2026-03-12",
+  "lastMerged": "2026-03-12T02:02:33.232993+00:00",
   "articles": [
+    {
+      "id": "7e1deda51be6",
+      "date": "2026-03-12",
+      "title": "Marsha Blackburn Files Record-Breaking Nominating Petition With Over 3,000 Signatures From All 95 Counties",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "538546387f4f",
+      "date": "2026-03-12",
+      "title": "AFP State PAC Endorses Senator Marsha Blackburn for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "85401b8810b8",
+      "date": "2026-03-12",
+      "title": "Blackburn Urges Support For Amendment Two On November Ballot",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "34eb7f94c563",
       "date": "2026-03-11",
@@ -60,6 +105,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e6c9a9e70efd",
+      "date": "2026-03-11",
+      "title": "Former Lawmakers Qualify in Race to Replace Lt. Gov. McNally",
+      "summary": "The Secretary of State qualified candidates for the August primary ballot \nthis week.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/former-lawmakers-qualify-in-race-to-replace-lt-gov-mcnally",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
