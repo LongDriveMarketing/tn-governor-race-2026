@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-12",
-  "lastMerged": "2026-03-12T12:58:28.288328+00:00",
+  "lastMerged": "2026-03-12T18:54:13.451538+00:00",
   "articles": [
     {
       "id": "7e1deda51be6",
@@ -37,6 +37,96 @@
       "date": "2026-03-12",
       "title": "Blackburn Urges Support For Amendment Two On November Ballot",
       "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "6e51b03f8312",
+      "date": "2026-03-12",
+      "title": "Smith County Commissioner Javin Cripps has long fought for our conservative values here in Tennessee.",
+      "summary": "Smith County Commissioner Javin Cripps has long fought for our conservative values here in Tennessee. He understands what makes Tennessee great, and we’re glad to have him on Team Marsha!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02SDQ7KW2L714STHff8rMZu2Ycy6Kk91grYBQXhuFg4N9TzBFRF4vgbpQ9UV2gT52al",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "43842056277b",
+      "date": "2026-03-12",
+      "title": "Appreciate the Kingsport Chamber for hosting a meet and greet.",
+      "summary": "Appreciate the Kingsport Chamber for hosting a meet and greet. Hearing directly from local leaders and small business owners is critical as we work to keep Tennessee the best place in the country to live, work, and start a business. 🇺🇸",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0FwsrMaMT8qijp3cCagyoosutN9VartgjhELJZikg2wvsNzZUKver5Di8ZMiJLH2pl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ebd6f20ad89d",
+      "date": "2026-03-12",
+      "title": "Join us in Fentress County TN",
+      "summary": "Join us in Fentress County TN",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02dQDV8KGHi59TYmzfdeh3X3a2qNnaYkaadohhCHCM7v61VC69a6H69yELqQLBYVHtl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f7a2df9237e1",
+      "date": "2026-03-12",
+      "title": "Join us in Pickett County",
+      "summary": "Join us in Pickett County",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0EctFUhGLdqiPdV2xpUyzFQDGHKfoTQtjrjzQrZ3zK8XEcEUmCxsz5bt1Ag5DKeEnl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a76d00b41968",
+      "date": "2026-03-12",
+      "title": "It's time to shake things up a bit.",
+      "summary": "It's time to shake things up a bit. Don't you think?\n\n#libertyandlessgovt #TNGovernor #fritts4governor",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1957646061493316/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3a6e0b5f041c",
+      "date": "2026-03-12",
+      "title": "Connor McDonald Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
       "party": "rep",
@@ -120,6 +210,67 @@
         "campaign"
       ],
       "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "84e13b192234",
+      "date": "2026-03-11",
+      "title": "Wish I could’ve been there in person to see you, Lara Trump!",
+      "summary": "Wish I could’ve been there in person to see you, Lara Trump! Thanks for celebrating the great conservative work Americans for Prosperity - Tennessee is doing for Tennessee.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0NwA1wgB6K9exU9KsrAUTt89xcBkLBxWWJBRELGsZ4AbtSXYrZESDVduLVy3aSRNPl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "042af6f308ce",
+      "date": "2026-03-11",
+      "title": "I’m thankful for the countless Tennesseans joining our conservative movement!",
+      "summary": "I’m thankful for the countless Tennesseans joining our conservative movement!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/reel/912790861486960/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0c56e6465dbf",
+      "date": "2026-03-11",
+      "title": "No better way to start the day than at the Tennessee Prayer Breakfast.",
+      "summary": "No better way to start the day than at the Tennessee Prayer Breakfast. God has richly blessed this great state, and may we continue to live by the words that guide us — In God We Trust. 🙏",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02hJ4amS4DaGz3dKv4gGSMsrSvbqm8hLGVV7Fgqc9BRNXTsSyE2ng3BL6zHFdsQGpSl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "751a9a24e9f4",
+      "date": "2026-03-11",
+      "title": "Our prayers are with the Sundquist family as they mourn the passing of former First Lady Martha Sundquist.",
+      "summary": "Our prayers are with the Sundquist family as they mourn the passing of former First Lady Martha Sundquist.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid036PxiPxu7jw7JeLKo3Gx99PtMn3hy7HS9YCo9w2u8DR3g4tbLfeNN9j3gCCHKFNBol",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
       "featured": false
     },
     {

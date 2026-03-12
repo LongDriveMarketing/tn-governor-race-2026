@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-12",
-  "lastScraped": "2026-03-12T14:47:45.133351+00:00",
+  "lastScraped": "2026-03-12T18:52:59.212621+00:00",
   "articles": [
     {
       "id": "7e1deda51be6",
@@ -116,6 +116,21 @@
       "url": "https://www.facebook.com/reel/1957646061493316/",
       "party": "rep",
       "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3a6e0b5f041c",
+      "date": "2026-03-12",
+      "title": "Connor McDonald Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
       "tags": [
         "campaign"
       ],
