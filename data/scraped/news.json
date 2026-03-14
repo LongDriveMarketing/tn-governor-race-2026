@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-14",
-  "lastScraped": "2026-03-14T12:49:52.707861+00:00",
+  "lastScraped": "2026-03-14T14:27:27.042610+00:00",
   "articles": [
     {
       "id": "adf59f152852",
@@ -41,6 +41,67 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c7d9c8461c1a",
+      "date": "2026-03-14",
+      "title": "Tonight’s Reagan Day Dinner in Williamson County was one for the books!",
+      "summary": "Tonight’s Reagan Day Dinner in Williamson County was one for the books!\n\nThank you to Tim Burchett, Jacobs for Mayor, Senator Brent Taylor, Senator Jack Johnson, and the hundreds of others for your support!\n\nAs a former chair of the Williamson County Republican Party, this event will always hold a s...",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid026281cMmf1vHbmfd6Cze59cBYuhnfNzSFZHpf6uA7fsXYj2RN2tGbKvgKDdTAowsjl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a4f2fd9ca4a4",
+      "date": "2026-03-14",
+      "title": "Victory in Williamson County!",
+      "summary": "Victory in Williamson County!\n\nTo everyone who came out to support us tonight - THANK YOU!\n\nTogether, we will make Tennessee America’s conservative leader.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02zbvVp4VtfedJg9KdMH6S6K52Vz5ttVi3JTb5gvkHtSpkUDQ4w8KnggEt4xWXbiz2l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c3500c38058b",
+      "date": "2026-03-14",
+      "title": "Great to be in Greene County talking with local leaders about healthcare, education, and our farms.",
+      "summary": "Great to be in Greene County talking with local leaders about healthcare, education, and our farms. Tennessee deserves a governor who pulls up the chair, listens and learns.\n\nGrassroots is the only way I know how to do this.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0dB7YQA9u6LS3MgLzSM2mk5iXxvTU6pPoSqEm6j7gQKPuicFENV3PEfaENFxmiXRSl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "policy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "6b9d6f33d61d",
+      "date": "2026-03-14",
+      "title": "We have people in government that say they're uncomfortable with you fully exercising your rights as a lawful citizen.",
+      "summary": "We have people in government that say they're uncomfortable with you fully exercising your rights as a lawful citizen.\n\nThose people who seek security out of timidity are fools.\n\n#constitutionalcarry #libertyandlessgovt #montyfritts4governor",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1459194205571364/",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
@@ -101,6 +162,97 @@
       "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid031ph2S9vkQuJSSKm6nRE5D6bEmwheGTLoGNJm5PGs76PntdBiv4TPeLQnEfs3SyZQl",
       "party": "rep",
       "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d1ca30172428",
+      "date": "2026-03-13",
+      "title": "Chuck and I join countless Americans across the country in praying for the family of Lt.",
+      "summary": "Chuck and I join countless Americans across the country in praying for the family of Lt. Col. Brandon Shah during this unimaginable time.\n\nNow more than ever, we must fund the Department of Homeland Security.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0tgnYWW2BASEudbcT5shM2XGknxLdLf6bzxjZzL2fEewZ666upvqAu87aTKTV1Z5ml",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "99dda1a1860f",
+      "date": "2026-03-13",
+      "title": "We honor the brave soldiers who made the ultimate sacrifice in service to our nation.",
+      "summary": "We honor the brave soldiers who made the ultimate sacrifice in service to our nation.\n\nMay God watch over their families and loved ones, and protect the countless military personnel who continue to carry out Operation Epic Fury.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02TbET281nRQJdoc2955uTddRs39kYKAhUFemRNZcMJwKxDcrFHsBHpUHY1Brf2JfKl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0fee04e450e1",
+      "date": "2026-03-13",
+      "title": "Working together, we'll make certain that Tennesseans continue to keep more of their hard-earned money.",
+      "summary": "Working together, we'll make certain that Tennesseans continue to keep more of their hard-earned money.\n\nGrateful for your constant support, Jacobs for Mayor!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02gYGeZsKtpPRoGXqP4YqMp9QhhWK9CWpqvnAW5XJPeYMxarnHkJrMZ7E5huAhJXryl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3992788e3983",
+      "date": "2026-03-13",
+      "title": "Tennessee is the greatest state in America and Tennesseans I talk to want to keep it that way.",
+      "summary": "Tennessee is the greatest state in America and Tennesseans I talk to want to keep it that way. Let's protect Tennessee and our blessed way of life!\n\nAs Governor, Christian family values and hometown common sense will be my compass. 🇺🇸🎆",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1498864088620226/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f2d69b447315",
+      "date": "2026-03-13",
+      "title": "Six American heroes gave everything in service to our nation.",
+      "summary": "Six American heroes gave everything in service to our nation. The crew of the KC-135 lost in Iraq will never be forgotten.\n\nMay God bless them and comfort their families.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0BKDoXUz52VaBsV5ftzRWpDBKVjwd3jt1tPXtNHhXh3F8AJdGhPiThvHnAtcEJ2igl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4acc17cb2b1f",
+      "date": "2026-03-13",
+      "title": "Don’t DC my Tennessee",
+      "summary": "Don’t DC my Tennessee",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1421349416670951/",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
