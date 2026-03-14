@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-03-13",
-  "lastMerged": "2026-03-13T18:42:14.257212+00:00",
+  "lastUpdated": "2026-03-14",
+  "lastMerged": "2026-03-14T01:57:27.634966+00:00",
   "articles": [
+    {
+      "id": "adf59f152852",
+      "date": "2026-03-14",
+      "title": "Connor McDonald Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "fa0d298af028",
+      "date": "2026-03-14",
+      "title": "Marsha Blackburn Files Record-Breaking Nominating Petition With Over 3,000 Signatures From All 95 Counties",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8d234827e55a",
+      "date": "2026-03-14",
+      "title": "AFP State PAC Endorses Senator Marsha Blackburn for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "b406e2d05ac1",
       "date": "2026-03-13",
