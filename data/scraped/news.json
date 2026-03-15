@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-03-14",
-  "lastScraped": "2026-03-14T18:37:17.126211+00:00",
+  "lastUpdated": "2026-03-15",
+  "lastScraped": "2026-03-15T02:13:08.753893+00:00",
   "articles": [
+    {
+      "id": "cd2ae0066393",
+      "date": "2026-03-15",
+      "title": "Connor McDonald Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d61ee013bfa6",
+      "date": "2026-03-15",
+      "title": "Marsha Blackburn Files Record-Breaking Nominating Petition With Over 3,000 Signatures From All 95 Counties",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "cb80a38010c5",
+      "date": "2026-03-15",
+      "title": "AFP State PAC Endorses Senator Marsha Blackburn for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "adf59f152852",
       "date": "2026-03-14",
@@ -106,6 +151,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "39de33f540f3",
+      "date": "2026-03-14",
+      "title": "Sen. Adam Lowe Hopes to Reduce Barriers for Public School Choice",
+      "summary": "Lowe’s legislation would address challenges students face enrolling in \nout-of-district schools.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/sen-adam-lowe-hopes-to-reduce-barriers-for-public-school-choice",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
