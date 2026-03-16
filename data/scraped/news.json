@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-16",
-  "lastScraped": "2026-03-16T13:09:33.512374+00:00",
+  "lastScraped": "2026-03-16T14:58:05.824918+00:00",
   "articles": [
     {
       "id": "0ab596feba2c",
@@ -41,6 +41,38 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "51188fb468cf",
+      "date": "2026-03-16",
+      "title": "I voted to deliver $50 billion in federal funds designed to strengthen healthcare in rural communities.",
+      "summary": "I voted to deliver $50 billion in federal funds designed to strengthen healthcare in rural communities. That means new hospitals, more doctors, telemedicine in every corner. \n\nI'll put that money to work for Tennessee.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02XiQR6uScubSy3oLrr4kvpBCk5bQRhmdE1nUvVzSG78NJjqahihtVS4DyBhL3i5yjl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "finance",
+        "policy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "76db8e8e9121",
+      "date": "2026-03-16",
+      "title": "When our nation is at risk from enemies of ours that live within our shores WHY would we disarm Tennesseans?",
+      "summary": "When our nation is at risk from enemies of ours that live within our shores WHY would we disarm Tennesseans?\n\n#libertyandlessgovt #TNLeadership #SecondAmendment #2ARights",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1255405202736067/",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
@@ -148,6 +180,67 @@
       "candidate": "Fritts",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f52be4a53f96",
+      "date": "2026-03-15",
+      "title": "Our conservative vision for Tennessee is resonating.",
+      "summary": "Our conservative vision for Tennessee is resonating.\n\nJoin our campaign today: MarshaBlackburn.com",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0vM7NSxchWBcDGAisqzckjNaBL3xmytRBrwohGzqSDrA8ZeLaSKcib7ELie1FDzxFl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "91da95f747d5",
+      "date": "2026-03-15",
+      "title": "“Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.” -...",
+      "summary": "“Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.” - 1 Thessalonians 5:16-18",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0UuaBNiPiJWcjMsWo93jpPtpTx7KEq2nmBmb1FrDETt4ZpnG77duQok7FVb2qJzLil",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "cca3ad9e5578",
+      "date": "2026-03-15",
+      "title": "🏆Winning🏆 75% of the vote at the SOLD OUT Putnam County Reagan Dinner straw poll made for a special night in...",
+      "summary": "🏆Winning🏆 75% of the vote at the SOLD OUT Putnam County Reagan Dinner straw poll made for a special night in Cookeville, but it was the time spent with voters that made it matter.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02swDDc7uEq4JAkGuAgocHPopmQzvhUtc8816LLdTxpGwaaQoJv2wtvooka2mXYmBdl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d3494a774b0f",
+      "date": "2026-03-15",
+      "title": "Thank you to the Putnam County Republican Party for a wonderful event.",
+      "summary": "Thank you to the Putnam County Republican Party for a wonderful event. \n#TNLeadership #TNGovernor",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1270249391697755/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
