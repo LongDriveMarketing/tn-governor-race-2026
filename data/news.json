@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-17",
-  "lastMerged": "2026-03-17T13:10:45.447874+00:00",
+  "lastMerged": "2026-03-17T19:01:06.575028+00:00",
   "articles": [
     {
       "id": "2ab2420013dc",
@@ -41,6 +41,51 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "55c4b88855e8",
+      "date": "2026-03-17",
+      "title": "Young Republicans like Abigail are exactly the reason I’m running for Governor – to secure Tennessee’s place as...",
+      "summary": "Young Republicans like Abigail are exactly the reason I’m running for Governor – to secure Tennessee’s place as America’s conservative leader for this generation and the next. Thank you, Abigail!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0T8UjSdZZkwDDqHih2AsnAadiwzb81p6xYkW2LhdQsDKc1UHS4Qc3hP78Mg2Kv9Fcl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "da48b0f4dfa7",
+      "date": "2026-03-17",
+      "title": "If you've ever sat bumper to bumper on a two-lane interstate wondering what gives, I hear you.",
+      "summary": "If you've ever sat bumper to bumper on a two-lane interstate wondering what gives, I hear you. As governor, every Tennessee interstate will be expanded to a minimum of four lanes, in each direction. \n\nOur state is growing. Our roads need to keep up.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02KMz9uQP4oUCLriytWvoFqKTtV51ULy6w1N8w31fQSfM8npov3crA6XggmPXuox2ul",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b33d346f76ee",
+      "date": "2026-03-17",
+      "title": "Tennessee is failing to provide care for our veterans (true Volunteers) that they have earned.",
+      "summary": "Tennessee is failing to provide care for our veterans (true Volunteers) that they have earned. We need a revolution for Liberty & Less Govt in TN that will make veterans a priority. Based on the others records and experience we only fix this by sending in the Cavalry. Follow the Hat.\n\n#followthehat ...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/817170811399736/",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
@@ -118,6 +163,81 @@
       "url": "https://www.facebook.com/reel/1255405202736067/",
       "party": "rep",
       "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e3a48f6698ae",
+      "date": "2026-03-16",
+      "title": "Senate Democrats are putting Americans at risk by refusing to fund the Department of Homeland Security.",
+      "summary": "Senate Democrats are putting Americans at risk by refusing to fund the Department of Homeland Security. If you agree that they should stop playing games and put Americans first, like this.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid035q6JDcCfBPCarTdJ8irMFJtk3Gr8E8ndB2LNQgGZZXKcpnqhhTA3WgX2WKXR4tzrl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "94cb966d7ff4",
+      "date": "2026-03-16",
+      "title": "The gold medals just keep coming for Team USA!",
+      "summary": "The gold medals just keep coming for Team USA! Congratulations to the USA Hockey Paralympic team on a historic victory!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid022xmR7QHAYQ4rFoKMmz5G9FkEjoBBydtMQdAbQrPkBCRYTndwve8cFMTjpV53xahzl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e3265d55588f",
+      "date": "2026-03-16",
+      "title": "Susie Wiles is not only an incredible person, but also a wonderful Chief of Staff.",
+      "summary": "Susie Wiles is not only an incredible person, but also a wonderful Chief of Staff. America is better off because of her steady leadership, and Chuck and I are keeping her in our prayers.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid035dqsnjTsZAxMe2ovQ8qeQuax2a4CFN6X8rYR1ZvUkZEtykTdLcE1GtxvJnDeNE48l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "aa3505fdf281",
+      "date": "2026-03-16",
+      "title": "Qualifications matter.",
+      "summary": "Qualifications matter. \n\nHere are some of mine:\n\n✅Built two successful Tennessee IT businesses and still own one today\n✅Own and operate an 8th generation 2,000+ acre farm\n✅Chaired nonprofit boards like the Tennessee State Fair Association\n✅Led the Tennessee Department of Agriculture as Commissioner ...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/2585884335139982/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2f37718a6007",
+      "date": "2026-03-16",
+      "title": "Susie Wiles runs the toughest office in the world without breaking a sweat.",
+      "summary": "Susie Wiles runs the toughest office in the world without breaking a sweat. This fight won’t be any different. Praying for her full recovery. She’s one of the best. 🙏",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0NX2JxJDWBYiJA4Zk8hLjDosy3ZZDzhd7KbKwi4e5hPMSWmfLgVj4ZSQQPEzUUDC5l",
+      "party": "rep",
+      "candidate": "Rose",
       "tags": [
         "campaign"
       ],
