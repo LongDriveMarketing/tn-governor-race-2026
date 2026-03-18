@@ -37,15 +37,15 @@
         "Led fight against proposed TN state income tax"
       ],
       "educationStance": {
-        "schoolChoice": "Pro-voucher, strong school choice advocate",
+        "schoolChoice": "Pro-voucher, strong school choice advocate. Central plank of platform. Appeared in AFP radio ads.",
         "teacherPay": "No specific position",
-        "charterSchools": "Supportive",
+        "charterSchools": "Supports expansion. Voted for original charter bill. Calls them 'labs of innovation.'",
         "earlyChildhood": "No specific position",
-        "accountability": "Supports accountability and transparency for schools",
-        "workforce": "Supports CTE expansion, prioritizing TCAT system",
-        "schoolSafety": "Co-sponsored SAFE School Act for veterans/LEO as safety officers",
-        "federalRole": "Supports dissolving U.S. Dept. of Education",
-        "tcapTesting": "Supports existing testing system for transparency"
+        "publicSchoolFunding": "No specific position on TISA funding levels",
+        "workforce": "Supports CTE expansion, prioritizing TCAT system. '315,000 jobs short over next decade.'",
+        "schoolSafety": "Co-sponsored SAFE School Act (Senate) for veterans/LEO as school safety officers",
+        "federalRole": "Supports dissolving U.S. Dept. of Education. Aligns with Trump administration position.",
+        "tcapTesting": "Supports existing testing system. Frames around data transparency."
       },
       "financeSummary": {
         "totalRaised": 5354381,
@@ -82,15 +82,15 @@
         "Family farming operation in Cookeville"
       ],
       "educationStance": {
-        "schoolChoice": "Supports school choice, believes competition improves outcomes",
-        "teacherPay": "Pledged to appoint a teacher as education commissioner",
-        "charterSchools": "Supports charter expansion with increased facilities funding",
+        "schoolChoice": "Supports expansion. Believes competition is good for public schools.",
+        "teacherPay": "No specific teacher salary position. Signature pledge: appoint commissioner with TN teaching experience.",
+        "charterSchools": "Supports charter expansion with increased facilities funding in suburban/rural areas",
         "earlyChildhood": "No specific position",
-        "accountability": "Supports accountability measures",
-        "workforce": "Supports job training and CTE, frames education through economic development",
-        "schoolSafety": "Supports strengthening mental health and school security",
-        "federalRole": "Supports dissolving U.S. Dept. of Education, states as laboratories of democracy",
-        "tcapTesting": "Supports existing testing — 'what gets measured gets done'"
+        "publicSchoolFunding": "Supports TISA funding model alongside school choice programs",
+        "workforce": "Supports job training and CTE. Frames education through economic development lens.",
+        "schoolSafety": "Supports strengthening mental health resources and school security",
+        "federalRole": "Supports dissolving U.S. Dept. of Education. States are 'laboratories for democracy.'",
+        "tcapTesting": "Supports existing testing. 'What gets measured gets done.' Open to tweaks."
       },
       "financeSummary": {
         "totalRaised": 1456005,
@@ -130,15 +130,15 @@
         "Morgan County Commissioner"
       ],
       "educationStance": {
-        "schoolChoice": "ANTI-voucher — one of ~20 House Republicans to vote against",
-        "teacherPay": "Supports teacher raises through state spending cuts",
-        "charterSchools": "No specific position",
+        "schoolChoice": "ANTI-voucher — one of ~20 House Republicans to vote against EFS. Calls it 'fiscally irresponsible' and 'unconstitutional.'",
+        "teacherPay": "No specific position on teacher compensation",
+        "charterSchools": "No specific position. Has posted criticism of charter expansion on social media.",
         "earlyChildhood": "No specific position",
-        "accountability": "No specific position",
+        "publicSchoolFunding": "No specific position on TISA",
         "workforce": "No specific position",
         "schoolSafety": "No specific position",
-        "federalRole": "Supports closing state Department of Education — only lawmaker to vote against continuing TDOE",
-        "tcapTesting": "Opposes current testing emphasis — voted against continuing TDOE over testing concerns"
+        "federalRole": "Supports closing STATE Dept. of Education (TDOE) — only lawmaker to vote against continuing it. Has not addressed federal DOE.",
+        "tcapTesting": "Opposes current testing emphasis — voted against continuing TDOE partly over 'over-emphasis on standardized testing.'"
       },
       "financeSummary": {
         "totalRaised": 11000,
@@ -197,13 +197,13 @@
         "Statewide election lead, TN Moms Demand Action"
       ],
       "educationStance": {
-        "schoolChoice": "Opposes EFS, emphasis on funding public schools over alternatives",
-        "teacherPay": "Pro-increase, 'fund what we value'",
-        "charterSchools": "Nuanced — wants stronger accountability before expansion",
-        "earlyChildhood": "Expanded pre-K and youth programming as council member",
-        "accountability": "No specific position",
-        "workforce": "Supports organized labor, living wages, worker protections",
-        "schoolSafety": "Supports expanding mental health screenings — three-time gun violence survivor",
+        "schoolChoice": "Opposes EFS. Calls it 'welfare for the rich.' Argues public dollars should stay in public schools.",
+        "teacherPay": "Supports increased investment. 'Fund what we value.' No specific pay targets published.",
+        "charterSchools": "No specific position. Signed op-ed criticizing charter school performance.",
+        "earlyChildhood": "Supports universal Pre-K. Track record: expanded pre-K classes in Memphis as council member.",
+        "publicSchoolFunding": "Supports increased public school investment. Critical of EFS siphoning dollars from public schools.",
+        "workforce": "Supports organized labor (UAW), living wages, worker protections",
+        "schoolSafety": "Supports expanding mental health screenings. Three-time gun violence survivor. Former TN Moms Demand Action lead.",
         "federalRole": "No specific position",
         "tcapTesting": "No specific position"
       },
@@ -271,10 +271,9 @@
       "educationStance": {
         "schoolChoice": "Opposes vouchers, pro-public school funding",
         "teacherPay": "Education is '#1 priority', pro-raise, supports teachers unions",
-        "earlyChildhood": "Free pre-K for all Tennessee children",
+        "earlyChildhood": "Free pre-K for all Tennessee children. Would fund through marijuana legalization.",
         "charterSchools": "No specific position",
-        "funding": "Legalize marijuana, tax revenue to public schools",
-        "accountability": "No specific position",
+        "publicSchoolFunding": "Supports increased public school funding. Marijuana tax revenue directed to schools.",
         "workforce": "No specific position",
         "schoolSafety": "No specific position",
         "federalRole": "No specific position",
