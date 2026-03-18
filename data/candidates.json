@@ -40,7 +40,12 @@
         "schoolChoice": "Pro-voucher, strong school choice advocate",
         "teacherPay": "No specific position",
         "charterSchools": "Supportive",
-        "earlyChildhood": "No specific position"
+        "earlyChildhood": "No specific position",
+        "accountability": "Supports accountability and transparency for schools",
+        "workforce": "Supports CTE expansion, prioritizing TCAT system",
+        "schoolSafety": "Co-sponsored SAFE School Act for veterans/LEO as safety officers",
+        "federalRole": "Supports dissolving U.S. Dept. of Education",
+        "tcapTesting": "Supports existing testing system for transparency"
       },
       "financeSummary": {
         "totalRaised": 5354381,
@@ -77,10 +82,15 @@
         "Family farming operation in Cookeville"
       ],
       "educationStance": {
-        "schoolChoice": "No specific position",
+        "schoolChoice": "Supports school choice, believes competition improves outcomes",
         "teacherPay": "Pledged to appoint a teacher as education commissioner",
-        "charterSchools": "No specific position",
-        "earlyChildhood": "No specific position"
+        "charterSchools": "Supports charter expansion with increased facilities funding",
+        "earlyChildhood": "No specific position",
+        "accountability": "Supports accountability measures",
+        "workforce": "Supports job training and CTE, frames education through economic development",
+        "schoolSafety": "Supports strengthening mental health and school security",
+        "federalRole": "Supports dissolving U.S. Dept. of Education, states as laboratories of democracy",
+        "tcapTesting": "Supports existing testing — 'what gets measured gets done'"
       },
       "financeSummary": {
         "totalRaised": 1456005,
@@ -123,7 +133,12 @@
         "schoolChoice": "ANTI-voucher — one of ~20 House Republicans to vote against",
         "teacherPay": "Supports teacher raises through state spending cuts",
         "charterSchools": "No specific position",
-        "earlyChildhood": "No specific position"
+        "earlyChildhood": "No specific position",
+        "accountability": "No specific position",
+        "workforce": "No specific position",
+        "schoolSafety": "No specific position",
+        "federalRole": "Supports closing state Department of Education — only lawmaker to vote against continuing TDOE",
+        "tcapTesting": "Opposes current testing emphasis — voted against continuing TDOE over testing concerns"
       },
       "financeSummary": {
         "totalRaised": 11000,
@@ -182,10 +197,15 @@
         "Statewide election lead, TN Moms Demand Action"
       ],
       "educationStance": {
-        "schoolChoice": "Emphasis on funding public schools over alternatives",
+        "schoolChoice": "Opposes EFS, emphasis on funding public schools over alternatives",
         "teacherPay": "Pro-increase, 'fund what we value'",
-        "charterSchools": "No specific position",
-        "earlyChildhood": "Expanded pre-K and youth programming as council member"
+        "charterSchools": "Nuanced — wants stronger accountability before expansion",
+        "earlyChildhood": "Expanded pre-K and youth programming as council member",
+        "accountability": "No specific position",
+        "workforce": "Supports organized labor, living wages, worker protections",
+        "schoolSafety": "Supports expanding mental health screenings — three-time gun violence survivor",
+        "federalRole": "No specific position",
+        "tcapTesting": "No specific position"
       },
       "financeSummary": {
         "totalRaised": 125440,
@@ -249,10 +269,16 @@
       "announcementDate": "2025-05-15",
       "bio": "Nashville musician running no-corporate-money grassroots campaign. Supports free healthcare, eliminating grocery tax, raising minimum wage, legalizing marijuana with tax revenue to schools.",
       "educationStance": {
-        "schoolChoice": "Pro-public school funding",
-        "teacherPay": "Education is '#1 priority', pro-raise",
+        "schoolChoice": "Opposes vouchers, pro-public school funding",
+        "teacherPay": "Education is '#1 priority', pro-raise, supports teachers unions",
         "earlyChildhood": "Free pre-K for all Tennessee children",
-        "funding": "Legalize marijuana, tax revenue to public schools"
+        "charterSchools": "No specific position",
+        "funding": "Legalize marijuana, tax revenue to public schools",
+        "accountability": "No specific position",
+        "workforce": "No specific position",
+        "schoolSafety": "No specific position",
+        "federalRole": "No specific position",
+        "tcapTesting": "No specific position"
       },
       "financeSummary": {
         "totalRaised": 9502,
