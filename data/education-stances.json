@@ -1,0 +1,352 @@
+{
+  "lastUpdated": "2026-03-18",
+  "source": "TNFirefly editorial research - candidate websites, debate transcripts, legislative records, official statements",
+  "issues": [
+    {
+      "id": "school-choice-efs",
+      "title": "School Choice & Education Freedom Scholarship",
+      "description": "Tennessee's Education Freedom Scholarship program provides $7,300 per student for private school expenses. Governor Lee wants to double the program to 40,000 students.",
+      "stances": [
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Strongly Supports Expansion",
+          "detail": "Made EFS a central plank of her campaign. Appeared in Americans for Prosperity radio ads with Glenn Jacobs promoting the program.",
+          "quote": "A parent shouldn't have to win the lottery to have a choice in their child's education.",
+          "source": "Tennessee Lookout, Oct 2025"
+        },
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Strongly Supports Expansion",
+          "detail": "Believes competition is good for public schools. Supports EFS alongside his broader education platform.",
+          "quote": "Competition is a very good thing, and so when you can introduce more choices, more options for parents and for children, I think that's a good thing.",
+          "source": "Tennessee Firefly, Sep 2025"
+        },
+        {
+          "candidate": "Monty Fritts",
+          "party": "R",
+          "stance": "Opposes",
+          "headline": "Would Suspend the EFS",
+          "detail": "Calls the Education Freedom Scholarships 'fiscally irresponsible' and 'unconstitutional.' The only Republican candidate to openly break with party leadership on this issue. Cites Article XI, Section 12 of the Tennessee Constitution.",
+          "quote": "We cannot keep writing blank checks for a program with no accountability.",
+          "source": "TNFirefly, Sep 2025"
+        },
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "Opposes",
+          "headline": "Prioritizes Public Schools",
+          "detail": "Explicitly opposes EFS. Ran against Mark White partly on his broken voucher promise.",
+          "quote": "I believe deeply that these small towns are being robbed of public-school dollars. All we're doing is welfare for the rich.",
+          "source": "Tennessee Firefly, Oct 2025"
+        },
+        {
+          "candidate": "Adam 'Ditch' Kurtz",
+          "party": "D",
+          "stance": "Opposes",
+          "headline": "Pro-Public School Funding",
+          "detail": "Opposes vouchers. Supports directing marijuana tax revenue to public schools instead."
+        }
+      ]
+    },
+    {
+      "id": "teacher-pay",
+      "title": "Teacher Pay & Education Leadership",
+      "description": "Tennessee ranks in the bottom half of states for teacher pay. Gov. Lee's final budget proposes a $50,000 starting salary by 2027. The current Education Commissioner was not certified to teach in Tennessee when appointed.",
+      "stances": [
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Commissioner Must Be a TN Teacher",
+          "detail": "Signature campaign pledge: would appoint a Commissioner of Education with Tennessee public school teaching experience. Son of a public school teacher. A direct rebuke of Governor Lee's out-of-state appointment.",
+          "quote": "I love our Tennessee teachers, and that's why as governor, I promise to appoint a Commissioner of Education who has Tennessee teaching experience.",
+          "source": "TNFirefly, Jul 2025"
+        },
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "'Best Person for the Job'",
+          "detail": "Noncommittal on teacher pay specifics. Has not taken a position on Commissioner qualifications.",
+          "quote": "Our children deserve that and Tennessee taxpayers deserve that, and that's what people are wanting to see. They want to see somebody who is going to be the best person for the job.",
+          "source": "Tennessee Firefly, Feb 2025"
+        },
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "Supports",
+          "headline": "Increased Teacher Compensation",
+          "detail": "Supports increased investment in teacher compensation. Views competitive pay as essential to retaining teachers in Tennessee. No specific pay targets published."
+        },
+        {
+          "candidate": "Monty Fritts",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Has not made public statements on teacher pay or Commissioner qualifications."
+        }
+      ]
+    },
+    {
+      "id": "public-school-funding",
+      "title": "Public School Funding (TISA)",
+      "description": "The Tennessee Investment in Student Achievement Act (TISA) replaced the decades-old BEP funding formula in 2023. Gov. Lee's final budget includes $170 million in new TISA funding.",
+      "stances": [
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Public + Choice Approach",
+          "detail": "Supports the TISA funding model alongside school choice. Sees both systems working in parallel."
+        },
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "Supports",
+          "headline": "Increased Public School Investment",
+          "detail": "Supports increased public school funding. Believes the current TISA model needs more resources directed to traditional public schools. Critical of EFS siphoning dollars."
+        },
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Has not taken a detailed public position on TISA funding levels."
+        },
+        {
+          "candidate": "Monty Fritts",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Has not taken a detailed public position on TISA funding levels."
+        }
+      ]
+    },
+    {
+      "id": "pre-k",
+      "title": "Pre-K & Early Childhood Education",
+      "description": "Tennessee's voluntary Pre-K program serves a fraction of eligible children. Research consistently shows early childhood education delivers the highest return on investment of any education spending.",
+      "stances": [
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "Supports",
+          "headline": "Universal Pre-K",
+          "detail": "Has a track record, not just a campaign promise. Successfully won funding to increase Pre-K classes in Memphis as council member."
+        },
+        {
+          "candidate": "Adam 'Ditch' Kurtz",
+          "party": "D",
+          "stance": "Supports",
+          "headline": "Fund via Marijuana Legalization",
+          "detail": "Supports free Pre-K funded through revenue from marijuana legalization. Most specific funding mechanism of any candidate."
+        },
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Has not taken a detailed public position on Pre-K expansion."
+        },
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Has not taken a detailed public position on Pre-K expansion. Platform centers on K-12."
+        }
+      ]
+    },
+    {
+      "id": "charter-schools",
+      "title": "Charter Schools",
+      "description": "Tennessee has over 100 public charter schools, mostly in Nashville and Memphis. Recent TCAP data shows charter students gaining in math and ELA proficiency.",
+      "stances": [
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Supports Charter Expansion",
+          "detail": "Voted for original charter bill. Supports rural/suburban expansion and dedicated facilities funding.",
+          "quote": "I think that charter schools can be the labs of innovation for public school systems, giving teachers the flexibility, working with students.",
+          "source": "Tennessee Firefly, Feb 2026"
+        },
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Supports Charter Expansion",
+          "detail": "Wants more charters in suburban/rural communities. Supports increased facilities funding.",
+          "quote": "They get public support, but it's not the same complete support that we give to public schools, and so if we want them to thrive, we need to make sure that they have the tools.",
+          "source": "Tennessee Firefly, Sep 2025"
+        },
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "No Position",
+          "headline": "No Specific Position",
+          "detail": "Signed on to an op-ed criticizing the performance of Tennessee's charter schools, but has not explicitly taken a policy position."
+        },
+        {
+          "candidate": "Monty Fritts",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "No Specific Position",
+          "detail": "Has posted criticism of charter expansion on social media but has not articulated a policy position."
+        }
+      ]
+    },
+    {
+      "id": "workforce",
+      "title": "Workforce Readiness & Career Training",
+      "description": "Tennessee is an automotive manufacturing hub. The state needs workers trained in industrial trades, IT, healthcare, and advanced manufacturing.",
+      "stances": [
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Supports CTE Expansion",
+          "detail": "Prioritizing TCAT system expansion to address projected 315,000 job shortfall over the next decade.",
+          "quote": "We're going to be 315,000 jobs short over the next decade in these skill trades. So, making certain that there is access to this vocational training.",
+          "source": "Tennessee Firefly, February 2026"
+        },
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Emphasis on Job Training",
+          "detail": "Frames education through economic development lens. Supports dissolving federal DOE for state autonomy on workforce programs."
+        },
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "Supports",
+          "headline": "Jobs & Wages Focus",
+          "detail": "Supports organized labor including UAW. Frames workforce through living wages and worker protections."
+        },
+        {
+          "candidate": "Monty Fritts",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Has not released a workforce readiness platform."
+        }
+      ]
+    },
+    {
+      "id": "tcap-testing",
+      "title": "TCAP & Testing Standards",
+      "description": "Tennessee students take the TCAP every spring. Testing policy affects teacher evaluations, school ratings, and student advancement.",
+      "stances": [
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Supports Existing Testing System",
+          "detail": "Supports annual testing and frames it around data transparency.",
+          "quote": "One of the things we have to do is look at when we have data, how we're going to use that data, and then making certain that we are transparent about what that data is telling us.",
+          "source": "Tennessee Firefly, February 2026"
+        },
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Supports Existing Testing",
+          "detail": "Would be open to tweaks but believes measurements are needed.",
+          "quote": "My experience in business taught me that, and it's an old adage, what gets measured gets done, so I think the truth is we need those measurements.",
+          "source": "Tennessee Firefly, Sep 2025"
+        },
+        {
+          "candidate": "Monty Fritts",
+          "party": "R",
+          "stance": "Opposes",
+          "headline": "Opposes Current Testing System",
+          "detail": "Voted against continuing TDOE partly because of 'over-emphasis on standardized testing that seems to diminish educator evaluation.' No specific alternative proposed."
+        },
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Has not addressed TCAP or testing policy on the campaign trail."
+        }
+      ]
+    },
+    {
+      "id": "school-safety",
+      "title": "School Safety",
+      "description": "Following the Covenant School shooting in 2023, school safety has been a defining issue in Tennessee. Nashville schools recently expanded weapons detection systems to all high schools.",
+      "stances": [
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "Supports",
+          "headline": "Expanding Mental Health Screenings",
+          "detail": "Three-time gun violence survivor. Former TN Moms Demand Action statewide election lead. Supports background checks, red flag laws, and gun lock programs."
+        },
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Mental Health & Security",
+          "detail": "Supports strengthening mental health resources and school security infrastructure. Strong 2A/constitutional carry supporter."
+        },
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Expanded Security",
+          "detail": "Co-sponsored SAFE School Act in Senate for veterans/LEO as school safety officers."
+        },
+        {
+          "candidate": "Monty Fritts",
+          "party": "R",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Voted to arm teachers after Covenant shooting but has not released a gubernatorial school safety platform."
+        }
+      ]
+    },
+    {
+      "id": "federal-role",
+      "title": "Federal Role in Education",
+      "description": "President Trump has called for dissolving the U.S. Department of Education. Tennessee receives significant federal education funding.",
+      "stances": [
+        {
+          "candidate": "John Rose",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Dissolve Federal DOE",
+          "detail": "Supports dissolving U.S. Dept. of Education. States are 'laboratories for democracy.'",
+          "source": "Campaign website"
+        },
+        {
+          "candidate": "Marsha Blackburn",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Dissolve Federal DOE",
+          "detail": "Aligns with Trump administration position. Frames as opportunity for state-level education reset.",
+          "quote": "As he sends power back to the states, he's going to need strong conservative governors who can bring that revolution home."
+        },
+        {
+          "candidate": "Monty Fritts",
+          "party": "R",
+          "stance": "Supports",
+          "headline": "Close STATE Dept. of Education",
+          "detail": "Only lawmaker to vote against continuing the Tennessee Department of Education. Has not addressed federal DOE."
+        },
+        {
+          "candidate": "Jerri Green",
+          "party": "D",
+          "stance": "No Position",
+          "headline": "No Public Position",
+          "detail": "Has not detailed her position on the federal role in education as it relates to the governor's office."
+        }
+      ]
+    }
+  ]
+}
