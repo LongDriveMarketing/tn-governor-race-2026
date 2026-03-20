@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-20",
-  "lastMerged": "2026-03-20T12:58:34.271938+00:00",
+  "lastMerged": "2026-03-20T18:50:14.141970+00:00",
   "articles": [
     {
       "id": "65b0ec251f50",
@@ -41,6 +41,36 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "be7a2ca1a68e",
+      "date": "2026-03-20",
+      "title": "One year ago today, this campaign started with you.",
+      "summary": "One year ago today, this campaign started with you. I’ve had the privilege of hearing your stories—farmers, veterans, volunteers, and proud Tennesseans from every corner of the state. As governor, I’ll carry your voices to Nashville and turn them into real results. To Tennessee, THANK YOU!",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1694111238431816/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c181a3184b09",
+      "date": "2026-03-20",
+      "title": "\"The weaponization of the fiscal note to try and kill this bill...\"",
+      "summary": "\"The weaponization of the fiscal note to try and kill this bill...\"\n\nDo our colleges and universities need a recalibration of values to align better with common sense Tennessee values?\n\n#SecondAmendment #FiscalResponsibility #fritts4governor #TNLeadership #libertyandlessgovt\n\nLakie for Commission",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/3522941787846456/",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
@@ -177,6 +207,82 @@
       "party": "rep",
       "candidate": "Fritts",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "282f482d4cef",
+      "date": "2026-03-19",
+      "title": "It's just plain common sense.",
+      "summary": "It's just plain common sense.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0LaeXnh9pFSBxUJU9SHdqveLQWHMd5rZRUrJccwG4nwe5Uezb4YfZUMtdS7R6s3xFl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "519dd935249c",
+      "date": "2026-03-19",
+      "title": "Crime in Memphis has reached a 25-year low, and it's because of Donald J.",
+      "summary": "Crime in Memphis has reached a 25-year low, and it's because of Donald J. Trump's decision to deploy the National Guard in September and the tremendous work the Memphis Safe Task Force has done since. \n\nI'm grateful to have worked with the President to help make this happen, and together, we'll cont...",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0Fp239LQggoHVwJVRY36XvQuiHVZic6uTsJeuDqCCrkb4tBM386Bjnk3HMiTrF2v9l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d8432749f6dd",
+      "date": "2026-03-19",
+      "title": "I grew up in Cookeville, TN where hometown values were our foundation: Faith, Family, and Freedom.",
+      "summary": "I grew up in Cookeville, TN where hometown values were our foundation: Faith, Family, and Freedom. That's what Tennessee's about.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1869553483750879/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "bcb57431b306",
+      "date": "2026-03-19",
+      "title": "FLASHBACK: Chuck Schumer argued producing identification was part of everyday life.",
+      "summary": "FLASHBACK: Chuck Schumer argued producing identification was part of everyday life. But now, he refuses to support the SAVE America Act. Tennesseans expect leaders whose principles don’t shift with the wind—and as your governor, mine never will.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/929539186322403/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "de19f26fd070",
+      "date": "2026-03-19",
+      "title": "Taxes have gotten too high—they’ve become a form of bondage.",
+      "summary": "Taxes have gotten too high—they’ve become a form of bondage.\n\nThis is about far more than a few pennies on your grocery bill. It’s a system that quietly extracts your liberty from your pocket.\n\nWe must get our budget under control in Tennessee. My priority is simple: leave more money in your pockets...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1029942636870428/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
         "campaign"
       ],
       "tnfirefly": false,
