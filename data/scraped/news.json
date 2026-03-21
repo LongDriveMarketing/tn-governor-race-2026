@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-21",
-  "lastScraped": "2026-03-21T12:45:59.857044+00:00",
+  "lastScraped": "2026-03-21T14:25:39.195491+00:00",
   "articles": [
     {
       "id": "9e481866e31b",
@@ -41,6 +41,51 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8f7ffc9062c5",
+      "date": "2026-03-21",
+      "title": "Tennessee's got a waste and wastewater problem that's getting worse by the day.",
+      "summary": "Tennessee's got a waste and wastewater problem that's getting worse by the day. As governor, I'll lead the charge to fix outdated infrastructure without putting it on the backs of everyday people.\n\nWhen population booms, your infrastructure better boom with it.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02s3LepVszjSN5pmJiAYiSEZQWepx6XR2tcpXi8nfgdXoxBbntahB2CwKhijfiw77tl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1c35bda3a5ca",
+      "date": "2026-03-21",
+      "title": "One year ago, I kicked off my campaign at the Wilson County Fairgrounds.",
+      "summary": "One year ago, I kicked off my campaign at the Wilson County Fairgrounds. Since then, I’ve been honored to have the chance to serve Tennesseans who inspire me everyday. Coming back here reminds me how we sparked this journey and why we’re just beginning.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/2146610686155493/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "638a0fb853ea",
+      "date": "2026-03-21",
+      "title": "Great night at the Wilson County Trump Dinner!",
+      "summary": "Great night at the Wilson County Trump Dinner! Being at the State Fairgrounds brought back memories of my time chairing the state fair board. Those roots matter. That’s why I launched my campaign here one year ago today. \n\nBeing governor starts with knowing your communities, because that’s who you’r...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02WLTwVxpCP2GoYWh8gHHhDAJcB35ELH3PT5aghK31zbcNwGBxAwBCwhrDozXvJkh1l",
+      "party": "rep",
+      "candidate": "Rose",
       "tags": [
         "campaign"
       ],
@@ -135,6 +180,85 @@
         "policy"
       ],
       "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "9d0c088eaf60",
+      "date": "2026-03-20",
+      "title": "I am ever so grateful to have a partner like Senator Brent Taylor in our fight to make Memphis the SAFEST city in the...",
+      "summary": "I am ever so grateful to have a partner like Senator Brent Taylor in our fight to make Memphis the SAFEST city in the nation.\n\nMemphis, we have your back.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0DVULxtDSn32QdPscb2cviT3k1w3nTBejmheMZ5pF2pMKmkHnvsnPqHS49MG9nY67l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "684c5f7bf45a",
+      "date": "2026-03-20",
+      "title": "🍀It's Irish Festival time in Erin, TN.",
+      "summary": "🍀It's Irish Festival time in Erin, TN. A 64 year tradition!🍀\n\n🍀Last year, Mrs. Polly Fussell was recognized for her contributions to the county and I proudly took home the legendary gnome for the year. Tonight, it returns to be auctioned to a new caretaker.🍀",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0JAXo5uU4zTVpMLRD9LUdBQky1EHVVDK6bdPsY5yzq4Kjkj6vkSkcJRS139M59BVrl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "finance",
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "24f9dcf7671f",
+      "date": "2026-03-20",
+      "title": "In Memphis today, I spent time with folks across Shelby County listening to the challenges they’re facing.",
+      "summary": "In Memphis today, I spent time with folks across Shelby County listening to the challenges they’re facing. We talked about crime, education, and infrastructure—and the need for real solutions.\n\nMaking Tennessee stronger starts with getting Memphis right. That means listening, showing up, and getting...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/939934688684674/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "policy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5d5fe09f71b6",
+      "date": "2026-03-20",
+      "title": "TRUMP AMERICA AI Act repeals section 230, expands liability, and establishes centralized federal control over AI.",
+      "summary": "TRUMP AMERICA AI Act repeals section 230, expands liability, and establishes centralized federal control over AI.\n\nWhy should we trust career DC politicians to manage anything else? They are good at two things, sending our money to foreign interests and enriching themselves.\n\n#AIDatacenters #TVA #En...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/3620377884771413/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d3dbcc3984e6",
+      "date": "2026-03-20",
+      "title": "From Williamson County to Greene County -- these are the folks I work for and earn their endorsement.",
+      "summary": "From Williamson County to Greene County -- these are the folks I work for and earn their endorsement. #fritts4governor  #libertyandlessgovt  #TNLeadership",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1359605916201342/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
       "featured": false
     },
     {
