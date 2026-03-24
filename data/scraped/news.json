@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-24",
-  "lastScraped": "2026-03-24T13:09:47.877011+00:00",
+  "lastScraped": "2026-03-24T14:56:32.634204+00:00",
   "articles": [
     {
       "id": "c604870d2a87",
@@ -41,6 +41,51 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "868eaba294b3",
+      "date": "2026-03-24",
+      "title": "TNFRW's Ladies' Day On The Hill is always one of my favorite days of the year.",
+      "summary": "TNFRW's Ladies' Day On The Hill is always one of my favorite days of the year. While I was in Memphis with the President this morning and wasn't able to attend, I'm so grateful for the support.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02br1sKujA9QRXYCTe5TwHumnP2pueZnuHN6d7nGVnMWbbWXLNJZLWfjyU7Bnd67cVl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c29a0b40ed2b",
+      "date": "2026-03-24",
+      "title": "The Davidson County Farm Bureau Board talked with me about making Tennessee work better for the folks who feed it.",
+      "summary": "The Davidson County Farm Bureau Board talked with me about making Tennessee work better for the folks who feed it. I also got to hear from some sharp 4-H members who reminded me why I got into this race. \n\nThe future of Tennessee agriculture is strong.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0bw9dnf6jDE4PzGWgomEgbYXm2uEPxzp7WwtCfMyeoHXnDgXLuNyMxmug1KkSHLH9l",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "596c4c2c36bc",
+      "date": "2026-03-24",
+      "title": "A TNHD 32 update and a big thank you to Tennessee Federated Republican Women for allowing me to share two very...",
+      "summary": "A TNHD 32 update and a big thank you to Tennessee Federated Republican Women for allowing me to share two very important bills.\n\n#TNLeadership #fritts4governor #TNFRW #ladiesdayonthehill",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1625418671915601/",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
@@ -176,6 +221,248 @@
       "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0SYBzish8y2fAFEwDQGXDnkM84xUkmc8SKf61RzyqNRBJAKavArpFMgJT4wsSEbiZl",
       "party": "rep",
       "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f4874f82604a",
+      "date": "2026-03-23",
+      "title": "Stephen Miller is exactly right.",
+      "summary": "Stephen Miller is exactly right. Since President Trump took office on January 20, 2025, we have seen the largest reduction in American history in:\n\n-Murders\n-Violent crime\n-Overdose deaths\n-Fentanyl trafficking\n-Illegal immigration\n\nAnd the largest number of criminals arrested, removed, or deported ...",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/reel/798099506684083/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0a697fa992e4",
+      "date": "2026-03-23",
+      "title": "Dalisia is exactly right: Senator Brent Taylor has long been leading the charge to #MakeMemphisMatter.\n\nDonald J.",
+      "summary": "Dalisia is exactly right: Senator Brent Taylor has long been leading the charge to #MakeMemphisMatter.\n\nDonald J. Trump and the Memphis Safe Task Force have achieved what nobody thought possible. And we're just getting started.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/reel/25495818763426788/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "842bb356ec6d",
+      "date": "2026-03-23",
+      "title": "Pete Hegseth said it perfectly: \"Street by street, neighborhood by neighborhood, President Donald J.",
+      "summary": "Pete Hegseth said it perfectly: \"Street by street, neighborhood by neighborhood, President Donald J. Trump is not only saving Memphis: he's saving the country.\"",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02s3n66FTVoU3WKXbNd4vMQkNw1iH74QULgAUY4zpwWvewkUmRiEoZK3HuqHgzcdPrl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f86184a7b367",
+      "date": "2026-03-23",
+      "title": "Thank you, President Donald J.",
+      "summary": "Thank you, President Donald J. Trump!\n\nYou have my word: I will never let you down!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/reel/1249511343463242/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "49a05cc70669",
+      "date": "2026-03-23",
+      "title": "The law enforcement officers of the Memphis Safe Task Force are heroes.",
+      "summary": "The law enforcement officers of the Memphis Safe Task Force are heroes. Thank you.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02xWpCwMp92CKGjYiiognXwER9dEkUyL7sHDBiw5Sg4SD2TNwFsquNLTFfBLtHoqLzl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f641a0899ab7",
+      "date": "2026-03-23",
+      "title": "President Donald J. Trump is LIVE now highlighting the Memphis Safe Task Force. Tune in here:",
+      "summary": "President Donald J. Trump is LIVE now highlighting the Memphis Safe Task Force. Tune in here:",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0JbeksTcdsbXqcufT4uUFbqAM4U71eoaBqJpStEJzpgck9PE9rx3dTZhcuHdbQQfBl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ce5a3d9b3f76",
+      "date": "2026-03-23",
+      "title": "Compared to the same period last year:",
+      "summary": "Compared to the same period last year:\n\n- Overall crime in Memphis⬇️ more than 43% \n- Motor vehicle thefts ⬇️67%\n- Robberies ⬇️ 51%\n- Sexual assaults ⬇️ 38%\n- Homicides ⬇️ 35%\n- Burglaries ⬇️ 32%\n- Aggravated assaults ⬇️ 31%\n\nThank you, President Donald J. Trump!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0Hsw85Gwq5GsecBFd7exJy7aUch6bYcVcqCk72dcRHkBX1eFcEKEw1by3Zw3bcwVRl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b203acf1c3de",
+      "date": "2026-03-23",
+      "title": "A Memphis mom told President Trump today she can finally sit on her porch without hearing gunshots.",
+      "summary": "A Memphis mom told President Trump today she can finally sit on her porch without hearing gunshots. Her child can play outside again thanks to the Memphis Safe Task Force. \n\nThank you, Mr. President. As governor, I look forward to working with you to crack down on crime.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/2048689279023449/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "34fa0ed47dc0",
+      "date": "2026-03-23",
+      "title": "🇺🇲Proud Dad moment: President Trump was kind enough to wish Sam a Happy 5th Birthday from Airforce One.",
+      "summary": "🇺🇲Proud Dad moment: President Trump was kind enough to wish Sam a Happy 5th Birthday from Airforce One. Thank you, Mr. President!\n\n🎉Sam's celebrating at Dollywood 🎉",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0yGpwgFsUaq9aWZykz1GAEiWGfcUN3r8ADWwCGeTUZe7rbjKFqe6Zpfa4uBAZNV7Cl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a704f27c2db4",
+      "date": "2026-03-23",
+      "title": "Been on the ground in Memphis talking to families and you'd be hard pressed to find someone who doesn't feel safer...",
+      "summary": "Been on the ground in Memphis talking to families and you'd be hard pressed to find someone who doesn't feel safer today. Parents tell me their kids can play outside again. That's what happens when a president keeps his word.\n\nThank you,  President Donald J. Trump 🇺🇸",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1774946883890369/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5c8ce749fc10",
+      "date": "2026-03-23",
+      "title": "It's humbling to be called a \"warrior\" by President Trump.",
+      "summary": "It's humbling to be called a \"warrior\" by President Trump. If anything, I'm a warrior for this great state and will do everything in my power to protect it as your Governor.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1685756169122751/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "58a277969cdf",
+      "date": "2026-03-23",
+      "title": "Samuel is our rainbow baby and today he is celebrating his 5th birthday.",
+      "summary": "Samuel is our rainbow baby and today he is celebrating his 5th birthday. Sam is my proof that God is indeed merciful. His birth brightened our lives immeasurably and now, he brightens our day - every day. He is silly and spunky, just like a little boy ought to be. We love you, Sam!",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0rUFXc21kPNqLyHMW3zTkZDyK61sG74FtVJKvo1R9rcsPnFqss3uBqYSgRrf1YE9Pl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2997c44f7d4a",
+      "date": "2026-03-23",
+      "title": "We’d love to have you, President Donald J.",
+      "summary": "We’d love to have you, President Donald J. Trump. You’d fit right in here in the Volunteer State! 🍊",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1243368194580484/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "438fe4f715ae",
+      "date": "2026-03-23",
+      "title": "Thirty years of Democrat control in Memphis and families were afraid to let their kids play outside.",
+      "summary": "Thirty years of Democrat control in Memphis and families were afraid to let their kids play outside. President Trump took a no holds barred approach and people are feeling safe again.\n\nI'm running for governor to bring that same no holds barred approach to every community in Tennessee.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/944505775199038/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4bd70360208c",
+      "date": "2026-03-23",
+      "title": "🇺🇸🇺🇸🇺🇸\nIt’s an honor to be in Memphis today with President Trump supporting the Memphis Safe Task Force and our...",
+      "summary": "🇺🇸🇺🇸🇺🇸\nIt’s an honor to be in Memphis today with President Trump supporting the Memphis Safe Task Force and our National Guard. Grateful for the men and women who step up every day to protect and serve.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0cxT5DUHFUZBKcwNMao4niRi7ae1HjbtU2oJ8i6abG42ptuJXCLZNfJMpY5dLzeSMl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "917fcdf3f24c",
+      "date": "2026-03-23",
+      "title": "Great seeing so many strong, conservative Christians represented in Nashville today for Ladies Day on the Hill with the...",
+      "summary": "Great seeing so many strong, conservative Christians represented in Nashville today for Ladies Day on the Hill with the TNFRW.\n\nAs I mentioned from the Tennessee Chamber floor, we need your phone calls, texts, and emails to help get these bills passed:\n\n● HB2321 | SB2482 –Assault on Sanctity of Life...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid032DjujSmhtYq6aguRZM4SYj82zE7nwv46ocTQ2sCVsAzdapr67MGBXf3MoeNYVwTjl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
