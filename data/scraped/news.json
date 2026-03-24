@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-24",
-  "lastScraped": "2026-03-24T14:56:32.634204+00:00",
+  "lastScraped": "2026-03-24T19:01:48.297677+00:00",
   "articles": [
     {
       "id": "c604870d2a87",
@@ -87,6 +87,22 @@
       "party": "rep",
       "candidate": "Fritts",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ff409d3024d8",
+      "date": "2026-03-24",
+      "title": "Marsha Blackburn Continues Commanding Lead in Latest Tennessee Governor GOP Primary Poll",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
         "campaign"
       ],
       "tnfirefly": false,

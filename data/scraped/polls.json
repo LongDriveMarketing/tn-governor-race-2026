@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-24",
-  "lastScraped": "2026-03-24T13:09:55.130074+00:00",
+  "lastScraped": "2026-03-24T19:01:55.629765+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -1774,6 +1774,20 @@
       "hasData": true,
       "url": "https://www.270towin.com/2026-governor-polls/tennessee",
       "rawPolls": [
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Cygnal",
+            "3/23/2026",
+            "500 LV &plusmn4.4%",
+            "58%",
+            "7%",
+            "-",
+            "35%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
         {
           "source": "270toWin",
           "raw": [

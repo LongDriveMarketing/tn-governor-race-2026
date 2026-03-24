@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-24",
-  "lastScraped": "2026-03-24T13:09:55.130074+00:00",
+  "lastScraped": "2026-03-24T19:01:55.629765+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -1786,6 +1786,20 @@
           "source": "270toWin",
           "raw": [
             "",
+            "Cygnal",
+            "3/23/2026",
+            "500 LV &plusmn4.4%",
+            "58%",
+            "7%",
+            "-",
+            "35%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
             "Beacon Poll",
             "2/02/2026",
             "559 RV",
@@ -1868,5 +1882,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-03-24T13:10:45.443405+00:00"
+  "lastMerged": "2026-03-24T19:02:49.981257+00:00"
 }

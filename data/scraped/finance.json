@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-24",
-  "lastScraped": "2026-03-24T13:10:45.439559+00:00",
+  "lastScraped": "2026-03-24T19:02:49.977411+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -239,6 +239,18 @@
       "reportsFiled": 13,
       "lastReportDate": "01/29/2026",
       "lastReportType": "Early Year End Supplemental 2025"
+    },
+    {
+      "name": "MORGAN, CHARLES &quot;VAN&quot;",
+      "party": "unknown",
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 11,
+      "lastReportDate": "07/20/2023",
+      "lastReportType": "Annual Mid Year Supplemental 2023"
     },
     {
       "name": "HATLEY, DAVID E.",
