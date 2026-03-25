@@ -1,7 +1,53 @@
 {
-  "lastUpdated": "2026-03-24",
-  "lastMerged": "2026-03-24T19:02:49.985831+00:00",
+  "lastUpdated": "2026-03-25",
+  "lastMerged": "2026-03-25T02:06:45.625551+00:00",
   "articles": [
+    {
+      "id": "da5319b33432",
+      "date": "2026-03-25",
+      "title": "Marsha Blackburn Continues Commanding Lead in Latest Tennessee Governor GOP Primary Poll",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ecf57eedb8c3",
+      "date": "2026-03-25",
+      "title": "Connor McDonald Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c408234167b1",
+      "date": "2026-03-25",
+      "title": "Marsha Blackburn Files Record-Breaking Nominating Petition With Over 3,000 Signatures From All 95 Counties",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "c604870d2a87",
       "date": "2026-03-24",
@@ -106,6 +152,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b75ad1877500",
+      "date": "2026-03-24",
+      "title": "House Democrats Break with Senate Counterparts to Block Public School Choice",
+      "summary": "Representatives Yusuf Hakeem and Sam McKenzie helped preserve barriers for \nfamilies enrolling out-of-district.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/house-democrats-break-with-senate-counterparts-to-block-public-school-choice",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
