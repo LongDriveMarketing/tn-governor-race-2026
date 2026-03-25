@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-25",
-  "lastScraped": "2026-03-25T14:58:12.935730+00:00",
+  "lastScraped": "2026-03-25T18:54:39.976737+00:00",
   "articles": [
     {
       "id": "da5319b33432",
@@ -119,6 +119,38 @@
       "party": "rep",
       "candidate": "Fritts",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c75a8b3c598d",
+      "date": "2026-03-25",
+      "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8a9ed7e9c598",
+      "date": "2026-03-25",
+      "title": "WBBJ 7 Eyewitness News: New poll projects Marsha Blackburn will win TN Republican primary race for governor by a landslide",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
         "campaign"
       ],
       "tnfirefly": false,
