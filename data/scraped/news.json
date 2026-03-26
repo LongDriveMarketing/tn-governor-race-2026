@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-26",
-  "lastScraped": "2026-03-26T15:04:05.312436+00:00",
+  "lastScraped": "2026-03-26T19:03:48.661235+00:00",
   "articles": [
     {
       "id": "f006e08c638d",
@@ -109,6 +109,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5efd4e3037a4",
+      "date": "2026-03-26",
+      "title": "Senator Blackburn Continues to Hold Strong Lead in Republican Gubernatorial Primary",
+      "summary": "The poll also found a reduction in undecided voters.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/senator-blackburn-continues-to-hold-strong-lead-in-republican-gubernatorial-primary",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
