@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-27",
-  "lastMerged": "2026-03-27T13:05:16.579857+00:00",
+  "lastMerged": "2026-03-27T18:55:52.451175+00:00",
   "articles": [
     {
       "id": "598fb44764a1",
@@ -45,6 +45,37 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8f0936de973a",
+      "date": "2026-03-27",
+      "title": "As a dad with boys in public schools, I'm ready to involve Tennessee parents in our education system.",
+      "summary": "As a dad with boys in public schools, I'm ready to involve Tennessee parents in our education system. This will give parents a seat at the table and allow teachers to focus on...well, teaching!",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0p2prcWC1WKue3aUwQfcMTPj8vCfVKm9VcndsrRz1goGfFKpmBTgKXZz3vDiyyyFSl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "policy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5e8a4a2f4230",
+      "date": "2026-03-27",
+      "title": "Introducing The Next Governor of Tennessee, MONTY FRITTS.",
+      "summary": "Introducing The Next Governor of Tennessee, MONTY FRITTS. 🥊 Fighter, Christian, Veteran, Husband, and Father! \n\nSomeone who will FIGHT, FIGHT, FIGHT for Tennessee.\n\n #tennessee #conservativesoftiktok #republicansoftiktok #americafirst  #montyfritts",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/948548697714542/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
@@ -172,6 +203,97 @@
         "analysis"
       ],
       "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "492fa2e9fc31",
+      "date": "2026-03-26",
+      "title": "Thank you for coming to Tennessee, and for your commitment to making America and Memphis SAFE again, Donald J.",
+      "summary": "Thank you for coming to Tennessee, and for your commitment to making America and Memphis SAFE again, Donald J. Trump!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02Yd3pGeYJJEZ9SVXaZXoA2QeH3imGUsm3hxYsua35aYdMVDmdD2Kw7Xd314XRrM1Ql",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "aae9a59e0d6b",
+      "date": "2026-03-26",
+      "title": "My Democrat opponent, Jerri Green, claims the National Guard troops in Memphis aren't doing much other than “parading...",
+      "summary": "My Democrat opponent, Jerri Green, claims the National Guard troops in Memphis aren't doing much other than “parading around” her Target.\n\nBut those men and women have been critical to a 43% reduction in overall crime, more than 7,400 arrests, the seizure of 1,219 illegal firearms, and the safe loca...",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/reel/3048531211999379/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "28b64259f653",
+      "date": "2026-03-26",
+      "title": "Roxie Bacon of Polk County is supporting Marsha Blackburn because she has always stood, and will always stand, up for...",
+      "summary": "Roxie Bacon of Polk County is supporting Marsha Blackburn because she has always stood, and will always stand, up for those who have worn the uniform.\n\nWelcome to Team Marsha, Roxie! 🇺🇸",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid042UcXBvJRBMao5mC9Uc6GJZtmCQP8TsBQbaM2ADwTcBmxULdHi9rQ1zkwATyEmQ9l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0f7743d82360",
+      "date": "2026-03-26",
+      "title": "4-H is molding our future leaders.",
+      "summary": "4-H is molding our future leaders. It was an honor to spend the evening with students who know their communities, know agriculture, know this state, and have big plans for tomorrow. As governor, I'll make sure they have every opportunity to lead the way.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0fo99fGctf2fYEXTi2MPM9zyJKCkJh4qsNFcS19iwPGTxXgZMeYNk9fqn4mZ2oyaml",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "828bbc3c2ec3",
+      "date": "2026-03-26",
+      "title": "Liberty & LESS government is what I'm promising Tennessee.",
+      "summary": "Liberty & LESS government is what I'm promising Tennessee. Do you want MORE of YOUR money in YOUR pocket? \n\nI'm going to cut through the Red Tape and get Tennessee BACK on TRACK!",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1466743941694869/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "04c252ecc7bd",
+      "date": "2026-03-26",
+      "title": "Crooked Federal Politicians are sitting on their hands while companies take advantage of Tennesseeans.",
+      "summary": "Crooked Federal Politicians are sitting on their hands while companies take advantage of Tennesseeans.\n\nAre you okay with people messing with your livelihood?  I'm NOT! You need a governor who will stand up to the establishment.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1584838689481797/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
       "featured": false
     },
     {
