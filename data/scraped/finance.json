@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-01",
-  "lastScraped": "2026-04-01T07:20:17.224578+00:00",
+  "lastScraped": "2026-04-01T13:20:36.317792+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -236,9 +236,9 @@
       "cashOnHand": 0.0,
       "loansReceived": 0.0,
       "warChest": 0.0,
-      "reportsFiled": 13,
-      "lastReportDate": "01/29/2026",
-      "lastReportType": "Early Year End Supplemental 2025"
+      "reportsFiled": 14,
+      "lastReportDate": "04/01/2026",
+      "lastReportType": "1st Quarter 2026"
     },
     {
       "name": "MORGAN, CHARLES &quot;VAN&quot;",
