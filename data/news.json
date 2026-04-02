@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-04-01",
-  "lastMerged": "2026-04-01T19:01:25.398759+00:00",
+  "lastUpdated": "2026-04-02",
+  "lastMerged": "2026-04-02T02:10:44.475795+00:00",
   "articles": [
+    {
+      "id": "35490ce215b0",
+      "date": "2026-04-02",
+      "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2bdaddcbad10",
+      "date": "2026-04-02",
+      "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "61cfbe5f6855",
+      "date": "2026-04-02",
+      "title": "WBBJ 7 Eyewitness News: New poll projects Marsha Blackburn will win TN Republican primary race for governor by a landslide",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "e83a0205fb7e",
       "date": "2026-04-01",
@@ -47,6 +94,22 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "63bc41df5174",
+      "date": "2026-04-01",
+      "title": "Polling Shows Strong Support for Public Charter Schools",
+      "summary": "The polling comes as education leaders are deciding whether to approve up \nto 18 new charter schools.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/polling-shows-strong-support-for-public-charter-schools",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy",
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
