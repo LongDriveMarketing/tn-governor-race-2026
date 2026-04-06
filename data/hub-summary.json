@@ -87,16 +87,6 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
-    "cyr": {
-      "warChest": 40.0,
-      "totalRaised": 40.0,
-      "totalSpent": 0.0,
-      "cashOnHand": 40.0,
-      "personalLoans": 0,
-      "contributionCount": 0,
-      "inStatePct": 0,
-      "outStatePct": 0
-    },
     "misam": {
       "warChest": 0,
       "totalRaised": 0,
@@ -192,6 +182,16 @@
       "totalRaised": 0,
       "totalSpent": 0,
       "cashOnHand": 0,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
+    "cyr": {
+      "warChest": 0.0,
+      "totalRaised": 0.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 40.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
