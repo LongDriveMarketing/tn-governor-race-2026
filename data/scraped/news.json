@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-08",
-  "lastScraped": "2026-04-08T15:08:50.326377+00:00",
+  "lastScraped": "2026-04-08T19:14:18.726557+00:00",
   "articles": [
     {
       "id": "4828065ec847",
@@ -109,6 +109,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0591f4a187e6",
+      "date": "2026-04-08",
+      "title": "Nashville PROPEL School Board Candidate Forum Hits Disenrollment, Parent Engagement, and Accountability",
+      "summary": "Metro Nashville Public School (MNPS) District 6 candidates were given the \nopportunity to answer questions in a public setting on Saturday night.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/nashville-propel-school-board-candidate-forum-hits-disenrollment-parent-engagement-and-accountability",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
