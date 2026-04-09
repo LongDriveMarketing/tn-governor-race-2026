@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08",
+  "lastUpdated": "2026-04-09",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "20+",
@@ -196,6 +196,16 @@
       "contributionCount": 0,
       "inStatePct": 0,
       "outStatePct": 0
+    },
+    "larita": {
+      "warChest": 0,
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
     }
   },
   "latestPoll": {
@@ -235,19 +245,19 @@
     {
       "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
       "source": "Blackburn Campaign",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "party": "rep"
     },
     {
       "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
       "source": "Blackburn Campaign",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "party": "rep"
     },
     {
       "title": "WBBJ 7 Eyewitness News: New poll projects Marsha Blackburn will win TN Republican primary race for governor by a landslide",
       "source": "Blackburn Campaign",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "party": "rep"
     }
   ],
