@@ -27,16 +27,6 @@
       "inStatePct": 92,
       "outStatePct": 8
     },
-    "fritts": {
-      "warChest": 182292.46,
-      "totalRaised": 167292.46,
-      "totalSpent": 45639.51,
-      "cashOnHand": 147652.95,
-      "personalLoans": 15000,
-      "contributionCount": 180,
-      "inStatePct": 95,
-      "outStatePct": 5
-    },
     "green": {
       "warChest": 125014,
       "totalRaised": 125014,
@@ -86,6 +76,16 @@
       "contributionCount": 0,
       "inStatePct": 0,
       "outStatePct": 0
+    },
+    "fritts": {
+      "warChest": 15000.0,
+      "totalRaised": 0.0,
+      "totalSpent": 74534.09,
+      "cashOnHand": 73118.86,
+      "personalLoans": 15000,
+      "contributionCount": 180,
+      "inStatePct": 95,
+      "outStatePct": 5
     },
     "misam": {
       "warChest": 0,
