@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-10",
-  "lastScraped": "2026-04-10T13:08:39.859742+00:00",
+  "lastScraped": "2026-04-10T18:52:36.679209+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -90,6 +90,18 @@
       "warChest": 4575.2,
       "reportsFiled": 2,
       "lastReportDate": "04/01/2026",
+      "lastReportType": "1st Quarter 2026"
+    },
+    {
+      "name": "HATLEY, DAVID E.",
+      "party": "unknown",
+      "totalRaised": 1600.0,
+      "totalSpent": 31465.21,
+      "cashOnHand": 1970134.79,
+      "loansReceived": 0,
+      "warChest": 1600.0,
+      "reportsFiled": 1,
+      "lastReportDate": "04/10/2026",
       "lastReportType": "1st Quarter 2026"
     },
     {
@@ -240,17 +252,6 @@
       "reportsFiled": 11,
       "lastReportDate": "07/20/2023",
       "lastReportType": "Annual Mid Year Supplemental 2023"
-    },
-    {
-      "name": "HATLEY, DAVID E.",
-      "party": "unknown",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
     },
     {
       "name": "Tim Cyr",

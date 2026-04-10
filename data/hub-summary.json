@@ -57,6 +57,16 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
+    "e.": {
+      "warChest": 1600.0,
+      "totalRaised": 1600.0,
+      "totalSpent": 31465.21,
+      "cashOnHand": 1970134.79,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
     "kurtz": {
       "warChest": 1547.0,
       "totalRaised": 1547.0,
@@ -172,16 +182,6 @@
       "totalRaised": 0,
       "totalSpent": 0,
       "cashOnHand": 0.0,
-      "personalLoans": 0,
-      "contributionCount": 0,
-      "inStatePct": 0,
-      "outStatePct": 0
-    },
-    "e.": {
-      "warChest": 0,
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,

@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-10",
-  "lastScraped": "2026-04-10T14:46:08.777353+00:00",
+  "lastScraped": "2026-04-10T18:51:29.862745+00:00",
   "articles": [
     {
       "id": "eb5424bb397b",
@@ -134,6 +134,22 @@
       "party": "rep",
       "candidate": "Fritts",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "33f7c429748e",
+      "date": "2026-04-10",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
         "campaign"
       ],
       "tnfirefly": false,
