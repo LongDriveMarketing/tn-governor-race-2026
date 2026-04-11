@@ -20,22 +20,12 @@
     "rose": {
       "warChest": 6456044,
       "totalRaised": 1456044,
-      "totalSpent": 1505369.84,
-      "cashOnHand": 4712735.3,
+      "totalSpent": 412727.06,
+      "cashOnHand": 4449763.19,
       "personalLoans": 5000000,
       "contributionCount": 4200,
       "inStatePct": 92,
       "outStatePct": 8
-    },
-    "green": {
-      "warChest": 125014,
-      "totalRaised": 125014,
-      "totalSpent": 91163.45,
-      "cashOnHand": 33851.53,
-      "personalLoans": 0,
-      "contributionCount": 1800,
-      "inStatePct": 65,
-      "outStatePct": 35
     },
     "pinkston": {
       "warChest": 68705.73,
