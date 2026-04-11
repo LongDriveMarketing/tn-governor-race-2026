@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-10",
-  "lastScraped": "2026-04-10T18:52:36.679209+00:00",
+  "lastUpdated": "2026-04-11",
+  "lastScraped": "2026-04-11T02:08:54.505564+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -8,14 +8,14 @@
     {
       "name": "Marsha Blackburn",
       "party": "rep",
-      "totalRaised": 5519169.57,
-      "totalSpent": 1634890.0,
-      "cashOnHand": 3880838.53,
+      "totalRaised": 1235922.67,
+      "totalSpent": 722339.91,
+      "cashOnHand": 4387909.27,
       "loansReceived": 0.0,
-      "warChest": 5519169.57,
-      "reportsFiled": 1,
-      "lastReportDate": "02/18/2026",
-      "lastReportType": "Early Year End Supplemental 2025",
+      "warChest": 1235922.67,
+      "reportsFiled": 2,
+      "lastReportDate": "04/10/2026",
+      "lastReportType": "1st Quarter 2026",
       "personalLoans": 0,
       "inStatePct": 22,
       "outStatePct": 78,
@@ -71,14 +71,14 @@
     {
       "name": "Lauren Pinkston",
       "party": "ind",
-      "totalRaised": 62439.0,
-      "totalSpent": 110820.0,
-      "cashOnHand": 5801.62,
+      "totalRaised": 68705.73,
+      "totalSpent": 65626.5,
+      "cashOnHand": 21666.24,
       "loansReceived": 0,
-      "warChest": 62439.0,
-      "reportsFiled": 1,
-      "lastReportDate": "02/13/2026",
-      "lastReportType": "Early Year End Supplemental 2025"
+      "warChest": 68705.73,
+      "reportsFiled": 2,
+      "lastReportDate": "04/10/2026",
+      "lastReportType": "1st Quarter 2026"
     },
     {
       "name": "Robert Vick",
@@ -164,13 +164,14 @@
     {
       "name": "BROWN, RAY",
       "party": "unknown",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "totalRaised": 0.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 1,
+      "lastReportDate": "04/10/2026",
+      "lastReportType": "1st Quarter 2026"
     },
     {
       "name": "Carnita Atwater",
@@ -212,11 +213,12 @@
       "party": "unknown",
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "cashOnHand": 190.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 1,
+      "lastReportDate": "04/10/2026",
+      "lastReportType": "1st Quarter 2026"
     },
     {
       "name": "Eddie Murphy",

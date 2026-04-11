@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-04-10",
-  "lastScraped": "2026-04-10T18:51:29.862745+00:00",
+  "lastUpdated": "2026-04-11",
+  "lastScraped": "2026-04-11T02:07:45.238502+00:00",
   "articles": [
+    {
+      "id": "b888aaed2a9f",
+      "date": "2026-04-11",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "60622d176351",
+      "date": "2026-04-11",
+      "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7d575957c76b",
+      "date": "2026-04-11",
+      "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "eb5424bb397b",
       "date": "2026-04-10",
@@ -153,6 +200,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "06bb87197582",
+      "date": "2026-04-10",
+      "title": "School Board Challenger Addresses Safety at Nashville PROPEL Forum",
+      "summary": "Jennifer Bell faces Dr. Berthena Nabaa-McKinney in the MNPS District 4 \nprimary.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/nashville-propel-school-board-candidate-forum-for-district-6-focuses-on-safety-progress",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {

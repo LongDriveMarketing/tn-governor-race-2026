@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10",
+  "lastUpdated": "2026-04-11",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "20+",
@@ -8,10 +8,10 @@
   },
   "finance": {
     "blackburn": {
-      "warChest": 5519169.57,
-      "totalRaised": 5519169.57,
-      "totalSpent": 1634890.0,
-      "cashOnHand": 3880838.53,
+      "warChest": 1235922.67,
+      "totalRaised": 1235922.67,
+      "totalSpent": 722339.91,
+      "cashOnHand": 4387909.27,
       "personalLoans": 0,
       "contributionCount": 33000,
       "inStatePct": 22,
@@ -38,10 +38,10 @@
       "outStatePct": 35
     },
     "pinkston": {
-      "warChest": 62439.0,
-      "totalRaised": 62439.0,
-      "totalSpent": 110820.0,
-      "cashOnHand": 5801.62,
+      "warChest": 68705.73,
+      "totalRaised": 68705.73,
+      "totalSpent": 65626.5,
+      "cashOnHand": 21666.24,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -108,10 +108,10 @@
       "outStatePct": 0
     },
     "ray": {
-      "warChest": 0,
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
+      "warChest": 0.0,
+      "totalRaised": 0.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 0.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -151,7 +151,7 @@
       "warChest": 0,
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
+      "cashOnHand": 190.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -243,21 +243,21 @@
   },
   "latestNews": [
     {
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "source": "Blackburn Campaign",
+      "date": "2026-04-11",
+      "party": "rep"
+    },
+    {
       "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
       "source": "Blackburn Campaign",
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "party": "rep"
     },
     {
       "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
       "source": "Blackburn Campaign",
-      "date": "2026-04-10",
-      "party": "rep"
-    },
-    {
-      "title": "WBBJ 7 Eyewitness News: New poll projects Marsha Blackburn will win TN Republican primary race for governor by a landslide",
-      "source": "Blackburn Campaign",
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "party": "rep"
     }
   ],
