@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-13",
-  "lastScraped": "2026-04-13T12:26:46.396236+00:00",
+  "lastScraped": "2026-04-13T14:37:16.658944+00:00",
   "articles": [
     {
       "id": "d2edc221303a",
@@ -44,6 +44,51 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "745e6c55fc72",
+      "date": "2026-04-13",
+      "title": "From Carmack Boulevard to West 7th - the 52nd Mule Day Parade was said to be the BIGGEST EVER!",
+      "summary": "From Carmack Boulevard to West 7th - the 52nd Mule Day Parade was said to be the BIGGEST EVER! Congratulations to the folks in Columbia who put it together!\n\n#muleday #muleday2026 #muledaycolumbiatn",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0jv6tot3zQCMTKtHXKb5YiNLLxJpGMZVCmeS5ndmbJh5cATaNxjiAf66rLms3JsmWl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "deff48e51be3",
+      "date": "2026-04-13",
+      "title": "Wednesday, May 13, at 1pm in Savannah Tennessee!",
+      "summary": "Wednesday, May 13, at 1pm in Savannah Tennessee!",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0cuJ3rwfWDn6aSVgaeg9UWRQBxEXEzf8P64kwM4hcT37WpbHv3wdUFvFwvQ67NZP9l&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8c2014b82f72",
+      "date": "2026-04-13",
+      "title": "A Tennessee First Energy policy is required.",
+      "summary": "A Tennessee First Energy policy is required. \n\nIt's the basis of our economy and our quality of life. \n\nI authored an energy policy for the state of Tennessee as a legislator, and I restructured the state energy policy council.\n\nAs governor, I'll ensure that we are not spending your tax dollars on c...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/995495253138990/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
@@ -105,6 +150,96 @@
       "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0D7Xv5ChmMpJ4gRYj9fBwLdCdsUC4v3eyXPh79cpv9Mz8TsxcqKCbumHz5xFihZcnl",
       "party": "rep",
       "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4bfc3e2a9e70",
+      "date": "2026-04-12",
+      "title": "\"And if we know that he hears us—whatever we ask—we know that we have what we asked of him.\" - 1 John 5:15",
+      "summary": "\"And if we know that he hears us—whatever we ask—we know that we have what we asked of him.\" - 1 John 5:15",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid023FpR4FQXkmaBWSdecdBrPAVMZWzDqM48PLA5fAE5QTunHv3g3rnVBmXnXzsNMXsml",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1cc082120a3f",
+      "date": "2026-04-12",
+      "title": "Not every path to a good Tennessee life runs through a four-year degree.",
+      "summary": "Not every path to a good Tennessee life runs through a four-year degree. By expanding CTE programs and building real industry partnerships, we can give students the skills to walk into good-paying jobs right after graduation. That's how you build a workforce.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid032CLD4vbFekqgz8Nghp7S1vJQB4hRrCSJ8EGXphVeHKc2jgwftPFaY4m4vL9s7oQpl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d4b1a58739b3",
+      "date": "2026-04-12",
+      "title": "This Sundays message: Don’t D.C.",
+      "summary": "This Sundays message: Don’t D.C. my Tennessee",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/936715289073917/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2e7e6250ccda",
+      "date": "2026-04-12",
+      "title": "God Bless Tennessee!",
+      "summary": "God Bless Tennessee!",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0E4uNbBzbtCPca398jdQvVX6FMmygLAacekHfqFsdvH1A8fzAfmiPegRqMTiUpWeql&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1dece3754414",
+      "date": "2026-04-12",
+      "title": "Liberty & Less Government is being embraced by citizens across Tennessee.",
+      "summary": "Liberty & Less Government is being embraced by citizens across Tennessee. \n\nOthers seem reluctant to discuss their voting records or their MASSIVE campaign donations from Big Pharma and foreign influence PACs. \n\nEmpty chairs and shallow intellects are often fueled by millions in PAC donations…",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0CfDQFbTBTra8XQaUt5J2QLreyy1FkjWHVnWYvXmBuHJurVtAffEhex1tiG7W2bgal&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ca1e05b46aec",
+      "date": "2026-04-12",
+      "title": "Thank you Polk County for the opportunity to discuss Liberty & Less Government at your candidate forum!",
+      "summary": "Thank you Polk County for the opportunity to discuss Liberty & Less Government at your candidate forum! \n\nVote Fritts for Governor on August 6th!",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02gvg9SpdiiXeYmwqZnpsh18j9ivecNGNLpKa5teHP5N22JSLoqvh5FY3UMqM5pFp7l&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
