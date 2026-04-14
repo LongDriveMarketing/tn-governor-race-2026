@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-04-13",
-  "lastMerged": "2026-04-13T18:30:30.124020+00:00",
+  "lastUpdated": "2026-04-14",
+  "lastMerged": "2026-04-14T00:38:34.163181+00:00",
   "articles": [
+    {
+      "id": "5623028ab805",
+      "date": "2026-04-14",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a0957b9928c5",
+      "date": "2026-04-14",
+      "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d3b912d1a046",
+      "date": "2026-04-14",
+      "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "d2edc221303a",
       "date": "2026-04-13",
@@ -92,6 +139,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e71664aa60f5",
+      "date": "2026-04-13",
+      "title": "Senator Blackburn Continues to Outraise the Field in Governor’s Race",
+      "summary": "Blackburn reported more than $1.2 million in contributions this quarter.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/senator-blackburn-continues-to-outraise-the-field-in-governors-race",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
