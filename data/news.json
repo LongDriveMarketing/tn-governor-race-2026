@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-14",
-  "lastMerged": "2026-04-14T12:26:15.573086+00:00",
+  "lastMerged": "2026-04-14T18:29:11.399269+00:00",
   "articles": [
     {
       "id": "5623028ab805",
@@ -44,6 +44,83 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "70740eda0d09",
+      "date": "2026-04-14",
+      "title": "Ben, it's an honor to serve and a pleasure to know you.",
+      "summary": "Ben, it's an honor to serve and a pleasure to know you. As your Senator, I have one goal: improving the lives of Tennesseans.\n\nAs your Governor, that goal will remain exactly the same. Thank you for being on Team Marsha.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0svMYYf52jfvBz3VA6sspxjLrFTXJJjAtW6XNy72xCna7xPeV8xTArEqhLF3zXh5Wl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c67c626e9de2",
+      "date": "2026-04-14",
+      "title": "It’s a great day for freedom-loving Tennesseans!",
+      "summary": "It’s a great day for freedom-loving Tennesseans!\n\nThank you, Clark Boyd-State Representative District 46, and all the Republicans in the State House who voted yes today on the Regulatory Freedom Act!\n\nTennessee is one major step closer to becoming the most pro-business state in the nation, and as yo...",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02bpcC6dBokFjZdzVoEU3dKwMoSrMtjijo38Ph5y8QzMLFbSxfBdk7xkdv8EaBuhqhl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b524a6186d1b",
+      "date": "2026-04-14",
+      "title": "Great news for Tennesseans!",
+      "summary": "Great news for Tennesseans!\n\nThank you to Johnny Garrett for Congress and all the TN Representatives who voted to #EndTheCON",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02wWWShihJn2ttm1qGqyd3L9e49Hv6YJZQfpGsqbJeMF4VDk47VQUZVpCxLeuzHZoLl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "116c06bf6a35",
+      "date": "2026-04-14",
+      "title": "For 12 years, I proudly volunteered as chairman of the Tennessee State Fair.",
+      "summary": "For 12 years, I proudly volunteered as chairman of the Tennessee State Fair. I know the effort it takes to bring the community together and host a great event. My hat's off to the Culleoka Community Club for their work bringing friends and neighbors together.\n\n#muleday #muleday2026 #muledaycolumbiat...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02r4TJsCVY5PvZwguzduD5fqnHCpPXkK4vPMt5Vn31pKKJkHyT1AjSLAaf8zuxT7eJl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0c3a02c4a778",
+      "date": "2026-04-14",
+      "title": "We are losing our culture in Tennessee and in America.\n\nWe've over-immigrated.",
+      "summary": "We are losing our culture in Tennessee and in America.\n\nWe've over-immigrated. Not only should we deport all the illegals, but we should also suspend all the H1B visas and suspend legal immigration until we can restore cultural values.\n\nAs your next governor in the state of Tennessee, I will use eve...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1580777939680785/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "policy",
         "campaign"
       ],
       "tnfirefly": false,
@@ -154,6 +231,160 @@
         "finance"
       ],
       "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "c290f70cbc5b",
+      "date": "2026-04-13",
+      "title": "I know I can count on Jacobs for Mayor no matter where he is in the state.",
+      "summary": "I know I can count on Jacobs for Mayor no matter where he is in the state. Thank you, Mayor!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0nvwx7b2GZHBJdSvPogjECa1oLhowXtyAVxEnab7cRuSrmgC8keozwrpKgNFwSRHpl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9635c3d8c3d9",
+      "date": "2026-04-13",
+      "title": "#TeamMarsha is stronger than ever - thank you to everyone who made this past Saturday so special!",
+      "summary": "#TeamMarsha is stronger than ever - thank you to everyone who made this past Saturday so special!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0BSmsn7HeWDYzcgxsqtZuKg6dQsCNKdAgpTdXLuNLtGZ9zT2uVfPG2jyvcesfGL9Zl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "65de022620c0",
+      "date": "2026-04-13",
+      "title": "What a crew! Always appreciate your support, Senator Jack Johnson!",
+      "summary": "What a crew! Always appreciate your support, Senator Jack Johnson!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0x4ckiXVD9kdNudpnMZsX6MDJ9rA2Us6yxmyTp9yDQt3Tdz1TTxGzSXvYu41zyJbBl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "cede9b99691c",
+      "date": "2026-04-13",
+      "title": "Always enjoy having you on the trail with us, Senator Brent Taylor!",
+      "summary": "Always enjoy having you on the trail with us, Senator Brent Taylor! Thank you for coming to Columbia to spread a little #MakeMemphisMatter!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid024H7vnmWMYB12L2SaBWYobGapCMVz8p3MMuyepjeSorWgznZ8Q9VidPDsrfBzK5Yhl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "97d4c5c1d58d",
+      "date": "2026-04-13",
+      "title": "Had great discussion in Memphis with doctors and dentists talking straight about Tennessee’s healthcare challenges.",
+      "summary": "Had great discussion in Memphis with doctors and dentists talking straight about Tennessee’s healthcare challenges. Appreciate Dr. Beauchamp for organizing a thoughtful, honest conversation.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02VJJbVpRbiGiviJGZ98mQmViRtxVxmyejLj44RiNRkxYpAkZNZ437sLQ6rsvRL39gl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "policy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4d1a81bdecd4",
+      "date": "2026-04-13",
+      "title": "One Muslim teacher claimed her negative experience at Nashville schools caused her to hide her religion.",
+      "summary": "One Muslim teacher claimed her negative experience at Nashville schools caused her to hide her religion. Now, she’s praising a policy to change the bell schedule during Ramadan as Good Friday is reduced to “Spring holiday” on the calendar.\n\nWe can’t let Christianity be censored in Nashville public s...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02z16uY3xuwP3uskTnQHzU8WWwhhzdtXUPguzJTKeZG8h1d1oiF1dXa6WciX7M8SiPl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "policy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "037e1f3118de",
+      "date": "2026-04-13",
+      "title": "This campaign is powered by everyday Tennesseans 💪🏼",
+      "summary": "This campaign is powered by everyday Tennesseans 💪🏼\n\nThanks to all those who walked with us for Mule Day 2026!\n\n#muleday #muleday2026 #muledaycolumbiatn",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02MWW3Q9SsCx4DVt5g3uccQuNPiFRwHS5U5KmKuozkJAALY66QQjy7yMkRbVByNMFMl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4a3478feeed0",
+      "date": "2026-04-13",
+      "title": "It's time a Governor in Tennessee thought like an American, not like a Marxist.",
+      "summary": "It's time a Governor in Tennessee thought like an American, not like a Marxist.\n\nWe have reached a saturation point, and we are beginning to lose American Culture.\n\n Vote for American values, Vote for Liberty and Less Government, Vote for Monty Fritts on August 6th for Governor of Tennessee.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/2018102649134386/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f468bdc1cf50",
+      "date": "2026-04-13",
+      "title": "Our battle here is not against a person.\n\nIt is against principalities and powers.",
+      "summary": "Our battle here is not against a person.\n\nIt is against principalities and powers. That establishment, and its both parties, want to control you.\n\nThey want to control your finances. They want to control what you eat and what you drive. They are not Liberty fans.\n\nWe need Liberty and Less Government...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/957356786679330/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "6e0541a0e9fc",
+      "date": "2026-04-13",
+      "title": "For the love of money is the root of all evil.\n\nVote Fritts on August 6th for Governor of Tennessee!",
+      "summary": "For the love of money is the root of all evil.\n\nVote Fritts on August 6th for Governor of Tennessee! \n\n#Tennessee #Governor #trendingpost",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1267606151698509/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
       "featured": false
     },
     {
