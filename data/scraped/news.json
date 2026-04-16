@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-16",
-  "lastScraped": "2026-04-16T12:27:12.191991+00:00",
+  "lastScraped": "2026-04-16T14:38:52.900111+00:00",
   "articles": [
     {
       "id": "937d1a4d6b03",
@@ -44,6 +44,67 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "de1af8746f8d",
+      "date": "2026-04-16",
+      "title": "Early voting is underway, Tennessee!",
+      "summary": "Early voting is underway, Tennessee!\n\nNow through April 30th, make your voice heard and vote early in state judicial and county elections!\n\nFind more information here: sos.tn.gov/govotetn",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0kDFTee71WWzMye1ykEv94svZi8KerTqAMDSEkUfyrcfurQPpNbudFbgpkm5XAcsUl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0fbee75f88aa",
+      "date": "2026-04-16",
+      "title": "Madonna Learning Center has been serving children and adults with developmental disabilities since 1969.",
+      "summary": "Madonna Learning Center has been serving children and adults with developmental disabilities since 1969. Proud to support their vision of empowering every student to reach their full potential and enjoy a fulfilling life in a caring, faith-based environment.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02vpyWzpm6PNpzVgzhJygyj9fLBuCdVmXpwsBkbXe735nKTbMxtsbFPHFoora4Rbikl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "acc10339e75c",
+      "date": "2026-04-16",
+      "title": "If we are going to pass on Liberty to the next generation of Tennesseans.",
+      "summary": "If we are going to pass on Liberty to the next generation of Tennesseans.\n\nYou're going to need somebody who's okay to speak straightforward truth rather than mealy-mouthed and beat around the bush.\n\nTake money from every PAC that we'll give it to them, every pharmaceutical pack, every attorney's pa...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1635037551253129/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d6f31b0c11e9",
+      "date": "2026-04-16",
+      "title": "Those who support kill switches on our cars and have us $39 trillion in debt are unfit to serve or lead Tennessee.",
+      "summary": "Those who support kill switches on our cars and have us $39 trillion in debt are unfit to serve or lead Tennessee.\n\nVote Monty Fritts on August 6th!",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1932277664068424/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
@@ -122,6 +183,143 @@
       "candidate": "Fritts",
       "tags": [
         "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b505d11f31ac",
+      "date": "2026-04-15",
+      "title": "It's Tax Day, Tennessee!\n\nThanks to President Donald J.",
+      "summary": "It's Tax Day, Tennessee!\n\nThanks to President Donald J. Trump and the Working Families Tax Cuts, the Volunteer State is seeing historic tax relief.\n\nAs governor, I’ll fight every day for Tennesseans to keep more of their hard-earned money, just like President Trump.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid06LpJgasi9K1md9E2TVnYeXC4ADVSG4Lms5skMhk3HUzjSwQMpmUCDywn2xNQGzyul",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "bc0270c5edb8",
+      "date": "2026-04-15",
+      "title": "Congratulations to the fantastic White House Chief of Staff Susie Wiles on being named to TIME’s 100 Most Influential...",
+      "summary": "Congratulations to the fantastic White House Chief of Staff Susie Wiles on being named to TIME’s 100 Most Influential People of 2026. Well deserved!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02aoXUJgo31r2jAtme7DUFXkkpQqAs2cb8tESTvJmLEdcYkYtNPL8vfvcYBfufFYR9l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1fd29af88a31",
+      "date": "2026-04-15",
+      "title": "Pull up a chair. I’m here to listen.",
+      "summary": "Pull up a chair. I’m here to listen.\n\n🔗 johnrose.com",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid038KbR59JWzehTVagLQ8JrzVUXEmoFLUXyE5NGKjJjBzUiEg3vRD9DkHdBq3Byfz4el",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "232d6dd8bcc7",
+      "date": "2026-04-15",
+      "title": "Amazon delivery drivers in Lebanon were blindsided after being told they were out of a job just one day before leaving.",
+      "summary": "Amazon delivery drivers in Lebanon were blindsided after being told they were out of a job just one day before leaving. When they asked about their missing wages, they got cursed out. Tennesseans deserve respect, not this treatment from corporations already crushing our small businesses.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/2052381819017636/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1857fb2bbdce",
+      "date": "2026-04-15",
+      "title": "We need Servant Leaders in this country and in Tennessee.",
+      "summary": "We need Servant Leaders in this country and in Tennessee.\n\nVote Monty Fritts for Governor of Tennessee on August 6th.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1458250955842223/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c049c3dc57b4",
+      "date": "2026-04-15",
+      "title": "More money in your pocket starts with eliminating the state grocery sales tax.",
+      "summary": "More money in your pocket starts with eliminating the state grocery sales tax.\n\nEvery dollar that is taken from you that does not serve a purpose under the Constitution is Liberty lost by you.\n\nI'm committed to getting it under control. Vote Monty Fritts for Governor on August 6th.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1623525412207030/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c65574e3f367",
+      "date": "2026-04-15",
+      "title": "Would you like to see me on the Shawn Ryan Show?",
+      "summary": "Would you like to see me on the Shawn Ryan Show?",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid073DxKa8Ke7yzqGPRpc6XqiRpg9CsxvzcRWMN3Xs4PzxzGwPCU1mUctziUX6Lp8G1l&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "127e58d1e656",
+      "date": "2026-04-15",
+      "title": "It is never the right of the government to interfere with God's people or in how they worship.",
+      "summary": "It is never the right of the government to interfere with God's people or in how they worship.\n\nShame on those people who criticized churches and coerced the church.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/2844119425948783/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "54dff0cdaa66",
+      "date": "2026-04-15",
+      "title": "TODAY in Tennessee!\n\nEarly voting is OPEN for county and judicial primary elections.",
+      "summary": "TODAY in Tennessee!\n\nEarly voting is OPEN for county and judicial primary elections.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0MJbkSyzty2rMrywaTU2grJEj9vJteNWcbAeTzgx9AgCz1PBiYTu32a16FsiLsNLQl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
