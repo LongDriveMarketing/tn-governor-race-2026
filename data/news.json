@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-04-16",
-  "lastMerged": "2026-04-16T18:29:30.477982+00:00",
+  "lastUpdated": "2026-04-17",
+  "lastMerged": "2026-04-17T00:37:29.236385+00:00",
   "articles": [
+    {
+      "id": "d5069df50779",
+      "date": "2026-04-17",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "35fa6ca7bedb",
+      "date": "2026-04-17",
+      "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "399ee589273f",
+      "date": "2026-04-17",
+      "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "937d1a4d6b03",
       "date": "2026-04-16",
@@ -106,6 +153,36 @@
       "candidate": "Fritts",
       "tags": [
         "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "540287de6003",
+      "date": "2026-04-16",
+      "title": "Senate Passes Reduced Expansion of Education Freedom Scholarship Program",
+      "summary": "The legislation now heads to Governor Bill Lee’s desk.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/senate-passes-reduced-expansion-of-education-freedom-scholarship-program",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "7029f23fa074",
+      "date": "2026-04-16",
+      "title": "Tennessee governor signs nuclear family month resolution as critics push back on exclusions",
+      "summary": "Gov. Bill Lee signed a Tennessee resolution making June Nuclear Family Month instead of Pride Month, sparking backlash from LGBTQ+ advocacy groups.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/tennessee-governor-signs-nuclear-family-month-resolution-critics-push-back-exclusions",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "controversy"
       ],
       "tnfirefly": false,
       "featured": false
