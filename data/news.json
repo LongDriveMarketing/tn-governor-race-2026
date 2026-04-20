@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-04-19",
-  "lastMerged": "2026-04-19T18:16:47.847151+00:00",
+  "lastUpdated": "2026-04-20",
+  "lastMerged": "2026-04-20T00:37:29.086833+00:00",
   "articles": [
+    {
+      "id": "b280a2087b66",
+      "date": "2026-04-20",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "6378bc149fc8",
+      "date": "2026-04-20",
+      "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "98c1ae64fcaf",
+      "date": "2026-04-20",
+      "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "9e8d6187564c",
       "date": "2026-04-19",
