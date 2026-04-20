@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-20",
-  "lastMerged": "2026-04-20T12:29:58.981977+00:00",
+  "lastMerged": "2026-04-20T18:24:40.852736+00:00",
   "articles": [
     {
       "id": "b280a2087b66",
@@ -44,6 +44,83 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "95c0fecdaba4",
+      "date": "2026-04-20",
+      "title": "As governor, I'll invest in small modular nuclear reactors and natural gas to keep costs low, the grid strong, and...",
+      "summary": "As governor, I'll invest in small modular nuclear reactors and natural gas to keep costs low, the grid strong, and Tennessee open for business. That's how you keep the lights on and jobs coming in.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02M9D6fk2ijSW2Uf2ycpHG9gzd68cz1WTrGYS9WDUZmVXM7c3ZFWfDyTr29JYFnMxGl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "04357ddb52b4",
+      "date": "2026-04-20",
+      "title": "No Tennessee family should have to choose between paying the bills and seeing a doctor.",
+      "summary": "No Tennessee family should have to choose between paying the bills and seeing a doctor. Health care costs are out of control and the status quo isn't working. As governor, I'll fight for real transparency, more competition, and solutions that actually bring prices down.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0PiVzS1eoFAzcx8H13sztP1rYQ1XW4dtM5e768fihfhhYN2Ebh1o9WK1ZRuCwDdnol",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5be12b76293f",
+      "date": "2026-04-20",
+      "title": "I'm running against a system that thinks they can spend your money and you'll do as you're told.",
+      "summary": "I'm running against a system that thinks they can spend your money and you'll do as you're told.\n\nIt's easy to get Marsha Blackburn or John Rose to talk if you spend a thousand dollars for a seat at a luxury dinner.\n\nWell, I choose to eat with the teachers, the police officers, and the hard-working ...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1279350690420222/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "policy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7ddb2339516c",
+      "date": "2026-04-20",
+      "title": "I'm the only candidate who's a VFW member, and I'm the only combat veteran.",
+      "summary": "I'm the only candidate who's a VFW member, and I'm the only combat veteran.\n\nI understand the necessity to take care of our veterans.\n\nWe send them off all over the world. Oftentimes, they come home and feel abandoned. While our overall budget in Tennessee has grown by 59 percent, Veteran spending h...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/3043899002630558/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e46804341817",
+      "date": "2026-04-20",
+      "title": "Frustration originally led me into politics.",
+      "summary": "Frustration originally led me into politics. I did not like how we handled COVID in Tennessee.\n\nGod calls us into many things in service. I believe he's calling me to run for governor. \n\nDon't DC my Tennessee, vote Monty Fritts for Governor on August 6th.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/2068470477218667/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
@@ -121,6 +198,51 @@
       "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02B4ppQoAVMDSxNbjY5eATRCY1iiorYfpVaaPpP4m1fo8UeJSGZd9EGQwV9PTco4wwl",
       "party": "rep",
       "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3ec156f1f3e4",
+      "date": "2026-04-19",
+      "title": "Thanks for joining us for Mule Day in Columbia, Tim Burchett!",
+      "summary": "Thanks for joining us for Mule Day in Columbia, Tim Burchett!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid044M4WvabE84Jj83LRyCFE3Rwa5UtzeL21Y3Ua2YNJ3fiwYaM4aaCu16cGXAydLAel",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "cdf0678633c7",
+      "date": "2026-04-19",
+      "title": "Always a pleasure to spend time with my friend, the one and only Lee Greenwood.",
+      "summary": "Always a pleasure to spend time with my friend, the one and only Lee Greenwood.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid021e7uXUbomaGRa1qbcRf7ocMuz7wtUdfh5EcpdtvP6Wb4WottiyMcszR2jtnuu258l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7055a623bf5e",
+      "date": "2026-04-19",
+      "title": "\"Jesus answered, 'My teaching is not my own.",
+      "summary": "\"Jesus answered, 'My teaching is not my own. It comes from the one who sent me.'\" - John 7:16",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0s6xhtadeYKFK8fAgAJ1uWfe1MmyccxPqyFzTQWzebwUjGfLbEgvEs42gsEhH11R7l",
+      "party": "rep",
+      "candidate": "Blackburn",
       "tags": [
         "campaign"
       ],

@@ -107,6 +107,16 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
+    "knox": {
+      "warChest": 0,
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
     "atwater": {
       "warChest": 0,
       "totalRaised": 0,
@@ -137,6 +147,16 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
+    "dean": {
+      "warChest": 0,
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
     "david": {
       "warChest": 0,
       "totalRaised": 0,
@@ -157,6 +177,16 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
+    "lee": {
+      "warChest": 0,
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
     "maxwell": {
       "warChest": 0.0,
       "totalRaised": 0.0,
@@ -172,6 +202,16 @@
       "totalRaised": 0,
       "totalSpent": 0,
       "cashOnHand": 30.0,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
+    "wendell": {
+      "warChest": 0,
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
