@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-04-20",
-  "lastScraped": "2026-04-20T18:23:36.102195+00:00",
+  "lastUpdated": "2026-04-21",
+  "lastScraped": "2026-04-21T00:37:22.129728+00:00",
   "articles": [
+    {
+      "id": "830ef7ea6ee5",
+      "date": "2026-04-21",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0834d714bd1a",
+      "date": "2026-04-21",
+      "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4b14dc5b2861",
+      "date": "2026-04-21",
+      "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "b280a2087b66",
       "date": "2026-04-20",
@@ -122,6 +169,22 @@
       "candidate": "Fritts",
       "tags": [
         "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "094f8d7b5575",
+      "date": "2026-04-20",
+      "title": "Ramaswamy almost tied with Democrat Acton in Ohio governor race: Poll",
+      "summary": "A new poll conducted by Bowling Green State University (BGSU) found that GOP frontrunner Vivek Ramaswamy is in a dead heat with presumptive Democratic nominee Amy Acton in the Ohio gubernatorial race. The survey of 1,000 registered voters in the Buckeye State found that 48 percent of respondents bac...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5839985-ohio-governor-vivek-ramaswamy-amy-acton-poll/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign",
+        "analysis"
       ],
       "tnfirefly": false,
       "featured": false
