@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-22",
-  "lastMerged": "2026-04-22T12:26:39.417047+00:00",
+  "lastMerged": "2026-04-22T18:27:25.339131+00:00",
   "articles": [
     {
       "id": "3da20645257b",
@@ -44,6 +44,51 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d1cb805ad803",
+      "date": "2026-04-22",
+      "title": "Every year Tennessee grows, our roads and bridges fall a little further behind.",
+      "summary": "Every year Tennessee grows, our roads and bridges fall a little further behind. From the backroads of rural counties to our major highways, the strain is showing. As governor, I'll make sure our infrastructure keeps up with growth.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0Ryt3P4Emv4gTwGxhwMXGpVG1g9VCbiDi7jrnzWNuuhhxQXJBLnhpdJquwXV3Ti3El",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c4b5861a18bc",
+      "date": "2026-04-22",
+      "title": "Christ took the nails on the cross for every single one of us.\n\nWe're all created in God's image.",
+      "summary": "Christ took the nails on the cross for every single one of us.\n\nWe're all created in God's image. \n\nHowever, crossing the Rio Grande illegally into the United States makes you a criminal, and you should be deported.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/34841969348780123/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3df295e0656c",
+      "date": "2026-04-22",
+      "title": "As your next governor, I am ready to take decisive action on Tennessee's budget.",
+      "summary": "As your next governor, I am ready to take decisive action on Tennessee's budget.\n\nWe will make property taxes fair and manageable for everyone. It's time for a positive change, and I will lead from the front.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/2016395312247025/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
@@ -137,6 +182,112 @@
       "candidate": "Fritts",
       "tags": [
         "policy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "29b49b252b44",
+      "date": "2026-04-21",
+      "title": "Always a pleasure to be back in Marshall County.",
+      "summary": "Always a pleasure to be back in Marshall County. Thank you to everyone who came out to support us!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/reel/820550287763936/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5270af1af8c3",
+      "date": "2026-04-21",
+      "title": "That’s exactly right, Mayor!",
+      "summary": "That’s exactly right, Mayor! Over the past few years, I’ve visited all 95 counties across Tennessee, and it’s always a pleasure spending time with you in Campbell County. Thank you for your leadership and support!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0U9FiGxK9XHPvbJqZWvdspmscriaWjhxNZSa9pmvtWnqHDGNuTYCcps9zbnt2Db3Pl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "78bb2a4b3cf5",
+      "date": "2026-04-21",
+      "title": "Page Robbins Adult Day Center is a nonprofit making a real difference providing safe, uplifting care for adults with...",
+      "summary": "Page Robbins Adult Day Center is a nonprofit making a real difference providing safe, uplifting care for adults with memory loss while supporting and educating their caregivers and the wider community. During my visit, I felt the compassion and dignity they provide everyday for our fellow Tennessean...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02ApJUEnLsEQPco8Cm5kLpUnzxbrCHbPURWsM8bQzRuSxEK4PgEVGSy5fFTntAwhZyl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "304cb4713808",
+      "date": "2026-04-21",
+      "title": "It's time we bring God back in Tennessee.",
+      "summary": "It's time we bring God back in Tennessee.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/998512582834480/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c47b41c4403e",
+      "date": "2026-04-21",
+      "title": "It’s FRITTS or BUST on August 6th Tennessee!",
+      "summary": "It’s FRITTS or BUST on August 6th Tennessee! 🇺🇸",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Jdk3gFGBR97mCnkTEMFWWxtThiiU9eZWvhTahon3ZnEcAmdw6kPuP9GrC9ips6FFl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5f25358c4eb9",
+      "date": "2026-04-21",
+      "title": "Tennessee is the BEST place to live in the entire world.\n\nThe standard for what is right is the word of God.",
+      "summary": "Tennessee is the BEST place to live in the entire world.\n\nThe standard for what is right is the word of God. The standard for the government's authorities is the boundaries set by the Constitution. \n\nWe are way outside of that with Gun Laws in Tennessee, and we are outside that with Taxation.\n\nAs yo...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1659927008490730/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1eb08c7f3c60",
+      "date": "2026-04-21",
+      "title": "Let's eliminate the 4% Gorcery Sales tax in Tennessee.",
+      "summary": "Let's eliminate the 4% Gorcery Sales tax in Tennessee.\n\nWhy do politician’s want you to spend more money at the grocery store￼?\n\nI've introduced two bills, and I have a plan to fix it. As your next governor, I will put more money in your pocket. \n\nVote Monty Fritts on August 6th!",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1620846012468439/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
         "campaign"
       ],
       "tnfirefly": false,
