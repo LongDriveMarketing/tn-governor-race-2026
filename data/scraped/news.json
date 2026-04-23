@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-23",
-  "lastScraped": "2026-04-23T14:48:49.654771+00:00",
+  "lastScraped": "2026-04-23T18:27:52.467318+00:00",
   "articles": [
     {
       "id": "338a3a16cda0",
@@ -92,6 +92,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "48c553558b21",
+      "date": "2026-04-23",
+      "title": "State Oversight of Memphis-Shelby County Schools Heads to Governor’s Desk",
+      "summary": "The House voted to adopt legislation that creates an oversight board over \ncertain school districts, including MSCS. It now heads to Governor Bill \nLee’s desk for his signature.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/state-oversight-of-memphis-shelby-county-schools-heads-to-governors-desk",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {

@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-23",
-  "lastMerged": "2026-04-23T12:26:25.925299+00:00",
+  "lastMerged": "2026-04-23T18:28:50.153434+00:00",
   "articles": [
     {
       "id": "338a3a16cda0",
@@ -47,6 +47,66 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d4bf35addec6",
+      "date": "2026-04-23",
+      "title": "Thank you, Bo!\n\nI’m ready to lead and continue delivering results for Tennessee.",
+      "summary": "Thank you, Bo!\n\nI’m ready to lead and continue delivering results for Tennessee.",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid03SCZz1xh8rn4piigdZ4Fh4a2kaHtogUmrRKCdWeifEq3VaMaL8USvm2akeTtnrB3l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e078e5fa4923",
+      "date": "2026-04-23",
+      "title": "A farmer in rural Tennessee shouldn't have to drive to town just to get a reliable signal.",
+      "summary": "A farmer in rural Tennessee shouldn't have to drive to town just to get a reliable signal. Modern agriculture runs on technology, and if we want our farmers to compete and food to be affordable, every county needs reliable broadband. As governor, I'll make sure we finally get there.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0B6aKkChSzY1fePNrT7EhTYxnkmYiPFExEQCY1qnr76U48rdP8jmnjCHWfitSuXh3l",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c5106a55e4cb",
+      "date": "2026-04-23",
+      "title": "Share our page, tell your friends, and post our videos in your groups!",
+      "summary": "Share our page, tell your friends, and post our videos in your groups! \n\nNo matter what, Vote for Fritts on August 6th! 🔥",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Q68D6cNNju8oquFENctCX4dg4rqkCWbHMgiXxhMx5atGAgvwdfKp8qNriCbEgnGWl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "48c553558b21",
+      "date": "2026-04-23",
+      "title": "State Oversight of Memphis-Shelby County Schools Heads to Governor’s Desk",
+      "summary": "The House voted to adopt legislation that creates an oversight board over \ncertain school districts, including MSCS. It now heads to Governor Bill \nLee’s desk for his signature.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/state-oversight-of-memphis-shelby-county-schools-heads-to-governors-desk",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
@@ -133,6 +193,111 @@
       "summary": "As your next governor, I am ready to take decisive action on Tennessee's budget.\n\nWe will make property taxes fair and manageable for everyone. It's time for a positive change, and I will lead from the front.",
       "source": "Fritts (Facebook)",
       "url": "https://www.facebook.com/reel/2016395312247025/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0119cab07660",
+      "date": "2026-04-22",
+      "title": "Honored by the support I’ve received from folks like Jamie across our state.",
+      "summary": "Honored by the support I’ve received from folks like Jamie across our state. It’s people like her who make Tennessee the best place in the nation to live, work, and rear a family. Thank you!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0GxmN3yycYNtsgpBGvJfq7DJjaCixmHL5E7T7Ee6yMorzns8pAWvESBtHu8fp8Vd9l",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "bba9b575437d",
+      "date": "2026-04-22",
+      "title": "An important step toward stopping the woke indoctrination of our children.",
+      "summary": "An important step toward stopping the woke indoctrination of our children.\n\nThank you for leading the way here, Aron Maberry!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid095imaamhUVdvgNpTFHbnUEL8DfRY28ceFUnrCrBknwzp8h1b1xB48Nag2UoKh9vAl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ef0c8e16cd00",
+      "date": "2026-04-22",
+      "title": "As Senator Jack Johnson said: Get out and vote early before April 30th!",
+      "summary": "As Senator Jack Johnson said: Get out and vote early before April 30th!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02ksFvK4cKi8SCKupF124GahTKX9sMtq4o1u7cFs7taJshVW5MN2vF2KbquFFYQTefl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "bdbe866c7cc2",
+      "date": "2026-04-22",
+      "title": "Thank you to the Robertson County GOP for the warm welcome.",
+      "summary": "Thank you to the Robertson County GOP for the warm welcome. I was glad to hear directly from Tennesseans who are deeply invested in strengthening their communities and driving real change to their neighbors.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02tvEuBfrdR9FKpHaGBZSuEDV8cvZosVjD7yhXctP6CkpaodZajWE6gpDuf3DjRk76l",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2d4baec41610",
+      "date": "2026-04-22",
+      "title": "I am calling on all Tennesseans to take action.",
+      "summary": "I am calling on all Tennesseans to take action. Look at my voting record and compare it to the other candidates running for governor.  \n\nThe difference is undeniable: I am the only candidate on the ballot who stands for Liberty and Less Government.  \n\nI'm asking you to get engaged, I'm asking you to...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1505991844368078/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c1a55fab8a85",
+      "date": "2026-04-22",
+      "title": "Who would rather be at the range right now?",
+      "summary": "Who would rather be at the range right now?",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1280963383572012/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a10178277a27",
+      "date": "2026-04-22",
+      "title": "We must put an end to corporate welfare in Tennessee.",
+      "summary": "We must put an end to corporate welfare in Tennessee. As your next Governor, I will ensure our budget requests focus on the essential functions of government as mandated by the Constitution.  \n\nWe must curb reckless spending and enforce fiscal responsibility to secure a stable future for our young p...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1482476990055203/",
       "party": "rep",
       "candidate": "Fritts",
       "tags": [
