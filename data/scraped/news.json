@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-24",
-  "lastScraped": "2026-04-24T12:25:02.745688+00:00",
+  "lastScraped": "2026-04-24T14:36:38.658322+00:00",
   "articles": [
     {
       "id": "5e70f011cfbb",
@@ -44,6 +44,36 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c2cb98567419",
+      "date": "2026-04-24",
+      "title": "Join me May 2 to kick off our Tennessee True Tour in my hometown - Cookeville!",
+      "summary": "Join me May 2 to kick off our Tennessee True Tour in my hometown - Cookeville! We’ll be making stops across the state from east to west. \n\n🛻 Look out for an event near you!\n\nRSVP: (931) 261-1806",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02bUdMhbPMmauiUaRx4yr1KP7B2CckjeXFBuujigsTmuSwfjVBH2hKRUDBuoSLxLDwl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "63f1341b53b9",
+      "date": "2026-04-24",
+      "title": "No foreign strings. No big PAC checks.",
+      "summary": "No foreign strings. No big PAC checks.\nTennessee First, always!\nSave Tennessee- vote Fritts",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1656601492274317/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
@@ -154,6 +184,54 @@
         "policy"
       ],
       "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "8bd3c6f0e725",
+      "date": "2026-04-23",
+      "title": "I’m lucky to call Re-Elect Russell Barker Anderson County Sheriff a friend, and I'm grateful for everything he does to...",
+      "summary": "I’m lucky to call Re-Elect Russell Barker Anderson County Sheriff a friend, and I'm grateful for everything he does to keep our communities safe. As Governor, I will continue to stand with Tennessee’s law enforcement!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02xNrpqCwiftFp2FbwJjxb3vGAawTW156awSHdLDwXpqbq15AcLfPyNm3aTMtnAD7dl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "61078632764f",
+      "date": "2026-04-23",
+      "title": "What a great night at Coffee County’s Reagan Dinner!",
+      "summary": "What a great night at Coffee County’s Reagan Dinner! I met dozens of Tennesseans eager for a leader who will listen and was surrounded by wonderful leaders serving the Coffee County area.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02HuG638L6Cv2Jyygdu8gJB5Yybokb5yFARvQ4YN9zvH7yH85jMZyGVKtbTZSgqZCDl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4178f5b539c9",
+      "date": "2026-04-23",
+      "title": "Pro nuclear too btw 😉                                                          Monty Fritts is running for Tennessee...",
+      "summary": "Pro nuclear too btw 😉                                                          Monty Fritts is running for Tennessee governor in 2026 on a strict America First platform centered on liberty, less government, Christian values, and putting Tennessee families first.\nMonty Fritts’s campaign focuses on cu...",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/reel/1681850322969297/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
+        "policy",
+        "campaign",
+        "controversy"
+      ],
+      "tnfirefly": false,
       "featured": false
     },
     {
