@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-04-24",
-  "lastMerged": "2026-04-24T18:18:38.276686+00:00",
+  "lastUpdated": "2026-04-25",
+  "lastMerged": "2026-04-25T00:36:05.500834+00:00",
   "articles": [
+    {
+      "id": "3e018848fa0c",
+      "date": "2026-04-25",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f0e0a86a8f3d",
+      "date": "2026-04-25",
+      "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "20b7b1f6a7d6",
+      "date": "2026-04-25",
+      "title": "Newsmax: Cygnal poll: Sen. Blackburn leads Tennessee GOP primary",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "5e70f011cfbb",
       "date": "2026-04-24",
@@ -77,6 +124,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "447b3a443b0e",
+      "date": "2026-04-24",
+      "title": "Legislative Session Wraps with Late Drama, Key Reforms, Historic Investments",
+      "summary": "One unresolved question was whether lawmakers might further expand the \nnumber of families who can use tax dollars for private school expenses.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/legislative-session-wraps-with-late-drama-key-reforms-historic-investments",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
