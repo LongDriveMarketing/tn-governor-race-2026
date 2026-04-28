@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-28",
-  "lastMerged": "2026-04-28T12:41:00.826277+00:00",
+  "lastMerged": "2026-04-28T18:36:37.348144+00:00",
   "articles": [
     {
       "id": "08722a53222c",
@@ -44,6 +44,21 @@
       "candidate": "Blackburn",
       "tags": [
         "analysis",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3b6a70596c79",
+      "date": "2026-04-28",
+      "title": "Graham, Blackburn bill offers cash incentives to blue states that partner with ICE",
+      "summary": "Senate Republicans propose dangling federal grants to pressure blue states and sanctuary cities into signing cooperation agreements with ICE enforcement.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/graham-blackburn-bill-offers-cash-incentives-blue-states-partner-ice",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
