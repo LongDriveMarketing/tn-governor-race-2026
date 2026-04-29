@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-29",
-  "lastScraped": "2026-04-29T14:48:20.813311+00:00",
+  "lastScraped": "2026-04-29T18:34:03.725508+00:00",
   "articles": [
     {
       "id": "0ec65276bacc",
@@ -88,6 +88,36 @@
       "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid033497mHBbchRSTdi4Lr1vaNXS8mvPsb2odo3jmwCUPNi44oW5bpfXVCZurf2Mu35yl",
       "party": "rep",
       "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d9d52ea507bb",
+      "date": "2026-04-29",
+      "title": "Blackburn calls for Tennessee lawmakers to draw all-GOP map",
+      "summary": "Sen. Marsha Blackburn (R-Tenn.) wants Tennessee to be the next stop on the redistricting front, calling on state lawmakers to draw new congressional lines that would wholly favor Republicans. “I urge our state legislature to reconvene to redistrict another Republican seat in Memphis,” Blackburn wrot...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5855403-blackburn-tennessee-gop-only-map-redistricting-war/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "fcde351692ec",
+      "date": "2026-04-29",
+      "title": "Senator Marsha Blackburn Calls on Tennessee Legislature to Redistrict As Soon As Possible",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
       "tags": [
         "campaign"
       ],
