@@ -1,7 +1,53 @@
 {
-  "lastUpdated": "2026-04-29",
-  "lastScraped": "2026-04-29T18:34:03.725508+00:00",
+  "lastUpdated": "2026-04-30",
+  "lastScraped": "2026-04-30T00:42:47.641547+00:00",
   "articles": [
+    {
+      "id": "f8ff089a3e48",
+      "date": "2026-04-30",
+      "title": "Senator Marsha Blackburn Calls on Tennessee Legislature to Redistrict As Soon As Possible",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ce0b4cbf9112",
+      "date": "2026-04-30",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5cbce0569b3c",
+      "date": "2026-04-30",
+      "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "0ec65276bacc",
       "date": "2026-04-29",
