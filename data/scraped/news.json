@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-04-30",
-  "lastScraped": "2026-04-30T14:45:47.869323+00:00",
+  "lastScraped": "2026-04-30T18:33:05.089738+00:00",
   "articles": [
     {
       "id": "f8ff089a3e48",
@@ -135,6 +135,21 @@
       "candidate": "Fritts",
       "tags": [
         "controversy",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "57bb1b4e4c41",
+      "date": "2026-04-30",
+      "title": "Trump says Tennessee governor vows to redistrict state",
+      "summary": "President Trump said Thursday that he spoke with Tennessee Gov. Bill Lee (R) about redistricting in the state to give Republicans a leg up in congressional races ahead of the November midterm elections. The conversation comes after a Wednesday Supreme Court decision limiting the scope of the Voting ...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5857661-trump-redistricting-tennessee-congress/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
