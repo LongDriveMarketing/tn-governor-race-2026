@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-01",
-  "lastMerged": "2026-05-01T12:25:09.752450+00:00",
+  "lastMerged": "2026-05-01T18:27:34.696071+00:00",
   "articles": [
     {
       "id": "9f9c2f8b1e1e",
@@ -38,6 +38,51 @@
       "date": "2026-05-01",
       "title": "Shelby County Suburban Mayors Council Endorses Marsha Blackburn for Governor, Praises Success of Memphis Safe Task Force",
       "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "dc8b3222eb8e",
+      "date": "2026-05-01",
+      "title": "Here’s Who’s Running for Memphis-Shelby County Schools District 1",
+      "summary": "Early voting begins on April 15, and all three candidates will be on the \nballot as Democrats for the May 5 primary.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/heres-whos-running-for-memphis-shelby-county-schools-district-1",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "5450d4c4195c",
+      "date": "2026-05-01",
+      "title": "Jerri Green Wants to Strengthen Special Education, End “Welfare for the Wealthy”",
+      "summary": "The Memphis Councilwoman is the only Democrat running for governor who’s \nheld an elected office.",
+      "source": "Tennessee Firefly",
+      "url": "https://www.tnfirefly.com/news/jerri-green-wants-to-strengthen-special-education-end-welfare-for-the-wealthy",
+      "party": "dem",
+      "candidate": "Green",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "2cfe3bc2a1a1",
+      "date": "2026-05-01",
+      "title": "Marsha Blackburn: Redraw Tennessee’s Lines Now",
+      "summary": "In The News",
       "source": "Blackburn Campaign",
       "url": "",
       "party": "rep",
