@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-02",
-  "lastMerged": "2026-05-02T00:42:19.845073+00:00",
+  "lastMerged": "2026-05-02T06:43:43.336925+00:00",
   "articles": [
     {
       "id": "e07928062959",
@@ -43,6 +43,21 @@
       "candidate": "Blackburn",
       "tags": [
         "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e0751a358a95",
+      "date": "2026-05-02",
+      "title": "Alabama, Tennessee GOP governors call special sessions after Supreme Court’s Voting Rights Act decision",
+      "summary": "Republican governors in two southern states are calling state lawmakers back for special sessions next week to consider new congressional maps following a landmark Supreme Court decision that narrowed the scope of the Voting Rights Act (VRA). Alabama lawmakers are set to convene in Montgomery starti...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5860376-alabama-tennessee-redistricting-sessions/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
         "campaign"
       ],
       "tnfirefly": false,
