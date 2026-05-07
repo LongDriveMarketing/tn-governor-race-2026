@@ -1,7 +1,53 @@
 {
-  "lastUpdated": "2026-05-06",
-  "lastMerged": "2026-05-06T18:38:15.268779+00:00",
+  "lastUpdated": "2026-05-07",
+  "lastMerged": "2026-05-07T00:42:52.062584+00:00",
   "articles": [
+    {
+      "id": "4278989f0d83",
+      "date": "2026-05-07",
+      "title": "Marsha Blackburn: Redraw Tennessee’s Lines Now",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f9a68bd18eec",
+      "date": "2026-05-07",
+      "title": "Senator Marsha Blackburn Calls on Tennessee Legislature to Redistrict As Soon As Possible",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2f071ddeb6ac",
+      "date": "2026-05-07",
+      "title": "Marsha Blackburn Announces $1.23 Million Raised in Q1",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "da3aaae99eb9",
       "date": "2026-05-06",
