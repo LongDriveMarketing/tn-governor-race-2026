@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-07",
-  "lastScraped": "2026-05-07T12:42:04.759816+00:00",
+  "lastScraped": "2026-05-07T18:37:35.940656+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -1821,6 +1821,13 @@
         "poll": "april-2026",
         "source": "Beacon Center / TennSight",
         "url": "https://tennsight.com/polls/april-2026/"
+      },
+      {
+        "subject": "President Trump",
+        "approve": 8,
+        "poll": "may-2026",
+        "source": "Beacon Center / TennSight",
+        "url": "https://tennsight.com/polls/may-2026/"
       }
     ],
     "Senator Blackburn": [
@@ -2024,11 +2031,14 @@
         {
           "source": "270toWin",
           "raw": [
-            "Average of 2 Polls†",
-            "57.0%",
-            "11.0%",
-            "10.5%",
-            "-"
+            "",
+            "Beacon Poll",
+            "5/07/2026",
+            "529 RV &plusmn4.2%",
+            "63%",
+            "10%",
+            "5%",
+            "22%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
         },
@@ -2040,8 +2050,8 @@
             "3/26/2026",
             "300 LV &plusmn5.7%",
             "56%",
-            "11%",
             "14%",
+            "11%",
             "19%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
@@ -2054,8 +2064,8 @@
             "3/23/2026",
             "500 LV &plusmn4.4%",
             "58%",
-            "-",
             "7%",
+            "-",
             "35%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
@@ -2068,8 +2078,8 @@
             "2/10/2026",
             "500 LV &plusmn4.4%",
             "61%",
-            "5%",
             "8%",
+            "5%",
             "26%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
@@ -2082,8 +2092,8 @@
             "2/02/2026",
             "559 RV",
             "56%",
-            "7%",
             "9%",
+            "7%",
             "28%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
@@ -2096,8 +2106,8 @@
             "11/05/2025",
             "545 RV",
             "58%",
-            "5%",
             "9%",
+            "5%",
             "28%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
@@ -2110,8 +2120,8 @@
             "8/11/2025",
             "623 RV",
             "66%",
-            "-",
             "14%",
+            "-",
             "20%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
@@ -2124,9 +2134,38 @@
             "8/08/2025",
             "294 RV",
             "35%",
-            "-",
             "6%",
+            "-",
             "59%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Beacon Poll",
+            "5/07/2026",
+            "400 RV &plusmn4.8%",
+            "14%",
+            "11%",
+            "8%",
+            "3%",
+            "2%",
+            "62%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Beacon Poll",
+            "5/07/2026",
+            "1,157 RV &plusmn2.7%",
+            "27%",
+            "51%",
+            "22%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
         },
@@ -2160,5 +2199,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-05-07T12:42:55.638685+00:00"
+  "lastMerged": "2026-05-07T18:38:27.798730+00:00"
 }
