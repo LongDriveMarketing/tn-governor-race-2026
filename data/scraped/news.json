@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-10",
-  "lastScraped": "2026-05-10T12:22:10.359927+00:00",
+  "lastScraped": "2026-05-10T14:28:30.563603+00:00",
   "articles": [
     {
       "id": "0d598e500c02",
@@ -42,6 +42,51 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "98f1082b9c04",
+      "date": "2026-05-10",
+      "title": "The Mule capital of the world and ancestral home of President James K.",
+      "summary": "The Mule capital of the world and ancestral home of President James K. Polk, Maury County is rooted in deep Tennessee history. I was inspired by the folks at our #TNTrueTour who don’t want to see Tennessee become unrecognizable. Thank you for sharing your stories. As Governor, I’ll work every day to...",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid02ySFA73YB3byRpiQW3aamhgX5Jjzut7bFf3Td2vQevmTPm6Knmgwd4fS2N4DCUD1Ml",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "fd5191dbfa31",
+      "date": "2026-05-10",
+      "title": "My team is monitoring the massive recycling factory fire in Henry County.",
+      "summary": "My team is monitoring the massive recycling factory fire in Henry County. \n\nChelsea and I are praying for the safety of our brave first responders and the entire community. \n\nPlease stay safe and follow all shelter-in-place orders.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0rQtj9smqhWujXLLC7Yjfvztw5ptWRsBFcHLeR2Rdgb9SAtcm4pVXU2U16t18ryPgl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d55a298b5ff6",
+      "date": "2026-05-10",
+      "title": "Denise and I would like to wish everyone a happy and blessed Mother’s Day.",
+      "summary": "Denise and I would like to wish everyone a happy and blessed Mother’s Day.\n\nToday, we celebrate the women who hold families together, lead with strength, and pour love into the next generation.\n\nThank you for everything you do; today and every day.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid033VbL3nzVgbRnjP1csVBZvRjnrUTYiFiRLonqqnhnNVv31ZY4u7FchxSt8TB2irbJl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
       "tags": [
         "campaign"
       ],
@@ -134,6 +179,37 @@
       "party": "rep",
       "candidate": "Fritts",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8448b0d08186",
+      "date": "2026-05-09",
+      "title": "🇺🇸🐖Top Hog BBQ is a Gallatin staple just like FAITH | FAMILY | FREEDOM are Tennessee staples.",
+      "summary": "🇺🇸🐖Top Hog BBQ is a Gallatin staple just like FAITH | FAMILY | FREEDOM are Tennessee staples. My tank is full and I'm ready to win - LET'S GO!!!",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1000055919114190/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9683a826f64d",
+      "date": "2026-05-09",
+      "title": "We had such a great time at the West Tennessee Strawberry Festival!",
+      "summary": "We had such a great time at the West Tennessee Strawberry Festival! There’s something special about celebrating the traditions that make Tennessee unique and keep us connected to our roots. Thank you to everyone who came out to support us during the parade 🍓",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/reel/1660354871926245/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "analysis",
         "campaign"
       ],
       "tnfirefly": false,
