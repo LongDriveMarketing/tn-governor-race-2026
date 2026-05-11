@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-11",
-  "lastScraped": "2026-05-11T13:03:25.728815+00:00",
+  "lastScraped": "2026-05-11T15:05:28.591013+00:00",
   "articles": [
     {
       "id": "cf96c6392776",
@@ -43,6 +43,37 @@
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4ca99ef2cbb6",
+      "date": "2026-05-11",
+      "title": "Portland is known as the “Strawberry Capital of Tennessee,” shipping strawberries across the country for decades and...",
+      "summary": "Portland is known as the “Strawberry Capital of Tennessee,” shipping strawberries across the country for decades and building one of the state’s most beloved festivals around its farming heritage. Glad to be part of this year’s Strawberry Festival, one of Tennessee’s longstanding traditions.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0raHU5JgTYHpMKRZ1uor2HGpBXKBtYSmq3JvtaT9BmbWbsBsDSYVtRzGL6DuW6HDzl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "360824cad9a0",
+      "date": "2026-05-11",
+      "title": "These are the endorsements I seek, compared with those pursued by Marsha and John, which are from Big Money PACs.",
+      "summary": "These are the endorsements I seek, compared with those pursued by Marsha and John, which are from Big Money PACs.",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0mqqgXEfvPRztKedmQWJtbmfymG7ykpyrqnDQazCkaEqoKgT31TRdvcLN91E8E87Zl&id=61580207799026",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "finance",
         "campaign"
       ],
       "tnfirefly": false,
@@ -133,6 +164,51 @@
       "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid033VbL3nzVgbRnjP1csVBZvRjnrUTYiFiRLonqqnhnNVv31ZY4u7FchxSt8TB2irbJl&id=61580207799026",
       "party": "rep",
       "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "16a08ef825d4",
+      "date": "2026-05-10",
+      "title": "Always appreciate State Representative William Lamberth’s support!",
+      "summary": "Always appreciate State Representative William Lamberth’s support!",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid0GoiArfGJAFfTrXWU2mk5Na3LmSEBiHrHqn7azD5iQ35Zerp6FTxG3oxMgP4qoiBWl",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2624e7021b86",
+      "date": "2026-05-10",
+      "title": "The most important role in my life is being a mother and grandmother.",
+      "summary": "The most important role in my life is being a mother and grandmother.\n\nToday, we celebrate the incredible women who shape our lives through their love, strength, and support. Happy Mother's Day! 🤍",
+      "source": "Blackburn (Facebook)",
+      "url": "https://www.facebook.com/votemarshablackburn/posts/pfbid02UBzdG18dVUFDC71KK5NCoT36qy4b5xk9rBnCzKx4nJEzzzFu8i8swf5Ga5rww2Wul",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5d214145ae81",
+      "date": "2026-05-10",
+      "title": "Wishing my wife Chelsea a blessed Mother’s Day.",
+      "summary": "Wishing my wife Chelsea a blessed Mother’s Day. I’m grateful for a help mate grounded in her faith in Christ, who pours that faith into our children each day. She leads our boys with strength, wisdom, and grace. \n\nHappy Mother’s Day to the women who keep our families and communities strong.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0pgkH82gWPK2QCmSA7WRggpLXoinHG6oSASNHuQ7KumcBWDAFbdMGHrX9crZS9m1yl",
+      "party": "rep",
+      "candidate": "Rose",
       "tags": [
         "campaign"
       ],
