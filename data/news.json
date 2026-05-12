@@ -1,7 +1,53 @@
 {
-  "lastUpdated": "2026-05-11",
-  "lastMerged": "2026-05-11T18:41:51.295173+00:00",
+  "lastUpdated": "2026-05-12",
+  "lastMerged": "2026-05-12T00:42:14.930781+00:00",
   "articles": [
+    {
+      "id": "797a815a5af3",
+      "date": "2026-05-12",
+      "title": "Blackburn Expands Substantial Lead in GOP Primary for Governor, New Beacon Center Poll Shows",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign",
+        "analysis"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "6e5cba9a9c56",
+      "date": "2026-05-12",
+      "title": "Marsha Blackburn: Redraw Tennessee’s Lines Now",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "dd208bff923d",
+      "date": "2026-05-12",
+      "title": "Senator Marsha Blackburn Calls on Tennessee Legislature to Redistrict As Soon As Possible",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "cf96c6392776",
       "date": "2026-05-11",
