@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-12",
-  "lastScraped": "2026-05-12T12:44:47.641623+00:00",
+  "lastScraped": "2026-05-12T18:39:39.119004+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -2017,6 +2017,20 @@
         "poll": "fall 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 24,
+        "poll": "spring 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2026/03/26/vanderbilt-poll-nashvillians-less-optimistic-about-the-city-after-severe-ice-storm/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 58,
+        "poll": "spring 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/12/11/vanderbilt-poll-tennesseans-economic-anxiety-surges-transcends-party-lines/"
       }
     ],
     "TN Legislature": [
@@ -2068,6 +2082,13 @@
         "poll": "fall 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 36,
+        "poll": "spring 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
       }
     ],
     "President Trump": [
@@ -2226,6 +2247,13 @@
         "topic": "Education Priority",
         "value": 53,
         "poll": "fall 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "topic": "Education Priority",
+        "value": 53,
+        "poll": "spring 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
       }
@@ -2490,5 +2518,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-05-12T12:45:53.570790+00:00"
+  "lastMerged": "2026-05-12T18:40:31.068073+00:00"
 }

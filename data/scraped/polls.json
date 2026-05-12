@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-12",
-  "lastScraped": "2026-05-12T12:44:47.641623+00:00",
+  "lastScraped": "2026-05-12T18:39:39.119004+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -2009,6 +2009,20 @@
         "poll": "fall 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 24,
+        "poll": "spring 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2026/03/26/vanderbilt-poll-nashvillians-less-optimistic-about-the-city-after-severe-ice-storm/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 58,
+        "poll": "spring 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/12/11/vanderbilt-poll-tennesseans-economic-anxiety-surges-transcends-party-lines/"
       }
     ],
     "TN Legislature": [
@@ -2060,6 +2074,13 @@
         "poll": "fall 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2024/12/13/vanderbilt-poll-post-election-core-concerns-and-views-of-tennesseans-persist/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 36,
+        "poll": "spring 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
       }
     ],
     "President Trump": [
@@ -2218,6 +2239,13 @@
         "topic": "Education Priority",
         "value": 53,
         "poll": "fall 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "topic": "Education Priority",
+        "value": 53,
+        "poll": "spring 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
       }
