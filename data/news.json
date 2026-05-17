@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-17",
-  "lastMerged": "2026-05-17T12:24:30.775712+00:00",
+  "lastMerged": "2026-05-17T18:25:44.604307+00:00",
   "articles": [
     {
       "id": "a6c518179e19",
@@ -42,6 +42,21 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2024630d0898",
+      "date": "2026-05-17",
+      "title": "Another great night on our #TNTrueTour in Wilson County!",
+      "summary": "Another great night on our #TNTrueTour in Wilson County! Thank you to everyone who spent part of their weekend talking about the issues that matter most—smart infrastructure, responsible growth, and preserving Tennessee’s traditional values for the next generation.",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid0B1g5Sw4aHMnQ4cA1bhgdkqwHsdJG3dkxAKoAak9AvF2DuvxH1ZziJ7VTADpeEFSLl",
+      "party": "rep",
+      "candidate": "Rose",
       "tags": [
         "campaign"
       ],
@@ -131,6 +146,36 @@
       "summary": "I saw it firsthand, the failures of our government in their handling of COVID. \n\nThe Nashville establishment FAILED hardworking people. They are just as guilty. \n\nWe have to stop giving those people the authority. It's time we had a governor who would inform the public rather than control it.",
       "source": "Fritts (Facebook)",
       "url": "https://www.facebook.com/reel/1017981360564295/",
+      "party": "rep",
+      "candidate": "Fritts",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "900e01a761da",
+      "date": "2026-05-16",
+      "title": "Great morning in Macon County on our #TNTrueTour stop!",
+      "summary": "Great morning in Macon County on our #TNTrueTour stop! I loved hearing from Tennesseans who want to protect their family farmland, cut burdensome red tape, and expand access to quality health care in rural communities. Thank you to everyone at the Macon Co. Fairgrounds for the Tennessee hospitality!",
+      "source": "Rose (Facebook)",
+      "url": "https://www.facebook.com/JohnRoseforTN/posts/pfbid04TQTxUiRYLJeqaopAjaEJBPKSCUwmtuxzx6cEfoDwr86GLwXSpXzfHGwVFfYwyStl",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d53f3cd58929",
+      "date": "2026-05-16",
+      "title": "Happy Saturday! East TN to the Cumberland Plateau Liberty & Less Govt is the message!",
+      "summary": "Happy Saturday! East TN to the Cumberland Plateau Liberty & Less Govt is the message!",
+      "source": "Fritts (Facebook)",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0eR7rDo7bcVfc7zUviYbYctyzSVtFgs3s1CVvhq8A2XvreVJAE6KK9L5WFRbxYq3Nl&id=61580207799026",
       "party": "rep",
       "candidate": "Fritts",
       "tags": [
