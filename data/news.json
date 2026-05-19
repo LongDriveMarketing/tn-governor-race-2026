@@ -1,7 +1,53 @@
 {
-  "lastUpdated": "2026-05-18",
-  "lastMerged": "2026-05-18T18:41:06.053507+00:00",
+  "lastUpdated": "2026-05-19",
+  "lastMerged": "2026-05-19T00:49:49.175154+00:00",
   "articles": [
+    {
+      "id": "8ba0cebf5a97",
+      "date": "2026-05-19",
+      "title": "East Tennessee County Leaders Endorse Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "311779b8da31",
+      "date": "2026-05-19",
+      "title": "Blackburn Expands Substantial Lead in GOP Primary for Governor, New Beacon Center Poll Shows",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign",
+        "analysis"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2a4a2086af23",
+      "date": "2026-05-19",
+      "title": "Marsha Blackburn: Redraw Tennessee’s Lines Now",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "515addfb83a7",
       "date": "2026-05-18",
