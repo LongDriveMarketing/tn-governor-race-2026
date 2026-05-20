@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-02-07",
+  "lastUpdated": "2026-05-20",
   "candidates": {
     "blackburn": {
       "name": "Marsha Blackburn",
-      "count": "20+",
+      "count": "21+",
       "party": "rep",
       "label": "Republican Frontrunner"
     },
@@ -222,6 +222,13 @@
       "name": "Sara Kyle",
       "role": "Tennessee State Senator from the 33rd district",
       "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Americans For Prosperity",
+      "role": "Organizations",
+      "type": "org",
       "note": "Auto-detected from Wikipedia. Verify and add context."
     }
   ],
