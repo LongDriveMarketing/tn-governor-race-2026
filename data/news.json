@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-22",
-  "lastMerged": "2026-05-22T12:54:23.701019+00:00",
+  "lastMerged": "2026-05-22T18:40:25.326670+00:00",
   "articles": [
     {
       "id": "f3cdf930a520",
@@ -38,6 +38,21 @@
       "date": "2026-05-22",
       "title": "Marsha Blackburn: Redraw Tennessee’s Lines Now",
       "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b111d87c4b08",
+      "date": "2026-05-22",
+      "title": "Tennessee Professional Fire Fighters Endorse Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
       "party": "rep",
