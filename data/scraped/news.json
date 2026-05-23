@@ -1,7 +1,53 @@
 {
-  "lastUpdated": "2026-05-22",
-  "lastScraped": "2026-05-22T18:39:15.194451+00:00",
+  "lastUpdated": "2026-05-23",
+  "lastScraped": "2026-05-23T00:46:46.861455+00:00",
   "articles": [
+    {
+      "id": "c4507c2de292",
+      "date": "2026-05-23",
+      "title": "Tennessee Professional Fire Fighters Endorse Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7ea1c71a596e",
+      "date": "2026-05-23",
+      "title": "East Tennessee County Leaders Endorse Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e6aaa082c2e4",
+      "date": "2026-05-23",
+      "title": "Blackburn Expands Substantial Lead in GOP Primary for Governor, New Beacon Center Poll Shows",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign",
+        "analysis"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "f3cdf930a520",
       "date": "2026-05-22",
