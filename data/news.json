@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-05-29",
-  "lastMerged": "2026-05-29T07:25:26.399773+00:00",
+  "lastMerged": "2026-05-29T13:11:31.155567+00:00",
   "articles": [
     {
       "id": "fa599a518714",
@@ -36,6 +36,21 @@
       "id": "11c4a38fb6cc",
       "date": "2026-05-29",
       "title": "East Tennessee County Leaders Endorse Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a1119012c49a",
+      "date": "2026-05-29",
+      "title": "Tennessee Chamber of Commerce & Industry Endorses Marsha Blackburn for Governor",
       "summary": "Endorsements, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
