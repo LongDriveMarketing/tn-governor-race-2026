@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-02",
-  "lastMerged": "2026-06-02T19:19:14.840550+00:00",
+  "lastUpdated": "2026-06-03",
+  "lastMerged": "2026-06-03T01:01:15.967666+00:00",
   "articles": [
+    {
+      "id": "406cadba36c9",
+      "date": "2026-06-03",
+      "title": "Tennessee Chamber of Commerce & Industry Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e8219064d0db",
+      "date": "2026-06-03",
+      "title": "Shelby County Deputy Sheriffs’ Association Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1a5101d7a873",
+      "date": "2026-06-03",
+      "title": "Tennessee Professional Fire Fighters Endorse Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "495cf941e99f",
       "date": "2026-06-02",
