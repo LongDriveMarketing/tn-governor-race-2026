@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-03",
-  "lastMerged": "2026-06-03T13:43:00.372782+00:00",
+  "lastMerged": "2026-06-03T19:23:42.847101+00:00",
   "articles": [
     {
       "id": "406cadba36c9",
@@ -37,6 +37,21 @@
       "date": "2026-06-03",
       "title": "Tennessee Professional Fire Fighters Endorse Marsha Blackburn for Governor",
       "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3f6712f51eb7",
+      "date": "2026-06-03",
+      "title": "Congressman Matt Van Epps Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
       "party": "rep",
