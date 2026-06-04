@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-03",
-  "lastScraped": "2026-06-03T19:22:46.447074+00:00",
+  "lastUpdated": "2026-06-04",
+  "lastScraped": "2026-06-04T00:59:51.805658+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -2337,6 +2337,27 @@
         "poll": "April 13 - April 29",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2026/05/20/vanderbilt-poll-tennesseans-continue-to-express-anxiety-about-the-economy/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 56,
+        "poll": "summer 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2026/05/20/vanderbilt-poll-tennesseans-continue-to-express-anxiety-about-the-economy/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 24,
+        "poll": "summer 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2026/03/26/vanderbilt-poll-nashvillians-less-optimistic-about-the-city-after-severe-ice-storm/"
+      },
+      {
+        "subject": "Governor Lee",
+        "approve": 58,
+        "poll": "summer 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/12/11/vanderbilt-poll-tennesseans-economic-anxiety-surges-transcends-party-lines/"
       }
     ],
     "TN Legislature": [
@@ -2393,6 +2414,13 @@
         "subject": "TN Legislature",
         "approve": 36,
         "poll": "spring 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "subject": "TN Legislature",
+        "approve": 36,
+        "poll": "summer 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
       }
@@ -2453,6 +2481,13 @@
         "poll": "April 13 - April 29",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2026/05/20/vanderbilt-poll-tennesseans-continue-to-express-anxiety-about-the-economy/"
+      },
+      {
+        "subject": "President Trump",
+        "approve": 49,
+        "poll": "summer 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2026/05/20/vanderbilt-poll-tennesseans-continue-to-express-anxiety-about-the-economy/"
       }
     ],
     "Senator Blackburn": [
@@ -2481,6 +2516,13 @@
         "subject": "Senator Blackburn",
         "approve": 51,
         "poll": "April 13 - April 29",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2026/05/20/vanderbilt-poll-tennesseans-continue-to-express-anxiety-about-the-economy/"
+      },
+      {
+        "subject": "Senator Blackburn",
+        "approve": 51,
+        "poll": "summer 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2026/05/20/vanderbilt-poll-tennesseans-continue-to-express-anxiety-about-the-economy/"
       }
@@ -2574,6 +2616,13 @@
         "topic": "Education Priority",
         "value": 53,
         "poll": "spring 2026",
+        "source": "Vanderbilt Poll",
+        "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
+      },
+      {
+        "topic": "Education Priority",
+        "value": 53,
+        "poll": "summer 2026",
         "source": "Vanderbilt Poll",
         "url": "https://news.vanderbilt.edu/2025/05/08/vanderbilt-poll-tennesseans-aligned-in-opposition-to-federal-funding-cuts-deeply-divided-on-presidential-powers/"
       }
@@ -2838,5 +2887,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-06-03T19:23:42.837421+00:00"
+  "lastMerged": "2026-06-04T01:00:47.708678+00:00"
 }
