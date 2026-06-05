@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-04",
-  "lastMerged": "2026-06-04T18:50:52.064006+00:00",
+  "lastUpdated": "2026-06-05",
+  "lastMerged": "2026-06-05T00:53:20.273409+00:00",
   "articles": [
+    {
+      "id": "a40f19f17d2f",
+      "date": "2026-06-05",
+      "title": "Congressman Matt Van Epps Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1dce82bc2dda",
+      "date": "2026-06-05",
+      "title": "Tennessee Chamber of Commerce & Industry Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "cc279ba5bc72",
+      "date": "2026-06-05",
+      "title": "Shelby County Deputy Sheriffs’ Association Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "09a15905499b",
       "date": "2026-06-04",
