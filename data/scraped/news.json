@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-08",
-  "lastScraped": "2026-06-08T15:11:05.001459+00:00",
+  "lastScraped": "2026-06-08T18:53:11.867391+00:00",
   "articles": [
     {
       "id": "aa339d353a1a",
@@ -36,6 +36,21 @@
       "id": "0192461554b1",
       "date": "2026-06-08",
       "title": "Shelby County Deputy Sheriffs’ Association Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e6bf0eca8fa9",
+      "date": "2026-06-08",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
       "summary": "Endorsements, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
