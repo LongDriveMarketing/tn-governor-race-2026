@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-09",
-  "lastScraped": "2026-06-09T15:19:35.243106+00:00",
+  "lastScraped": "2026-06-09T18:47:15.929182+00:00",
   "articles": [
     {
       "id": "e6686f6dbeed",
@@ -39,6 +39,21 @@
       "summary": "Endorsements, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ed63f05d0d4d",
+      "date": "2026-06-09",
+      "title": "White House negotiating federal preemption of state AI laws in exchange for Hill priorities",
+      "summary": "The White House is negotiating with Capitol Hill to secure federal preemption of some state regulations on AI in exchange for technology policies related to kids safety and deepfake protections. Sen. Marsha Blackburn (R-Tenn.) is “spearheading” the negotiations with the White House to finalize text ...",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5916062-artificial-intelligence-federal-preemption-negotiations/",
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
