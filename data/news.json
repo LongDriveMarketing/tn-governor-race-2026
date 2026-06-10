@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-09",
-  "lastMerged": "2026-06-09T18:48:13.148001+00:00",
+  "lastUpdated": "2026-06-10",
+  "lastMerged": "2026-06-10T00:55:11.875223+00:00",
   "articles": [
+    {
+      "id": "93153e75756d",
+      "date": "2026-06-10",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d32f32fd3b20",
+      "date": "2026-06-10",
+      "title": "Congressman Matt Van Epps Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "da0962cb3bc7",
+      "date": "2026-06-10",
+      "title": "Tennessee Chamber of Commerce & Industry Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "e6686f6dbeed",
       "date": "2026-06-09",
