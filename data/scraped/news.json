@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-12",
-  "lastScraped": "2026-06-12T15:06:06.618944+00:00",
+  "lastScraped": "2026-06-12T18:42:53.098716+00:00",
   "articles": [
     {
       "id": "f8d935d751fd",
@@ -39,6 +39,21 @@
       "summary": "Endorsements, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "df83656ced59",
+      "date": "2026-06-12",
+      "title": "Blackburn presses Kik on kids safety after ‘disturbing’ research report",
+      "summary": "Sen. Marsha Blackburn (R-Tenn.) is pressing the messaging platform Kik over its dangers to users, accusing the platform of “turning a blind eye” or “allowing” the exploitation and abuse of minors. The letter, sent Friday and first shared with The Hill, comes a week after the National Center on Sexua...",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5921714-marsha-blackburn-kik-kids-safety-report/",
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
