@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-12",
-  "lastMerged": "2026-06-12T18:44:02.247966+00:00",
+  "lastUpdated": "2026-06-13",
+  "lastMerged": "2026-06-13T00:56:26.942179+00:00",
   "articles": [
+    {
+      "id": "3239abeedb5a",
+      "date": "2026-06-13",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "cc3a7469503e",
+      "date": "2026-06-13",
+      "title": "Congressman Matt Van Epps Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e747b54a2da7",
+      "date": "2026-06-13",
+      "title": "Tennessee Chamber of Commerce & Industry Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "f8d935d751fd",
       "date": "2026-06-12",
@@ -1180,6 +1225,21 @@
       "featured": false
     },
     {
+      "id": "fcdf3a8b33b0",
+      "date": "2026-05-20",
+      "title": "Vanderbilt Poll Finds Consistent Support for Sen. Blackburn, Possible GOP Concerns",
+      "summary": "Pollsters found that support for President Donald Trump has dropped in the Volunteer State.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/vanderbilt-poll-finds-consistent-support-for-sen-blackburn-possible-gop-concerns",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
       "id": "8ba0cebf5a97",
       "date": "2026-05-19",
       "title": "East Tennessee County Leaders Endorse Marsha Blackburn for Governor",
@@ -1481,6 +1541,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9098b1f3b820",
+      "date": "2026-05-18",
+      "title": "Higher Education Funding Changes Expected This Summer",
+      "summary": "Those potential tweaks include changing the criteria for an institution to receive funding for on-time student graduation",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/higher-education-funding-changes-expected-this-summer",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
@@ -1906,6 +1981,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ee31ad6d166f",
+      "date": "2026-05-15",
+      "title": "Uncovered Records Detail House Candidate Bo McCawley’s Lawsuit Against Vanderbilt Medical Center",
+      "summary": "McCawley once sued the hospital, university, and its doctor following allegations of child abuse.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/uncovered-records-detail-house-candidate-bo-mccawley-s-lawsuit-against-vanderbilt-medical-center",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
@@ -2789,6 +2879,21 @@
       "featured": false
     },
     {
+      "id": "2b683d7a4612",
+      "date": "2026-05-11",
+      "title": "Gubernatorial Candidates Grow Their Support at Strawberry Festivals",
+      "summary": "Contenders campaigned over the weekend as a new poll shows Sen. Blackburn widening her lead.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/gubernatorial-candidates-grow-their-support-at-strawberry-festivals",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
       "id": "0d598e500c02",
       "date": "2026-05-10",
       "title": "Blackburn Expands Substantial Lead in GOP Primary for Governor, New Beacon Center Poll Shows",
@@ -3517,6 +3622,36 @@
       "featured": false
     },
     {
+      "id": "342d1c2d60a2",
+      "date": "2026-05-07",
+      "title": "Lawmakers Pass Redistricting Plan Amid Interruptions and Democratic Walkout",
+      "summary": "The legislation designed by Republicans to pick up a congressional seat was signed by Governor Lee shortly afterward.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/lawmakers-pass-redistricting-plan-amid-interruptions-and-democratic-walkout",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "ae2e5ebee795",
+      "date": "2026-05-07",
+      "title": "Governor Bill Lee Signs Education Freedom Scholarship Expansion",
+      "summary": "35,000 students will qualify for assistance with private school expenses.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/governor-bill-lee-signs-education-freedom-scholarship-expansion",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
       "id": "da3aaae99eb9",
       "date": "2026-05-06",
       "title": "Marsha Blackburn: Redraw Tennessee’s Lines Now",
@@ -3911,6 +4046,36 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "04be607601fb",
+      "date": "2026-05-04",
+      "title": "Here’s Who’s Running for Memphis-Shelby County Schools District 8",
+      "summary": "The winner of the May 5 primary will face independent candidate Leigh Ann Scarbrough in the general election on August 6.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/here-s-who-s-running-for-memphis-shelby-county-schools-district-8",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "ada1437001cc",
+      "date": "2026-05-04",
+      "title": "Here’s Who’s Running for Memphis-Shelby County Schools District 6",
+      "summary": "All five candidates will be on the ballot for Tuesday's primary election.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/here-s-who-s-running-for-memphis-shelby-county-schools-district-6",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
