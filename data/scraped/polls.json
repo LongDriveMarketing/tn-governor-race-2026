@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-14",
-  "lastScraped": "2026-06-14T12:42:57.253487+00:00",
+  "lastScraped": "2026-06-14T18:33:19.714856+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -99,6 +99,12 @@
       "source": "Race to the WH[47]",
       "rating": "Safe R",
       "asOf": "September 16, 2025",
+      "scrapedFrom": "wikipedia"
+    },
+    {
+      "source": "RealClearPolitics[48]",
+      "rating": "Solid R",
+      "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     }
   ],
