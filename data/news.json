@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-15",
-  "lastMerged": "2026-06-15T14:11:53.622072+00:00",
+  "lastMerged": "2026-06-15T19:23:50.147748+00:00",
   "articles": [
     {
       "id": "b78671f2e01f",
@@ -45,6 +45,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e3f32e094aaf",
+      "date": "2026-06-15",
+      "title": "Self-Described 'Trump Candidate' Sides with Unions over Trump on Education",
+      "summary": "The president appointed Dennis Beavers to the USDA, but he’s now opposing the administration’s position on school choice.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/self-described-trump-candidate-sides-with-unions-over-trump-on-education",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
