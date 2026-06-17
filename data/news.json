@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-17",
-  "lastMerged": "2026-06-17T00:57:40.372535+00:00",
+  "lastMerged": "2026-06-17T07:56:30.174765+00:00",
   "articles": [
     {
       "id": "e27e37739b45",
@@ -41,6 +41,21 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b81f9334bad4",
+      "date": "2026-06-17",
+      "title": "Trump-backed candidate sparks runoff against popular prosecutor in key gubernatorial race",
+      "summary": "President Donald Trump's near-spotless endorsement record notches another win as Mike Mazzei will be GOP nominee for Oklahoma governor.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-backed-candidate-sparks-runoff-against-popular-prosecutor-key-gubernatorial-race",
+      "party": "general",
+      "candidate": "",
       "tags": [
         "campaign"
       ],
