@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-20",
-  "lastScraped": "2026-06-20T18:33:11.814444+00:00",
+  "lastUpdated": "2026-06-21",
+  "lastScraped": "2026-06-21T00:57:06.786947+00:00",
   "articles": [
+    {
+      "id": "66ff999fb7d1",
+      "date": "2026-06-21",
+      "title": "Marsha Blackburn Weighs in on Proposed Data Center Planned Near the Nashville Zoo",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ea831ec7ce98",
+      "date": "2026-06-21",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a8ffabf0975c",
+      "date": "2026-06-21",
+      "title": "Congressman Matt Van Epps Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "1b54efe77da3",
       "date": "2026-06-20",
