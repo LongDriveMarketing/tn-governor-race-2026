@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-23",
-  "lastScraped": "2026-06-23T18:45:20.856942+00:00",
+  "lastUpdated": "2026-06-24",
+  "lastScraped": "2026-06-24T00:45:44.277079+00:00",
   "articles": [
+    {
+      "id": "6af8f040bdd9",
+      "date": "2026-06-24",
+      "title": "Marsha Blackburn Weighs in on Proposed Data Center Planned Near the Nashville Zoo",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c89155569125",
+      "date": "2026-06-24",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b837838d08be",
+      "date": "2026-06-24",
+      "title": "Congressman Matt Van Epps Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "50a43bccacd9",
       "date": "2026-06-23",
@@ -96,6 +141,21 @@
       "id": "dfa262ad94e4",
       "date": "2026-06-22",
       "title": "Commentary:  Tennessee Students Benefit from a Targeted Investment in Higher Education",
+      "summary": "The Tennessee Higher Education Commission is poised to deliver a better return on investment from higher education funding by incentivizing degrees in good-paying careers.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/commentary-tennessee-students-benefit-from-a-targeted-investment-in-higher-education",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "ecc7cf12e5ff",
+      "date": "2026-06-22",
+      "title": "Commentary: Tennessee Students Benefit from a Targeted Investment in Higher Education",
       "summary": "The Tennessee Higher Education Commission is poised to deliver a better return on investment from higher education funding by incentivizing degrees in good-paying careers.",
       "source": "Tennessee Firefly",
       "url": "https://tnfirefly.com/news/commentary-tennessee-students-benefit-from-a-targeted-investment-in-higher-education",
