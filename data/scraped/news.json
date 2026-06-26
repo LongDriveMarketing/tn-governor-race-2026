@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-06-25",
-  "lastScraped": "2026-06-25T18:48:04.469371+00:00",
+  "lastUpdated": "2026-06-26",
+  "lastScraped": "2026-06-26T00:52:00.804673+00:00",
   "articles": [
+    {
+      "id": "3e75522c4c39",
+      "date": "2026-06-26",
+      "title": "Marsha Blackburn Weighs in on Proposed Data Center Planned Near the Nashville Zoo",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "335c80c45571",
+      "date": "2026-06-26",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "14025202008b",
+      "date": "2026-06-26",
+      "title": "Congressman Matt Van Epps Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "b27037fb39c5",
       "date": "2026-06-25",
@@ -45,6 +90,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0387b1101c5c",
+      "date": "2026-06-25",
+      "title": "Proposal to Directly Target Higher Education Funding Moves Closer to Approval",
+      "summary": "The Tennessee Higher Education Commission will vote next month on changes designed to promote good-paying, in-demand jobs.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/proposal-to-directly-target-higher-education-funding-moves-closer-to-approval",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
