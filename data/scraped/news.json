@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-06-30",
-  "lastScraped": "2026-06-30T14:54:35.964179+00:00",
+  "lastScraped": "2026-06-30T18:39:57.287744+00:00",
   "articles": [
     {
       "id": "2e8e3a0b32b9",
@@ -36,6 +36,21 @@
       "id": "d4c373a83a33",
       "date": "2026-06-30",
       "title": "Congressman Matt Van Epps Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a890c4ed652e",
+      "date": "2026-06-30",
+      "title": "Former Congressman Phil Roe Endorses Marsha Blackburn for Governor",
       "summary": "Endorsements, In The News, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
