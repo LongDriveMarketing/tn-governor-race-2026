@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-02",
-  "lastScraped": "2026-07-02T07:11:15.575682+00:00",
+  "lastScraped": "2026-07-02T12:41:59.101974+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -486,7 +486,7 @@
       "endDate": "2025-08-01",
       "type": "republican_primary",
       "sampleSize": "623 (RV)",
-      "margin": "±2.8%",
+      "margin": "± 2.8%",
       "results": [
         {
           "candidate": "Blackburn",
@@ -1389,7 +1389,7 @@
       "endDate": "",
       "type": "republican_primary",
       "sampleSize": "400 (LV)",
-      "margin": "±4.8%",
+      "margin": "± 4.8%",
       "results": [
         {
           "candidate": "Atwater",
@@ -1486,7 +1486,7 @@
       "endDate": "",
       "type": "republican_primary",
       "sampleSize": "800 (LV)",
-      "margin": "±3.5%",
+      "margin": "± 3.5%",
       "results": [
         {
           "candidate": "Blackburn",
@@ -2137,7 +2137,7 @@
       "endDate": "",
       "type": "general_hypothetical",
       "sampleSize": "1,200 (RV)",
-      "margin": "±2.8%",
+      "margin": "± 2.8%",
       "results": [
         {
           "candidate": "Blackburn",
@@ -3192,5 +3192,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-07-02T07:12:15.217851+00:00"
+  "lastMerged": "2026-07-02T12:42:47.814322+00:00"
 }
