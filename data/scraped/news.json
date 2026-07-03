@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-02",
-  "lastScraped": "2026-07-02T18:33:10.874927+00:00",
+  "lastUpdated": "2026-07-03",
+  "lastScraped": "2026-07-03T00:40:33.481830+00:00",
   "articles": [
+    {
+      "id": "c0d315d620e5",
+      "date": "2026-07-03",
+      "title": "Former Congressman Phil Roe Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7acfb0ba156a",
+      "date": "2026-07-03",
+      "title": "Marsha Blackburn Weighs in on Proposed Data Center Planned Near the Nashville Zoo",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b9433fd0afd0",
+      "date": "2026-07-03",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "a47ed10e231a",
       "date": "2026-07-02",
@@ -41,6 +86,21 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ab4f448bff7d",
+      "date": "2026-07-02",
+      "title": "Louisiana attorney general indicted over alleged threats; governor pledges swift pardon",
+      "summary": "Louisiana Attorney General Liz Murrill (R) was indicted by a grand jury in connection with an investigation over alleged threats she made against New Orleans officials, former Judge Laurie White confirmed Thursday. “The grand jury has returned an indictment, it is now a criminal matter,” White, who ...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5952272-louisiana-attorney-general-indicted/",
+      "party": "general",
+      "candidate": "",
       "tags": [
         "campaign"
       ],
