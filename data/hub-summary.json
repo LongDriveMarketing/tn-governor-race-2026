@@ -38,10 +38,10 @@
       "outStatePct": 0
     },
     "vick": {
-      "warChest": 4575.2,
-      "totalRaised": 4575.2,
-      "totalSpent": 4871.87,
-      "cashOnHand": 714.62,
+      "warChest": 3500.0,
+      "totalRaised": 3500.0,
+      "totalSpent": 3627.42,
+      "cashOnHand": 587.2,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -62,16 +62,6 @@
       "totalRaised": 1600.0,
       "totalSpent": 31465.21,
       "cashOnHand": 1970134.79,
-      "personalLoans": 0,
-      "contributionCount": 0,
-      "inStatePct": 0,
-      "outStatePct": 0
-    },
-    "scoggin": {
-      "warChest": 780.67,
-      "totalRaised": 780.67,
-      "totalSpent": 780.67,
-      "cashOnHand": 0.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -112,6 +102,16 @@
       "totalRaised": 0,
       "totalSpent": 0,
       "cashOnHand": 0,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
+    "scoggin": {
+      "warChest": 0,
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,

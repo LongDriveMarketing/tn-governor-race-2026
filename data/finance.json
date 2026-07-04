@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-04",
-  "lastScraped": "2026-07-04T12:28:33.693980+00:00",
+  "lastScraped": "2026-07-04T18:23:57.931075+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -62,14 +62,14 @@
     {
       "name": "Robert Vick",
       "party": "ind",
-      "totalRaised": 4575.2,
-      "totalSpent": 4871.87,
-      "cashOnHand": 714.62,
+      "totalRaised": 3500.0,
+      "totalSpent": 3627.42,
+      "cashOnHand": 587.2,
       "loansReceived": 0.0,
-      "warChest": 4575.2,
-      "reportsFiled": 2,
-      "lastReportDate": "04/01/2026",
-      "lastReportType": "1st Quarter 2026"
+      "warChest": 3500.0,
+      "reportsFiled": 3,
+      "lastReportDate": "07/04/2026",
+      "lastReportType": "2nd Quarter 2026"
     },
     {
       "name": "Adam 'Ditch' Kurtz",
@@ -102,18 +102,6 @@
       "warChest": 1600.0,
       "reportsFiled": 1,
       "lastReportDate": "04/10/2026",
-      "lastReportType": "1st Quarter 2026"
-    },
-    {
-      "name": "Victor Scoggin",
-      "party": "rep",
-      "totalRaised": 780.67,
-      "totalSpent": 780.67,
-      "cashOnHand": 0.0,
-      "loansReceived": 0.0,
-      "warChest": 780.67,
-      "reportsFiled": 2,
-      "lastReportDate": "04/02/2026",
       "lastReportType": "1st Quarter 2026"
     },
     {
@@ -171,6 +159,18 @@
       "reportsFiled": 0,
       "lastReportDate": null,
       "lastReportType": null
+    },
+    {
+      "name": "Victor Scoggin",
+      "party": "rep",
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 3,
+      "lastReportDate": "07/04/2026",
+      "lastReportType": "2nd Quarter 2026"
     },
     {
       "name": "Carnita Atwater",
@@ -314,5 +314,5 @@
     }
   ],
   "analysis": "The money race reveals two fundamentally different Republican strategies. Rose bet big on himself — a $5M personal loan plus $1.46M raised, all while keeping 92% of his donors in-state. Blackburn countered with sheer volume: 33,000 contributions totaling $5.5M, leveraging her national Senate donor network. Rose is hammering her 78% out-of-state rate in ads; Blackburn argues the volume shows grassroots enthusiasm. On the Democratic side, fundraising reflects the party's structural disadvantage in Tennessee statewide races — Green leads with $125K, a fraction of either Republican's total.",
-  "lastMerged": "2026-07-04T12:28:33.726289+00:00"
+  "lastMerged": "2026-07-04T18:23:57.966235+00:00"
 }
