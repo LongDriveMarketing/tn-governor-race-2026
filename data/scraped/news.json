@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-05",
-  "lastScraped": "2026-07-05T18:24:46.215087+00:00",
+  "lastUpdated": "2026-07-06",
+  "lastScraped": "2026-07-06T00:42:11.252035+00:00",
   "articles": [
+    {
+      "id": "860d13221ac8",
+      "date": "2026-07-06",
+      "title": "Former Congressman Phil Roe Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a4629fcf08c3",
+      "date": "2026-07-06",
+      "title": "Marsha Blackburn Weighs in on Proposed Data Center Planned Near the Nashville Zoo",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "636278177cfe",
+      "date": "2026-07-06",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "15b18c4ed01b",
       "date": "2026-07-05",
