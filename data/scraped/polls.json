@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-08",
-  "lastScraped": "2026-07-08T12:36:39.374530+00:00",
+  "lastScraped": "2026-07-08T18:32:11.032407+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -1615,9 +1615,14 @@
           "pct": 29.0
         },
         {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 13.0
+        },
+        {
           "candidate": "Undecided",
           "party": "",
-          "pct": 27.0
+          "pct": 14.0
         }
       ],
       "source": "wikipedia",
@@ -2805,7 +2810,8 @@
         "pollster": "McLaughlin & Associates(R)[24][A]",
         "blackburn": 44.0,
         "rose": 29.0,
-        "undecided": 27.0
+        "fritts": 13.0,
+        "undecided": 14.0
       },
       {
         "date": "",
