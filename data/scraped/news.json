@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-07",
-  "lastScraped": "2026-07-07T18:42:50.212963+00:00",
+  "lastUpdated": "2026-07-08",
+  "lastScraped": "2026-07-08T00:35:23.138361+00:00",
   "articles": [
+    {
+      "id": "8ea55468859c",
+      "date": "2026-07-08",
+      "title": "Former Congressman Phil Roe Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b2ce55daa35d",
+      "date": "2026-07-08",
+      "title": "Marsha Blackburn Weighs in on Proposed Data Center Planned Near the Nashville Zoo",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b76ee1c3be44",
+      "date": "2026-07-08",
+      "title": "State Senator Shane Reeves Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "ee366c4c83b9",
       "date": "2026-07-07",
@@ -45,6 +90,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "85ddaa566ec9",
+      "date": "2026-07-07",
+      "title": "Commentary: Polling Data Released by TSS Action Calls into Question Claims Made by Rose Campaign’s Internal Polling",
+      "summary": "Internal polling showing Congressman Rose closing ground on Senator Blackburn is a drastic departure from any polling conducted by Tennesseans for Student Success Action.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/commentary-polling-data-released-by-tss-action-calls-into-question-claims-made-by-rose-campaign",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
