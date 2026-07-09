@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-08",
-  "lastScraped": "2026-07-08T18:32:05.197970+00:00",
+  "lastUpdated": "2026-07-09",
+  "lastScraped": "2026-07-09T00:39:35.189320+00:00",
   "articles": [
+    {
+      "id": "75c62b10b40e",
+      "date": "2026-07-09",
+      "title": "Marsha Blackburn Releases First TV Ad in Race for Tennessee Governor",
+      "summary": "In The News, Press Release, Video",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ff52bdd82172",
+      "date": "2026-07-09",
+      "title": "Former Congressman Phil Roe Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "77b488f61e0d",
+      "date": "2026-07-09",
+      "title": "Marsha Blackburn Weighs in on Proposed Data Center Planned Near the Nashville Zoo",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "8ea55468859c",
       "date": "2026-07-08",
