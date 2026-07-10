@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09",
+  "lastUpdated": "2026-07-10",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "21+",
@@ -58,10 +58,10 @@
       "outStatePct": 12
     },
     "e.": {
-      "warChest": 1600.0,
-      "totalRaised": 1600.0,
-      "totalSpent": 31465.21,
-      "cashOnHand": 1970134.79,
+      "warChest": 1010.0,
+      "totalRaised": 1010.0,
+      "totalSpent": 227763.48,
+      "cashOnHand": 1743381.31,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -211,7 +211,7 @@
       "warChest": 0,
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 30.0,
+      "cashOnHand": 55.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -273,21 +273,21 @@
   },
   "latestNews": [
     {
+      "title": "ICYMI: Blackburn: Tennessee Must Show America How to Stand Up to Communist China",
+      "source": "Blackburn Campaign",
+      "date": "2026-07-10",
+      "party": "rep"
+    },
+    {
       "title": "Marsha Blackburn Releases First TV Ad in Race for Tennessee Governor",
       "source": "Blackburn Campaign",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "party": "rep"
     },
     {
       "title": "Former Congressman Phil Roe Endorses Marsha Blackburn for Governor",
       "source": "Blackburn Campaign",
-      "date": "2026-07-09",
-      "party": "rep"
-    },
-    {
-      "title": "Marsha Blackburn Weighs in on Proposed Data Center Planned Near the Nashville Zoo",
-      "source": "Blackburn Campaign",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "party": "rep"
     }
   ],
