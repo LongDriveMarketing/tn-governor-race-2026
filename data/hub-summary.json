@@ -57,6 +57,16 @@
       "inStatePct": 88,
       "outStatePct": 12
     },
+    "david": {
+      "warChest": 2596.0,
+      "totalRaised": 2596.0,
+      "totalSpent": 279.32,
+      "cashOnHand": 2506.68,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
     "e.": {
       "warChest": 1010.0,
       "totalRaised": 1010.0,
@@ -162,16 +172,6 @@
       "totalRaised": 0,
       "totalSpent": 0,
       "cashOnHand": 0,
-      "personalLoans": 0,
-      "contributionCount": 0,
-      "inStatePct": 0,
-      "outStatePct": 0
-    },
-    "david": {
-      "warChest": 0,
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 190.0,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
