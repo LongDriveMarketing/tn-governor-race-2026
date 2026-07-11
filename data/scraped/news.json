@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-10",
-  "lastScraped": "2026-07-10T18:32:03.536410+00:00",
+  "lastUpdated": "2026-07-11",
+  "lastScraped": "2026-07-11T00:33:56.604798+00:00",
   "articles": [
+    {
+      "id": "7a18ebbad5e2",
+      "date": "2026-07-11",
+      "title": "ICYMI: Blackburn: Tennessee Must Show America How to Stand Up to Communist China",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e6904989a56c",
+      "date": "2026-07-11",
+      "title": "Marsha Blackburn Releases First TV Ad in Race for Tennessee Governor",
+      "summary": "In The News, Press Release, Video",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "248a7300ee02",
+      "date": "2026-07-11",
+      "title": "Former Congressman Phil Roe Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "cfd2ace9518a",
       "date": "2026-07-10",
