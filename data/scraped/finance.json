@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-13",
-  "lastScraped": "2026-07-13T00:37:13.642223+00:00",
+  "lastScraped": "2026-07-13T07:11:27.238452+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -96,6 +96,18 @@
       "lastReportType": "2nd Quarter 2026"
     },
     {
+      "name": "Carnita Atwater",
+      "party": "dem",
+      "totalRaised": 1328.0,
+      "totalSpent": 1224.0,
+      "cashOnHand": 204.0,
+      "loansReceived": 0.0,
+      "warChest": 1328.0,
+      "reportsFiled": 10,
+      "lastReportDate": "07/12/2026",
+      "lastReportType": "2nd Quarter 2026"
+    },
+    {
       "name": "HATLEY, DAVID E.",
       "party": "unknown",
       "totalRaised": 1010.0,
@@ -165,18 +177,6 @@
       "reportsFiled": 3,
       "lastReportDate": "07/04/2026",
       "lastReportType": "2nd Quarter 2026"
-    },
-    {
-      "name": "Carnita Atwater",
-      "party": "dem",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 100.0,
-      "loansReceived": 0.0,
-      "warChest": 0.0,
-      "reportsFiled": 9,
-      "lastReportDate": "04/09/2026",
-      "lastReportType": "1st Quarter 2026"
     },
     {
       "name": "Cito Pellegra",
