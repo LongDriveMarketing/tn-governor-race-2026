@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-14",
-  "lastScraped": "2026-07-14T06:47:05.026263+00:00",
+  "lastScraped": "2026-07-14T12:29:38.458317+00:00",
   "articles": [
     {
       "id": "f69261fdfda1",
@@ -37,6 +37,21 @@
       "date": "2026-07-14",
       "title": "ICYMI: Blackburn: Tennessee Must Show America How to Stand Up to Communist China",
       "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ce92c7278592",
+      "date": "2026-07-14",
+      "title": "Marsha Blackburn Releases New TV Ad in Race for Tennessee Governor",
+      "summary": "In The News, Press Release, Video",
       "source": "Blackburn Campaign",
       "url": "",
       "party": "rep",
