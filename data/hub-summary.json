@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-14",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "21+",
@@ -108,9 +108,9 @@
       "outStatePct": 0
     },
     "ray": {
-      "warChest": 0.0,
-      "totalRaised": 0.0,
-      "totalSpent": 0.0,
+      "warChest": 0,
+      "totalRaised": 0,
+      "totalSpent": 0,
       "cashOnHand": 0.0,
       "personalLoans": 0,
       "contributionCount": 0,
@@ -263,51 +263,51 @@
   },
   "latestNews": [
     {
+      "title": "NRA Endorses Marsha Blackburn For Governor",
+      "source": "Blackburn Campaign",
+      "date": "2026-07-14",
+      "party": "rep"
+    },
+    {
+      "title": "In The News: Walley: Blackburn is Best Equipped to Lead Tennessee to Brighter Future",
+      "source": "Blackburn Campaign",
+      "date": "2026-07-14",
+      "party": "rep"
+    },
+    {
       "title": "ICYMI: Blackburn: Tennessee Must Show America How to Stand Up to Communist China",
       "source": "Blackburn Campaign",
-      "date": "2026-07-13",
-      "party": "rep"
-    },
-    {
-      "title": "Marsha Blackburn Releases First TV Ad in Race for Tennessee Governor",
-      "source": "Blackburn Campaign",
-      "date": "2026-07-13",
-      "party": "rep"
-    },
-    {
-      "title": "Former Congressman Phil Roe Endorses Marsha Blackburn for Governor",
-      "source": "Blackburn Campaign",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "party": "rep"
     }
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[48]",
+      "source": "Inside Elections[49]",
       "rating": "Solid R",
       "asOf": "August 28, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH[49]",
+      "source": "Race to the WH[50]",
       "rating": "Safe R",
       "asOf": "June 19, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[50]",
+      "source": "RealClearPolitics[51]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[51]",
+      "source": "Sabato's Crystal Ball[52]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[52]",
+      "source": "The Cook Political Report[53]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"

@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-13",
-  "lastScraped": "2026-07-13T18:35:09.942845+00:00",
+  "lastUpdated": "2026-07-14",
+  "lastScraped": "2026-07-14T00:32:22.178714+00:00",
   "articles": [
+    {
+      "id": "f69261fdfda1",
+      "date": "2026-07-14",
+      "title": "NRA Endorses Marsha Blackburn For Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ec5a9df620c0",
+      "date": "2026-07-14",
+      "title": "In The News: Walley: Blackburn is Best Equipped to Lead Tennessee to Brighter Future",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "51d9fe07950e",
+      "date": "2026-07-14",
+      "title": "ICYMI: Blackburn: Tennessee Must Show America How to Stand Up to Communist China",
+      "summary": "In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "c495fb9b40a5",
       "date": "2026-07-13",
