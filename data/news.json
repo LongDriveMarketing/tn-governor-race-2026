@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-14",
-  "lastMerged": "2026-07-14T18:27:12.875103+00:00",
+  "lastUpdated": "2026-07-15",
+  "lastMerged": "2026-07-15T00:30:42.196071+00:00",
   "articles": [
+    {
+      "id": "b510ebee7d5c",
+      "date": "2026-07-15",
+      "title": "Honor Our Veterans Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3ddf6cce6ca5",
+      "date": "2026-07-15",
+      "title": "Marsha Blackburn Releases New TV Ad in Race for Tennessee Governor",
+      "summary": "In The News, Press Release, Video",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "fa1d560ac4cd",
+      "date": "2026-07-15",
+      "title": "NRA Endorses Marsha Blackburn For Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "f69261fdfda1",
       "date": "2026-07-14",
@@ -60,6 +105,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "6e7ba06b3ce1",
+      "date": "2026-07-14",
+      "title": "Blackburn Campaign: ‘Tennessee is Not for Sale’",
+      "summary": "Blackburn’s internal poll paints a different picture from the one her opponent’s campaign released last week.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/blackburn-campaign-tennessee-is-not-for-sale",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
