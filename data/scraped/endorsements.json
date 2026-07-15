@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-20",
+  "lastUpdated": "2026-07-15",
   "candidates": {
     "blackburn": {
       "name": "Marsha Blackburn",
-      "count": "21+",
+      "count": "22+",
       "party": "rep",
       "label": "Republican Frontrunner"
     },
     "rose": {
       "name": "John Rose",
-      "count": "0",
+      "count": "5",
       "party": "rep",
       "label": "Republican Challenger"
     },
@@ -229,6 +229,48 @@
       "name": "Americans For Prosperity",
       "role": "Organizations",
       "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "National Rifle Association Political Victory Fund",
+      "role": "Organizations",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "rose",
+      "name": "Mae Beavers",
+      "role": "state senatorfrom the 17th district (2003-2017)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "rose",
+      "name": "David Livingston",
+      "role": "Haywood Countymayor",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "rose",
+      "name": "Crossville",
+      "role": "RJ Crawford,mayor",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "rose",
+      "name": "Allen Foster",
+      "role": "Cumberland Countymayor",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "rose",
+      "name": "Dennis Hunt",
+      "role": "Coffee Countymayor",
+      "type": "elected",
       "note": "Auto-detected from Wikipedia. Verify and add context."
     }
   ],
