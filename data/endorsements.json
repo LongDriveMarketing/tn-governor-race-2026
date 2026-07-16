@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-16",
   "candidates": {
     "blackburn": {
       "name": "Marsha Blackburn",
-      "count": "22+",
+      "count": "23+",
       "party": "rep",
       "label": "Republican Frontrunner"
     },
     "rose": {
       "name": "John Rose",
-      "count": "5",
+      "count": "6",
       "party": "rep",
       "label": "Republican Challenger"
     },
     "green": {
       "name": "Jerri Green",
-      "count": "7",
+      "count": "9",
       "party": "dem",
       "label": "Democratic Frontrunner"
     }
@@ -271,6 +271,41 @@
       "name": "Dennis Hunt",
       "role": "Coffee Countymayor",
       "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Matt Van Epps",
+      "role": "TN-07(2025–present)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "rose",
+      "name": "Burwell B. Bell III",
+      "role": "retiredUnited States Armyfour-star general",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "fritts",
+      "name": "[30]",
+      "role": "MAHA Institute",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "[54]",
+      "role": "Indivisible Tennessee",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "Planned Parenthood Action Fund",
+      "role": "Organizations",
+      "type": "org",
       "note": "Auto-detected from Wikipedia. Verify and add context."
     }
   ],

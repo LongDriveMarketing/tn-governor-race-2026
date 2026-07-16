@@ -1,47 +1,40 @@
 {
-  "generated": "2026-07-15T18:26:29.909781+00:00",
-  "count": 6,
+  "generated": "2026-07-16T18:26:45.467551+00:00",
+  "count": 5,
   "new_endorsements": [
     {
-      "name": "National Rifle Association Political Victory Fund",
-      "role": "Organizations",
+      "name": "Matt Van Epps",
+      "role": "TN-07(2025–present)",
       "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Burwell B. Bell III",
+      "role": "retiredUnited States Armyfour-star general",
+      "candidate": "rose",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[30]",
+      "role": "MAHA Institute",
+      "candidate": "fritts",
       "type": "org",
       "source": "Wikipedia"
     },
     {
-      "name": "Mae Beavers",
-      "role": "state senatorfrom the 17th district (2003-2017)",
-      "candidate": "rose",
-      "type": "elected",
+      "name": "[54]",
+      "role": "Indivisible Tennessee",
+      "candidate": "green",
+      "type": "org",
       "source": "Wikipedia"
     },
     {
-      "name": "David Livingston",
-      "role": "Haywood Countymayor",
-      "candidate": "rose",
-      "type": "elected",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "Crossville",
-      "role": "RJ Crawford,mayor",
-      "candidate": "rose",
-      "type": "elected",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "Allen Foster",
-      "role": "Cumberland Countymayor",
-      "candidate": "rose",
-      "type": "elected",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "Dennis Hunt",
-      "role": "Coffee Countymayor",
-      "candidate": "rose",
-      "type": "elected",
+      "name": "Planned Parenthood Action Fund",
+      "role": "Organizations",
+      "candidate": "green",
+      "type": "org",
       "source": "Wikipedia"
     }
   ]

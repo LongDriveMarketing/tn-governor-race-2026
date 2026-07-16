@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-16",
-  "lastScraped": "2026-07-16T14:42:13.755087+00:00",
+  "lastScraped": "2026-07-16T18:26:44.997695+00:00",
   "articles": [
     {
       "id": "dd4798e251e4",
@@ -36,6 +36,51 @@
       "id": "63a1fef67e18",
       "date": "2026-07-16",
       "title": "NRA Endorses Marsha Blackburn For Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8aefaf4888ba",
+      "date": "2026-07-16",
+      "title": "Sumner County GOP Primary Pits Different Views on School Choice",
+      "summary": "Brian Stewart supports giving families more school options, while his opponent, Chris Hughes, has reservations about expanding them.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/sumner-county-gop-primary-pits-different-views-on-school-choice",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "d2cd17b389a8",
+      "date": "2026-07-16",
+      "title": "Tennessee Fraternal Order of Police Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7ecba04e56c2",
+      "date": "2026-07-16",
+      "title": "In The News: Daily Wire: Why Marsha Blackburn Is The Right Choice For Tennessee",
       "summary": "Endorsements, In The News, Press Release",
       "source": "Blackburn Campaign",
       "url": "",
