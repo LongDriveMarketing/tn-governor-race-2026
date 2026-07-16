@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-15",
-  "lastScraped": "2026-07-15T18:26:29.672277+00:00",
+  "lastUpdated": "2026-07-16",
+  "lastScraped": "2026-07-16T00:33:32.248492+00:00",
   "articles": [
+    {
+      "id": "dd4798e251e4",
+      "date": "2026-07-16",
+      "title": "Honor Our Veterans Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "030125dc7cb2",
+      "date": "2026-07-16",
+      "title": "Marsha Blackburn Releases New TV Ad in Race for Tennessee Governor",
+      "summary": "In The News, Press Release, Video",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "63a1fef67e18",
+      "date": "2026-07-16",
+      "title": "NRA Endorses Marsha Blackburn For Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "b510ebee7d5c",
       "date": "2026-07-15",
