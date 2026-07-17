@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-16",
-  "lastScraped": "2026-07-16T18:26:44.997695+00:00",
+  "lastUpdated": "2026-07-17",
+  "lastScraped": "2026-07-17T00:35:14.618031+00:00",
   "articles": [
+    {
+      "id": "0ffdb5837ba6",
+      "date": "2026-07-17",
+      "title": "Tennessee Fraternal Order of Police Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b4b9a5f96d17",
+      "date": "2026-07-17",
+      "title": "In The News: Daily Wire: Why Marsha Blackburn Is The Right Choice For Tennessee",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "33c940f49b22",
+      "date": "2026-07-17",
+      "title": "Honor Our Veterans Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "dd4798e251e4",
       "date": "2026-07-16",
