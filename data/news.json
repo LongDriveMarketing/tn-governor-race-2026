@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-17",
-  "lastMerged": "2026-07-17T12:30:04.680289+00:00",
+  "lastMerged": "2026-07-17T18:25:06.617439+00:00",
   "articles": [
     {
       "id": "0ffdb5837ba6",
@@ -45,6 +45,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "22e779738d54",
+      "date": "2026-07-17",
+      "title": "School Choice Divides Candidates in East Tennessee GOP Primary",
+      "summary": "Dennis Beavers is running against the Education Freedom Scholarship program, while Senator Adam Lowe voted to expand it.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/school-choice-divides-candidates-in-east-tennessee-gop-primary",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
