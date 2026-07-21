@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-20",
-  "lastScraped": "2026-07-20T18:39:40.007002+00:00",
+  "lastUpdated": "2026-07-21",
+  "lastScraped": "2026-07-21T00:35:02.797368+00:00",
   "articles": [
+    {
+      "id": "58acd4648f74",
+      "date": "2026-07-21",
+      "title": "Tennessee Fraternal Order of Police Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "37beef4a1e66",
+      "date": "2026-07-21",
+      "title": "In The News: Daily Wire: Why Marsha Blackburn Is The Right Choice For Tennessee",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8f15de5fa5f6",
+      "date": "2026-07-21",
+      "title": "Honor Our Veterans Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "5af87436ce11",
       "date": "2026-07-20",
@@ -45,6 +90,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "6c03f6acf205",
+      "date": "2026-07-20",
+      "title": "West Tennessee Candidates Offer Different Solutions to Improve Education",
+      "summary": "Brett Giannini and Jason Fleming are vying to replace longtime State Representative Debra Moody.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/west-tennessee-candidates-offer-different-solutions-to-improve-education",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
