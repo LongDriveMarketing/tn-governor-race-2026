@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-21",
-  "lastScraped": "2026-07-21T14:42:52.108648+00:00",
+  "lastScraped": "2026-07-21T18:30:18.153448+00:00",
   "articles": [
     {
       "id": "58acd4648f74",
@@ -45,6 +45,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a95740b0767f",
+      "date": "2026-07-21",
+      "title": "Proposed Higher Education Funding Change Would Incorporate Trump’s New Grant Program",
+      "summary": "The Workforce Pell Grant is intended to match prospective workers with short-term training for high-demand jobs.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/proposed-higher-education-funding-change-would-incorporate-trump-s-new-grant-program",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
