@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-23",
-  "lastMerged": "2026-07-23T06:54:10.838723+00:00",
+  "lastMerged": "2026-07-23T12:36:13.334259+00:00",
   "articles": [
     {
       "id": "bf784d0195d5",
@@ -37,6 +37,21 @@
       "date": "2026-07-23",
       "title": "Honor Our Veterans Endorses Marsha Blackburn for Governor",
       "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7abb029dd9f3",
+      "date": "2026-07-23",
+      "title": "Bell To Bell: No Cell",
+      "summary": "In The News, Press Release, Video",
       "source": "Blackburn Campaign",
       "url": "",
       "party": "rep",
