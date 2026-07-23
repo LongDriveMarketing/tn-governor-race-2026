@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-22",
-  "lastScraped": "2026-07-22T18:27:43.545286+00:00",
+  "lastUpdated": "2026-07-23",
+  "lastScraped": "2026-07-23T00:35:45.508376+00:00",
   "articles": [
+    {
+      "id": "bf784d0195d5",
+      "date": "2026-07-23",
+      "title": "Tennessee Fraternal Order of Police Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "1515be5c1a1c",
+      "date": "2026-07-23",
+      "title": "In The News: Daily Wire: Why Marsha Blackburn Is The Right Choice For Tennessee",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4180a52c0600",
+      "date": "2026-07-23",
+      "title": "Honor Our Veterans Endorses Marsha Blackburn for Governor",
+      "summary": "Endorsements, In The News, Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "3de025305014",
       "date": "2026-07-22",
@@ -45,6 +90,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "04a8743bd0f7",
+      "date": "2026-07-22",
+      "title": "Bo McCawley Sides with Democrats on Key Education Issue in GOP Primary",
+      "summary": "McCawley faces school choice supporter Andy Swafford in East Tennessee’s House District 31 primary.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/bo-mccawley-sides-with-democrats-on-key-education-issue-in-gop-primary",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
