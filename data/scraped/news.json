@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-24",
-  "lastScraped": "2026-07-24T14:36:25.675537+00:00",
+  "lastScraped": "2026-07-24T18:32:36.179762+00:00",
   "articles": [
     {
       "id": "62c37d85a326",
@@ -15,6 +15,22 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9f209b268264",
+      "date": "2026-07-24",
+      "title": "Why Are Teacher Union Bosses Backing John Louallen in Tennessee House Race?",
+      "summary": "Louallen’s Education Freedom Scholarship opposition and TEA endorsement have become key issues in the House District 78 Republican primary.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/why-are-teacher-union-bosses-backing-john-louallen-in-tennessee-house-race",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy",
+        "campaign"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
