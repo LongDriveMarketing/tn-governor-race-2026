@@ -1,7 +1,22 @@
 {
-  "lastUpdated": "2026-07-23",
-  "lastMerged": "2026-07-23T18:30:14.201818+00:00",
+  "lastUpdated": "2026-07-24",
+  "lastMerged": "2026-07-24T00:33:55.646463+00:00",
   "articles": [
+    {
+      "id": "62c37d85a326",
+      "date": "2026-07-24",
+      "title": "Bell To Bell: No Cell",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "bf784d0195d5",
       "date": "2026-07-23",
@@ -60,6 +75,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f59f9a9b689e",
+      "date": "2026-07-23",
+      "title": "Marsha Blackburn Proposes Expanding State Law With “Bell-to-Bell” Cell Phone Ban",
+      "summary": "Though some criticized the proposal as duplicative of 2025 legislation, the ban addresses an important nuance in the law.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/marsha-blackburn-proposes-expanding-state-law-with-bell-to-bell-cell-phone-ban",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
