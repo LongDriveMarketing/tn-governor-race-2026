@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-24",
   "candidates": {
     "blackburn": {
       "name": "Marsha Blackburn",
@@ -15,7 +15,7 @@
     },
     "green": {
       "name": "Jerri Green",
-      "count": "9",
+      "count": "11",
       "party": "dem",
       "label": "Democratic Frontrunner"
     }
@@ -305,6 +305,20 @@
       "candidate": "green",
       "name": "Planned Parenthood Action Fund",
       "role": "Organizations",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "Heidi Campbell",
+      "role": "State Senator from the 20th District (2020-present)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "[55]",
+      "role": "Indivisible Tennessee",
       "type": "org",
       "note": "Auto-detected from Wikipedia. Verify and add context."
     }
