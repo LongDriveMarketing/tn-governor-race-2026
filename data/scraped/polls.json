@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-24",
-  "lastScraped": "2026-07-24T18:32:41.581136+00:00",
+  "lastUpdated": "2026-07-25",
+  "lastScraped": "2026-07-25T00:36:20.303587+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -90,19 +90,25 @@
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[66]",
+      "source": "Fox News[66]",
+      "rating": "Solid R",
+      "asOf": "July 23, 2026",
+      "scrapedFrom": "wikipedia"
+    },
+    {
+      "source": "RealClearPolitics[67]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[67]",
+      "source": "Sabato's Crystal Ball[68]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[68]",
+      "source": "The Cook Political Report[69]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
@@ -4955,5 +4961,5 @@
       ]
     }
   },
-  "analysis": "With 78 polls from 8 pollsters tracking the Republican primary, Blackburn leads at 60.6% over Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. Race ratings: Inside Elections: Solid R, Race to the WH: Safe R, RealClearPolitics: Solid R, Sabato's Crystal Ball: Safe R. Governor Lee's approval: 59% (Beacon Center / TennSight)."
+  "analysis": "With 78 polls from 8 pollsters tracking the Republican primary, Blackburn leads at 60.6% over Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. Race ratings: Inside Elections: Solid R, Race to the WH: Safe R, Fox News: Solid R, RealClearPolitics: Solid R. Governor Lee's approval: 59% (Beacon Center / TennSight)."
 }
