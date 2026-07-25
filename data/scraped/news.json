@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-25",
-  "lastScraped": "2026-07-25T14:33:00.837287+00:00",
+  "lastScraped": "2026-07-25T18:20:00.861471+00:00",
   "articles": [
     {
       "id": "ee55fbf70bb4",
@@ -13,6 +13,21 @@
       "candidate": "Blackburn",
       "tags": [
         "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "d48e215e4eba",
+      "date": "2026-07-25",
+      "title": "Hawaii's Democratic lieutenant governor indicted in state corruption investigation",
+      "summary": "A $35,000 bribe allegedly tied to a COVID-19 testing contract led to Sylvia Luke's indictment, with Gov. Josh Green calling for her resignation.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/hawaiis-democratic-lieutenant-governor-indicted-state-corruption-investigation",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
       ],
       "tnfirefly": false,
       "featured": false
