@@ -1,7 +1,22 @@
 {
-  "lastUpdated": "2026-07-25",
-  "lastMerged": "2026-07-25T18:21:22.938546+00:00",
+  "lastUpdated": "2026-07-26",
+  "lastMerged": "2026-07-26T00:40:05.344086+00:00",
   "articles": [
+    {
+      "id": "302f30ef141e",
+      "date": "2026-07-26",
+      "title": "Bell To Bell: No Cell",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "ee55fbf70bb4",
       "date": "2026-07-25",
