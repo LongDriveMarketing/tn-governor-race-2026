@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "23+",
@@ -275,6 +275,12 @@
     {
       "title": "Bell To Bell: No Cell",
       "source": "Blackburn Campaign",
+      "date": "2026-07-27",
+      "party": "rep"
+    },
+    {
+      "title": "Bell To Bell: No Cell",
+      "source": "Blackburn Campaign",
       "date": "2026-07-26",
       "party": "rep"
     },
@@ -283,12 +289,6 @@
       "source": "Blackburn Campaign",
       "date": "2026-07-25",
       "party": "rep"
-    },
-    {
-      "title": "Hawaii's Democratic lieutenant governor indicted in state corruption investigation",
-      "source": "Fox News",
-      "date": "2026-07-25",
-      "party": "general"
     }
   ],
   "raceRatings": [
