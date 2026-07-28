@@ -1,7 +1,22 @@
 {
-  "lastUpdated": "2026-07-27",
-  "lastMerged": "2026-07-27T18:35:04.659759+00:00",
+  "lastUpdated": "2026-07-28",
+  "lastMerged": "2026-07-28T00:35:43.095068+00:00",
   "articles": [
+    {
+      "id": "6688fa4b5396",
+      "date": "2026-07-28",
+      "title": "Bell To Bell: No Cell",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "7ac7ded14102",
       "date": "2026-07-27",
@@ -15,6 +30,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "e597e938fc40",
+      "date": "2026-07-27",
+      "title": "Todd Warner Facing Opposition After Voting Against Key Trump Policy",
+      "summary": "Warner’s opposition to private school choice and decision to run for two offices at the same time have become defining issues in his primary against Vincent Cuevas.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/todd-warner-facing-opposition-after-voting-against-key-trump-policy",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {

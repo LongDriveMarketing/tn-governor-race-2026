@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27",
+  "lastUpdated": "2026-07-28",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "23+",
@@ -87,21 +87,21 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
-    "larita": {
-      "warChest": 18.07,
-      "totalRaised": 18.07,
-      "totalSpent": 92.55,
-      "cashOnHand": 18.07,
+    "misam": {
+      "warChest": 50.0,
+      "totalRaised": 50.0,
+      "totalSpent": 8.0,
+      "cashOnHand": 65.61,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
       "outStatePct": 0
     },
-    "misam": {
-      "warChest": 5.0,
-      "totalRaised": 5.0,
-      "totalSpent": 125.0,
-      "cashOnHand": 23.61,
+    "larita": {
+      "warChest": 18.07,
+      "totalRaised": 18.07,
+      "totalSpent": 92.55,
+      "cashOnHand": 18.07,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -275,20 +275,20 @@
     {
       "title": "Bell To Bell: No Cell",
       "source": "Blackburn Campaign",
+      "date": "2026-07-28",
+      "party": "rep"
+    },
+    {
+      "title": "Bell To Bell: No Cell",
+      "source": "Blackburn Campaign",
       "date": "2026-07-27",
       "party": "rep"
     },
     {
-      "title": "Bell To Bell: No Cell",
-      "source": "Blackburn Campaign",
-      "date": "2026-07-26",
-      "party": "rep"
-    },
-    {
-      "title": "Bell To Bell: No Cell",
-      "source": "Blackburn Campaign",
-      "date": "2026-07-25",
-      "party": "rep"
+      "title": "Todd Warner Facing Opposition After Voting Against Key Trump Policy",
+      "source": "Tennessee Firefly",
+      "date": "2026-07-27",
+      "party": "general"
     }
   ],
   "raceRatings": [

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-27",
-  "lastScraped": "2026-07-27T18:35:04.646263+00:00",
+  "lastUpdated": "2026-07-28",
+  "lastScraped": "2026-07-28T00:35:43.077488+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -120,6 +120,18 @@
       "lastReportType": "2nd Quarter 2026"
     },
     {
+      "name": "ABIDI, MISAM",
+      "party": "unknown",
+      "totalRaised": 50.0,
+      "totalSpent": 8.0,
+      "cashOnHand": 65.61,
+      "loansReceived": 0.0,
+      "warChest": 50.0,
+      "reportsFiled": 3,
+      "lastReportDate": "07/27/2026",
+      "lastReportType": "Pre-Primary 2026"
+    },
+    {
       "name": "WEBB TAYLOR, LARITA",
       "party": "unknown",
       "totalRaised": 18.07,
@@ -130,18 +142,6 @@
       "reportsFiled": 2,
       "lastReportDate": "07/04/2026",
       "lastReportType": "1st Quarter 2026"
-    },
-    {
-      "name": "ABIDI, MISAM",
-      "party": "unknown",
-      "totalRaised": 5.0,
-      "totalSpent": 125.0,
-      "cashOnHand": 23.61,
-      "loansReceived": 0.0,
-      "warChest": 5.0,
-      "reportsFiled": 2,
-      "lastReportDate": "07/06/2026",
-      "lastReportType": "2nd Quarter 2026"
     },
     {
       "name": "BROWN, RAY",
