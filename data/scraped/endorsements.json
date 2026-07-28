@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-07-24",
+  "lastUpdated": "2026-07-28",
   "candidates": {
     "blackburn": {
       "name": "Marsha Blackburn",
-      "count": "23+",
+      "count": "27+",
       "party": "rep",
       "label": "Republican Frontrunner"
     },
     "rose": {
       "name": "John Rose",
-      "count": "6",
+      "count": "7",
       "party": "rep",
       "label": "Republican Challenger"
     },
     "green": {
       "name": "Jerri Green",
-      "count": "11",
+      "count": "12",
       "party": "dem",
       "label": "Democratic Frontrunner"
     }
@@ -318,6 +318,55 @@
     {
       "candidate": "green",
       "name": "[55]",
+      "role": "Indivisible Tennessee",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Tom Hatcher",
+      "role": "state senatorfrom the2nd district(2025–present)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Page Walley",
+      "role": "state senatorfrom the24th district(2021–present)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "[26]",
+      "role": "Tennessee Chamber of Commerce & Industry",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "[27]",
+      "role": "Tennessee Professional Fire Fighters Association",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "rose",
+      "name": "Diane Black",
+      "role": "formerTN-06(2011–2019)",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "fritts",
+      "name": "[36]",
+      "role": "MAHA Institute",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "[61]",
       "role": "Indivisible Tennessee",
       "type": "org",
       "note": "Auto-detected from Wikipedia. Verify and add context."

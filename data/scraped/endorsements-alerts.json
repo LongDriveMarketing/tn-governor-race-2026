@@ -1,16 +1,51 @@
 {
-  "generated": "2026-07-24T12:32:46.758374+00:00",
-  "count": 2,
+  "generated": "2026-07-28T18:31:21.272984+00:00",
+  "count": 7,
   "new_endorsements": [
     {
-      "name": "Heidi Campbell",
-      "role": "State Senator from the 20th District (2020-present)",
-      "candidate": "green",
+      "name": "Tom Hatcher",
+      "role": "state senatorfrom the2nd district(2025–present)",
+      "candidate": "blackburn",
       "type": "elected",
       "source": "Wikipedia"
     },
     {
-      "name": "[55]",
+      "name": "Page Walley",
+      "role": "state senatorfrom the24th district(2021–present)",
+      "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[26]",
+      "role": "Tennessee Chamber of Commerce & Industry",
+      "candidate": "blackburn",
+      "type": "org",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[27]",
+      "role": "Tennessee Professional Fire Fighters Association",
+      "candidate": "blackburn",
+      "type": "org",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Diane Black",
+      "role": "formerTN-06(2011–2019)",
+      "candidate": "rose",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[36]",
+      "role": "MAHA Institute",
+      "candidate": "fritts",
+      "type": "org",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[61]",
       "role": "Indivisible Tennessee",
       "candidate": "green",
       "type": "org",

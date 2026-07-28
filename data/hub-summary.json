@@ -2,9 +2,9 @@
   "lastUpdated": "2026-07-28",
   "candidates": {},
   "endorsementCounts": {
-    "blackburn": "23+",
-    "rose": "6",
-    "green": "11"
+    "blackburn": "27+",
+    "rose": "7",
+    "green": "12"
   },
   "finance": {
     "rose": {
@@ -293,37 +293,37 @@
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[64]",
+      "source": "Inside Elections[70]",
       "rating": "Solid R",
       "asOf": "August 28, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH[65]",
+      "source": "Race to the WH[71]",
       "rating": "Safe R",
       "asOf": "June 19, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Fox News[66]",
+      "source": "Fox News[72]",
       "rating": "Solid R",
       "asOf": "July 23, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[67]",
+      "source": "RealClearPolitics[73]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[68]",
+      "source": "Sabato's Crystal Ball[74]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[69]",
+      "source": "The Cook Political Report[75]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
