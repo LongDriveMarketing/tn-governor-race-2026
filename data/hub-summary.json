@@ -57,16 +57,6 @@
       "inStatePct": 88,
       "outStatePct": 12
     },
-    "david": {
-      "warChest": 2596.0,
-      "totalRaised": 2596.0,
-      "totalSpent": 279.32,
-      "cashOnHand": 2506.68,
-      "personalLoans": 0,
-      "contributionCount": 0,
-      "inStatePct": 0,
-      "outStatePct": 0
-    },
     "atwater": {
       "warChest": 1328.0,
       "totalRaised": 1328.0,
@@ -82,6 +72,16 @@
       "totalRaised": 1010.0,
       "totalSpent": 227763.48,
       "cashOnHand": 1743381.31,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
+    "david": {
+      "warChest": 698.0,
+      "totalRaised": 698.0,
+      "totalSpent": 3011.24,
+      "cashOnHand": 193.44,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
