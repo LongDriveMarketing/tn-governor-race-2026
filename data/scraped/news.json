@@ -1,11 +1,26 @@
 {
   "lastUpdated": "2026-07-30",
-  "lastScraped": "2026-07-30T14:46:21.662835+00:00",
+  "lastScraped": "2026-07-30T18:32:16.512361+00:00",
   "articles": [
     {
       "id": "997583c2222d",
       "date": "2026-07-30",
       "title": "Bell To Bell: No Cell",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "57a05f66e9ca",
+      "date": "2026-07-30",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
       "summary": "Press Release",
       "source": "Blackburn Campaign",
       "url": "",

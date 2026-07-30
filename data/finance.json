@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-30",
-  "lastScraped": "2026-07-30T12:37:45.916200+00:00",
+  "lastScraped": "2026-07-30T18:33:41.036341+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -84,18 +84,6 @@
       "lastReportType": "2nd Quarter 2026"
     },
     {
-      "name": "HATLEY, DAVID E.",
-      "party": "unknown",
-      "totalRaised": 1010.0,
-      "totalSpent": 227763.48,
-      "cashOnHand": 1743381.31,
-      "loansReceived": 0.0,
-      "warChest": 1010.0,
-      "reportsFiled": 2,
-      "lastReportDate": "07/09/2026",
-      "lastReportType": "2nd Quarter 2026"
-    },
-    {
       "name": "SEEMAN, DAVID",
       "party": "unknown",
       "totalRaised": 698.0,
@@ -105,6 +93,18 @@
       "warChest": 698.0,
       "reportsFiled": 3,
       "lastReportDate": "07/29/2026",
+      "lastReportType": "Pre-Primary 2026"
+    },
+    {
+      "name": "HATLEY, DAVID E.",
+      "party": "unknown",
+      "totalRaised": 470.0,
+      "totalSpent": 999400.7,
+      "cashOnHand": 5741380.61,
+      "loansReceived": 0,
+      "warChest": 470.0,
+      "reportsFiled": 3,
+      "lastReportDate": "07/30/2026",
       "lastReportType": "Pre-Primary 2026"
     },
     {
@@ -287,12 +287,12 @@
       "party": "dem",
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0.0,
+      "cashOnHand": 146.5,
       "loansReceived": 0.0,
       "warChest": 0.0,
-      "reportsFiled": 4,
-      "lastReportDate": "07/02/2026",
-      "lastReportType": "2nd Quarter 2026"
+      "reportsFiled": 5,
+      "lastReportDate": "07/30/2026",
+      "lastReportType": "Pre-Primary 2026"
     },
     {
       "name": "SMITH, JASON MICHAEL",
@@ -307,5 +307,5 @@
     }
   ],
   "analysis": "The money race reveals two fundamentally different Republican strategies. Rose bet big on himself — a $5M personal loan plus $1.46M raised, all while keeping 92% of his donors in-state. Blackburn countered with sheer volume: 33,000 contributions totaling $5.5M, leveraging her national Senate donor network. Rose is hammering her 78% out-of-state rate in ads; Blackburn argues the volume shows grassroots enthusiasm. On the Democratic side, fundraising reflects the party's structural disadvantage in Tennessee statewide races — Green leads with $125K, a fraction of either Republican's total.",
-  "lastMerged": "2026-07-30T12:37:45.954857+00:00"
+  "lastMerged": "2026-07-30T18:33:41.072754+00:00"
 }

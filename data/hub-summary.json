@@ -57,21 +57,21 @@
       "inStatePct": 0,
       "outStatePct": 0
     },
-    "e.": {
-      "warChest": 1010.0,
-      "totalRaised": 1010.0,
-      "totalSpent": 227763.48,
-      "cashOnHand": 1743381.31,
-      "personalLoans": 0,
-      "contributionCount": 0,
-      "inStatePct": 0,
-      "outStatePct": 0
-    },
     "david": {
       "warChest": 698.0,
       "totalRaised": 698.0,
       "totalSpent": 3011.24,
       "cashOnHand": 193.44,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
+    },
+    "e.": {
+      "warChest": 470.0,
+      "totalRaised": 470.0,
+      "totalSpent": 999400.7,
+      "cashOnHand": 5741380.61,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -221,7 +221,7 @@
       "warChest": 0,
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0.0,
+      "cashOnHand": 146.5,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -279,15 +279,15 @@
       "party": "rep"
     },
     {
-      "title": "Bell To Bell: No Cell",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
       "source": "Blackburn Campaign",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "party": "rep"
     },
     {
       "title": "Bell To Bell: No Cell",
       "source": "Blackburn Campaign",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "party": "rep"
     }
   ],
