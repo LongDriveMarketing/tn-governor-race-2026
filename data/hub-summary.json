@@ -4,7 +4,7 @@
   "endorsementCounts": {
     "blackburn": "27+",
     "rose": "7",
-    "green": "12"
+    "green": "13"
   },
   "finance": {
     "rose": {
@@ -46,16 +46,6 @@
       "contributionCount": 0,
       "inStatePct": 0,
       "outStatePct": 0
-    },
-    "kurtz": {
-      "warChest": 2752.99,
-      "totalRaised": 2752.99,
-      "totalSpent": 3150.53,
-      "cashOnHand": 3249.99,
-      "personalLoans": 0,
-      "contributionCount": 620,
-      "inStatePct": 88,
-      "outStatePct": 12
     },
     "atwater": {
       "warChest": 1328.0,
@@ -136,6 +126,16 @@
       "contributionCount": 0,
       "inStatePct": 0,
       "outStatePct": 0
+    },
+    "kurtz": {
+      "warChest": 0,
+      "totalRaised": 0,
+      "totalSpent": 0,
+      "cashOnHand": 3619.05,
+      "personalLoans": 0,
+      "contributionCount": 620,
+      "inStatePct": 88,
+      "outStatePct": 12
     },
     "pellegra": {
       "warChest": 0,
@@ -293,37 +293,37 @@
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[70]",
+      "source": "Inside Elections[60]",
       "rating": "Solid R",
       "asOf": "August 28, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH[71]",
+      "source": "Race to the WH[61]",
       "rating": "Safe R",
       "asOf": "June 19, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Fox News[72]",
+      "source": "Fox News[62]",
       "rating": "Solid R",
       "asOf": "July 23, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[73]",
+      "source": "RealClearPolitics[63]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[74]",
+      "source": "Sabato's Crystal Ball[64]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[75]",
+      "source": "The Cook Political Report[65]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"

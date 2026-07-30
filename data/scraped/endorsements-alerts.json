@@ -1,52 +1,10 @@
 {
-  "generated": "2026-07-28T18:31:21.272984+00:00",
-  "count": 7,
+  "generated": "2026-07-30T06:55:49.149649+00:00",
+  "count": 1,
   "new_endorsements": [
     {
-      "name": "Tom Hatcher",
-      "role": "state senatorfrom the2nd district(2025–present)",
-      "candidate": "blackburn",
-      "type": "elected",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "Page Walley",
-      "role": "state senatorfrom the24th district(2021–present)",
-      "candidate": "blackburn",
-      "type": "elected",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "[26]",
-      "role": "Tennessee Chamber of Commerce & Industry",
-      "candidate": "blackburn",
-      "type": "org",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "[27]",
-      "role": "Tennessee Professional Fire Fighters Association",
-      "candidate": "blackburn",
-      "type": "org",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "Diane Black",
-      "role": "formerTN-06(2011–2019)",
-      "candidate": "rose",
-      "type": "elected",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "[36]",
-      "role": "MAHA Institute",
-      "candidate": "fritts",
-      "type": "org",
-      "source": "Wikipedia"
-    },
-    {
-      "name": "[61]",
-      "role": "Indivisible Tennessee",
+      "name": "Indivisible",
+      "role": "Tennessee",
       "candidate": "green",
       "type": "org",
       "source": "Wikipedia"

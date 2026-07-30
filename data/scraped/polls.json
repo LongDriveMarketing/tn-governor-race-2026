@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-30",
-  "lastScraped": "2026-07-30T00:32:44.628369+00:00",
+  "lastScraped": "2026-07-30T06:55:57.239344+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -78,37 +78,37 @@
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[70]",
+      "source": "Inside Elections[60]",
       "rating": "Solid R",
       "asOf": "August 28, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH[71]",
+      "source": "Race to the WH[61]",
       "rating": "Safe R",
       "asOf": "June 19, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Fox News[72]",
+      "source": "Fox News[62]",
       "rating": "Solid R",
       "asOf": "July 23, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[73]",
+      "source": "RealClearPolitics[63]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[74]",
+      "source": "Sabato's Crystal Ball[64]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[75]",
+      "source": "The Cook Political Report[65]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
@@ -632,6 +632,35 @@
     {
       "id": "targoz-market-research-48-c-2025-07-27-republican-primary",
       "pollster": "Targoz Market Research[48][C]",
+      "pollsterLean": "",
+      "date": "2025-07-27",
+      "endDate": "2025-08-01",
+      "type": "republican_primary",
+      "sampleSize": "623 (RV)",
+      "margin": "±2.8%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 66.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 14.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 19.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "targoz-market-research-43-c-2025-07-27-republican-primary",
+      "pollster": "Targoz Market Research[43][C]",
       "pollsterLean": "",
       "date": "2025-07-27",
       "endDate": "2025-08-01",
@@ -2262,33 +2291,23 @@
       "date": "",
       "endDate": "",
       "type": "republican_primary",
-      "sampleSize": "559 (LV)",
-      "margin": "1%[b]",
+      "sampleSize": "400 (LV)",
+      "margin": "±4.8%",
       "results": [
         {
-          "candidate": "Blackburn",
-          "party": "rep",
-          "pct": 56.0
+          "candidate": "Atwater",
+          "party": "dem",
+          "pct": 8.0
         },
         {
-          "candidate": "Rose",
-          "party": "rep",
-          "pct": 9.0
-        },
-        {
-          "candidate": "Fritts",
-          "party": "rep",
-          "pct": 7.0
-        },
-        {
-          "candidate": "Other",
-          "party": "",
-          "pct": 1.0
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 14.0
         },
         {
           "candidate": "Undecided",
           "party": "",
-          "pct": 27.0
+          "pct": 62.0
         }
       ],
       "source": "wikipedia",
@@ -2568,13 +2587,13 @@
       "date": "",
       "endDate": "",
       "type": "republican_primary",
-      "sampleSize": "545 (RV)",
-      "margin": "",
+      "sampleSize": "559 (LV)",
+      "margin": "1%[b]",
       "results": [
         {
           "candidate": "Blackburn",
           "party": "rep",
-          "pct": 58.0
+          "pct": 56.0
         },
         {
           "candidate": "Rose",
@@ -2584,12 +2603,17 @@
         {
           "candidate": "Fritts",
           "party": "rep",
-          "pct": 5.0
+          "pct": 7.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 1.0
         },
         {
           "candidate": "Undecided",
           "party": "",
-          "pct": 29.0
+          "pct": 27.0
         }
       ],
       "source": "wikipedia",
@@ -2932,23 +2956,159 @@
       "date": "",
       "endDate": "",
       "type": "republican_primary",
-      "sampleSize": "400 (LV)",
-      "margin": "±4.8%",
+      "sampleSize": "545 (RV)",
+      "margin": "",
       "results": [
         {
-          "candidate": "Atwater",
-          "party": "dem",
-          "pct": 8.0
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 58.0
         },
         {
-          "candidate": "Green",
-          "party": "dem",
-          "pct": 14.0
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 9.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 5.0
         },
         {
           "candidate": "Undecided",
           "party": "",
-          "pct": 62.0
+          "pct": 29.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "fabrizio-lee-associates-r-34-a-unknown-republican-primary",
+      "pollster": "Fabrizio, Lee & Associates(R)[34][A]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "",
+      "margin": "",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 51.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 20.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 12.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 17.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "mclaughlin-associates-r-35-b-unknown-republican-primary",
+      "pollster": "McLaughlin & Associates(R)[35][B]",
+      "pollsterLean": "",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "600 (LV)",
+      "margin": "",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 44.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 29.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 13.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 14.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "quantus-insights-r-42-unknown-republican-primary",
+      "pollster": "Quantus Insights (R)[42]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "",
+      "margin": "22%[c]",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 35.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 6.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 22.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 37.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "fabrizio-lee-associates-r-44-45-a-unknown-republican-primary",
+      "pollster": "Fabrizio, Lee & Associates(R)[44][45][A]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "800 (LV)",
+      "margin": "±3.5%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 71.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 13.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 16.0
         }
       ],
       "source": "wikipedia",
@@ -4175,10 +4335,110 @@
       "source": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
       "matchup": "Rose vs Green"
+    },
+    {
+      "id": "targoz-market-research-36-c-unknown-general-hypothetical",
+      "pollster": "Targoz Market Research[36][C]",
+      "pollsterLean": "",
+      "date": "",
+      "endDate": "",
+      "type": "general_hypothetical",
+      "sampleSize": "1,200 (RV)",
+      "margin": "±2.8%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 51.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 27.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 22.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
+      "matchup": "Blackburn vs Green"
+    },
+    {
+      "id": "quantus-insights-r-42-unknown-general-hypothetical",
+      "pollster": "Quantus Insights (R)[42]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "general_hypothetical",
+      "sampleSize": "600 (RV)",
+      "margin": "7%[d]",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 49.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 28.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 7.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 17.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
+      "matchup": "Blackburn vs Green"
+    },
+    {
+      "id": "quantus-insights-r-42-unknown-general-hypothetical",
+      "pollster": "Quantus Insights (R)[42]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "general_hypothetical",
+      "sampleSize": "600 (RV)",
+      "margin": "8%[e]",
+      "results": [
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 43.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 27.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 8.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 23.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
+      "matchup": "Rose vs Green"
     }
   ],
   "trendline": {
-    "description": "Across 79 polls from 73 pollsters, Blackburn's support has moved from 56.0% to 60.6% (+4.6 pts). Undecided voters at 26.1%, representing the key battleground.",
+    "description": "Across 84 polls from 77 pollsters, Blackburn's support has moved from 56.0% to 60.6% (+4.6 pts). Undecided voters at 26.1%, representing the key battleground.",
     "data": [
       {
         "date": "",
@@ -4517,15 +4777,6 @@
       },
       {
         "date": "",
-        "pollster": "Targoz Market Research[36][C]",
-        "blackburn": 56.0,
-        "rose": 9.0,
-        "fritts": 7.0,
-        "other": 1.0,
-        "undecided": 27.0
-      },
-      {
-        "date": "",
         "pollster": "Targoz Market Research[37][C]",
         "blackburn": 58.0,
         "rose": 9.0,
@@ -4583,10 +4834,11 @@
       {
         "date": "",
         "pollster": "Targoz Market Research[40][C]",
-        "blackburn": 58.0,
+        "blackburn": 56.0,
         "rose": 9.0,
-        "fritts": 5.0,
-        "undecided": 29.0
+        "fritts": 7.0,
+        "other": 1.0,
+        "undecided": 27.0
       },
       {
         "date": "",
@@ -4655,6 +4907,45 @@
       {
         "date": "",
         "pollster": "Fabrizio, Lee & Associates(R)[49][50][A]",
+        "blackburn": 71.0,
+        "rose": 13.0,
+        "undecided": 16.0
+      },
+      {
+        "date": "",
+        "pollster": "Targoz Market Research[41][C]",
+        "blackburn": 58.0,
+        "rose": 9.0,
+        "fritts": 5.0,
+        "undecided": 29.0
+      },
+      {
+        "date": "",
+        "pollster": "Fabrizio, Lee & Associates(R)[34][A]",
+        "blackburn": 51.0,
+        "rose": 20.0,
+        "fritts": 12.0,
+        "undecided": 17.0
+      },
+      {
+        "date": "",
+        "pollster": "McLaughlin & Associates(R)[35][B]",
+        "blackburn": 44.0,
+        "rose": 29.0,
+        "fritts": 13.0,
+        "undecided": 14.0
+      },
+      {
+        "date": "",
+        "pollster": "Quantus Insights (R)[42]",
+        "blackburn": 35.0,
+        "rose": 6.0,
+        "other": 22.0,
+        "undecided": 37.0
+      },
+      {
+        "date": "",
+        "pollster": "Fabrizio, Lee & Associates(R)[44][45][A]",
         "blackburn": 71.0,
         "rose": 13.0,
         "undecided": 16.0
@@ -4753,6 +5044,13 @@
       {
         "date": "2025-07-27",
         "pollster": "Targoz Market Research[48][C]",
+        "blackburn": 66.0,
+        "rose": 14.0,
+        "undecided": 19.0
+      },
+      {
+        "date": "2025-07-27",
+        "pollster": "Targoz Market Research[43][C]",
         "blackburn": 66.0,
         "rose": 14.0,
         "undecided": 19.0
@@ -5420,5 +5718,5 @@
       ]
     }
   },
-  "analysis": "With 87 polls from 8 pollsters tracking the Republican primary, Blackburn leads at 60.6% over Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. Race ratings: Inside Elections: Solid R, Race to the WH: Safe R, Fox News: Solid R, RealClearPolitics: Solid R. Governor Lee's approval: 59% (Beacon Center / TennSight)."
+  "analysis": "With 92 polls from 8 pollsters tracking the Republican primary, Blackburn leads at 60.6% over Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. Race ratings: Inside Elections: Solid R, Race to the WH: Safe R, Fox News: Solid R, RealClearPolitics: Solid R. Governor Lee's approval: 59% (Beacon Center / TennSight)."
 }

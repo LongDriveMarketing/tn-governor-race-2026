@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28",
+  "lastUpdated": "2026-07-30",
   "candidates": {
     "blackburn": {
       "name": "Marsha Blackburn",
@@ -15,7 +15,7 @@
     },
     "green": {
       "name": "Jerri Green",
-      "count": "12",
+      "count": "13",
       "party": "dem",
       "label": "Democratic Frontrunner"
     }
@@ -368,6 +368,13 @@
       "candidate": "green",
       "name": "[61]",
       "role": "Indivisible Tennessee",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "green",
+      "name": "Indivisible",
+      "role": "Tennessee",
       "type": "org",
       "note": "Auto-detected from Wikipedia. Verify and add context."
     }
