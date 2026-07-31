@@ -1,7 +1,22 @@
 {
-  "lastUpdated": "2026-07-30",
-  "lastScraped": "2026-07-30T18:32:16.512361+00:00",
+  "lastUpdated": "2026-07-31",
+  "lastScraped": "2026-07-31T00:36:51.109068+00:00",
   "articles": [
+    {
+      "id": "59c361915dc5",
+      "date": "2026-07-31",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "997583c2222d",
       "date": "2026-07-30",
