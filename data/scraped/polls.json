@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-07-31",
-  "lastScraped": "2026-07-31T12:40:26.442532+00:00",
+  "lastScraped": "2026-07-31T18:32:42.219728+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -3506,6 +3506,103 @@
       ],
       "source": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "fabrizio-lee-associates-r-36-a-unknown-republican-primary",
+      "pollster": "Fabrizio, Lee & Associates(R)[36][A]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "",
+      "margin": "",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 51.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 20.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 12.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 17.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "mclaughlin-associates-r-37-b-unknown-republican-primary",
+      "pollster": "McLaughlin & Associates(R)[37][B]",
+      "pollsterLean": "",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "600 (LV)",
+      "margin": "",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 44.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 29.0
+        },
+        {
+          "candidate": "Fritts",
+          "party": "rep",
+          "pct": 13.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 14.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
+    },
+    {
+      "id": "fabrizio-lee-associates-r-46-47-a-unknown-republican-primary",
+      "pollster": "Fabrizio, Lee & Associates(R)[46][47][A]",
+      "pollsterLean": "R",
+      "date": "",
+      "endDate": "",
+      "type": "republican_primary",
+      "sampleSize": "800 (LV)",
+      "margin": "±3.5%",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 71.0
+        },
+        {
+          "candidate": "Rose",
+          "party": "rep",
+          "pct": 13.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 16.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling"
     }
   ],
   "generalPolls": [
@@ -4931,7 +5028,7 @@
     }
   ],
   "trendline": {
-    "description": "Across 95 polls from 85 pollsters, Blackburn's support has moved from 56.0% to 60.6% (+4.6 pts). Undecided voters at 26.1%, representing the key battleground.",
+    "description": "Across 98 polls from 88 pollsters, Blackburn's support has moved from 56.0% to 60.6% (+4.6 pts). Undecided voters at 26.1%, representing the key battleground.",
     "data": [
       {
         "date": "",
@@ -5518,6 +5615,29 @@
       {
         "date": "",
         "pollster": "Fabrizio, Lee & Associates(R)[46][47][B]",
+        "blackburn": 71.0,
+        "rose": 13.0,
+        "undecided": 16.0
+      },
+      {
+        "date": "",
+        "pollster": "Fabrizio, Lee & Associates(R)[36][A]",
+        "blackburn": 51.0,
+        "rose": 20.0,
+        "fritts": 12.0,
+        "undecided": 17.0
+      },
+      {
+        "date": "",
+        "pollster": "McLaughlin & Associates(R)[37][B]",
+        "blackburn": 44.0,
+        "rose": 29.0,
+        "fritts": 13.0,
+        "undecided": 14.0
+      },
+      {
+        "date": "",
+        "pollster": "Fabrizio, Lee & Associates(R)[46][47][A]",
         "blackburn": 71.0,
         "rose": 13.0,
         "undecided": 16.0
@@ -6311,5 +6431,5 @@
       ]
     }
   },
-  "analysis": "With 104 polls from 8 pollsters tracking the Republican primary, Blackburn leads at 60.6% over Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. Race ratings: Inside Elections: Solid R, Race to the WH: Safe R, Fox News: Solid R, RealClearPolitics: Solid R. Governor Lee's approval: 59% (Beacon Center / TennSight)."
+  "analysis": "With 107 polls from 8 pollsters tracking the Republican primary, Blackburn leads at 60.6% over Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. Race ratings: Inside Elections: Solid R, Race to the WH: Safe R, Fox News: Solid R, RealClearPolitics: Solid R. Governor Lee's approval: 59% (Beacon Center / TennSight)."
 }
