@@ -10,8 +10,8 @@
     "rose": {
       "warChest": 6456044,
       "totalRaised": 1456044,
-      "totalSpent": 7243510.87,
-      "cashOnHand": 1465053.5,
+      "totalSpent": 4914271.43,
+      "cashOnHand": 661213.69,
       "personalLoans": 5000000,
       "contributionCount": 4200,
       "inStatePct": 92,
@@ -28,10 +28,10 @@
       "outStatePct": 0
     },
     "fritts": {
-      "warChest": 95353.37,
-      "totalRaised": 80353.37,
-      "totalSpent": 91262.97,
-      "cashOnHand": 62209.26,
+      "warChest": 54094.52,
+      "totalRaised": 39094.52,
+      "totalSpent": 73700.06,
+      "cashOnHand": 27603.72,
       "personalLoans": 15000,
       "contributionCount": 180,
       "inStatePct": 95,
@@ -293,37 +293,37 @@
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[60]",
+      "source": "Inside Elections[62]",
       "rating": "Solid R",
       "asOf": "August 28, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH[61]",
+      "source": "Race to the WH[63]",
       "rating": "Safe R",
       "asOf": "June 19, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Fox News[62]",
+      "source": "Fox News[64]",
       "rating": "Solid R",
       "asOf": "July 23, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[63]",
+      "source": "RealClearPolitics[65]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[64]",
+      "source": "Sabato's Crystal Ball[66]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[65]",
+      "source": "The Cook Political Report[67]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
