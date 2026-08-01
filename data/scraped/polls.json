@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31",
-  "lastScraped": "2026-07-31T18:32:42.219728+00:00",
+  "lastUpdated": "2026-08-01",
+  "lastScraped": "2026-08-01T00:36:08.244525+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -78,37 +78,37 @@
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[62]",
+      "source": "Inside Elections[64]",
       "rating": "Solid R",
       "asOf": "August 28, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH[63]",
+      "source": "Race to the WH[65]",
       "rating": "Safe R",
       "asOf": "June 19, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Fox News[64]",
+      "source": "Fox News[66]",
       "rating": "Solid R",
       "asOf": "July 23, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[65]",
+      "source": "RealClearPolitics[67]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[66]",
+      "source": "Sabato's Crystal Ball[68]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[67]",
+      "source": "The Cook Political Report[69]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
