@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01",
+  "lastUpdated": "2026-08-02",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "27+",
@@ -275,6 +275,12 @@
     {
       "title": "Fighting for Memphis. Keeping Tennessee Safe.",
       "source": "Blackburn Campaign",
+      "date": "2026-08-02",
+      "party": "rep"
+    },
+    {
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "source": "Blackburn Campaign",
       "date": "2026-08-01",
       "party": "rep"
     },
@@ -282,12 +288,6 @@
       "title": "Fighting for Memphis. Keeping Tennessee Safe.",
       "source": "Blackburn Campaign",
       "date": "2026-07-31",
-      "party": "rep"
-    },
-    {
-      "title": "Bell To Bell: No Cell",
-      "source": "Blackburn Campaign",
-      "date": "2026-07-30",
       "party": "rep"
     }
   ],
