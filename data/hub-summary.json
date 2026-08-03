@@ -38,10 +38,10 @@
       "outStatePct": 5
     },
     "vick": {
-      "warChest": 3500.0,
-      "totalRaised": 3500.0,
-      "totalSpent": 3627.42,
-      "cashOnHand": 587.2,
+      "warChest": 2250.0,
+      "totalRaised": 2250.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 2837.2,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -279,15 +279,15 @@
       "party": "rep"
     },
     {
-      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
       "source": "Blackburn Campaign",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "party": "rep"
     },
     {
       "title": "Fighting for Memphis. Keeping Tennessee Safe.",
       "source": "Blackburn Campaign",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "party": "rep"
     }
   ],
