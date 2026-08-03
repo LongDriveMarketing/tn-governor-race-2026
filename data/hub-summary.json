@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02",
+  "lastUpdated": "2026-08-03",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "27+",
@@ -88,10 +88,10 @@
       "outStatePct": 0
     },
     "larita": {
-      "warChest": 18.07,
-      "totalRaised": 18.07,
-      "totalSpent": 92.55,
-      "cashOnHand": 18.07,
+      "warChest": 0.02,
+      "totalRaised": 0.02,
+      "totalSpent": 0.0,
+      "cashOnHand": 93.09,
       "personalLoans": 0,
       "contributionCount": 0,
       "inStatePct": 0,
@@ -275,6 +275,12 @@
     {
       "title": "Fighting for Memphis. Keeping Tennessee Safe.",
       "source": "Blackburn Campaign",
+      "date": "2026-08-03",
+      "party": "rep"
+    },
+    {
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "source": "Blackburn Campaign",
       "date": "2026-08-02",
       "party": "rep"
     },
@@ -283,47 +289,41 @@
       "source": "Blackburn Campaign",
       "date": "2026-08-01",
       "party": "rep"
-    },
-    {
-      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
-      "source": "Blackburn Campaign",
-      "date": "2026-07-31",
-      "party": "rep"
     }
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[64]",
+      "source": "Inside Elections[65]",
       "rating": "Solid R",
       "asOf": "August 28, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH[65]",
+      "source": "Race to the WH[66]",
       "rating": "Safe R",
       "asOf": "June 19, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Fox News[66]",
+      "source": "Fox News[67]",
       "rating": "Solid R",
       "asOf": "July 23, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[67]",
+      "source": "RealClearPolitics[68]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[68]",
+      "source": "Sabato's Crystal Ball[69]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[69]",
+      "source": "The Cook Political Report[70]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
