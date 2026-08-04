@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-04",
-  "lastScraped": "2026-08-04T12:41:33.878602+00:00",
+  "lastScraped": "2026-08-04T18:34:55.235438+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
@@ -41,13 +41,13 @@
     {
       "name": "Monty Fritts",
       "party": "rep",
-      "totalRaised": 39094.52,
-      "totalSpent": 73700.06,
-      "cashOnHand": 27603.72,
+      "totalRaised": 41484.52,
+      "totalSpent": 76319.4,
+      "cashOnHand": 27374.38,
       "loansReceived": 0.0,
-      "warChest": 39094.52,
+      "warChest": 41484.52,
       "reportsFiled": 4,
-      "lastReportDate": "07/31/2026",
+      "lastReportDate": "08/04/2026",
       "lastReportType": "Pre-Primary 2026"
     },
     {
