@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-08-03",
-  "lastScraped": "2026-08-03T18:36:28.865428+00:00",
+  "lastUpdated": "2026-08-04",
+  "lastScraped": "2026-08-04T00:35:50.383476+00:00",
   "articles": [
+    {
+      "id": "eaada46dbf4a",
+      "date": "2026-08-04",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c3175afad0a1",
+      "date": "2026-08-04",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "0c938669526f",
       "date": "2026-08-03",
@@ -30,6 +60,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "96edfb88fe47",
+      "date": "2026-08-03",
+      "title": "Open Enrollment Divides Challengers in Open Nashville House Seat",
+      "summary": "Four Democrats are running to replace Representative Caleb Hemmer in the District 59 primary.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/open-enrollment-divides-challengers-in-open-nashville-house-seat",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
