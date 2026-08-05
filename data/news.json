@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-05",
-  "lastMerged": "2026-08-05T00:34:42.926617+00:00",
+  "lastMerged": "2026-08-05T06:57:29.904963+00:00",
   "articles": [
     {
       "id": "b5beffd4c8bc",
@@ -26,6 +26,36 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "9bed0f6cee7d",
+      "date": "2026-08-05",
+      "title": "Bouchard, Hines to clash for open James seat in competitive Michigan House race",
+      "summary": "Former prosecutor Christina Hines is projected to win the Democratic nomination for Michigan’s 10th Congressional District, according to Decision Desk HQ, setting up a closely-watched battle against GOP nominee Mike Bouchard in November. Incumbent Rep. John James’s (R-Mich.) decision to run for gove...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6000027-bouchard-hines-michigan-house/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3c8e00c0d2b1",
+      "date": "2026-08-05",
+      "title": "Tennessee governor bucks Trump, endorses against Ogles in primary",
+      "summary": "Tennessee Gov. Bill Lee (R) on Tuesday endorsed Charlie Hatcher (R), who is challenging incumbent Rep. Andy Ogles (R-Tenn.) in the GOP primary in the Volunteer State’s 5th Congressional District. “Charlie Hatcher and I have been friends for 25 years,” Lee said in a video Hatcher posted to Facebook. ...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/house/6009695-lee-bucks-trump-hatcher-endorsement/",
+      "party": "general",
+      "candidate": "",
       "tags": [
         "campaign"
       ],
