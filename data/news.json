@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-05",
-  "lastMerged": "2026-08-05T06:57:29.904963+00:00",
+  "lastMerged": "2026-08-05T12:39:21.307432+00:00",
   "articles": [
     {
       "id": "b5beffd4c8bc",
@@ -54,6 +54,21 @@
       "summary": "Tennessee Gov. Bill Lee (R) on Tuesday endorsed Charlie Hatcher (R), who is challenging incumbent Rep. Andy Ogles (R-Tenn.) in the GOP primary in the Volunteer State’s 5th Congressional District. “Charlie Hatcher and I have been friends for 25 years,” Lee said in a video Hatcher posted to Facebook. ...",
       "source": "The Hill",
       "url": "https://thehill.com/homenews/house/6009695-lee-bucks-trump-hatcher-endorsement/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "42f5d6cf1f22",
+      "date": "2026-08-05",
+      "title": "GOP governor endorses candidate challenging Trump-backed congressman in Republican US House primary",
+      "summary": "Tennessee Gov. Bill Lee endorsed former state Agriculture Commissioner Charlie Hatcher, who is challenging U.S. Rep. Andy Ogles in a GOP U.S. House primary.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/gop-governor-endorses-candidate-challenging-trump-backed-congressman-republican-us-house-primary",
       "party": "general",
       "candidate": "",
       "tags": [
