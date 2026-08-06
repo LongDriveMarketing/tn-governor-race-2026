@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-08-05",
-  "lastMerged": "2026-08-05T18:34:53.449752+00:00",
+  "lastUpdated": "2026-08-06",
+  "lastMerged": "2026-08-06T00:31:47.227193+00:00",
   "articles": [
+    {
+      "id": "f2da05f0fb04",
+      "date": "2026-08-06",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0d48be0af1c6",
+      "date": "2026-08-06",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "b5beffd4c8bc",
       "date": "2026-08-05",
@@ -75,6 +105,37 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4ed8c8761181",
+      "date": "2026-08-05",
+      "title": "Reports Show Congressman Rose Has Loaned His Campaign Nearly $13 Million",
+      "summary": "Rose spent most of that money with a firm responsible for a poll showing a dead heat with Senator Blackburn.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/reports-show-congressman-rose-has-loaned-his-campaign-nearly-usd13-million",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "finance",
+        "analysis"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "5b6d7fa9c522",
+      "date": "2026-08-05",
+      "title": "Commentary:  Rose Campaign’s Connections to Pollster Raise Questions About ‘Independent’ Poll",
+      "summary": "Campaign records show John Rose’s campaign has spent more than $10 million with the D.C. political firm that conducted the recent poll.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/commentary-rose-campaign-s-connections-to-pollster-raise-questions-about-independent-poll",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
