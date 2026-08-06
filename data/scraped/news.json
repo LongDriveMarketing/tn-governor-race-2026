@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-06",
-  "lastScraped": "2026-08-06T06:56:54.212079+00:00",
+  "lastScraped": "2026-08-06T12:39:50.290151+00:00",
   "articles": [
     {
       "id": "f2da05f0fb04",
@@ -24,6 +24,21 @@
       "summary": "Press Release",
       "source": "Blackburn Campaign",
       "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "6c10bb54cb78",
+      "date": "2026-08-06",
+      "title": "Primary showdown: Conservative firebrand Marsha Blackburn eyes governor's office in Tennessee",
+      "summary": "Marsha Blackburn leads Tennessee's Republican gubernatorial primary despite Trump staying neutral, while key congressional races reshape the state's map.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/primary-showdown-conservative-firebrand-marsha-blackburn-eyes-governors-office-tennessee",
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
