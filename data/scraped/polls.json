@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-07",
-  "lastScraped": "2026-08-07T06:26:23.161123+00:00",
+  "lastScraped": "2026-08-07T12:17:54.644762+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -7699,19 +7699,6 @@
             "28%",
             "49%",
             "23%"
-          ],
-          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
-        },
-        {
-          "source": "270toWin",
-          "raw": [
-            "",
-            "Quantus Insights",
-            "8/08/2025",
-            "600 RV &plusmn3.5%",
-            "27%",
-            "43%",
-            "30%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
         }
