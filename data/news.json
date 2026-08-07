@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-07",
-  "lastMerged": "2026-08-07T01:16:36.291196+00:00",
+  "lastMerged": "2026-08-07T06:27:19.237255+00:00",
   "articles": [
     {
       "id": "c1ae1a6a0744",
@@ -39,6 +39,51 @@
       "summary": "Press Release",
       "source": "Blackburn Campaign",
       "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "10b8cc059053",
+      "date": "2026-08-07",
+      "title": "Conservative firebrand who went viral with anti-CCP ad survives key primary",
+      "summary": "Marsha Blackburn defeated John Rose and Monty Fritts in the Tennessee GOP primary, positioning her as the likely next governor of the state.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/conservative-firebrand-went-viral-anti-ccp-ad-survives-key-primary",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "controversy"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4c36f07a9226",
+      "date": "2026-08-07",
+      "title": "State representative defeats former House Republican in primary for Rose’s open seat in Tennessee",
+      "summary": "Tennessee state Rep. Johnny Garrett is projected to win the Republican primary in the U.S. House race to replace outgoing GOP Rep. John Rose, according to Decision Desk HQ. Garrett, a self-described “Trump Conservative,” will now advance to the November election where he will face Democratic nominee...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5972642-tennessee-house-garrett-rose-primary/",
+      "party": "rep",
+      "candidate": "Rose",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "ca5dffdf0159",
+      "date": "2026-08-07",
+      "title": "Blackburn on track to succeed Lee as Tennessee governor after primary win",
+      "summary": "Sen. Marsha Blackburn (R-Tenn.) is projected to advance in the Republican gubernatorial primary, making her likely to succeed Tennessee Gov. Bill Lee (R) as the Volunteer State’s next chief executive, according to Decision Desk HQ (DDHQ). Blackburn defeated Rep. John Rose (R-Tenn.) in his attempt to...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5994855-blackburn-tennessee-governor-race/",
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
@@ -111,6 +156,21 @@
       "id": "4ed52ff71859",
       "date": "2026-08-06",
       "title": "Live results: Blackburn, Rose face off for GOP nod in Tennessee governor’s race",
+      "summary": "Voting concludes Thursday in Tennessee to select the Republican and Democratic candidates who will face off in November’s gubernatorial election. In the reliably red Volunteer State, Sen. Marsha Blackburn (R-Tenn.) and Rep. John Rose (R-Tenn.) are facing off for the Republican nomination. Blackburn ...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/6012575-live-results-tennessee-governor/",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "64ced6f0ff2a",
+      "date": "2026-08-06",
+      "title": "Live results: Blackburn clinches GOP nod in Tennessee governor’s race",
       "summary": "Voting concludes Thursday in Tennessee to select the Republican and Democratic candidates who will face off in November’s gubernatorial election. In the reliably red Volunteer State, Sen. Marsha Blackburn (R-Tenn.) and Rep. John Rose (R-Tenn.) are facing off for the Republican nomination. Blackburn ...",
       "source": "The Hill",
       "url": "https://thehill.com/homenews/6012575-live-results-tennessee-governor/",
