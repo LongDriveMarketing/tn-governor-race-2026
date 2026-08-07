@@ -1,11 +1,53 @@
 {
-  "generated": "2026-07-30T06:55:49.149649+00:00",
-  "count": 1,
+  "generated": "2026-08-07T01:15:37.619747+00:00",
+  "count": 7,
   "new_endorsements": [
     {
-      "name": "Indivisible",
-      "role": "Tennessee",
-      "candidate": "green",
+      "name": "[a]",
+      "role": "3 other state senators",
+      "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[b]",
+      "role": "3 other state representatives",
+      "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Riley Gaines",
+      "role": "conservative activist and former college athlete",
+      "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "Dave Ramsey",
+      "role": "radio personality",
+      "candidate": "blackburn",
+      "type": "elected",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[28]",
+      "role": "Tennessee Chamber of Commerce & Industry",
+      "candidate": "blackburn",
+      "type": "org",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[24]",
+      "role": "Tennessee Fraternal Order of Police",
+      "candidate": "blackburn",
+      "type": "org",
+      "source": "Wikipedia"
+    },
+    {
+      "name": "[29]",
+      "role": "Tennessee Professional Fire Fighters Association",
+      "candidate": "blackburn",
       "type": "org",
       "source": "Wikipedia"
     }

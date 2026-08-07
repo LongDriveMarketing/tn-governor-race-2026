@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-30",
+  "lastUpdated": "2026-08-07",
   "candidates": {
     "blackburn": {
       "name": "Marsha Blackburn",
-      "count": "27+",
+      "count": "34+",
       "party": "rep",
       "label": "Republican Frontrunner"
     },
@@ -375,6 +375,55 @@
       "candidate": "green",
       "name": "Indivisible",
       "role": "Tennessee",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "[a]",
+      "role": "3 other state senators",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "[b]",
+      "role": "3 other state representatives",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Riley Gaines",
+      "role": "conservative activist and former college athlete",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "Dave Ramsey",
+      "role": "radio personality",
+      "type": "elected",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "[28]",
+      "role": "Tennessee Chamber of Commerce & Industry",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "[24]",
+      "role": "Tennessee Fraternal Order of Police",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "[29]",
+      "role": "Tennessee Professional Fire Fighters Association",
       "type": "org",
       "note": "Auto-detected from Wikipedia. Verify and add context."
     }

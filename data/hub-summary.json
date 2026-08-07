@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-06",
+  "lastUpdated": "2026-08-07",
   "candidates": {},
   "endorsementCounts": {
-    "blackburn": "27+",
+    "blackburn": "34+",
     "rose": "7",
     "green": "13"
   },
@@ -273,21 +273,21 @@
   },
   "latestNews": [
     {
+      "title": "Primary showdown: Polls close in Tennessee as conservative firebrand eyes governor's office",
+      "source": "Fox News",
+      "date": "2026-08-07",
+      "party": "rep"
+    },
+    {
       "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
       "source": "Blackburn Campaign",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "party": "rep"
     },
     {
       "title": "Fighting for Memphis. Keeping Tennessee Safe.",
       "source": "Blackburn Campaign",
-      "date": "2026-08-06",
-      "party": "rep"
-    },
-    {
-      "title": "Primary showdown: Conservative firebrand Marsha Blackburn eyes governor's office in Tennessee",
-      "source": "Fox News",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "party": "rep"
     }
   ],

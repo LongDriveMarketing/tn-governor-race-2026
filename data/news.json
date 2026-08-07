@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-08-06",
-  "lastMerged": "2026-08-06T12:41:02.984990+00:00",
+  "lastUpdated": "2026-08-07",
+  "lastMerged": "2026-08-07T01:16:36.291196+00:00",
   "articles": [
+    {
+      "id": "c1ae1a6a0744",
+      "date": "2026-08-07",
+      "title": "Primary showdown: Polls close in Tennessee as conservative firebrand eyes governor's office",
+      "summary": "Marsha Blackburn leads Tennessee's Republican gubernatorial primary despite Trump staying neutral, while key congressional races reshape the state's map.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/primary-showdown-polls-close-tennessee-conservative-firebrand-eyes-governors-office",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "29e3e9ca68cb",
+      "date": "2026-08-07",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "f37f040ca39d",
+      "date": "2026-08-07",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "f2da05f0fb04",
       "date": "2026-08-06",
@@ -39,6 +84,36 @@
       "summary": "Marsha Blackburn leads Tennessee's Republican gubernatorial primary despite Trump staying neutral, while key congressional races reshape the state's map.",
       "source": "Fox News",
       "url": "https://www.foxnews.com/politics/primary-showdown-conservative-firebrand-marsha-blackburn-eyes-governors-office-tennessee",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "0a5320ce9c3d",
+      "date": "2026-08-06",
+      "title": "Live results: Tennessee Senate race could be 2020 rematch",
+      "summary": "Tennessee primary voting ends Thursday in the election to select the Republican and Democratic candidates for November’s Senate election. One-term incumbent Sen. Bill Hagerty (R-Tenn.), who previously served as the U.S. ambassador to Japan during President Trump’s first term after a successful busin...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6012618-live-results-tennessee-senate/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4ed52ff71859",
+      "date": "2026-08-06",
+      "title": "Live results: Blackburn, Rose face off for GOP nod in Tennessee governor’s race",
+      "summary": "Voting concludes Thursday in Tennessee to select the Republican and Democratic candidates who will face off in November’s gubernatorial election. In the reliably red Volunteer State, Sen. Marsha Blackburn (R-Tenn.) and Rep. John Rose (R-Tenn.) are facing off for the Republican nomination. Blackburn ...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/6012575-live-results-tennessee-governor/",
       "party": "rep",
       "candidate": "Blackburn",
       "tags": [
