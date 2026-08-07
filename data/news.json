@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-07",
-  "lastMerged": "2026-08-07T12:18:56.049999+00:00",
+  "lastMerged": "2026-08-07T18:18:33.417909+00:00",
   "articles": [
     {
       "id": "c1ae1a6a0744",
@@ -86,6 +86,21 @@
       "url": "https://thehill.com/homenews/campaign/5994855-blackburn-tennessee-governor-race/",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "2cf3971807a3",
+      "date": "2026-08-07",
+      "title": "Trump touts wins in Tennessee primary despite Ogles loss",
+      "summary": "President Trump touted his endorsement track record Friday after one of his picks, Rep. Andy Ogles (R), lost his Thursday primary in Tennessee. “Last night was another good night for Endorsements, 8-1, and the 1 was a person who I remained loyal to even though he had virtually no chance of winning, ...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6017067-trump-endorsement-ogles-loss/",
+      "party": "general",
+      "candidate": "",
       "tags": [
         "campaign"
       ],
