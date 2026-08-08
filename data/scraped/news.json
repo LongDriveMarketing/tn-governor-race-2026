@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-08-07",
-  "lastScraped": "2026-08-07T18:17:32.583709+00:00",
+  "lastUpdated": "2026-08-08",
+  "lastScraped": "2026-08-08T00:18:28.986724+00:00",
   "articles": [
+    {
+      "id": "957e980d126c",
+      "date": "2026-08-08",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "4611913c7cdc",
+      "date": "2026-08-08",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "c1ae1a6a0744",
       "date": "2026-08-07",
@@ -105,6 +135,36 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "97d9bcf8c48d",
+      "date": "2026-08-07",
+      "title": "Knox County School Board Flips to Democratic Majority in Election",
+      "summary": "Brandy Jenkins defeated Republican candidate Bill Sofield to fill the District 9 seat.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/knox-county-school-board-flips-to-democratic-majority-in-election",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "de6f0383f3dc",
+      "date": "2026-08-07",
+      "title": "Marsha Blackburn and Jerri Green Win Gubernatorial Primaries",
+      "summary": "Education proved decisive in numerous closely watched House races.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/marsha-blackburn-and-jerri-green-win-gubernatorial-primaries",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-08",
   "candidates": {},
   "endorsementCounts": {
     "blackburn": "34+",
@@ -17,16 +17,6 @@
       "inStatePct": 92,
       "outStatePct": 8
     },
-    "pinkston": {
-      "warChest": 92837.08,
-      "totalRaised": 92837.08,
-      "totalSpent": 125714.39,
-      "cashOnHand": 16403.14,
-      "personalLoans": 0,
-      "contributionCount": 0,
-      "inStatePct": 0,
-      "outStatePct": 0
-    },
     "fritts": {
       "warChest": 56484.52,
       "totalRaised": 41484.52,
@@ -36,6 +26,16 @@
       "contributionCount": 180,
       "inStatePct": 95,
       "outStatePct": 5
+    },
+    "pinkston": {
+      "warChest": 23699.96,
+      "totalRaised": 23699.96,
+      "totalSpent": 22483.33,
+      "cashOnHand": 17619.77,
+      "personalLoans": 0,
+      "contributionCount": 0,
+      "inStatePct": 0,
+      "outStatePct": 0
     },
     "vick": {
       "warChest": 2250.0,
@@ -273,20 +273,20 @@
   },
   "latestNews": [
     {
-      "title": "Primary showdown: Polls close in Tennessee as conservative firebrand eyes governor's office",
-      "source": "Fox News",
-      "date": "2026-08-07",
-      "party": "rep"
-    },
-    {
       "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
       "source": "Blackburn Campaign",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "party": "rep"
     },
     {
       "title": "Fighting for Memphis. Keeping Tennessee Safe.",
       "source": "Blackburn Campaign",
+      "date": "2026-08-08",
+      "party": "rep"
+    },
+    {
+      "title": "Primary showdown: Polls close in Tennessee as conservative firebrand eyes governor's office",
+      "source": "Fox News",
       "date": "2026-08-07",
       "party": "rep"
     }

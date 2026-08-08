@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07",
-  "lastScraped": "2026-08-07T18:17:37.812155+00:00",
+  "lastUpdated": "2026-08-08",
+  "lastScraped": "2026-08-08T00:18:35.287607+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -7240,6 +7240,32 @@
           "source": "270toWin",
           "raw": [
             "",
+            "Beacon Poll",
+            "5/07/2026",
+            "1,157 RV &plusmn2.7%",
+            "27%",
+            "51%",
+            "22%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
+            "Quantus Insights",
+            "8/08/2025",
+            "600 RV &plusmn3.5%",
+            "28%",
+            "49%",
+            "23%"
+          ],
+          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
+        },
+        {
+          "source": "270toWin",
+          "raw": [
+            "",
             "OnMessage",
             "7/29/2026",
             "800 LV",
@@ -7377,36 +7403,10 @@
             "62%"
           ],
           "url": "https://www.270towin.com/2026-governor-polls/tennessee"
-        },
-        {
-          "source": "270toWin",
-          "raw": [
-            "",
-            "Beacon Poll",
-            "5/07/2026",
-            "1,157 RV &plusmn2.7%",
-            "27%",
-            "51%",
-            "22%"
-          ],
-          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
-        },
-        {
-          "source": "270toWin",
-          "raw": [
-            "",
-            "Quantus Insights",
-            "8/08/2025",
-            "600 RV &plusmn3.5%",
-            "28%",
-            "49%",
-            "23%"
-          ],
-          "url": "https://www.270towin.com/2026-governor-polls/tennessee"
         }
       ]
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-08-07T18:18:33.401293+00:00"
+  "lastMerged": "2026-08-08T00:19:29.999197+00:00"
 }
