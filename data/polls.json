@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-08",
-  "lastScraped": "2026-08-08T00:18:35.287607+00:00",
+  "lastScraped": "2026-08-08T06:16:37.888034+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -78,37 +78,37 @@
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[66]",
+      "source": "Inside Elections[67]",
       "rating": "Solid R",
       "asOf": "August 28, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Race to the WH[67]",
+      "source": "Race to the WH[68]",
       "rating": "Safe R",
       "asOf": "June 19, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Fox News[68]",
+      "source": "Fox News[69]",
       "rating": "Solid R",
       "asOf": "July 23, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[69]",
+      "source": "RealClearPolitics[70]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[70]",
+      "source": "Sabato's Crystal Ball[71]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "The Cook Political Report[71]",
+      "source": "The Cook Political Report[72]",
       "rating": "Safe R",
       "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
@@ -7408,5 +7408,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-08-08T00:19:29.999197+00:00"
+  "lastMerged": "2026-08-08T06:17:45.126178+00:00"
 }
