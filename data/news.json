@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-08-11",
-  "lastMerged": "2026-08-11T18:19:46.491805+00:00",
+  "lastUpdated": "2026-08-12",
+  "lastMerged": "2026-08-12T00:25:15.461698+00:00",
   "articles": [
+    {
+      "id": "7b74821822d2",
+      "date": "2026-08-12",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "48eb78c7a281",
+      "date": "2026-08-12",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "a3dbe7941211",
       "date": "2026-08-11",
@@ -28,6 +58,21 @@
       "candidate": "Blackburn",
       "tags": [
         "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "793a9a3d6fbe",
+      "date": "2026-08-11",
+      "title": "Live results: Vermonters head to polls for gubernatorial primary",
+      "summary": "Vermont voters are heading to the polls. The Green Mountain State has not voted for a Republican presidential candidate since 1988 and includes progressive Sen. Bernie Sanders (I-V.T.) in its delegation, but has also had a Republican, Phil Scott (R-V.T.), in its governor’s mansion for almost a decad...",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6018912-live-results-vermont-governors-primary/",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "analysis"
       ],
       "tnfirefly": false,
       "featured": false
