@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-13",
   "candidates": {
     "blackburn": {
       "name": "Marsha Blackburn",
-      "count": "34+",
+      "count": "35+",
       "party": "rep",
       "label": "Republican Frontrunner"
     },
@@ -424,6 +424,13 @@
       "candidate": "blackburn",
       "name": "[29]",
       "role": "Tennessee Professional Fire Fighters Association",
+      "type": "org",
+      "note": "Auto-detected from Wikipedia. Verify and add context."
+    },
+    {
+      "candidate": "blackburn",
+      "name": "[25]",
+      "role": "Tennessee Fraternal Order of Police",
       "type": "org",
       "note": "Auto-detected from Wikipedia. Verify and add context."
     }
