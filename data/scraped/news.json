@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-08-12",
-  "lastScraped": "2026-08-12T18:19:18.479238+00:00",
+  "lastUpdated": "2026-08-13",
+  "lastScraped": "2026-08-13T00:24:45.686008+00:00",
   "articles": [
+    {
+      "id": "0dd7e8bf2ece",
+      "date": "2026-08-13",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "8e42a6cd4ec3",
+      "date": "2026-08-13",
+      "title": "Fighting for Memphis. Keeping Tennessee Safe.",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "7b74821822d2",
       "date": "2026-08-12",
