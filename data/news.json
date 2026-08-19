@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-08-18",
-  "lastMerged": "2026-08-18T18:09:17.773096+00:00",
+  "lastUpdated": "2026-08-19",
+  "lastMerged": "2026-08-19T00:14:15.004604+00:00",
   "articles": [
+    {
+      "id": "4bceb1dbda92",
+      "date": "2026-08-19",
+      "title": "In The News: Rep. White: Why Tennessee’s students need Marsha Blackburn as Governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "c7652645c7c9",
+      "date": "2026-08-19",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "441ca2971104",
       "date": "2026-08-18",
@@ -30,6 +60,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "5e9bdbb91a6d",
+      "date": "2026-08-18",
+      "title": "Gubernatorial Candidates Take Differing Views on AI in the Classroom",
+      "summary": "Jerri Green has \"major reservations\" about AI use for younger grades, while Senator Marsha Blackburn sees age-appropriate uses that students will benefit from.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/gubernatorial-candidates-take-differing-views-on-ai-in-the-classroom",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
