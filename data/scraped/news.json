@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-08-19",
-  "lastScraped": "2026-08-19T18:07:20.760173+00:00",
+  "lastUpdated": "2026-08-20",
+  "lastScraped": "2026-08-20T00:13:26.869673+00:00",
   "articles": [
+    {
+      "id": "f808187f9f7c",
+      "date": "2026-08-20",
+      "title": "In The News: Rep. White: Why Tennessee’s students need Marsha Blackburn as Governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3641d4f9b16d",
+      "date": "2026-08-20",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "4bceb1dbda92",
       "date": "2026-08-19",
