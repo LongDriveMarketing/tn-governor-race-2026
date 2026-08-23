@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-23",
-  "lastScraped": "2026-08-23T00:14:06.129678+00:00",
+  "lastScraped": "2026-08-23T06:09:40.869944+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -78,39 +78,39 @@
   ],
   "raceRatings": [
     {
-      "source": "Inside Elections[66]",
-      "rating": "Solid R",
-      "asOf": "August 28, 2025",
-      "scrapedFrom": "wikipedia"
-    },
-    {
-      "source": "Race to the WH[67]",
+      "source": "The Cook Political Report[66]",
       "rating": "Safe R",
-      "asOf": "June 19, 2026",
+      "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Fox News[68]",
+      "source": "Fox News[67]",
       "rating": "Solid R",
       "asOf": "July 23, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "RealClearPolitics[69]",
+      "source": "Inside Elections[68]",
+      "rating": "Solid R",
+      "asOf": "August 28, 2025",
+      "scrapedFrom": "wikipedia"
+    },
+    {
+      "source": "Race to the WH[69]",
+      "rating": "Safe R",
+      "asOf": "June 19, 2026",
+      "scrapedFrom": "wikipedia"
+    },
+    {
+      "source": "RealClearPolitics[70]",
       "rating": "Solid R",
       "asOf": "June 5, 2026",
       "scrapedFrom": "wikipedia"
     },
     {
-      "source": "Sabato's Crystal Ball[70]",
+      "source": "Sabato's Crystal Ball[71]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
-      "scrapedFrom": "wikipedia"
-    },
-    {
-      "source": "The Cook Political Report[71]",
-      "rating": "Safe R",
-      "asOf": "September 11, 2025",
       "scrapedFrom": "wikipedia"
     }
   ],
@@ -7882,5 +7882,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-08-23T00:15:16.508190+00:00"
+  "lastMerged": "2026-08-23T06:10:41.353369+00:00"
 }
