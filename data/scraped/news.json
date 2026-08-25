@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-08-24",
-  "lastScraped": "2026-08-24T18:09:16.538651+00:00",
+  "lastUpdated": "2026-08-25",
+  "lastScraped": "2026-08-25T00:13:21.344578+00:00",
   "articles": [
+    {
+      "id": "25d7b6094087",
+      "date": "2026-08-25",
+      "title": "In The News: Rep. White: Why Tennessee’s students need Marsha Blackburn as Governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "017e428bb811",
+      "date": "2026-08-25",
+      "title": "Marsha Blackburn Releases Latest TV Ad in Race for Tennessee Governor",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "bbfe2641d0c0",
       "date": "2026-08-24",
@@ -26,6 +56,21 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "418321210dbc",
+      "date": "2026-08-24",
+      "title": "‘Moderate’ Dem gubernatorial candidate embraced DEI budget tool, Green New Deal-style policies",
+      "summary": "Milwaukee County Executive David Crowley emerged as the more moderate alternative to democratic socialist Francesca Hong, but his record includes racial-equity budgeting, net-zero climate goals and more.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/moderate-dem-gubernatorial-candidate-embraced-dei-budget-tool-green-new-deal-style-policies",
+      "party": "general",
+      "candidate": "",
       "tags": [
         "campaign"
       ],
