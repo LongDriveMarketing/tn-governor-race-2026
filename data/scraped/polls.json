@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-26",
-  "lastScraped": "2026-08-26T12:10:23.787855+00:00",
+  "lastScraped": "2026-08-26T18:37:49.633796+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -111,6 +111,12 @@
       "source": "Sabato's Crystal Ball[71]",
       "rating": "Safe R",
       "asOf": "September 4, 2025",
+      "scrapedFrom": "wikipedia"
+    },
+    {
+      "source": "Silver Bulletin[72]",
+      "rating": "Solid R",
+      "asOf": "August 25, 2026",
       "scrapedFrom": "wikipedia"
     }
   ],
