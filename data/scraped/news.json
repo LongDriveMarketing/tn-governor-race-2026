@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-08-30",
-  "lastScraped": "2026-08-30T14:07:30.209387+00:00",
+  "lastScraped": "2026-08-30T18:11:23.607644+00:00",
   "articles": [
     {
       "id": "368fa4eb9d64",
@@ -60,6 +60,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "478f42e86bb2",
+      "date": "2026-08-29",
+      "title": "Representative William Slater Recognized for Public School Choice Support",
+      "summary": "Slater became the second lawmaker to receive a TSS Action Hero Award on Thursday.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/representative-william-slater-recognized-for-public-school-choice-support",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
