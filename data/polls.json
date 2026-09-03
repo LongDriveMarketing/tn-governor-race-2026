@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-03",
-  "lastScraped": "2026-09-03T12:17:35.823775+00:00",
+  "lastScraped": "2026-09-03T18:13:44.971594+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -6176,7 +6176,7 @@
       "endDate": "",
       "type": "general_hypothetical",
       "sampleSize": "600 (RV)",
-      "margin": "8%[i]",
+      "margin": "8%[j]",
       "results": [
         {
           "candidate": "Rose",
@@ -6202,6 +6202,41 @@
       "source": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
       "matchup": "Rose vs Green"
+    },
+    {
+      "id": "targoz-market-research-77-d-unknown-general-hypothetical",
+      "pollster": "Targoz Market Research[77][D]",
+      "pollsterLean": "",
+      "date": "",
+      "endDate": "",
+      "type": "general_hypothetical",
+      "sampleSize": "1,149 (RV)",
+      "margin": "8%[h]",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 46.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 33.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 8.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 14.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
+      "matchup": "Blackburn vs Green"
     }
   ],
   "trendline": {
@@ -7901,5 +7936,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-09-03T12:18:30.459021+00:00"
+  "lastMerged": "2026-09-03T18:14:46.766774+00:00"
 }
