@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-04",
-  "lastMerged": "2026-09-04T12:17:28.592397+00:00",
+  "lastMerged": "2026-09-04T18:13:49.489820+00:00",
   "articles": [
     {
       "id": "19e5b989b31a",
@@ -30,6 +30,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "7b1c887f0767",
+      "date": "2026-09-04",
+      "title": "School Board Members Ignore Questions About Public School Choice",
+      "summary": "Only four board members in Tennessee’s three largest school districts responded to a Tennessee Firefly questionnaire on key education issues their district is facing.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/school-board-members-ignore-questions-about-public-school-choice",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
@@ -67,6 +82,21 @@
       "date": "2026-09-03",
       "title": "Beacon Poll Reveals Blackburn Leading Governor’s Race, AI Approval Mixed",
       "summary": "Senator Marsha Blackburn remains the clear favorite to become the next governor, while AI opinions varied between industries and employment status.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/beacon-poll-reveals-blackburn-leading-governor-s-race-ai-approval-mixed",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
+      "featured": false
+    },
+    {
+      "id": "52efd1383211",
+      "date": "2026-09-03",
+      "title": "Beacon Poll Reveals Blackburn Leading Governor’s Race, AI Approval Supportive With Controls",
+      "summary": "Senator Marsha Blackburn remains the clear favorite to become the next governor and most voters support AI use in the classroom.",
       "source": "Tennessee Firefly",
       "url": "https://tnfirefly.com/news/beacon-poll-reveals-blackburn-leading-governor-s-race-ai-approval-mixed",
       "party": "rep",
