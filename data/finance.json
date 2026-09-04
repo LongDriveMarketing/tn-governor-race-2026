@@ -1,10 +1,31 @@
 {
   "lastUpdated": "2026-09-04",
-  "lastScraped": "2026-09-04T00:27:54.629326+00:00",
+  "lastScraped": "2026-09-04T06:19:20.457478+00:00",
   "reportingPeriod": "Through January 31, 2026",
   "source": "Tennessee Registry of Election Finance",
   "sourceUrl": "https://apps.tn.gov/tncamp/public/cpsearch.htm",
   "candidates": [
+    {
+      "name": "John Rose",
+      "party": "rep",
+      "totalRaised": 1456044,
+      "totalSpent": 4914271.43,
+      "cashOnHand": 661213.69,
+      "loansReceived": 0,
+      "warChest": 6456044,
+      "reportsFiled": 5,
+      "lastReportDate": "07/30/2026",
+      "lastReportType": "Pre-Primary 2026",
+      "personalLoans": 5000000,
+      "inStatePct": 92,
+      "outStatePct": 8,
+      "contributionCount": 4200,
+      "highlights": [
+        "$5M personal loan — largest self-funding in the race",
+        "92% of donations from Tennessee — core campaign talking point",
+        "First candidate on TV with statewide ad buys"
+      ]
+    },
     {
       "name": "Monty Fritts",
       "party": "rep",
@@ -27,6 +48,66 @@
       ]
     },
     {
+      "name": "Lauren Pinkston",
+      "party": "ind",
+      "totalRaised": 23699.96,
+      "totalSpent": 22483.33,
+      "cashOnHand": 17619.77,
+      "loansReceived": 0.0,
+      "warChest": 23699.96,
+      "reportsFiled": 4,
+      "lastReportDate": "08/07/2026",
+      "lastReportType": "Pre-Primary 2026"
+    },
+    {
+      "name": "Robert Vick",
+      "party": "ind",
+      "totalRaised": 2250.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 2837.2,
+      "loansReceived": 0.0,
+      "warChest": 2250.0,
+      "reportsFiled": 4,
+      "lastReportDate": "08/03/2026",
+      "lastReportType": "Pre-Primary 2026"
+    },
+    {
+      "name": "Carnita Atwater",
+      "party": "dem",
+      "totalRaised": 1328.0,
+      "totalSpent": 1224.0,
+      "cashOnHand": 204.0,
+      "loansReceived": 0.0,
+      "warChest": 1328.0,
+      "reportsFiled": 10,
+      "lastReportDate": "07/12/2026",
+      "lastReportType": "2nd Quarter 2026"
+    },
+    {
+      "name": "SEEMAN, DAVID",
+      "party": "unknown",
+      "totalRaised": 698.0,
+      "totalSpent": 3011.24,
+      "cashOnHand": 193.44,
+      "loansReceived": 0.0,
+      "warChest": 698.0,
+      "reportsFiled": 3,
+      "lastReportDate": "07/29/2026",
+      "lastReportType": "Pre-Primary 2026"
+    },
+    {
+      "name": "HATLEY, DAVID E.",
+      "party": "unknown",
+      "totalRaised": 470.0,
+      "totalSpent": 999400.7,
+      "cashOnHand": 5741380.61,
+      "loansReceived": 0,
+      "warChest": 470.0,
+      "reportsFiled": 3,
+      "lastReportDate": "07/30/2026",
+      "lastReportType": "Pre-Primary 2026"
+    },
+    {
       "name": "ABIDI, MISAM",
       "party": "unknown",
       "totalRaised": 50.0,
@@ -36,6 +117,18 @@
       "warChest": 50.0,
       "reportsFiled": 3,
       "lastReportDate": "07/27/2026",
+      "lastReportType": "Pre-Primary 2026"
+    },
+    {
+      "name": "WEBB TAYLOR, LARITA",
+      "party": "unknown",
+      "totalRaised": 0.02,
+      "totalSpent": 0.0,
+      "cashOnHand": 93.09,
+      "loansReceived": 0.0,
+      "warChest": 0.02,
+      "reportsFiled": 3,
+      "lastReportDate": "08/02/2026",
       "lastReportType": "Pre-Primary 2026"
     },
     {
@@ -63,48 +156,28 @@
       "lastReportType": "2nd Quarter 2026"
     },
     {
-      "name": "Robert Vick",
-      "party": "ind",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
-    },
-    {
       "name": "Victor Scoggin",
       "party": "rep",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
-    },
-    {
-      "name": "Carnita Atwater",
-      "party": "dem",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "totalRaised": 0.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 4,
+      "lastReportDate": "07/27/2026",
+      "lastReportType": "Pre-Primary 2026"
     },
     {
       "name": "Adam 'Ditch' Kurtz",
       "party": "dem",
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null,
+      "cashOnHand": 3619.05,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 5,
+      "lastReportDate": "07/29/2026",
+      "lastReportType": "Pre-Primary 2026",
       "inStatePct": 88,
       "outStatePct": 12,
       "contributionCount": 620,
@@ -130,11 +203,12 @@
       "party": "dem",
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 2,
+      "lastReportDate": "04/13/2026",
+      "lastReportType": "1st Quarter 2026"
     },
     {
       "name": "BREWER, DEAN",
@@ -148,174 +222,76 @@
       "lastReportType": null
     },
     {
-      "name": "SEEMAN, DAVID",
-      "party": "unknown",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
-    },
-    {
-      "name": "Marsha Blackburn",
-      "party": "rep",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null,
-      "personalLoans": 0,
-      "inStatePct": 22,
-      "outStatePct": 78,
-      "contributionCount": 33000,
-      "highlights": [
-        "33,000 contributions — briefly crashed state filing system",
-        "78% of money from out-of-state donors — Rose's key attack line",
-        "$5.5M raised without self-funding — biggest pure fundraising total"
-      ]
-    },
-    {
-      "name": "Lauren Pinkston",
-      "party": "ind",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
-    },
-    {
       "name": "Eddie Murphy",
       "party": "ind",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "totalRaised": 0.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 3,
+      "lastReportDate": "07/27/2026",
+      "lastReportType": "Pre-Primary 2026"
     },
     {
       "name": "MCCANTS, KEVIN LEE",
       "party": "unknown",
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 2,
+      "lastReportDate": "08/16/2026",
+      "lastReportType": "Pre-Primary 2026"
     },
     {
       "name": "Stephen Maxwell",
       "party": "ind",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "totalRaised": 0.0,
+      "totalSpent": 0.0,
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 14,
+      "lastReportDate": "04/01/2026",
+      "lastReportType": "1st Quarter 2026"
     },
     {
       "name": "MORGAN, CHARLES &quot;VAN&quot;",
       "party": "unknown",
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
-    },
-    {
-      "name": "HATLEY, DAVID E.",
-      "party": "unknown",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "cashOnHand": 55.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 14,
+      "lastReportDate": "07/28/2026",
+      "lastReportType": "Pre-Primary 2026"
     },
     {
       "name": "JACKSON, WENDELL",
       "party": "unknown",
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "cashOnHand": 0.0,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 2,
+      "lastReportDate": "07/31/2026",
+      "lastReportType": "Pre-Primary 2026"
     },
     {
       "name": "Tim Cyr",
       "party": "dem",
       "totalRaised": 0,
       "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
-    },
-    {
-      "name": "Jerri Green",
-      "party": "dem",
-      "totalRaised": 125014,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null,
-      "inStatePct": 65,
-      "outStatePct": 35,
-      "contributionCount": 1800,
-      "highlights": [
-        "Leading Democratic fundraiser",
-        "Grassroots-heavy small-dollar operation",
-        "65% Tennessee donor rate"
-      ]
-    },
-    {
-      "name": "John Rose",
-      "party": "rep",
-      "totalRaised": 1456044,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null,
-      "warChest": 6456044,
-      "personalLoans": 5000000,
-      "inStatePct": 92,
-      "outStatePct": 8,
-      "contributionCount": 4200,
-      "highlights": [
-        "$5M personal loan — largest self-funding in the race",
-        "92% of donations from Tennessee — core campaign talking point",
-        "First candidate on TV with statewide ad buys"
-      ]
-    },
-    {
-      "name": "WEBB TAYLOR, LARITA",
-      "party": "unknown",
-      "totalRaised": 0,
-      "totalSpent": 0,
-      "cashOnHand": 0,
-      "loansReceived": 0,
-      "reportsFiled": 0,
-      "lastReportDate": null,
-      "lastReportType": null
+      "cashOnHand": 146.5,
+      "loansReceived": 0.0,
+      "warChest": 0.0,
+      "reportsFiled": 5,
+      "lastReportDate": "07/30/2026",
+      "lastReportType": "Pre-Primary 2026"
     },
     {
       "name": "SMITH, JASON MICHAEL",
@@ -330,5 +306,5 @@
     }
   ],
   "analysis": "The money race reveals two fundamentally different Republican strategies. Rose bet big on himself — a $5M personal loan plus $1.46M raised, all while keeping 92% of his donors in-state. Blackburn countered with sheer volume: 33,000 contributions totaling $5.5M, leveraging her national Senate donor network. Rose is hammering her 78% out-of-state rate in ads; Blackburn argues the volume shows grassroots enthusiasm. On the Democratic side, fundraising reflects the party's structural disadvantage in Tennessee statewide races — Green leads with $125K, a fraction of either Republican's total.",
-  "lastMerged": "2026-09-04T00:27:54.672007+00:00"
+  "lastMerged": "2026-09-04T06:19:20.498003+00:00"
 }
