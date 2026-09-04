@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-09-03",
-  "lastScraped": "2026-09-03T18:13:35.051884+00:00",
+  "lastUpdated": "2026-09-04",
+  "lastScraped": "2026-09-04T00:27:22.875446+00:00",
   "articles": [
+    {
+      "id": "19e5b989b31a",
+      "date": "2026-09-04",
+      "title": "Marsha Blackburn Releases Statement on the Passing of Dolly Parton",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "99d7d663e310",
+      "date": "2026-09-04",
+      "title": "In The News: Rep. White: Why Tennessee’s students need Marsha Blackburn as Governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "12566aea6f22",
       "date": "2026-09-03",
@@ -30,6 +60,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "bfd7c4e402b1",
+      "date": "2026-09-03",
+      "title": "Beacon Poll Reveals Blackburn Leading Governor’s Race, AI Approval Mixed",
+      "summary": "Senator Marsha Blackburn remains the clear favorite to become the next governor, while AI opinions varied between industries and employment status.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/beacon-poll-reveals-blackburn-leading-governor-s-race-ai-approval-mixed",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "analysis"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
