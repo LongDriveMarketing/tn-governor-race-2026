@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-10",
-  "lastMerged": "2026-09-10T12:16:45.490050+00:00",
+  "lastMerged": "2026-09-10T18:13:57.996371+00:00",
   "articles": [
     {
       "id": "f56fb2ea8c09",
@@ -26,6 +26,21 @@
       "url": "",
       "party": "rep",
       "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "79cde745c47d",
+      "date": "2026-09-10",
+      "title": "Extradition is becoming a political football — here’s how the states can stop it",
+      "summary": "A governor who wants to shield someone from a prosecution he objects to, or from a sister state whose politics he finds distasteful, may simply keep an extradition demand “under investigation” indefinitely.",
+      "source": "The Hill",
+      "url": "https://thehill.com/opinion/judiciary/6077349-texas-minnesota-extradition-loophole/",
+      "party": "general",
+      "candidate": "",
       "tags": [
         "campaign"
       ],
