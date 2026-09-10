@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-09-09",
-  "lastMerged": "2026-09-09T18:14:45.758477+00:00",
+  "lastUpdated": "2026-09-10",
+  "lastMerged": "2026-09-10T00:29:08.713290+00:00",
   "articles": [
+    {
+      "id": "f56fb2ea8c09",
+      "date": "2026-09-10",
+      "title": "Marsha Blackburn Releases Statement on the Passing of Dolly Parton",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "a6f3c2dc306a",
+      "date": "2026-09-10",
+      "title": "In The News: Rep. White: Why Tennessee’s students need Marsha Blackburn as Governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "70f7b6681a6a",
       "date": "2026-09-09",
@@ -30,6 +60,21 @@
         "campaign"
       ],
       "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "b5dc3db3fe36",
+      "date": "2026-09-09",
+      "title": "Knox County Board of Education Leadership Vote Brings Partisanship Concerns",
+      "summary": "Every Republican passed on voting for a Democrat to serve as Vice-Chair even though no other candidate opted to run.",
+      "source": "Tennessee Firefly",
+      "url": "https://tnfirefly.com/news/knox-county-board-of-education-leadership-vote-brings-partisanship-concerns",
+      "party": "general",
+      "candidate": "",
+      "tags": [
+        "policy"
+      ],
+      "tnfirefly": true,
       "featured": false
     },
     {
