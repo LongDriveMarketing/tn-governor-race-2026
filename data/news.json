@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-09-14",
-  "lastMerged": "2026-09-14T18:13:07.869763+00:00",
+  "lastUpdated": "2026-09-15",
+  "lastMerged": "2026-09-15T00:31:46.768376+00:00",
   "articles": [
+    {
+      "id": "99bfea7bae51",
+      "date": "2026-09-15",
+      "title": "Marsha Blackburn Releases Statement on the Passing of Dolly Parton",
+      "summary": "Press Release",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
+    {
+      "id": "3ece58e9ebbf",
+      "date": "2026-09-15",
+      "title": "In The News: Rep. White: Why Tennessee’s students need Marsha Blackburn as Governor",
+      "summary": "In The News",
+      "source": "Blackburn Campaign",
+      "url": "",
+      "party": "rep",
+      "candidate": "Blackburn",
+      "tags": [
+        "campaign"
+      ],
+      "tnfirefly": false,
+      "featured": false
+    },
     {
       "id": "b4e0bf50e5a7",
       "date": "2026-09-14",
