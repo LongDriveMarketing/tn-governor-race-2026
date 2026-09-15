@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-15",
-  "lastScraped": "2026-09-15T12:15:57.354930+00:00",
+  "lastScraped": "2026-09-15T18:11:54.375575+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -6546,6 +6546,41 @@
     {
       "id": "targoz-market-research-77-d-unknown-general-hypothetical",
       "pollster": "Targoz Market Research[77][D]",
+      "pollsterLean": "",
+      "date": "",
+      "endDate": "",
+      "type": "general_hypothetical",
+      "sampleSize": "1,149 (RV)",
+      "margin": "8%[h]",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 46.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 33.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 8.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 14.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
+      "matchup": "Blackburn vs Green"
+    },
+    {
+      "id": "targoz-market-research-78-d-unknown-general-hypothetical",
+      "pollster": "Targoz Market Research[78][D]",
       "pollsterLean": "",
       "date": "",
       "endDate": "",

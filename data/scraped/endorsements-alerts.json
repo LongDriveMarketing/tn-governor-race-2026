@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-13T18:19:54.308954+00:00",
+  "generated": "2026-09-15T18:11:47.250411+00:00",
   "count": 1,
   "new_endorsements": [
     {
-      "name": "[25]",
-      "role": "Tennessee Fraternal Order of Police",
-      "candidate": "blackburn",
+      "name": "Everytown for Gun Safety",
+      "role": "Organizations",
+      "candidate": "green",
       "type": "org",
       "source": "Wikipedia"
     }

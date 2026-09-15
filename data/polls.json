@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-09-15",
-  "lastScraped": "2026-09-15T12:15:57.354930+00:00",
+  "lastScraped": "2026-09-15T18:11:54.375575+00:00",
   "pollingSources": [
     {
       "name": "Beacon Center / TennSight",
@@ -6237,6 +6237,41 @@
       "source": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
       "matchup": "Blackburn vs Green"
+    },
+    {
+      "id": "targoz-market-research-78-d-unknown-general-hypothetical",
+      "pollster": "Targoz Market Research[78][D]",
+      "pollsterLean": "",
+      "date": "",
+      "endDate": "",
+      "type": "general_hypothetical",
+      "sampleSize": "1,149 (RV)",
+      "margin": "8%[h]",
+      "results": [
+        {
+          "candidate": "Blackburn",
+          "party": "rep",
+          "pct": 46.0
+        },
+        {
+          "candidate": "Green",
+          "party": "dem",
+          "pct": 33.0
+        },
+        {
+          "candidate": "Other",
+          "party": "",
+          "pct": 8.0
+        },
+        {
+          "candidate": "Undecided",
+          "party": "",
+          "pct": 14.0
+        }
+      ],
+      "source": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election#Opinion_polling",
+      "matchup": "Blackburn vs Green"
     }
   ],
   "trendline": {
@@ -7985,5 +8020,5 @@
     }
   },
   "analysis": "Across 6 primary polls and 2 general election polls from 4 pollsters (Targoz/Beacon Center, Quantus Insights, Fabrizio Lee, Tennesseans for Student Success), Blackburn leads the GOP primary at 60.6% in the latest survey (Feb 2026), followed by Rose (8.1%) and Fritts (5.1%). The undecided pool remains significant at 26.1%. All four major race raters classify this as Solid/Safe Republican.",
-  "lastMerged": "2026-09-15T12:16:52.824604+00:00"
+  "lastMerged": "2026-09-15T18:12:54.257335+00:00"
 }
